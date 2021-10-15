@@ -55,7 +55,7 @@ installed.
 ```
 
 ```math
-\tau^{-1/2} \int_{-\infty}^{\infty} \exp\left(-\frac{1}{2} x^2\right) = 1
+\int_{-\infty}^{\infty} \exp(-x^2 / 2) = \sqrt{\tau}
 ```
 
 - Area of the _n_-dimensional unit sphere (recurrence)
@@ -63,7 +63,7 @@ installed.
 |U_n| = \begin{cases}
 2 & \text{if } n = 1\\
 \tau & \text{if } n = 2\\
-|U_{n-2}| \times \frac{\tau}{n-2}
+|U_{n-2}| \times \tau / (n - 2) & \text{otherwise}
 \end{cases}
 ```
 
@@ -72,7 +72,7 @@ installed.
 |S_n| = \begin{cases}
 1 & \text{if } n = 0\\
 2 & \text{if } n = 1\\
-|S_{n-2}| \times \frac{\tau}{n}
+|S_{n-2}| \times \tau / n & \text{otherwise}
 \end{cases}
 ```
 - more such examples at [ndim](https://github.com/nschloe/ndim)
@@ -84,8 +84,8 @@ f(a) = \frac{1}{i\tau} \oint \frac{f(z)}{z - a} \,dz
 
 - Fourier transform
 ```math
-\hat{f}(\xi) &= \int_{-\infty}^{\infty} f(x) \exp(-i\tau x\xi)\,dx,\\
-f(x)         &= \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\tau x\xi)\,d\xi
+\hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) \exp(-i\tau x\xi)\,dx,\\
+f(x)         = \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\tau x\xi)\,d\xi
 ```
 
 Harder:
