@@ -1,5 +1,11 @@
 # tau
 
+In 2001, Bob Palais wrote the article _Pi is wrong!_, remarking on the fact that
+whenever π occurs in nature, it occurs as 2π most of the time. He suggests that 2π
+should be given a name (τ is now a fan favorite) and that this constant should be used
+instead of π. Some found his arguments convincing, and the τ movement was born.
+
+This page lists notable articles, videos, discussion etc. about τ.
 
 #### Articles and blog posts
 
@@ -28,26 +34,24 @@
 
 - [Boost, since 1.77.0 (2021)](https://www.boost.org/doc/libs/1_77_0/boost/math/constants/constants.hpp)
 
-
 Inclusion of a constant `tau` was _rejected_ by the following projects:
 
 - [NumPy](https://github.com/numpy/numpy/pull/9696)
 - [julia](https://github.com/JuliaLang/julia/pull/4864)
 - [Go](https://github.com/golang/go/issues/40663)
 
-ndim
-https://github.com/nschloe/ndim#the-formulas
-
 Wikipedia:
 Proposals for a single letter to represent 2π
 https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals
 
 #### Some equations
+
 The following equations are best consumed on Chrome with
 [xdoc](https://chrome.google.com/webstore/detail/xdoc/anidddebgkllnnnnjfkmjcaallemhjee)
 installed.
 
 - Trigonometrics
+
 ```math
 \sin(\alpha) = \sin(\alpha + \tau) \forall \alpha\\
 \cos(\alpha) = \cos(\alpha + \tau) \forall \alpha\\
@@ -61,6 +65,7 @@ f(x) = \frac{1}{\sigma \sqrt{\tau}} \exp(-(x-\mu)^2 / 2 \sigma^2)
 ```
 
 - Area of the _n_-dimensional unit sphere (recurrence)
+
 ```math
 |U_n| = \begin{cases}
 2 & \text{if } n = 1\\
@@ -70,6 +75,7 @@ f(x) = \frac{1}{\sigma \sqrt{\tau}} \exp(-(x-\mu)^2 / 2 \sigma^2)
 ```
 
 - Area of the _n_-dimensional unit ball (recurrence)
+
 ```math
 |S_n| = \begin{cases}
 1 & \text{if } n = 0\\
@@ -77,14 +83,17 @@ f(x) = \frac{1}{\sigma \sqrt{\tau}} \exp(-(x-\mu)^2 / 2 \sigma^2)
 |S_{n-2}| \times \tau / n & \text{otherwise}
 \end{cases}
 ```
+
 - more such examples at [ndim](https://github.com/nschloe/ndim)
 
 - [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
+
 ```math
 f(a) = \frac{1}{i\tau} \oint \frac{f(z)}{z - a} \,dz
 ```
 
-- Fourier transform
+- [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
+
 ```math
 \begin{split}
 \hat{f}(\xi) &= \int_{-\infty}^{\infty} f(x) \exp(-i\tau x\xi)\,dx,\\
@@ -92,7 +101,23 @@ f(x)         &= \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\tau x\xi)\,d\xi
 \end{split}
 ```
 
+- [\_n_th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
+
+```math
+z^n = 1 \Rightarrow z = \exp{\tau i / n}
+```
+
+- [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
+
+```math
+\begin{split}
+\exp(\pi i) + 1  &= 0\\
+\exp(\tau i) - 1 &= 0
+\end{split}
+```
+
 Harder:
+
 ```math
 \int_{-\infty}^{\infty} \exp(-x^2) = \sqrt{\pi}
 ```
