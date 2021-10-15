@@ -66,83 +66,87 @@ installed.
   With $`\tau`$ being a full revolution, the following identities are very easy to grasp
   (for integers $`n`$):
   ```math
-  \sin(n \tau) = 0\\
-  \sin((n + 1/4) \tau) = 1\\
-  \sin((n + 1/2) \tau) = 0\\
-  \sin((n + 3/4) \tau) = -1
+  \begin{split}
+  \sin(n \tau) &= 0\\
+  \sin((n + 1/4) \tau) &= 1\\
+  \sin((n + 1/2) \tau) &= 0\\
+  \sin((n + 3/4) \tau) &= -1
+  \end{split}
   ```
   ```math
-  \cos(n \tau) = 1\\
-  \cos((n + 1/4) \tau) = 0\\
-  \cos((n + 1/2) \tau) = -1\\
-  \cos((n + 3/4) \tau) = 0
+  \begin{split}
+  \cos(n \tau) &= 1\\
+  \cos((n + 1/4) \tau) &= 0\\
+  \cos((n + 1/2) \tau) &= -1\\
+  \cos((n + 3/4) \tau) &= 0
+  \end{split}
   ```
 
 - [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
-```math
-f(x) = \frac{1}{\sigma \sqrt{\tau}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right)
-```
+  ```math
+  f(x) = \frac{1}{\sigma \sqrt{\tau}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right)
+  ```
 
 - Area of the _n_-dimensional unit sphere (recurrence)
 
-```math
-|U_n| = \begin{cases}
-2 & \text{if } n = 1\\
-\tau & \text{if } n = 2\\
-|U_{n-2}| \times \tau / (n - 2) & \text{otherwise}
-\end{cases}
-```
+  ```math
+  |U_n| = \begin{cases}
+  2 & \text{if } n = 1\\
+  \tau & \text{if } n = 2\\
+  |U_{n-2}| \times \tau / (n - 2) & \text{otherwise}
+  \end{cases}
+  ```
 
 - Volume of the _n_-dimensional unit ball (recurrence)
 
-```math
-|S_n| = \begin{cases}
-1 & \text{if } n = 0\\
-2 & \text{if } n = 1\\
-|S_{n-2}| \times \tau / n & \text{otherwise}
-\end{cases}
-```
+  ```math
+  |S_n| = \begin{cases}
+  1 & \text{if } n = 0\\
+  2 & \text{if } n = 1\\
+  |S_{n-2}| \times \tau / n & \text{otherwise}
+  \end{cases}
+  ```
 
-The area of a disk:
+  The area of a disk:
 
-```math
-A = \pi r^2 = \frac{1}{2} \tau r^2
-```
+  ```math
+  A = \pi r^2 = \frac{1}{2} \tau r^2
+  ```
 
 - more such examples at [ndim](https://github.com/nschloe/ndim)
 
 - [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
 
-```math
-f(a) = \frac{1}{i\tau} \oint \frac{f(z)}{z - a} \,dz
-```
+  ```math
+  f(a) = \frac{1}{i\tau} \oint \frac{f(z)}{z - a} \,dz
+  ```
 
 - [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 
-```math
-\hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) \exp(-i\tau x\xi)\,dx,\quad
-f(x)         = \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\tau x\xi)\,d\xi
-```
+  ```math
+  \hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) \exp(-i\tau x\xi)\,dx,\quad
+  f(x)         = \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\tau x\xi)\,d\xi
+  ```
 
 - [<emph>n<emph>th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
 
-```math
-z^n = 1 \quad\Rightarrow\quad z = \exp(\tau i / n)
-```
+  ```math
+  z^n = 1 \quad\Rightarrow\quad z = \exp(\tau i / n)
+  ```
 
 - [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
 
-```math
-\exp(\pi i) + 1  = 0,\quad
-\exp(\tau i) - 1 = 0
-```
+  ```math
+  \exp(\pi i) + 1  = 0,\quad
+  \exp(\tau i) - 1 = 0
+  ```
 
 - [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
 
-```math
-n! \sim \sqrt{\tau n} \left(\frac{n}{e}\right)^n
-```
+  ```math
+  n! \sim \sqrt{\tau n} \left(\frac{n}{e}\right)^n
+  ```
 
 Harder:
 
