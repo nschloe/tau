@@ -57,9 +57,9 @@ installed.
 
   ```math
   \begin{split}
-  \sin(\alpha) &= \sin(\alpha + {\color{red} \tau}) \quad\forall \alpha\\
-  \cos(\alpha) &= \cos(\alpha + \textcolor{blue}{\tau}) \quad\forall \alpha\\
-  \tan(\alpha) &= \tan(\alpha + \tau) \quad\forall \alpha
+  \sin(\alpha) &= \sin(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha\\
+  \cos(\alpha) &= \cos(\alpha + \textcolor{lime}{\tau}) \quad\forall \alpha\\
+  \tan(\alpha) &= \tan(\alpha + \textcolor{teal}{\tau}) \quad\forall \alpha
   \end{split}
   ```
 
