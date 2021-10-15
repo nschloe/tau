@@ -64,7 +64,8 @@ installed.
   ```
 
   With $`\tau`$ being a full revolution, the following identities are very easy to grasp
-  (for integers $`n`$):
+  (for integers $`n`$). Remember the sine is the projection of the angle onto the
+  _y_-axis, the cosine is the projection onto the _x_-axis.
   ```math
   \begin{split}
   \sin(n \tau) &= 0\\
@@ -81,6 +82,10 @@ installed.
   \cos((n + 3/4) \tau) &= 0
   \end{split}
   ```
+  Trigonometric values off of the grid can easily be estimated:
+  - $`\sin(13.7 \pi)`$ – Where is my calculator?
+  - $`\sin(13.7 \tau)`$ – 13 full revolutions: forget about those. Plus .7, that's
+    almost 3/4 of a revolution, so probably something close to -1.
 
 - [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
