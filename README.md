@@ -43,19 +43,23 @@ Proposals for a single letter to represent 2π
 https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals
 
 #### Some equations
+The following equations are best consumed on Chrome with
+[xdoc](https://chrome.google.com/webstore/detail/xdoc/anidddebgkllnnnnjfkmjcaallemhjee)
+installed.
+
 - Trigonometrics
 ```math
-\sin(\alpha) = \sin(\alpha + \tau) \forall \alpha
-\cos(\alpha) = \cos(\alpha + \tau) \forall \alpha
+\sin(\alpha) = \sin(\alpha + \tau) \forall \alpha\\
+\cos(\alpha) = \cos(\alpha + \tau) \forall \alpha\\
 \tan(\alpha) = \tan(\alpha + \tau) \forall \alpha
 ```
 
 ```math
-\tau^{-1/2} \int_{-\infty}^{\infty} \exp(-\frac{1}{2} x^2) = 1
+\tau^{-1/2} \int_{-\infty}^{\infty} \exp\left(-\frac{1}{2} x^2\right) = 1
 ```
 
 - Area of the _n_-dimensional unit sphere (recurrence)
-```
+```math
 |U_n| = \begin{cases}
 2 & \text{if } n = 1\\
 \tau & \text{if } n = 2\\
@@ -64,7 +68,7 @@ https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals
 ```
 
 - Area of the _n_-dimensional unit ball (recurrence)
-```
+```math
 |S_n| = \begin{cases}
 1 & \text{if } n = 0\\
 2 & \text{if } n = 1\\
@@ -72,6 +76,17 @@ https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals
 \end{cases}
 ```
 - more such examples at [ndim](https://github.com/nschloe/ndim)
+
+- Cauchy's integral formula
+```math
+f(a) = \frac{1}{i\tau} \oint \frac{f(z)}{z - a} \,dz
+```
+
+- Fourier transform
+```math
+\hat{f}(\xi) &= \int_{-\infty}^{\infty} f(x) \exp(-i\tau x\xi)\,dx,\\
+f(x)         &= \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\tau x\xi)\,d\xi
+```
 
 Harder:
 ```math
