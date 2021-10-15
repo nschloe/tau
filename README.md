@@ -53,9 +53,11 @@ installed.
 - Trigonometrics
 
 ```math
-\sin(\alpha) = \sin(\alpha + \tau) \forall \alpha\\
-\cos(\alpha) = \cos(\alpha + \tau) \forall \alpha\\
-\tan(\alpha) = \tan(\alpha + \tau) \forall \alpha
+\begin{split}
+\sin(\alpha) &= \sin(\alpha + \tau) \quad\forall \alpha\\
+\cos(\alpha) &= \cos(\alpha + \tau) \quad\forall \alpha\\
+\tan(\alpha) &= \tan(\alpha + \tau) \quad\forall \alpha
+\end{split}
 ```
 
 - [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
@@ -82,6 +84,11 @@ f(x) = \frac{1}{\sigma \sqrt{\tau}} \exp(-(x-\mu)^2 / 2 \sigma^2)
 2 & \text{if } n = 1\\
 |S_{n-2}| \times \tau / n & \text{otherwise}
 \end{cases}
+```
+
+The area of a disk:
+```
+A = \pi r^2 = \frac{1}{2} \tau r^2
 ```
 
 - more such examples at [ndim](https://github.com/nschloe/ndim)
@@ -114,6 +121,12 @@ z^n = 1 \Rightarrow z = \exp{\tau i / n}
 \exp(\pi i) + 1  &= 0\\
 \exp(\tau i) - 1 &= 0
 \end{split}
+```
+
+- [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
+
+``math
+n! \tilde \sqrt{\tau n} \left(\frac{n}{e}\right)^n
 ```
 
 Harder:
