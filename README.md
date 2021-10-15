@@ -1,6 +1,9 @@
-# tau
+<p align="center">
+  <a href="https://github.com/nschloe/tau"><img alt="tau" src="https://nschloe.github.io/tau/tau.svg" width="15%"></a>
+  <p align="center">The better π</p>
+</p>
 
-In 2001, Bob Palais wrote the article _Pi is wrong!_, remarking on the fact that
+In 2001, Bob Palais wrote the article _π is wrong!_, remarking on the fact that
 whenever π occurs in nature, it occurs as 2π most of the time. He suggests that
 2π=6.283185... should be given a name (τ is now a fan favorite) and that it should be
 used instead of π. Some found his arguments convincing, and the τ movement was born.
