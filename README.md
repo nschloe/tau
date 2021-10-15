@@ -1,9 +1,9 @@
 # tau
 
 In 2001, Bob Palais wrote the article _Pi is wrong!_, remarking on the fact that
-whenever π occurs in nature, it occurs as 2π most of the time. He suggests that 2π
-should be given a name (τ is now a fan favorite) and that this constant should be used
-instead of π. Some found his arguments convincing, and the τ movement was born.
+whenever π occurs in nature, it occurs as 2π most of the time. He suggests that
+2π=6.283185... should be given a name (τ is now a fan favorite) and that it should be
+used instead of π. Some found his arguments convincing, and the τ movement was born.
 
 This page lists notable articles, videos, discussion etc. about τ.
 
@@ -20,7 +20,7 @@ This page lists notable articles, videos, discussion etc. about τ.
 
 - [Stephen Abbott, _Aftermath: My Conversion to Tauism_, 2018](https://doi.org/10.4169%2Fmathhorizons.19.4.34)
 
-- <a href="https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals">Wikipedia, \_Proposals for a single letter to represent 2π</a>
+- <a href="https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals">Wikipedia, <emph>Proposals for a single letter to represent 2π</emph></a>
 
 #### Videos
 
@@ -30,7 +30,7 @@ This page lists notable articles, videos, discussion etc. about τ.
 #### In pop culture
 
 - [XKCD, _Pi vs. Tau_](https://xkcd.com/1292/)
-- [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day&oq=tau+day&aqs=chrome..69i57j69i59j35i39l2j69i60l4.1043j0j7&sourceid=chrome&ie=UTF-8)
+- [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day)
 
 #### In programming
 
@@ -55,13 +55,28 @@ installed.
 
 - Trigonometrics
 
-```math
-\begin{split}
-\sin(\alpha) &= \sin(\alpha + \tau) \quad\forall \alpha\\
-\cos(\alpha) &= \cos(\alpha + \tau) \quad\forall \alpha\\
-\tan(\alpha) &= \tan(\alpha + \tau) \quad\forall \alpha
-\end{split}
-```
+  ```math
+  \begin{split}
+  \sin(\alpha) &= \sin(\alpha + \tau) \quad\forall \alpha\\
+  \cos(\alpha) &= \cos(\alpha + \tau) \quad\forall \alpha\\
+  \tan(\alpha) &= \tan(\alpha + \tau) \quad\forall \alpha
+  \end{split}
+  ```
+
+  With $`\tau`$ being a full revolution, the following identities are very easy to grasp
+  (for integers $`n`$):
+  ```math
+  \sin(n \tau) = 0\\
+  \sin((n + 1/4) \tau) = 1\\
+  \sin((n + 1/2) \tau) = 0\\
+  \sin((n + 3/4) \tau) = -1
+  ```
+  ```math
+  \cos(n \tau) = 1\\
+  \cos((n + 1/4) \tau) = 0\\
+  \cos((n + 1/2) \tau) = -1\\
+  \cos((n + 3/4) \tau) = 0
+  ```
 
 - [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
