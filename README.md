@@ -54,8 +54,10 @@ installed.
 \tan(\alpha) = \tan(\alpha + \tau) \forall \alpha
 ```
 
+- [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
+
 ```math
-\int_{-\infty}^{\infty} \exp(-x^2 / 2) = \sqrt{\tau}
+f(x) = \frac{1}{\sigma \sqrt{\tau}} \exp(-(x-\mu)^2 / 2 \sigma^2)
 ```
 
 - Area of the _n_-dimensional unit sphere (recurrence)
@@ -77,15 +79,17 @@ installed.
 ```
 - more such examples at [ndim](https://github.com/nschloe/ndim)
 
-- Cauchy's integral formula
+- [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
 ```math
 f(a) = \frac{1}{i\tau} \oint \frac{f(z)}{z - a} \,dz
 ```
 
 - Fourier transform
 ```math
-\hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) \exp(-i\tau x\xi)\,dx,\\
-f(x)         = \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\tau x\xi)\,d\xi
+\begin{split}
+\hat{f}(\xi) &= \int_{-\infty}^{\infty} f(x) \exp(-i\tau x\xi)\,dx,\\
+f(x)         &= \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\tau x\xi)\,d\xi
+\end{split}
 ```
 
 Harder:
