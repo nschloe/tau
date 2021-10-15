@@ -9,12 +9,18 @@ This page lists notable articles, videos, discussion etc. about τ.
 
 #### Articles and blog posts
 
-- [Bob Palais, _Pi is wrong!_, 2001](http://www.math.utah.edu/~palais/pi.pdf)
+- [Bob Palais, _π is wrong!_, 2001](https://doi.org/10.1007%2FBF03026846)
 
 - [Michael Hartl, _The Tau Manifesto_, 2010](https://tauday.com/tau-manifesto)
   As paperback [on Amazon](https://www.amazon.com/Tau-Manifesto-No-really-pi-is-wrong/dp/B096CXMQ3W/)
 
+- [Randyn Charles Bartholomew, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
+
 - [Giorgia Fortuna, _2 Pi or Not 2 Pi?_, 2015](https://blog.wolfram.com/2015/06/28/2-pi-or-not-2-pi/)
+
+- [Stephen Abbott, _Aftermath: My Conversion to Tauism_, 2018](https://doi.org/10.4169%2Fmathhorizons.19.4.34)
+
+- <a href="https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals">Wikipedia, \_Proposals for a single letter to represent 2π</a>
 
 #### Videos
 
@@ -31,18 +37,15 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/)
 - [.NET, C#, since 5.0 (2016)](https://docs.microsoft.com/en-us/dotnet/api/system.math.tau)
 - [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html)
+- [Processing](https://processing.org/reference/TAU.html)
 
 - [Boost, since 1.77.0 (2021)](https://www.boost.org/doc/libs/1_77_0/boost/math/constants/constants.hpp)
 
 Inclusion of a constant `tau` was _rejected_ by the following projects:
 
 - [NumPy](https://github.com/numpy/numpy/pull/9696)
-- [julia](https://github.com/JuliaLang/julia/pull/4864)
+- [Julia](https://github.com/JuliaLang/julia/pull/4864)
 - [Go](https://github.com/golang/go/issues/40663)
-
-Wikipedia:
-Proposals for a single letter to represent 2π
-https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals
 
 #### Some equations
 
@@ -87,6 +90,7 @@ f(x) = \frac{1}{\sigma \sqrt{\tau}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\righ
 ```
 
 The area of a disk:
+
 ```math
 A = \pi r^2 = \frac{1}{2} \tau r^2
 ```
