@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/nschloe/tau"><img alt="tau" src="https://nschloe.github.io/tau/tau.svg" width="15%"></a>
-  <p align="center">The better π</p>
+  <p align="center">The better π?</p>
 </p>
 
 In 2001, Bob Palais wrote the article _π is wrong!_, remarking on the fact that
