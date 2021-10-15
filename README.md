@@ -4,10 +4,13 @@
   <p align="center">The better π?</p>
 </p>
 
-In 2001, Bob Palais wrote the article _π is wrong!_, remarking on the fact that
-whenever π occurs in nature, it occurs as 2π most of the time. He suggests that
-2π=6.283185... should be given a name (τ is now a fan favorite) and that it should be
-used instead of π. Some found his arguments convincing, and the τ movement was born.
+In 2001, [Bob Palais](http://www.math.utah.edu/~palais/) wrote the article [_π is
+wrong!_](https://doi.org/10.1007%2FBF03026846), remarking on the fact that whenever π
+occurs in nature, it occurs as 2π most of the time. He suggests that 2π=6.283185...
+should be given a name (τ is now a fan favorite) and that it should be used instead of
+π. Some found his arguments convincing, including [Michael
+Hartl](https://www.michaelhartl.com/). In 2010, Hartl published [The Tau
+Manifesto](https://tauday.com/tau-manifesto), and the τ movement was born.
 
 This page lists notable articles, videos, discussion etc. about τ.
 
