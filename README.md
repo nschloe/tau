@@ -67,20 +67,12 @@ installed.
   (for integers $`n`$). Remember the sine is the projection of the angle onto the
   _y_-axis, the cosine is the projection onto the _x_-axis.
   ```math
-  \begin{split}
-  \sin(n \tau) &= 0\\
-  \sin((n + 1/4) \tau) &= 1\\
-  \sin((n + 1/2) \tau) &= 0\\
-  \sin((n + 3/4) \tau) &= -1
-  \end{split}
-  ```
-  ```math
-  \begin{split}
-  \cos(n \tau) &= 1\\
-  \cos((n + 1/4) \tau) &= 0\\
-  \cos((n + 1/2) \tau) &= -1\\
-  \cos((n + 3/4) \tau) &= 0
-  \end{split}
+  \begin{alignat*}{3}
+    \sin(n \tau) &= 0,          &\qquad \cos(n \tau) &= 1,\\
+    \sin((n + 1/4) \tau) &= 1,  &\qquad \cos((n + 1/4) \tau) &= 0,\\
+    \sin((n + 1/2) \tau) &= 0,  &\qquad \cos((n + 1/2) \tau) &= -1,\\
+    \sin((n + 3/4) \tau) &= -1, &\qquad \cos((n + 3/4) \tau) &= 0
+  \end{alignat*}
   ```
   Trigonometric values off of the grid can easily be estimated:
   - $`\sin(13.7 \pi)`$ – Where is my calculator?
