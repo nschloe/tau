@@ -66,6 +66,7 @@ installed.
   With $`\tau`$ being a full revolution, the following identities are very easy to grasp
   (for integers $`n`$). Remember the sine is the projection of the angle onto the
   _y_-axis, the cosine is the projection onto the _x_-axis.
+
   ```math
   \begin{alignat*}{3}
     \sin(n \tau) &= 0,          &\qquad \cos(n \tau) &= 1,\\
@@ -74,7 +75,9 @@ installed.
     \sin((n + 3/4) \tau) &= -1, &\qquad \cos((n + 3/4) \tau) &= 0
   \end{alignat*}
   ```
-  Trigonometric values off of the grid can easily be estimated:
+
+  Trigonometric values off the grid can easily be estimated:
+
   - $`\sin(13.7 \pi)`$ – Where is my calculator?
   - $`\sin(13.7 \tau)`$ – 13 full revolutions: forget about those. Plus .7, that's
     almost 3/4 of a revolution, so probably something close to -1.
@@ -82,7 +85,12 @@ installed.
 - [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
   ```math
-  f(x) = \frac{1}{\sigma \sqrt{\tau}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right)
+  \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\tau}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) = 1
+  ```
+
+  But:
+  ```math
+  \int_{-\infty}^{\infty} \exp(-x^2) = \sqrt{\pi}
   ```
 
 - Area of the _n_-dimensional unit sphere (recurrence)
@@ -144,9 +152,3 @@ installed.
   ```math
   n! \sim \sqrt{\tau n} \left(\frac{n}{e}\right)^n
   ```
-
-Harder:
-
-```math
-\int_{-\infty}^{\infty} \exp(-x^2) = \sqrt{\pi}
-```
