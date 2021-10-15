@@ -20,14 +20,13 @@
 - [XKCD, _Pi vs. Tau_](https://xkcd.com/1292/)
 - [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day&oq=tau+day&aqs=chrome..69i57j69i59j35i39l2j69i60l4.1043j0j7&sourceid=chrome&ie=UTF-8)
 
-#### In programming languages
+#### In programming
 
 - [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/)
-- [C#](https://docs.microsoft.com/en-us/dotnet/api/system.math?redirectedfrom=MSDN&view=net-5.0#fields)
+- [.NET, C#, since 5.0 (2016)](https://docs.microsoft.com/en-us/dotnet/api/system.math.tau)
 - [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html)
-- [.NET](https://docs.microsoft.com/en-us/dotnet/api/system.math.tau?view=net-5.0)
 
-- [Boost](https://www.boost.org/doc/libs/1_77_0/boost/math/constants/constants.hpp)
+- [Boost, since 1.77.0 (2021)](https://www.boost.org/doc/libs/1_77_0/boost/math/constants/constants.hpp)
 
 
 Inclusion of a constant `tau` was _rejected_ by the following projects:
@@ -44,14 +43,35 @@ Proposals for a single letter to represent 2π
 https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals
 
 #### Some equations
+- Trigonometrics
 ```math
 \sin(\alpha) = \sin(\alpha + \tau) \forall \alpha
 \cos(\alpha) = \cos(\alpha + \tau) \forall \alpha
 \tan(\alpha) = \tan(\alpha + \tau) \forall \alpha
 ```
+
 ```math
-\tau^{-1/2} \int_{-\infty}^{\infty} \exp(-1/2 x^2) = 1
+\tau^{-1/2} \int_{-\infty}^{\infty} \exp(-\frac{1}{2} x^2) = 1
 ```
+
+- Area of the _n_-dimensional unit sphere (recurrence)
+```
+|U_n| = \begin{cases}
+2 & \text{if } n = 1\\
+\tau & \text{if } n = 2\\
+|U_{n-2}| \times \frac{\tau}{n-2}
+\end{cases}
+```
+
+- Area of the _n_-dimensional unit ball (recurrence)
+```
+|S_n| = \begin{cases}
+1 & \text{if } n = 0\\
+2 & \text{if } n = 1\\
+|S_{n-2}| \times \frac{\tau}{n}
+\end{cases}
+```
+- more such examples at [ndim](https://github.com/nschloe/ndim)
 
 Harder:
 ```math
