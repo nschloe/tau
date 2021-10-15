@@ -63,7 +63,7 @@ installed.
 - [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
 ```math
-f(x) = \frac{1}{\sigma \sqrt{\tau}} \exp\left(\frac{-(x-\mu)^2}{2 \sigma^2}\right)
+f(x) = \frac{1}{\sigma \sqrt{\tau}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right)
 ```
 
 - Area of the _n_-dimensional unit sphere (recurrence)
@@ -106,10 +106,10 @@ f(a) = \frac{1}{i\tau} \oint \frac{f(z)}{z - a} \,dz
 f(x)         = \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\tau x\xi)\,d\xi
 ```
 
-- [_n_th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
+- [<emph>n<emph>th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
 
 ```math
-z^n = 1 \quad\Rightarrow\quad z = \exp{\tau i / n}
+z^n = 1 \quad\Rightarrow\quad z = \exp(\tau i / n)
 ```
 
 - [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
@@ -122,7 +122,7 @@ z^n = 1 \quad\Rightarrow\quad z = \exp{\tau i / n}
 - [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
 
 ```math
-n! \tilde \sqrt{\tau n} \left(\frac{n}{e}\right)^n
+n! \sim \sqrt{\tau n} \left(\frac{n}{e}\right)^n
 ```
 
 Harder:
