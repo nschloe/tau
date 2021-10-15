@@ -63,7 +63,7 @@ installed.
 - [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
 ```math
-f(x) = \frac{1}{\sigma \sqrt{\tau}} \exp(-(x-\mu)^2 / 2 \sigma^2)
+f(x) = \frac{1}{\sigma \sqrt{\tau}} \exp\left(\frac{-(x-\mu)^2}{2 \sigma^2}\right)
 ```
 
 - Area of the _n_-dimensional unit sphere (recurrence)
@@ -76,7 +76,7 @@ f(x) = \frac{1}{\sigma \sqrt{\tau}} \exp(-(x-\mu)^2 / 2 \sigma^2)
 \end{cases}
 ```
 
-- Area of the _n_-dimensional unit ball (recurrence)
+- Volume of the _n_-dimensional unit ball (recurrence)
 
 ```math
 |S_n| = \begin{cases}
@@ -87,7 +87,7 @@ f(x) = \frac{1}{\sigma \sqrt{\tau}} \exp(-(x-\mu)^2 / 2 \sigma^2)
 ```
 
 The area of a disk:
-```
+```math
 A = \pi r^2 = \frac{1}{2} \tau r^2
 ```
 
@@ -102,30 +102,26 @@ f(a) = \frac{1}{i\tau} \oint \frac{f(z)}{z - a} \,dz
 - [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 
 ```math
-\begin{split}
-\hat{f}(\xi) &= \int_{-\infty}^{\infty} f(x) \exp(-i\tau x\xi)\,dx,\\
-f(x)         &= \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\tau x\xi)\,d\xi
-\end{split}
+\hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) \exp(-i\tau x\xi)\,dx,\quad
+f(x)         = \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\tau x\xi)\,d\xi
 ```
 
-- [\_n_th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
+- [_n_th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
 
 ```math
-z^n = 1 \Rightarrow z = \exp{\tau i / n}
+z^n = 1 \quad\Rightarrow\quad z = \exp{\tau i / n}
 ```
 
 - [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
 
 ```math
-\begin{split}
-\exp(\pi i) + 1  &= 0\\
-\exp(\tau i) - 1 &= 0
-\end{split}
+\exp(\pi i) + 1  = 0,\quad
+\exp(\tau i) - 1 = 0
 ```
 
 - [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
 
-``math
+```math
 n! \tilde \sqrt{\tau n} \left(\frac{n}{e}\right)^n
 ```
 
