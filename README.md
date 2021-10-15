@@ -69,9 +69,9 @@ installed.
 
   ```math
   \begin{alignat*}{3}
-    \sin(n \tau) &= 0,          &\qquad \cos(n \tau) &= 1,\\
-    \sin((n + 1/4) \tau) &= 1,  &\qquad \cos((n + 1/4) \tau) &= 0,\\
-    \sin((n + 1/2) \tau) &= 0,  &\qquad \cos((n + 1/2) \tau) &= -1,\\
+    \sin(n \textcolor{aquamarine}{\tau}) &= 0,          &\qquad \cos(n \tau) &= 1,\\
+    \sin((n + 1/4) \textcolor{magenta}{\tau}) &= 1,  &\qquad \cos((n + 1/4) \tau) &= 0,\\
+    \sin((n + 1/2) \textcolor{darkmagenta}{\tau}) &= 0,  &\qquad \cos((n + 1/2) \tau) &= -1,\\
     \sin((n + 3/4) \tau) &= -1, &\qquad \cos((n + 3/4) \tau) &= 0
   \end{alignat*}
   ```
