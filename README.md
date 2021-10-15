@@ -58,8 +58,8 @@ installed.
   ```math
   \begin{split}
   \sin(\alpha) &= \sin(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha\\
-  \cos(\alpha) &= \cos(\alpha + \textcolor{lime}{\tau}) \quad\forall \alpha\\
-  \tan(\alpha) &= \tan(\alpha + \textcolor{teal}{\tau}) \quad\forall \alpha
+  \cos(\alpha) &= \cos(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha\\
+  \tan(\alpha) &= \tan(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha
   \end{split}
   ```
 
@@ -69,10 +69,10 @@ installed.
 
   ```math
   \begin{alignat*}{3}
-    \sin(n \textcolor{aquamarine}{\tau}) &= 0,          &\qquad \cos(n \tau) &= 1,\\
-    \sin((n + 1/4) \textcolor{magenta}{\tau}) &= 1,  &\qquad \cos((n + 1/4) \tau) &= 0,\\
-    \sin((n + 1/2) \textcolor{darkmagenta}{\tau}) &= 0,  &\qquad \cos((n + 1/2) \tau) &= -1,\\
-    \sin((n + 3/4) \tau) &= -1, &\qquad \cos((n + 3/4) \tau) &= 0
+    \sin(n \textcolor{orange}{\tau}) &= 0,          &\qquad \cos(n \textcolor{orange}{\tau}) &= 1,\\
+    \sin((n + 1/4) \textcolor{orange}{\tau}) &= 1,  &\qquad \cos((n + 1/4) \textcolor{orange}{\tau}) &= 0,\\
+    \sin((n + 1/2) \textcolor{orange}{\tau}) &= 0,  &\qquad \cos((n + 1/2) \textcolor{orange}{\tau}) &= -1,\\
+    \sin((n + 3/4) \textcolor{orange}{\tau}) &= -1, &\qquad \cos((n + 3/4) \textcolor{orange}{\tau}) &= 0
   \end{alignat*}
   ```
 
@@ -85,7 +85,7 @@ installed.
 - [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
   ```math
-  \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\tau}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) = 1
+  \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\textcolor{orange}{\tau}}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) = 1
   ```
 
   But:
@@ -98,8 +98,8 @@ installed.
   ```math
   |U_n| = \begin{cases}
   2 & \text{if } n = 1\\
-  \tau & \text{if } n = 2\\
-  |U_{n-2}| \times \tau / (n - 2) & \text{otherwise}
+  \textcolor{orange}{\tau} & \text{if } n = 2\\
+  |U_{n-2}| \times \textcolor{orange}{\tau} / (n - 2) & \text{otherwise}
   \end{cases}
   ```
 
@@ -109,14 +109,14 @@ installed.
   |S_n| = \begin{cases}
   1 & \text{if } n = 0\\
   2 & \text{if } n = 1\\
-  |S_{n-2}| \times \tau / n & \text{otherwise}
+  |S_{n-2}| \times \textcolor{orange}{\tau} / n & \text{otherwise}
   \end{cases}
   ```
 
   The area of a disk:
 
   ```math
-  A = \pi r^2 = \frac{1}{2} \tau r^2
+  A = \pi r^2 = \frac{1}{2} \textcolor{orange}{\tau} r^2
   ```
 
 - more such examples at [ndim](https://github.com/nschloe/ndim)
@@ -124,31 +124,31 @@ installed.
 - [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
 
   ```math
-  f(a) = \frac{1}{i\tau} \oint \frac{f(z)}{z - a} \,dz
+  f(a) = \frac{1}{i\textcolor{orange}{\tau}} \oint \frac{f(z)}{z - a} \,dz
   ```
 
 - [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 
   ```math
-  \hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) \exp(-i\tau x\xi)\,dx,\quad
-  f(x)         = \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\tau x\xi)\,d\xi
+  \hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) \exp(-i\textcolor{orange}{\tau} x\xi)\,dx,\quad
+  f(x)         = \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\textcolor{orange}{\tau} x\xi)\,d\xi
   ```
 
 - [<emph>n<emph>th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
 
   ```math
-  z^n = 1 \quad\Rightarrow\quad z = \exp(\tau i / n)
+  z^n = 1 \quad\Rightarrow\quad z = \exp(\textcolor{orange}{\tau} i / n)
   ```
 
 - [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
 
   ```math
   \exp(\pi i) + 1  = 0,\quad
-  \exp(\tau i) - 1 = 0
+  \exp(\textcolor{orange}{\tau} i) - 1 = 0
   ```
 
 - [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
 
   ```math
-  n! \sim \sqrt{\tau n} \left(\frac{n}{e}\right)^n
+  n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
   ```
