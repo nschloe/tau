@@ -1,6 +1,5 @@
 <p align="center">
-  <!--a href="https://github.com/nschloe/tau"><img alt="tau" src="https://nschloe.github.io/tau/tau.svg" width="15%"></a-->
-  <a href="https://github.com/nschloe/tau"><img alt="tau" src="https://raw.githubusercontent.com/nschloe/tau/df55ce3584e1e6f1641774d6dfc4e939b61be082/tau.svg" width="15%"></a>
+  <a href="https://github.com/nschloe/tau"><img alt="tau" src="https://nschloe.github.io/tau/tau.svg" width="15%"></a>
   <p align="center">The better π?</p>
 </p>
 
