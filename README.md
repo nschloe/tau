@@ -14,7 +14,7 @@ Manifesto](https://tauday.com/tau-manifesto), and the τ movement was born.
 
 This page lists notable articles, videos, discussion etc. about τ.
 
-#### Articles and blog posts
+### Articles and blog posts
 
 - [Bob Palais, _π is wrong!_, 2001](https://doi.org/10.1007%2FBF03026846)
 - [Robert P. Crease, _Constant failure_, 2008](https://physicsworld.com/a/constant-failure/)
@@ -26,7 +26,7 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Paolo A. '21 G, _in honor of tau_](https://mitadmissions.org/blogs/entry/in-honor-of-tau/)
 - <a href="https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals">Wikipedia, <emph>Proposals for a single letter to represent 2π</emph></a>
 
-#### Videos
+### Videos
 
 - [Vihart, _Pi Is (still) Wrong_, 2011](https://youtu.be/jG7vhMMXagQ)
 - [Michael Hartl, _No, really, pi is wrong: The Tau Manifesto_, 2012](https://youtu.be/H69YH5TnNXI)
@@ -35,13 +35,13 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Michael Hartl, _The Tau Manifesto talk (short version)_, 2015](https://youtu.be/2hhjsSN-AiU)
 - [Khan Academy, _Tau versus pi_, 2021](https://youtu.be/1jDDfkKKgmc)
 
-#### In pop culture
+### In pop culture
 
 - [XKCD, _Pi vs. Tau_](https://xkcd.com/1292/)
 - [SMBC, _Proposed Number Improvements_](https://www.smbc-comics.com/comic/numbers-3)
 - [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day)
 
-#### Historical uses
+### Historical uses
 
 The section _Adoption of the symbol π_ of the excellent article
 [Pi](https://www.wikiwand.com/en/Pi) says:
@@ -74,7 +74,7 @@ The section _Adoption of the symbol π_ of the excellent article
 > spread rapidly, and the practice was universally adopted thereafter in the Western
 > world, **though the definition still varied between 3.14... and 6.28... as late as 1761.**
 
-#### In programming
+### In programming
 
 - [Processing, since 2.0 (2013)](https://processing.org/reference/TAU.html)
 - [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/)
@@ -89,7 +89,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 - [NumPy](https://github.com/numpy/numpy/pull/9696)
 - [Go](https://github.com/golang/go/issues/40663)
 
-#### Some equations
+### Some equations
 
 The following equations are best consumed on Chrome with
 [xdoc](https://chrome.google.com/webstore/detail/xdoc/anidddebgkllnnnnjfkmjcaallemhjee)
