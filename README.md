@@ -17,26 +17,27 @@ This page lists notable articles, videos, discussion etc. about τ.
 #### Articles and blog posts
 
 - [Bob Palais, _π is wrong!_, 2001](https://doi.org/10.1007%2FBF03026846)
-
+- [Robert P. Crease, _Constant failure_, 2008](https://physicsworld.com/a/constant-failure/)
 - [Michael Hartl, _The Tau Manifesto_, 2010](https://tauday.com/tau-manifesto)
   As paperback [on Amazon](https://www.amazon.com/Tau-Manifesto-No-really-pi-is-wrong/dp/B096CXMQ3W/)
-
 - [Randyn Charles Bartholomew, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
-
 - [Giorgia Fortuna, _2 Pi or Not 2 Pi?_, 2015](https://blog.wolfram.com/2015/06/28/2-pi-or-not-2-pi/)
-
 - [Stephen Abbott, _Aftermath: My Conversion to Tauism_, 2018](https://doi.org/10.4169%2Fmathhorizons.19.4.34)
-
+- [Paolo A. '21 G, _in honor of tau_](https://mitadmissions.org/blogs/entry/in-honor-of-tau/)
 - <a href="https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals">Wikipedia, <emph>Proposals for a single letter to represent 2π</emph></a>
 
 #### Videos
 
 - [Vihart, _Pi Is (still) Wrong_, 2011](https://youtu.be/jG7vhMMXagQ)
+- [Michael Hartl, _No, really, pi is wrong: The Tau Manifesto_, 2012](https://youtu.be/H69YH5TnNXI)
+- [Numberphile, _Tau replaces Pi_](https://youtu.be/83ofi_L6eAo)
 - [Numberphile, _Tau vs Pi Smackdown_, 2012](https://youtu.be/ZPv1UV0rD8U)
+- [Michael Hartl, _The Tau Manifesto talk (short version)_, 2015](https://youtu.be/2hhjsSN-AiU)
 
 #### In pop culture
 
 - [XKCD, _Pi vs. Tau_](https://xkcd.com/1292/)
+- [SMBC, _Proposed Number Improvements_](https://www.smbc-comics.com/comic/numbers-3)
 - [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day)
 
 #### In programming
@@ -96,24 +97,29 @@ installed.
   ```
 
   But:
+
   ```math
   \int_{-\infty}^{\infty} \exp(-x^2) = \sqrt{\pi}
   ```
 
-- Area of the _n_-dimensional unit sphere (recurrence)
+- Area of the _n_-dimensional unit sphere
 
   ```math
-  |U_n| = \begin{cases}
+  |U_n|
+  = \frac{2\pi^{n/2}}{\Gamma(n/2)}
+  = \begin{cases}
   2 & \text{if } n = 1\\
   \textcolor{orange}{\tau} & \text{if } n = 2\\
   |U_{n-2}| \times \textcolor{orange}{\tau} / (n - 2) & \text{otherwise}
   \end{cases}
   ```
 
-- Volume of the _n_-dimensional unit ball (recurrence)
+- Volume of the _n_-dimensional unit ball
 
   ```math
-  |S_n| = \begin{cases}
+  |S_n|
+  = \frac{\pi^{n/2}}{\Gamma(n/2 + 1)}
+  = \begin{cases}
   1 & \text{if } n = 0\\
   2 & \text{if } n = 1\\
   |S_{n-2}| \times \textcolor{orange}{\tau} / n & \text{otherwise}
@@ -159,3 +165,40 @@ installed.
   ```math
   n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
   ```
+
+- [Particular values of the Gamma
+  function](https://en.wikipedia.org/wiki/Particular_values_of_the_gamma_function)
+
+  ```math
+  \Gamma(n / 2)
+  = \sqrt{\pi} \frac{(n-2)!!}{2^{(n-1)/2}}
+  = \sqrt{\textcolor{orange}{\tau}} \frac{(n-2)!!}{2^{n/2}}
+  ```
+
+  ```math
+  \Gamma(1 / 2 + n)
+  = \frac{(2n)!}{4^n n!} \sqrt{pi}
+  = \frac{(2n)!}{4^n n!} \sqrt{\frac{\textcolor{orange}{\tau}}{2}}
+  ```
+
+- [Particular values of the Riemann zeta function](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
+
+  ```math
+  \zeta(2) = \sum_{i=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6} = \frac{\textcolor{orange}{\tau}^2}{24}
+  ```
+
+  ```math
+  \zeta(2n) = \sum_{i=1}^{\infty} \frac{1}{n^(2n)} = (-1)^{n+1} \frac{\textcolor{orange}{\tau}^{2n} B_{2n}}{2 (2n)!}
+  ```
+
+- Physics
+  - Cosmological constant: $`\Lambda = \frac{4\textcolor{orange}{\tau} G}{3c^2} \rho`$
+  - Heisenberg's uncertainty principle: $`\Delta x \Delta p \ge \frac{h}{2 \textcolor{orange}{\tau}}`$
+  - Einstein's field equation of general relativity: $`R_{\mu\nu} = \frac{4\textcolor{orange}{\tau} G}{c^4} T_{\mu\nu}`$
+  - Coulomb's law for the electric force in vacuum: $`F = \frac{|q_1
+    q_2|}{2\textcolor{orange}{\tau} \varepsilon_0 r^2}`$
+  - Magnetic permeability of free space: $`\mu_0 \approx 2\textcolor{orange}{\tau}
+    \times 10^{-7} N/A^2`$
+  - Period of a simple pendulum with small amplitude: $`T \approx \textcolor{orange}{\tau} \sqrt{\frac{L}{g}}`$
+  - Kepler's third law of planetary motion: $`\frac{R^3}{T^2} = \frac{GM}{\textcolor{orange}{\tau}^2}`$
+  - The buckling formula: $`F = \frac{\textcolor{orange}{\tau}^2 EI}{4L^2}`$
