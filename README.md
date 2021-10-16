@@ -30,9 +30,10 @@ This page lists notable articles, videos, discussion etc. about τ.
 
 - [Vihart, _Pi Is (still) Wrong_, 2011](https://youtu.be/jG7vhMMXagQ)
 - [Michael Hartl, _No, really, pi is wrong: The Tau Manifesto_, 2012](https://youtu.be/H69YH5TnNXI)
-- [Numberphile, _Tau replaces Pi_](https://youtu.be/83ofi_L6eAo)
+- [Numberphile, _Tau replaces Pi_, 2012](https://youtu.be/83ofi_L6eAo)
 - [Numberphile, _Tau vs Pi Smackdown_, 2012](https://youtu.be/ZPv1UV0rD8U)
 - [Michael Hartl, _The Tau Manifesto talk (short version)_, 2015](https://youtu.be/2hhjsSN-AiU)
+- [Khan Academy, _Tau versus pi_, 2021](https://youtu.be/1jDDfkKKgmc)
 
 #### In pop culture
 
@@ -42,17 +43,17 @@ This page lists notable articles, videos, discussion etc. about τ.
 
 #### In programming
 
+- [Processing, since 2.0 (2013)](https://processing.org/reference/TAU.html)
 - [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/)
 - [.NET, C#, since 5.0 (2016)](https://docs.microsoft.com/en-us/dotnet/api/system.math.tau)
+- [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703)
 - [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html)
-- [Processing](https://processing.org/reference/TAU.html)
-
 - [Boost, since 1.77.0 (2021)](https://www.boost.org/doc/libs/1_77_0/boost/math/constants/constants.hpp)
 
 Inclusion of a constant `tau` was _rejected_ by the following projects:
 
-- [NumPy](https://github.com/numpy/numpy/pull/9696)
 - [Julia](https://github.com/JuliaLang/julia/pull/4864)
+- [NumPy](https://github.com/numpy/numpy/pull/9696)
 - [Go](https://github.com/golang/go/issues/40663)
 
 #### Some equations
