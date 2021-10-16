@@ -148,10 +148,10 @@ installed.
   f(x)         = \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\textcolor{orange}{\tau} x\xi)\,d\xi
   ```
 
-- [<emph>n<emph>th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
+- [<emph>n</emph>th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
 
   ```math
-  z^n = 1 \quad\Rightarrow\quad z = \exp(\textcolor{orange}{\tau} i / n)
+  z^n = 1 \quad\Rightarrow\quad z = \exp(i\textcolor{orange}{\tau} \frac{k}{n}) \quad\forall k=0,\dots,n-1
   ```
 
 - [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
