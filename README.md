@@ -232,11 +232,11 @@ installed.
 - [Particular values of the Riemann zeta function](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
 
   ```math
-  \zeta(2) = \sum_{i=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6} = \frac{\textcolor{orange}{\tau}^2}{24}
+  \zeta(2) = \sum_{k=1}^{\infty} \frac{1}{k^2} = \frac{\pi^2}{6} = \frac{\textcolor{orange}{\tau}^2}{24}
   ```
 
   ```math
-  \zeta(2n) = \sum_{i=1}^{\infty} \frac{1}{n^{2n}} = (-1)^{n+1} \frac{\textcolor{orange}{\tau}^{2n} B_{2n}}{2 (2n)!}
+  \zeta(2n) = \sum_{k=1}^{\infty} \frac{1}{k^{2n}} = (-1)^{n+1} \frac{\textcolor{orange}{\tau}^{2n} B_{2n}}{2 (2n)!}
   ```
 
 
