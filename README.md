@@ -138,7 +138,7 @@ installed.
   ```
 
 - [Cumulative distribution
-  function](https://en.wikipedia.org/wiki/Normal_distribution#Cumulative_distribution_function):
+  function](https://en.wikipedia.org/wiki/Cumulative_distribution_function):
 
   ```math
   \Phi(z) = \frac{1}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\,dt
@@ -198,7 +198,7 @@ installed.
 - [<emph>n</emph>th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
 
   ```math
-  z^n = 1 \quad\Rightarrow\quad z = \exp(i\textcolor{orange}{\tau} \frac{k}{n}) \quad\forall k=0,\dots,n-1
+  z^n = 1 \quad\Rightarrow\quad z = \exp(i\textcolor{orange}{\tau} k / n) \quad\forall k=0,\dots,n-1
   ```
 
 - [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
@@ -225,7 +225,7 @@ installed.
 
   ```math
   \Gamma(1 / 2 + n)
-  = \frac{(2n)!}{4^n n!} \sqrt{pi}
+  = \frac{(2n)!}{4^n n!} \sqrt{\pi}
   = \frac{(2n)!}{4^n n!} \sqrt{\frac{\textcolor{orange}{\tau}}{2}}
   ```
 
@@ -236,7 +236,7 @@ installed.
   ```
 
   ```math
-  \zeta(2n) = \sum_{i=1}^{\infty} \frac{1}{n^(2n)} = (-1)^{n+1} \frac{\textcolor{orange}{\tau}^{2n} B_{2n}}{2 (2n)!}
+  \zeta(2n) = \sum_{i=1}^{\infty} \frac{1}{n^{2n}} = (-1)^{n+1} \frac{\textcolor{orange}{\tau}^{2n} B_{2n}}{2 (2n)!}
   ```
 
 
