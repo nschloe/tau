@@ -76,7 +76,7 @@ The section _Adoption of the symbol π_ of the excellent article
 ### In programming
 
 - [Processing, since 2.0 (2013)](https://processing.org/reference/TAU.html)
-- [Nim, since 0.14.0 (2016)] (https://github.com/nim-lang/Nim/pull/3976)
+- [Nim, since 0.14.0 (2016)](https://github.com/nim-lang/Nim/pull/3976)
 - [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/)
 - [.NET, C#, since 5.0 (2016)](https://docs.microsoft.com/en-us/dotnet/api/system.math.tau)
 - [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703)
@@ -147,8 +147,7 @@ installed.
   But [Error function](https://en.wikipedia.org/wiki/Error_function):
 
   ```math
-  \DeclareMathOperator{\erf}{erf}
-  \erf(z) = \frac{2}{\sqrt{\pi}} \int_0^z \exp(-t^2)\,dt
+  \text{erf}(z) = \frac{2}{\sqrt{\pi}} \int_0^z \exp(-t^2)\,dt
   ```
 
 - Area of the _n_-dimensional unit sphere
