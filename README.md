@@ -22,7 +22,7 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Randyn Charles Bartholomew, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
 - [Giorgia Fortuna, _2 Pi or Not 2 Pi?_, 2015](https://blog.wolfram.com/2015/06/28/2-pi-or-not-2-pi/)
 - [Stephen Abbott, _Aftermath: My Conversion to Tauism_, 2018](https://doi.org/10.4169%2Fmathhorizons.19.4.34)
-- [Paolo A. '21 G, _in honor of tau_](https://mitadmissions.org/blogs/entry/in-honor-of-tau/)
+- [Paolo A., _in honor of tau_, 2021](https://mitadmissions.org/blogs/entry/in-honor-of-tau/)
 - <a href="https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals">Wikipedia, <emph>Proposals for a single letter to represent 2π</emph></a>
 
 ### Videos
@@ -137,6 +137,20 @@ installed.
   \int_{-\infty}^{\infty} \exp(-x^2) = \sqrt{\pi}
   ```
 
+- [Cumulative distribution
+  function](https://en.wikipedia.org/wiki/Normal_distribution#Cumulative_distribution_function):
+
+  ```math
+  \Phi(z) = \frac{1}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\,dt
+  ```
+
+  But [Error function](https://en.wikipedia.org/wiki/Error_function):
+
+  ```math
+  \DeclareMathOperator{\erf}{erf}
+  \erf(z) = \frac{2}{\sqrt{\pi}} \int_0^z \exp(-t^2)\,dt
+  ```
+
 - Area of the _n_-dimensional unit sphere
 
   ```math
@@ -225,6 +239,7 @@ installed.
   ```math
   \zeta(2n) = \sum_{i=1}^{\infty} \frac{1}{n^(2n)} = (-1)^{n+1} \frac{\textcolor{orange}{\tau}^{2n} B_{2n}}{2 (2n)!}
   ```
+
 
 - Physics
   - Cosmological constant: $`\Lambda = \frac{4\textcolor{orange}{\tau} G}{3c^2} \rho`$
