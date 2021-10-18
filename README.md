@@ -128,13 +128,13 @@ installed.
 - [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
   ```math
-  \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\textcolor{orange}{\tau}}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) = 1
+  \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\textcolor{orange}{\tau}}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) \,dx= 1
   ```
 
   But:
 
   ```math
-  \int_{-\infty}^{\infty} \exp(-x^2) = \sqrt{\pi}
+  \int_{-\infty}^{\infty} \exp(-x^2)\,dx = \sqrt{\pi}
   ```
 
 - [Cumulative distribution
