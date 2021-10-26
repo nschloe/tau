@@ -131,18 +131,6 @@ installed.
   - $`\sin(13.7 \tau)`$ – 13 full revolutions: forget about those. Plus .7, that's
     almost 3/4 of a revolution, so probably something close to -1.
 
-- [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
-
-  ```math
-  \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\textcolor{orange}{\tau}}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) \,dx= 1
-  ```
-
-  But:
-
-  ```math
-  \int_{-\infty}^{\infty} \exp(-x^2)\,dx = \sqrt{\pi}
-  ```
-
 - Area of the _n_-dimensional unit sphere
 
   ```math
@@ -174,6 +162,19 @@ installed.
   ```
 
 - more such examples at [ndim](https://github.com/nschloe/ndim)
+
+- Compare
+  ```math
+  \int_{-\infty}^{\infty} \exp(-x^2)\,dx = \sqrt{\pi},\qquad
+  \int_{-\infty}^{\infty} \exp(-x^2 / 2)\,dx = \sqrt{\textcolor{orange}{\tau}}
+  ```
+  One could argue that the latter is more "canonical" since it has variance/standard
+  deviation of 1, not $`\frac{1}{2}`$ / $`\sqrt(\frac{1}{2})`$.
+  Compare with the [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
+
+  ```math
+  \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\textcolor{orange}{\tau}}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) \,dx= 1
+  ```
 
 - [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
 
