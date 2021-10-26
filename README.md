@@ -3,6 +3,10 @@
   <p align="center">The better π?</p>
 </p>
 
+> Beauty is the first test: there is no permanent place in this world for ugly
+> mathematics.
+> -- [G.H. Hardy](https://en.wikipedia.org/wiki/G._H._Hardy)
+
 In 2001, [Bob Palais](http://www.math.utah.edu/~palais/) wrote the article [_π is
 wrong!_](https://doi.org/10.1007%2FBF03026846), remarking on the fact that whenever π
 occurs in nature, it occurs as 2π most of the time. He suggests that 2π=6.283185...
@@ -92,6 +96,8 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
 ### Some equations
 
+[![xdoc](https://img.shields.io/badge/Rendered%20with-xdoc-f2eecb?style=flat-square)](https://chrome.google.com/webstore/detail/xdoc/anidddebgkllnnnnjfkmjcaallemhjee)
+
 The following equations are best consumed on Chrome with
 [xdoc](https://chrome.google.com/webstore/detail/xdoc/anidddebgkllnnnnjfkmjcaallemhjee)
 installed.
@@ -135,19 +141,6 @@ installed.
 
   ```math
   \int_{-\infty}^{\infty} \exp(-x^2)\,dx = \sqrt{\pi}
-  ```
-
-- [Cumulative distribution
-  function](https://en.wikipedia.org/wiki/Cumulative_distribution_function):
-
-  ```math
-  \Phi(z) = \frac{1}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\,dt
-  ```
-
-  But [Error function](https://en.wikipedia.org/wiki/Error_function):
-
-  ```math
-  \text{erf}(z) = \frac{2}{\sqrt{\pi}} \int_0^z \exp(-t^2)\,dt
   ```
 
 - Area of the _n_-dimensional unit sphere
@@ -239,15 +232,36 @@ installed.
   \zeta(2n) = \sum_{k=1}^{\infty} \frac{1}{k^{2n}} = (-1)^{n+1} \frac{\textcolor{orange}{\tau}^{2n} B_{2n}}{2 (2n)!}
   ```
 
-
 - Physics
-  - Cosmological constant: $`\Lambda = \frac{4\textcolor{orange}{\tau} G}{3c^2} \rho`$
-  - Heisenberg's uncertainty principle: $`\Delta x \Delta p \ge \frac{h}{2 \textcolor{orange}{\tau}}`$
-  - Einstein's field equation of general relativity: $`R_{\mu\nu} = \frac{4\textcolor{orange}{\tau} G}{c^4} T_{\mu\nu}`$
-  - Coulomb's law for the electric force in vacuum: $`F = \frac{|q_1
-    q_2|}{2\textcolor{orange}{\tau} \varepsilon_0 r^2}`$
-  - Magnetic permeability of free space: $`\mu_0 \approx 2\textcolor{orange}{\tau}
-    \times 10^{-7} N/A^2`$
-  - Period of a simple pendulum with small amplitude: $`T \approx \textcolor{orange}{\tau} \sqrt{\frac{L}{g}}`$
-  - Kepler's third law of planetary motion: $`\frac{R^3}{T^2} = \frac{GM}{\textcolor{orange}{\tau}^2}`$
-  - The buckling formula: $`F = \frac{\textcolor{orange}{\tau}^2 EI}{4L^2}`$
+  - Cosmological constant:
+    ```math
+    \Lambda = \frac{4\textcolor{orange}{\tau} G}{3c^2} \rho
+    ```
+  - Heisenberg's uncertainty principle:
+    ```math
+    \Delta x \Delta p \ge \frac{h}{2 \textcolor{orange}{\tau}}
+    ```
+  - Einstein's field equation of general relativity:
+    ```math
+    R_{\mu\nu} = \frac{4\textcolor{orange}{\tau} G}{c^4} T_{\mu\nu}
+    ```
+  - Coulomb's law for the electric force in vacuum:
+    ```math
+    F = \frac{|q_1 q_2|}{2\textcolor{orange}{\tau} \varepsilon_0 r^2}
+    ```
+  - Magnetic permeability of free space:
+    ```math
+    \mu_0 \approx 2\textcolor{orange}{\tau} \times 10^{-7} N/A^2
+    ```
+  - Period of a simple pendulum with small amplitude:
+    ```math
+    T \approx \textcolor{orange}{\tau} \sqrt{\frac{L}{g}}
+    ```
+  - Kepler's third law of planetary motion:
+    ```math
+    \frac{R^3}{T^2} = \frac{GM}{\textcolor{orange}{\tau}^2}
+    ```
+  - The buckling formula:
+    ```math
+    F = \frac{\textcolor{orange}{\tau}^2 EI}{4L^2}
+    ```
