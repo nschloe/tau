@@ -164,10 +164,12 @@ installed.
 - more such examples at [ndim](https://github.com/nschloe/ndim)
 
 - Compare
+
   ```math
   \int_{-\infty}^{\infty} \exp(-x^2)\,dx = \sqrt{\pi},\qquad
   \int_{-\infty}^{\infty} \exp(-x^2 / 2)\,dx = \sqrt{\textcolor{orange}{\tau}}
   ```
+
   One could argue that the latter is more "canonical" since it has variance/standard
   deviation of 1, not $`\frac{1}{2}`$ / $`\sqrt{\frac{1}{2}}`$.
   Compare with the [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
