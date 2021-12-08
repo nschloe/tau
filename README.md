@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/nschloe/tau"><img alt="tau" src="https://nschloe.github.io/tau/tau.svg" width="15%"></a>
-  <p align="center">The better π?</p>
+  <p align="center">The better π</p>
 </p>
 
 > Beauty is the first test: there is no permanent place in this world for ugly
@@ -90,7 +90,7 @@ The section _Adoption of the symbol π_ of the excellent article
 - [.NET, C#, since 5.0 (2016)](https://docs.microsoft.com/en-us/dotnet/api/system.math.tau)
 - [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703)
 - [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html)
-- [Raku](https://docs.raku.org/language/terms#term_tau)
+- [Raku, since 2015](https://docs.raku.org/language/terms#term_tau)
 - [Boost, since 1.77.0 (2021)](https://www.boost.org/doc/libs/1_77_0/boost/math/constants/constants.hpp)
 
 Inclusion of a constant `tau` was _rejected_ by the following projects:
