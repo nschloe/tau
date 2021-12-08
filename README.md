@@ -96,10 +96,10 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
 ### Some equations
 
-[![xdoc](https://img.shields.io/badge/Rendered%20with-xdoc-f2eecb?style=flat-square)](https://chrome.google.com/webstore/detail/xdoc/anidddebgkllnnnnjfkmjcaallemhjee)
+[![xhub](https://img.shields.io/badge/Rendered%20with-xhub-f2eecb?style=flat-square)](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
 
 The following equations are best consumed on Chrome with
-[xdoc](https://chrome.google.com/webstore/detail/xdoc/anidddebgkllnnnnjfkmjcaallemhjee)
+[xhub](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
 installed.
 
 - Trigonometrics
@@ -169,7 +169,7 @@ installed.
   \int_{-\infty}^{\infty} \exp(-x^2 / 2)\,dx = \sqrt{\textcolor{orange}{\tau}}
   ```
   One could argue that the latter is more "canonical" since it has variance/standard
-  deviation of 1, not $`\frac{1}{2}`$ / $`\sqrt(\frac{1}{2})`$.
+  deviation of 1, not $`\frac{1}{2}`$ / $`\sqrt{\frac{1}{2}}`$.
   Compare with the [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
   ```math
