@@ -132,16 +132,16 @@ installed.
 
   Trigonometric values off the grid can easily be estimated:
 
-  - $`\sin(27.4 \pi)`$ – Where is my calculator?
-  - $`\sin(13.7 \tau)`$ – 13 full revolutions: forget about those. Plus .7, that's
+  - $`\sin(27.4 \textcolor{teal}{\pi})`$ – Where is my calculator?
+  - $`\sin(13.7 \textcolor{orange}{\tau})`$ – 13 full revolutions: forget about those. Plus .7, that's
     almost 3/4 of a revolution, so probably something close to -1.
-    (Actual value: -0.95105651629.)
+    (Actual value: -0.95105651629...)
 
 - Area of the _n_-dimensional unit sphere
 
   ```math
   |U_n|
-  = \frac{2\pi^{n/2}}{\Gamma(n/2)}
+  = \frac{2\textcolor{teal}{\pi}^{n/2}}{\Gamma(n/2)}
   = \begin{cases}
   2 & \text{if } n = 1\\
   \textcolor{orange}{\tau} & \text{if } n = 2\\
@@ -153,7 +153,7 @@ installed.
 
   ```math
   |S_n|
-  = \frac{\pi^{n/2}}{\Gamma(n/2 + 1)}
+  = \frac{\textcolor{teal}{\pi}^{n/2}}{\Gamma(n/2 + 1)}
   = \begin{cases}
   1 & \text{if } n = 0\\
   2 & \text{if } n = 1\\
@@ -164,7 +164,7 @@ installed.
   The area of a disk:
 
   ```math
-  A = \pi r^2 = \frac{1}{2} \textcolor{orange}{\tau} r^2
+  A = \textcolor{teal}{\pi} r^2 = \frac{\textcolor{orange}{\tau}}{2} r^2
   ```
 
 - more such examples at [ndim](https://github.com/nschloe/ndim)
@@ -172,7 +172,7 @@ installed.
 - Compare
 
   ```math
-  \int_{-\infty}^{\infty} \exp(-x^2)\,dx = \sqrt{\pi},\qquad
+  \int_{-\infty}^{\infty} \exp(-x^2)\,dx = \sqrt{\textcolor{teal}{\pi}},\qquad
   \int_{-\infty}^{\infty} \exp(-x^2 / 2)\,dx = \sqrt{\textcolor{orange}{\tau}}
   ```
 
@@ -206,7 +206,7 @@ installed.
 - [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
 
   ```math
-  \exp(\pi i) + 1  = 0,\quad
+  \exp(\textcolor{teal}{\pi} i) + 1  = 0,\quad
   \exp(\textcolor{orange}{\tau} i) - 1 = 0
   ```
 
@@ -221,20 +221,20 @@ installed.
 
   ```math
   \Gamma(n / 2)
-  = \sqrt{\pi} \frac{(n-2)!!}{2^{(n-1)/2}}
+  = \sqrt{\textcolor{teal}{\pi}} \frac{(n-2)!!}{2^{(n-1)/2}}
   = \sqrt{\textcolor{orange}{\tau}} \frac{(n-2)!!}{2^{n/2}}
   ```
 
   ```math
   \Gamma(1 / 2 + n)
-  = \frac{(2n)!}{4^n n!} \sqrt{\pi}
+  = \frac{(2n)!}{4^n n!} \sqrt{\textcolor{teal}{\pi}}
   = \frac{(2n)!}{4^n n!} \sqrt{\frac{\textcolor{orange}{\tau}}{2}}
   ```
 
 - [Particular values of the Riemann zeta function](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
 
   ```math
-  \zeta(2) = \sum_{k=1}^{\infty} \frac{1}{k^2} = \frac{\pi^2}{6} = \frac{\textcolor{orange}{\tau}^2}{24}
+  \zeta(2) = \sum_{k=1}^{\infty} \frac{1}{k^2} = \frac{\textcolor{teal}{\pi}^2}{6} = \frac{\textcolor{orange}{\tau}^2}{24}
   ```
 
   ```math
