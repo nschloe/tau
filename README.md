@@ -132,9 +132,10 @@ installed.
 
   Trigonometric values off the grid can easily be estimated:
 
-  - $`\sin(13.7 \pi)`$ – Where is my calculator?
+  - $`\sin(27.4 \pi)`$ – Where is my calculator?
   - $`\sin(13.7 \tau)`$ – 13 full revolutions: forget about those. Plus .7, that's
     almost 3/4 of a revolution, so probably something close to -1.
+    (Actual value: -0.95105651629.)
 
 - Area of the _n_-dimensional unit sphere
 
