@@ -41,6 +41,7 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Numberphile, _Tau vs Pi Smackdown_, 2012](https://youtu.be/ZPv1UV0rD8U)
 - [Michael Hartl, _The Tau Manifesto talk (short version)_, 2015](https://youtu.be/2hhjsSN-AiU)
 - [Vihart, _Pi Rant 2018: Alternative Pi_](https://youtu.be/6acbBrLoi14?t=273)
+- [BriTheMathGuy, _It's Tau Day (but should you care?)_, 2020](https://youtu.be/qifarbO4yX8)
 - [Khan Academy, _Tau versus pi_, 2021](https://youtu.be/1jDDfkKKgmc)
 
 ### In pop culture
@@ -206,8 +207,8 @@ installed.
 - [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
 
   ```math
-  \exp(\textcolor{teal}{\pi} i) + 1  = 0,\quad
-  \exp(\textcolor{orange}{\tau} i) - 1 = 0
+  \exp(i \textcolor{teal}{\pi}) + 1  = 0,\quad
+  \exp(i \textcolor{orange}{\tau}) - 1 = 0
   ```
 
 - [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
