@@ -85,6 +85,7 @@ The section _Adoption of the symbol π_ of the excellent article
 
 ### In programming
 
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/angle) (called "turn")
 - [Processing, since 2.0 (2013)](https://processing.org/reference/TAU.html)
 - [Raku, since 2015](https://docs.raku.org/language/terms#term_tau)
 - [Nim, since 0.14.0 (2016)](https://github.com/nim-lang/Nim/pull/3976)
