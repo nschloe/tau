@@ -119,7 +119,7 @@ installed.
   \end{split}
   ```
 
-  With $`\tau`$ being a full revolution, the following identities are very easy to grasp
+  With `$\tau$` being a full revolution, the following identities are very easy to grasp
   (for integers $`n`$). Remember the sine is the projection of the angle onto the
   _y_-axis, the cosine is the projection onto the _x_-axis.
 
@@ -179,7 +179,7 @@ installed.
   ```
 
   One could argue that the latter is more "canonical" since it has variance/standard
-  deviation of 1, not $`\frac{1}{2}`$ / $`\sqrt{\frac{1}{2}}`$.
+  deviation of 1, not `$\frac{1}{2}$` / `$\sqrt{\frac{1}{2}}$`.
   Compare with the [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
   ```math
