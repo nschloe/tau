@@ -60,8 +60,8 @@ The section _Adoption of the symbol π_ of the excellent article
 > radius) to form circle constants. (Before then, mathematicians sometimes used letters
 > such as c or p instead.) The first recorded use is Oughtred's "δ.π", to express the
 > ratio of periphery and diameter in the 1647 and later editions of Clavis Mathematicae.
-> Barrow likewise used "$`\frac{\pi}{\delta}`$" to represent the constant 3.14...,
-> **while Gregory instead used "$`\frac{\pi}{\rho}`$" to represent 6.28...**
+> Barrow likewise used "`$\frac{\pi}{\delta}$`" to represent the constant 3.14...,
+> **while Gregory instead used "`$\frac{\pi}{\rho}$`" to represent 6.28...**
 >
 > The earliest known use of the Greek letter π alone to represent the ratio of a
 > circle's circumference to its diameter was by Welsh mathematician William Jones in his
@@ -120,7 +120,7 @@ installed.
   ```
 
   With `$\tau$` being a full revolution, the following identities are very easy to grasp
-  (for integers $`n`$). Remember the sine is the projection of the angle onto the
+  (for integers `$n$`). Remember the sine is the projection of the angle onto the
   _y_-axis, the cosine is the projection onto the _x_-axis.
 
   ```math
@@ -134,8 +134,8 @@ installed.
 
   Trigonometric values off the grid can easily be estimated:
 
-  - $`\sin(27.4 \textcolor{teal}{\pi})`$ – Where is my calculator?
-  - $`\sin(13.7 \textcolor{orange}{\tau})`$ – 13 full revolutions: forget about those. Plus .7, that's
+  - `$\sin(27.4 \textcolor{teal}{\pi})$` – Where is my calculator?
+  - `$\sin(13.7 \textcolor{orange}{\tau})$` – 13 full revolutions: forget about those. Plus .7, that's
     almost 3/4 of a revolution, so probably something close to -1.
     (Actual value: -0.95105651629...)
 
