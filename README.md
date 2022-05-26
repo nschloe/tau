@@ -123,14 +123,14 @@ installed.
   (for integers $n$). Remember the sine is the projection of the angle onto the
   _y_-axis, the cosine is the projection onto the _x_-axis.
 
-  ```math
+  $$
   \begin{alignat*}{3}
     \sin(n \textcolor{orange}{\tau}) &= 0,          &\qquad \cos(n \textcolor{orange}{\tau}) &= 1,\\
     \sin((n + 1/4) \textcolor{orange}{\tau}) &= 1,  &\qquad \cos((n + 1/4) \textcolor{orange}{\tau}) &= 0,\\
     \sin((n + 1/2) \textcolor{orange}{\tau}) &= 0,  &\qquad \cos((n + 1/2) \textcolor{orange}{\tau}) &= -1,\\
     \sin((n + 3/4) \textcolor{orange}{\tau}) &= -1, &\qquad \cos((n + 3/4) \textcolor{orange}{\tau}) &= 0
   \end{alignat*}
-  ```
+  $$
 
   Trigonometric values off the grid can easily be estimated:
 
@@ -141,7 +141,7 @@ installed.
 
 - Area of the _n_-dimensional unit sphere
 
-  ```math
+  $$
   |U_n|
   = \frac{2\textcolor{teal}{\pi}^{n/2}}{\Gamma(n/2)}
   = \begin{cases}
@@ -149,7 +149,7 @@ installed.
   \textcolor{orange}{\tau} & \text{if } n = 2\\
   |U_{n-2}| \times \textcolor{orange}{\tau} / (n - 2) & \text{otherwise}
   \end{cases}
-  ```
+  $$
 
 - Volume of the _n_-dimensional unit ball
 
