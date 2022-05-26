@@ -245,34 +245,49 @@ installed.
 
 - Physics
   - Cosmological constant:
+
     $$
     \Lambda = \frac{4\textcolor{orange}{\tau} G}{3c^2} \rho
     $$
+
   - Heisenberg's uncertainty principle:
-    ```math
+
+    $$
     \Delta x \Delta p \ge \frac{h}{2 \textcolor{orange}{\tau}}
-    ```
+    $$
+
   - Einstein's field equation of general relativity:
-    ```math
+
+    $$
     R_{\mu\nu} = \frac{4\textcolor{orange}{\tau} G}{c^4} T_{\mu\nu}
-    ```
+    $$
+
   - Coulomb's law for the electric force in vacuum:
-    ```math
+
+    $$
     F = \frac{|q_1 q_2|}{2\textcolor{orange}{\tau} \varepsilon_0 r^2}
-    ```
+    $$
+
   - Magnetic permeability of free space:
-    ```math
+
+    $$
     \mu_0 \approx 2\textcolor{orange}{\tau} \times 10^{-7} N/A^2
-    ```
+    $$
+
   - Period of a simple pendulum with small amplitude:
-    ```math
+
+    $$
     T \approx \textcolor{orange}{\tau} \sqrt{\frac{L}{g}}
-    ```
+    $$
+
   - Kepler's third law of planetary motion:
-    ```math
+
+    $$
     \frac{R^3}{T^2} = \frac{GM}{\textcolor{orange}{\tau}^2}
-    ```
+    $$
+
   - The buckling formula:
-    ```math
+
+    $$
     F = \frac{\textcolor{orange}{\tau}^2 EI}{4L^2}
-    ```
+    $$
