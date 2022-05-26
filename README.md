@@ -153,7 +153,7 @@ installed.
 
 - Volume of the _n_-dimensional unit ball
 
-  ```math
+  $$
   |S_n|
   = \frac{\textcolor{teal}{\pi}^{n/2}}{\Gamma(n/2 + 1)}
   = \begin{cases}
@@ -161,93 +161,93 @@ installed.
   2 & \text{if } n = 1\\
   |S_{n-2}| \times \textcolor{orange}{\tau} / n & \text{otherwise}
   \end{cases}
-  ```
+  $$
 
   The area of a disk:
 
-  ```math
+  $$
   A = \textcolor{teal}{\pi} r^2 = \frac{\textcolor{orange}{\tau}}{2} r^2
-  ```
+  $$
 
 - more such examples at [ndim](https://github.com/nschloe/ndim)
 
 - Compare
 
-  ```math
+  $$
   \int_{-\infty}^{\infty} \exp(-x^2)\,dx = \sqrt{\textcolor{teal}{\pi}},\qquad
   \int_{-\infty}^{\infty} \exp(-x^2 / 2)\,dx = \sqrt{\textcolor{orange}{\tau}}
-  ```
+  $$
 
   One could argue that the latter is more "canonical" since it has variance/standard
   deviation of 1, not $\frac{1}{2}$ or $\sqrt{\frac{1}{2}}$.
   Compare with the [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
-  ```math
+  $$
   \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\textcolor{orange}{\tau}}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) \,dx= 1
-  ```
+  $$
 
 - [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
 
-  ```math
+  $$
   f(a) = \frac{1}{i\textcolor{orange}{\tau}} \oint \frac{f(z)}{z - a} \,dz
-  ```
+  $$
 
 - [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 
-  ```math
+  $$
   \hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) \exp(-i\textcolor{orange}{\tau} x\xi)\,dx,\quad
   f(x)         = \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\textcolor{orange}{\tau} x\xi)\,d\xi
-  ```
+  $$
 
 - [<emph>n</emph>th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
 
-  ```math
+  $$
   z^n = 1 \quad\Rightarrow\quad z = \exp(i\textcolor{orange}{\tau} k / n) \quad\forall k=0,\dots,n-1
-  ```
+  $$
 
 - [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
 
-  ```math
+  $$
   \exp(i \textcolor{teal}{\pi}) + 1  = 0,\quad
   \exp(i \textcolor{orange}{\tau}) - 1 = 0
-  ```
+  $$
 
 - [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
 
-  ```math
+  $$
   n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
-  ```
+  $$
 
 - [Particular values of the Gamma
   function](https://en.wikipedia.org/wiki/Particular_values_of_the_gamma_function)
 
-  ```math
+  $$
   \Gamma(n / 2)
   = \sqrt{\textcolor{teal}{\pi}} \frac{(n-2)!!}{2^{(n-1)/2}}
   = \sqrt{\textcolor{orange}{\tau}} \frac{(n-2)!!}{2^{n/2}}
-  ```
+  $$
 
-  ```math
+  $$
   \Gamma(1 / 2 + n)
   = \frac{(2n)!}{4^n n!} \sqrt{\textcolor{teal}{\pi}}
   = \frac{(2n)!}{4^n n!} \sqrt{\frac{\textcolor{orange}{\tau}}{2}}
-  ```
+  $$
 
 - [Particular values of the Riemann zeta function](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
 
-  ```math
+  $$
   \zeta(2) = \sum_{k=1}^{\infty} \frac{1}{k^2} = \frac{\textcolor{teal}{\pi}^2}{6} = \frac{\textcolor{orange}{\tau}^2}{24}
-  ```
+  $$
 
-  ```math
+  $$
   \zeta(2n) = \sum_{k=1}^{\infty} \frac{1}{k^{2n}} = (-1)^{n+1} \frac{\textcolor{orange}{\tau}^{2n} B_{2n}}{2 (2n)!}
-  ```
+  $$
 
 - Physics
   - Cosmological constant:
-    ```math
+    $$
     \Lambda = \frac{4\textcolor{orange}{\tau} G}{3c^2} \rho
-    ```
+    $$
   - Heisenberg's uncertainty principle:
     ```math
     \Delta x \Delta p \ge \frac{h}{2 \textcolor{orange}{\tau}}
