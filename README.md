@@ -103,12 +103,6 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
 ### Some equations
 
-[![xhub](https://img.shields.io/badge/Rendered%20with-xhub-f2eecb?style=flat-square)](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
-
-The following equations are best consumed on Chrome with
-[xhub](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
-installed.
-
 - Trigonometrics
 
   $$
