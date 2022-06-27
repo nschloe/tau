@@ -24,6 +24,7 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Robert P. Crease, _Constant failure_, 2008](https://physicsworld.com/a/constant-failure/)
 - [Michael Hartl, _The Tau Manifesto_, 2010](https://tauday.com/tau-manifesto)
   As paperback [on Amazon](https://www.amazon.com/Tau-Manifesto-No-really-pi-is-wrong/dp/B096CXMQ3W/)
+- [Natalie Wolchover, _Mathematicians Want to Say Goodbye to Pi_, 2011](https://www.livescience.com/14836-pi-wrong-tau.html)
 - [Randyn Charles Bartholomew, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
 - [Giorgia Fortuna, _2 Pi or Not 2 Pi?_, 2015](https://blog.wolfram.com/2015/06/28/2-pi-or-not-2-pi/)
 - [Stephen Abbott, _Aftermath: My Conversion to Tauism_, 2018](https://doi.org/10.4169%2Fmathhorizons.19.4.34)
