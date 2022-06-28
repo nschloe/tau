@@ -49,7 +49,7 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [3Blue1Brown, _How pi was almost 6.283185..._, 2018](https://youtu.be/bcPTiiiYDs8)
 - [BriTheMathGuy, _It's Tau Day (but should you care?)_, 2020](https://youtu.be/qifarbO4yX8)
 - [Khan Academy, _Tau versus pi_, 2021](https://youtu.be/1jDDfkKKgmc)
-- [EasyMemory, _Writing 1,000 decimals of Tau (2x Pi) from memory_](https://youtu.be/x41_CRWpgLc)
+- [EasyMemory, _Writing 1,000 decimals of Tau (2x Pi) from memory_, 2021](https://youtu.be/x41_CRWpgLc)
 
 ### In pop culture
 
