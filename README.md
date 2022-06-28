@@ -44,6 +44,7 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Numberphile, _Tau vs Pi Smackdown_, 2012](https://youtu.be/ZPv1UV0rD8U)
 - [Michael Hartl, _The Tau Manifesto talk (short version)_, 2015](https://youtu.be/2hhjsSN-AiU)
 - [Vihart, _Pi Rant 2018: Alternative Pi_](https://youtu.be/6acbBrLoi14?t=273)
+- [3Blue1Brown, _How pi was almost 6.283185..._, 2018](https://youtu.be/bcPTiiiYDs8)
 - [BriTheMathGuy, _It's Tau Day (but should you care?)_, 2020](https://youtu.be/qifarbO4yX8)
 - [Khan Academy, _Tau versus pi_, 2021](https://youtu.be/1jDDfkKKgmc)
 
