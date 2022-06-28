@@ -300,7 +300,7 @@ installed.
 [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao) remarks
 [here](http://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html?showComment=1186584000000#c971095637512882599):
 
-> It may be that `$2 \pi$` i is an even more fundamental constant than `$2 \pi$`
+> It may be that `$2 \pi i$` is an even more fundamental constant than `$2 \pi$`
 > or `$\pi$`. It is, after all, the generator of `$\log(1)$`. The fact that so many
 > formulae involving `$\pi^n$` depend on the parity of `$n$` is another clue in this
 > regard.
