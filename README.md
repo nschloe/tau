@@ -104,6 +104,7 @@ The section _Adoption of the symbol π_ of the excellent article
 
 Inclusion of a constant `tau` was _rejected_ by the following projects:
 
+- [Dart (2011)](https://github.com/dart-lang/sdk/issues/14)
 - [Julia (2013)](https://github.com/JuliaLang/julia/pull/4864)
 - [JavaScript (2014)](https://esdiscuss.org/topic/math-tau)
 - [NumPy (2017)](https://github.com/numpy/numpy/pull/9696)
