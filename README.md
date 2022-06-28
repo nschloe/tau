@@ -106,6 +106,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 - [Julia](https://github.com/JuliaLang/julia/pull/4864)
 - [NumPy](https://github.com/numpy/numpy/pull/9696)
 - [Go](https://github.com/golang/go/issues/40663)
+- [JavaScript](https://esdiscuss.org/topic/math-tau)
 
 ### Some equations
 
