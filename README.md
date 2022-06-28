@@ -100,6 +100,7 @@ The section _Adoption of the symbol π_ of the excellent article
 - [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703)
 - [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html)
 - [Boost, since 1.77.0 (2021)](https://www.boost.org/doc/libs/1_77_0/boost/math/constants/constants.hpp)
+- [OpenJDK, since 19 (2022)](https://github.com/openjdk/jdk/pull/7813)
 
 Inclusion of a constant `tau` was _rejected_ by the following projects:
 
