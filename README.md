@@ -108,6 +108,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 - [JavaScript (2014)](https://esdiscuss.org/topic/math-tau)
 - [NumPy (2017)](https://github.com/numpy/numpy/pull/9696)
 - [Go (2020)](https://github.com/golang/go/issues/40663)
+- [Luau (2022)](https://github.com/Roblox/luau/issues/278)
 
 ### Some equations
 
