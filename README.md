@@ -30,7 +30,7 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Randyn Charles Bartholomew, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
 - [Giorgia Fortuna, _2 Pi or Not 2 Pi?_, 2015](https://blog.wolfram.com/2015/06/28/2-pi-or-not-2-pi/)
 - [Stephen Abbott, _Aftermath: My Conversion to Tauism_, 2018](https://doi.org/10.4169%2Fmathhorizons.19.4.34)
-- [Chaim Gartenberg, _Tau Day is here: celebrate tau, not pi, as the true circle constant_](https://www.theverge.com/tldr/2018/3/14/17119388/pi-day-pie-math-tau-circle-constant-mathematics-circumference-diameter-radius-holiday-truth)
+- [Chaim Gartenberg, _Tau Day is here: celebrate tau, not pi, as the true circle constant_, 2018](https://www.theverge.com/tldr/2018/3/14/17119388/pi-day-pie-math-tau-circle-constant-mathematics-circumference-diameter-radius-holiday-truth)
 - [Paolo A., _in honor of tau_, 2021](https://mitadmissions.org/blogs/entry/in-honor-of-tau/)
 - <a href="https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals">Wikipedia,
   <emph>Proposals for a single letter to represent 2π</emph></a>
@@ -103,10 +103,10 @@ The section _Adoption of the symbol π_ of the excellent article
 
 Inclusion of a constant `tau` was _rejected_ by the following projects:
 
-- [Julia](https://github.com/JuliaLang/julia/pull/4864)
-- [NumPy](https://github.com/numpy/numpy/pull/9696)
-- [Go](https://github.com/golang/go/issues/40663)
-- [JavaScript](https://esdiscuss.org/topic/math-tau)
+- [Julia (2013)](https://github.com/JuliaLang/julia/pull/4864)
+- [JavaScript (2014)](https://esdiscuss.org/topic/math-tau)
+- [NumPy (2017)](https://github.com/numpy/numpy/pull/9696)
+- [Go (2020)](https://github.com/golang/go/issues/40663)
 
 ### Some equations
 
