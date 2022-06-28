@@ -22,10 +22,12 @@ This page lists notable articles, videos, discussion etc. about τ.
 ### Articles and blog posts
 
 - [Bob Palais, _π is wrong!_, 2001](https://doi.org/10.1007%2FBF03026846)
+- [Gasarch, _Is Pi defined in the best way?_, 2007](http://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html)
 - [Robert P. Crease, _Constant failure_, 2008](https://physicsworld.com/a/constant-failure/)
 - [Michael Hartl, _The Tau Manifesto_, 2010](https://tauday.com/tau-manifesto)
   As paperback
   [on Amazon](https://www.amazon.com/Tau-Manifesto-No-really-pi-is-wrong/dp/B096CXMQ3W/)
+- [Qiaochu Yuan, _Pi is still wrong_](https://qchu.wordpress.com/2011/03/14/pi-is-still-wrong/)
 - [Natalie Wolchover, _Mathematicians Want to Say Goodbye to Pi_, 2011](https://www.livescience.com/14836-pi-wrong-tau.html)
 - [Jason Palmer, _'Tau day' marked by opponents of maths constant pi_, 2011](https://www.bbc.com/news/science-environment-13906169)
 - [Randyn Charles Bartholomew, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
@@ -47,12 +49,15 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [3Blue1Brown, _How pi was almost 6.283185..._, 2018](https://youtu.be/bcPTiiiYDs8)
 - [BriTheMathGuy, _It's Tau Day (but should you care?)_, 2020](https://youtu.be/qifarbO4yX8)
 - [Khan Academy, _Tau versus pi_, 2021](https://youtu.be/1jDDfkKKgmc)
+- [EasyMemory, _Writing 1,000 decimals of Tau (2x Pi) from memory_](https://youtu.be/x41_CRWpgLc)
 
 ### In pop culture
 
-- [XKCD, _Pi vs. Tau_](https://xkcd.com/1292/)
+- [xkcd, _Pi vs. Tau_](https://xkcd.com/1292/)
+- [xkcd, _Symbols_](https://xkcd.com/2520/)
 - [SMBC, _Proposed Number Improvements_](https://www.smbc-comics.com/comic/numbers-3)
 - [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day)
+- [Elon Musk, _tau > pi_](https://twitter.com/elonmusk/status/1496066844284928003)
 
 ### Historical uses
 
@@ -289,3 +294,13 @@ installed.
     ```math
     F = \frac{\textcolor{orange}{\tau}^2 EI}{4L^2}
     ```
+
+### Going further: `$2\pi i$`?
+
+[Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao) remarks
+[here](http://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html?showComment=1186584000000#c971095637512882599):
+
+> It may be that `$2 \pi$` i is an even more fundamental constant than `$2 \pi$`
+> or `$\pi$`. It is, after all, the generator of `$\log(1)$`. The fact that so many
+> formulae involving `$\pi^n$` depend on the parity of `$n$` is another clue in this
+> regard.
