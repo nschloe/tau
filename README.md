@@ -61,8 +61,8 @@ The section _Adoption of the symbol π_ of the excellent article
 > radius) to form circle constants. (Before then, mathematicians sometimes used letters
 > such as c or p instead.) The first recorded use is Oughtred's "δ.π", to express the
 > ratio of periphery and diameter in the 1647 and later editions of Clavis Mathematicae.
-> Barrow likewise used "`$\frac{\pi}{\delta}$`" to represent the constant 3.14...,
-> **while Gregory instead used "`$\frac{\pi}{\rho}$`" to represent 6.28...**
+> Barrow likewise used "$\frac{\pi}{\delta}$" to represent the constant 3.14...,
+> **while Gregory instead used "$\frac{\pi}{\rho}$" to represent 6.28...**
 >
 > The earliest known use of the Greek letter π alone to represent the ratio of a
 > circle's circumference to its diameter was by Welsh mathematician William Jones in his
@@ -104,45 +104,39 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
 ### Some equations
 
-[![xhub](https://img.shields.io/badge/Rendered%20with-xhub-f2eecb?style=flat-square)](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
-
-The following equations are best consumed on Chrome with
-[xhub](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
-installed.
-
 - Trigonometrics
 
-  ```math
+  $$
   \begin{split}
   \sin(\alpha) &= \sin(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha\\
   \cos(\alpha) &= \cos(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha\\
   \tan(\alpha) &= \tan(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha
   \end{split}
-  ```
+  $$
 
-  With `$\tau$` being a full revolution, the following identities are very easy to grasp
-  (for integers `$n$`). Remember the sine is the projection of the angle onto the
+  With $\tau$ being a full revolution, the following identities are very easy to grasp
+  (for integers $n$). Remember the sine is the projection of the angle onto the
   _y_-axis, the cosine is the projection onto the _x_-axis.
 
-  ```math
+  $$
   \begin{alignat*}{3}
     \sin(n \textcolor{orange}{\tau}) &= 0,          &\qquad \cos(n \textcolor{orange}{\tau}) &= 1,\\
     \sin((n + 1/4) \textcolor{orange}{\tau}) &= 1,  &\qquad \cos((n + 1/4) \textcolor{orange}{\tau}) &= 0,\\
     \sin((n + 1/2) \textcolor{orange}{\tau}) &= 0,  &\qquad \cos((n + 1/2) \textcolor{orange}{\tau}) &= -1,\\
     \sin((n + 3/4) \textcolor{orange}{\tau}) &= -1, &\qquad \cos((n + 3/4) \textcolor{orange}{\tau}) &= 0
   \end{alignat*}
-  ```
+  $$
 
   Trigonometric values off the grid can easily be estimated:
 
-  - `$\sin(27.4 \textcolor{teal}{\pi})$` – Where is my calculator?
-  - `$\sin(13.7 \textcolor{orange}{\tau})$` – 13 full revolutions: forget about those. Plus .7, that's
+  - $\sin(27.4 \textcolor{teal}{\pi})$ – Where is my calculator?
+  - $\sin(13.7 \textcolor{orange}{\tau})$ – 13 full revolutions: forget about those. Plus .7, that's
     almost 3/4 of a revolution, so probably something close to -1.
     (Actual value: -0.95105651629...)
 
 - Area of the _n_-dimensional unit sphere
 
-  ```math
+  $$
   |U_n|
   = \frac{2\textcolor{teal}{\pi}^{n/2}}{\Gamma(n/2)}
   = \begin{cases}
@@ -150,11 +144,11 @@ installed.
   \textcolor{orange}{\tau} & \text{if } n = 2\\
   |U_{n-2}| \times \textcolor{orange}{\tau} / (n - 2) & \text{otherwise}
   \end{cases}
-  ```
+  $$
 
 - Volume of the _n_-dimensional unit ball
 
-  ```math
+  $$
   |S_n|
   = \frac{\textcolor{teal}{\pi}^{n/2}}{\Gamma(n/2 + 1)}
   = \begin{cases}
@@ -162,118 +156,133 @@ installed.
   2 & \text{if } n = 1\\
   |S_{n-2}| \times \textcolor{orange}{\tau} / n & \text{otherwise}
   \end{cases}
-  ```
+  $$
 
   The area of a disk:
 
-  ```math
+  $$
   A = \textcolor{teal}{\pi} r^2 = \frac{\textcolor{orange}{\tau}}{2} r^2
-  ```
+  $$
 
 - more such examples at [ndim](https://github.com/nschloe/ndim)
 
 - Compare
 
-  ```math
+  $$
   \int_{-\infty}^{\infty} \exp(-x^2)\,dx = \sqrt{\textcolor{teal}{\pi}},\qquad
   \int_{-\infty}^{\infty} \exp(-x^2 / 2)\,dx = \sqrt{\textcolor{orange}{\tau}}
-  ```
+  $$
 
   One could argue that the latter is more "canonical" since it has variance/standard
-  deviation of 1, not `$\frac{1}{2}$` / `$\sqrt{\frac{1}{2}}$`.
+  deviation of 1, not $\frac{1}{2}$ or $\sqrt{\frac{1}{2}}$.
   Compare with the [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
-  ```math
+  $$
   \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\textcolor{orange}{\tau}}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) \,dx= 1
-  ```
+  $$
 
 - [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
 
-  ```math
+  $$
   f(a) = \frac{1}{i\textcolor{orange}{\tau}} \oint \frac{f(z)}{z - a} \,dz
-  ```
+  $$
 
 - [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 
-  ```math
+  $$
   \hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) \exp(-i\textcolor{orange}{\tau} x\xi)\,dx,\quad
   f(x)         = \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\textcolor{orange}{\tau} x\xi)\,d\xi
-  ```
+  $$
 
 - [<emph>n</emph>th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
 
-  ```math
+  $$
   z^n = 1 \quad\Rightarrow\quad z = \exp(i\textcolor{orange}{\tau} k / n) \quad\forall k=0,\dots,n-1
-  ```
+  $$
 
 - [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
 
-  ```math
+  $$
   \exp(i \textcolor{teal}{\pi}) + 1  = 0,\quad
   \exp(i \textcolor{orange}{\tau}) - 1 = 0
-  ```
+  $$
 
 - [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
 
-  ```math
+  $$
   n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
-  ```
+  $$
 
 - [Particular values of the Gamma
   function](https://en.wikipedia.org/wiki/Particular_values_of_the_gamma_function)
 
-  ```math
+  $$
   \Gamma(n / 2)
   = \sqrt{\textcolor{teal}{\pi}} \frac{(n-2)!!}{2^{(n-1)/2}}
   = \sqrt{\textcolor{orange}{\tau}} \frac{(n-2)!!}{2^{n/2}}
-  ```
+  $$
 
-  ```math
+  $$
   \Gamma(1 / 2 + n)
   = \frac{(2n)!}{4^n n!} \sqrt{\textcolor{teal}{\pi}}
   = \frac{(2n)!}{4^n n!} \sqrt{\frac{\textcolor{orange}{\tau}}{2}}
-  ```
+  $$
 
 - [Particular values of the Riemann zeta function](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
 
-  ```math
+  $$
   \zeta(2) = \sum_{k=1}^{\infty} \frac{1}{k^2} = \frac{\textcolor{teal}{\pi}^2}{6} = \frac{\textcolor{orange}{\tau}^2}{24}
-  ```
+  $$
 
-  ```math
+  $$
   \zeta(2n) = \sum_{k=1}^{\infty} \frac{1}{k^{2n}} = (-1)^{n+1} \frac{\textcolor{orange}{\tau}^{2n} B_{2n}}{2 (2n)!}
-  ```
+  $$
 
 - Physics
   - Cosmological constant:
-    ```math
+
+    $$
     \Lambda = \frac{4\textcolor{orange}{\tau} G}{3c^2} \rho
-    ```
+    $$
+
   - Heisenberg's uncertainty principle:
-    ```math
+
+    $$
     \Delta x \Delta p \ge \frac{h}{2 \textcolor{orange}{\tau}}
-    ```
+    $$
+
   - Einstein's field equation of general relativity:
-    ```math
+
+    $$
     R_{\mu\nu} = \frac{4\textcolor{orange}{\tau} G}{c^4} T_{\mu\nu}
-    ```
+    $$
+
   - Coulomb's law for the electric force in vacuum:
-    ```math
+
+    $$
     F = \frac{|q_1 q_2|}{2\textcolor{orange}{\tau} \varepsilon_0 r^2}
-    ```
+    $$
+
   - Magnetic permeability of free space:
-    ```math
+
+    $$
     \mu_0 \approx 2\textcolor{orange}{\tau} \times 10^{-7} N/A^2
-    ```
+    $$
+
   - Period of a simple pendulum with small amplitude:
-    ```math
+
+    $$
     T \approx \textcolor{orange}{\tau} \sqrt{\frac{L}{g}}
-    ```
+    $$
+
   - Kepler's third law of planetary motion:
-    ```math
+
+    $$
     \frac{R^3}{T^2} = \frac{GM}{\textcolor{orange}{\tau}^2}
-    ```
+    $$
+
   - The buckling formula:
-    ```math
+
+    $$
     F = \frac{\textcolor{orange}{\tau}^2 EI}{4L^2}
-    ```
+    $$
