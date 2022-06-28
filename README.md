@@ -107,6 +107,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 - [Dart (2011)](https://github.com/dart-lang/sdk/issues/14)
 - [Julia (2013)](https://github.com/JuliaLang/julia/pull/4864)
 - [JavaScript (2014)](https://esdiscuss.org/topic/math-tau)
+- [Ruby (2016)](https://bugs.ruby-lang.org/issues/4897)
 - [NumPy (2017)](https://github.com/numpy/numpy/pull/9696)
 - [Go (2020)](https://github.com/golang/go/issues/40663)
 - [Luau (2022)](https://github.com/Roblox/luau/issues/278)
