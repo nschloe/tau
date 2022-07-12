@@ -27,7 +27,7 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Michael Hartl, _The Tau Manifesto_, 2010](https://tauday.com/tau-manifesto)
   As paperback
   [on Amazon](https://www.amazon.com/Tau-Manifesto-No-really-pi-is-wrong/dp/B096CXMQ3W/)
-- [Qiaochu Yuan, _Pi is still wrong_](https://qchu.wordpress.com/2011/03/14/pi-is-still-wrong/)
+- [Qiaochu Yuan, _Pi is still wrong_, 2011](https://qchu.wordpress.com/2011/03/14/pi-is-still-wrong/)
 - [Natalie Wolchover, _Mathematicians Want to Say Goodbye to Pi_, 2011](https://www.livescience.com/14836-pi-wrong-tau.html)
 - [Jason Palmer, _'Tau day' marked by opponents of maths constant pi_, 2011](https://www.bbc.com/news/science-environment-13906169)
 - [Randyn Charles Bartholomew, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
@@ -297,7 +297,8 @@ installed.
 
 ### Going further: `$2\pi i$`?
 
-[Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao) remarks
+[Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao) (no pun intended)
+remarks
 [here](http://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html?showComment=1186584000000#c971095637512882599):
 
 > It may be that `$2 \pi i$` is an even more fundamental constant than `$2 \pi$`
