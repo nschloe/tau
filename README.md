@@ -286,7 +286,7 @@ installed.
     ```math
     T \approx \textcolor{orange}{\tau} \sqrt{\frac{L}{g}}
     ```
-  - Exact period of a simple pendulum with amplitude `$\theta_0`$:
+  - Exact period of a simple pendulum with amplitude `$\theta_0$`:
     ```math
     T = \frac{\textcolor{orange}{\tau}}{agm(1, \cos(\theta_0/2))} \sqrt{\frac{L}{g}}
     ```
