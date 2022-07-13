@@ -282,10 +282,17 @@ installed.
     ```math
     \mu_0 \approx 2\textcolor{orange}{\tau} \times 10^{-7} N/A^2
     ```
-  - Period of a simple pendulum with small amplitude:
+  - Approximate period of a simple pendulum with small amplitude:
     ```math
     T \approx \textcolor{orange}{\tau} \sqrt{\frac{L}{g}}
     ```
+  - Exact period of a simple pendulum with amplitude `$\theta_0`$:
+    ```math
+    T = \frac{\textcolor{orange}{\tau}}{agm(1, \cos(\theta_0/2))} \sqrt{\frac{L}{g}}
+    ```
+    (`$agm$` is the [arithmetic-geometric
+    mean](https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean).)
+
   - Kepler's third law of planetary motion:
     ```math
     \frac{R^3}{T^2} = \frac{GM}{\textcolor{orange}{\tau}^2}
