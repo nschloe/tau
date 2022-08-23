@@ -105,13 +105,13 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
 - Trigonometrics
 
-  $$
+  ```math
   \begin{split}
   \sin(\alpha) &= \sin(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha\\
   \cos(\alpha) &= \cos(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha\\
   \tan(\alpha) &= \tan(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha
   \end{split}
-  $$
+  ```
 
   With $\tau$ being a full revolution, the following identities are very easy to grasp
   (for integers $n$). Remember the sine is the projection of the angle onto the
