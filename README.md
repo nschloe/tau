@@ -55,6 +55,7 @@ Articles _against_ τ:
 - [Numberphile, _Tau replaces Pi_, 2012](https://youtu.be/83ofi_L6eAo)
 - [Numberphile, _Tau vs Pi Smackdown_, 2012](https://youtu.be/ZPv1UV0rD8U)
 - [Michael Hartl, _The Tau Manifesto talk (short version)_, 2015](https://youtu.be/2hhjsSN-AiU)
+- [Michael Hartl, _The Tau Manifesto | Talks at Google_, 2017](https://youtu.be/k7MuXCOlE6M)
 - [Vihart, _Pi Rant 2018: Alternative Pi_](https://youtu.be/6acbBrLoi14?t=273)
 - [3Blue1Brown, _How pi was almost 6.283185..._, 2018](https://youtu.be/bcPTiiiYDs8)
 - [BriTheMathGuy, _It's Tau Day (but should you care?)_, 2020](https://youtu.be/qifarbO4yX8)
@@ -114,6 +115,7 @@ The section _Adoption of the symbol π_ of the excellent article
 - [CSS (2018)](https://www.w3.org/TR/2018/WD-css-values-4-20180814/#angles)
   (called "turn")
 - [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703)
+- [Zig, since 0.6.0 (2019)](https://github.com/ziglang/zig/pull/3716)
 - [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html)
 - [.NET, C#, since 5.0 (2020)](https://github.com/dotnet/runtime/pull/37517)
   <!--https://docs.microsoft.com/en-us/dotnet/api/system.math.tau-->
