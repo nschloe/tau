@@ -67,6 +67,7 @@ Articles _against_ τ:
 - [xkcd, _Pi vs. Tau_](https://xkcd.com/1292/)
 - [xkcd, _Symbols_](https://xkcd.com/2520/)
 - [SMBC, _Proposed Number Improvements_](https://www.smbc-comics.com/comic/numbers-3)
+- [SMBC, _Pi-Tau conversion constant_](https://www.smbc-comics.com/comic/2013-10-04)
 - [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day)
 - [Elon Musk, _tau > pi_](https://twitter.com/elonmusk/status/1496066844284928003)
 
