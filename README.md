@@ -62,6 +62,11 @@ Articles _against_ τ:
 - [Khan Academy, _Tau versus pi_, 2021](https://youtu.be/1jDDfkKKgmc)
 - [EasyMemory, _Writing 1,000 decimals of Tau (2x Pi) from memory_, 2021](https://youtu.be/x41_CRWpgLc)
 
+### Textbooks
+
+- [Phil A. Smith, _Trigonometry With Tau as Circle Constant_, 2015](https://taufortrig.org/docs/trigbook.pdf)
+- [Phil A. Smith, _College Trigonometry With Extensive Use of the Tau Transcendental_, 2015](https://taufortrig.org/docs/AlgTrigBookprint.pdf)
+
 ### In pop culture
 
 - [xkcd, _Pi vs. Tau_](https://xkcd.com/1292/)
