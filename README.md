@@ -21,7 +21,6 @@ This page lists notable articles, videos, discussion etc. about τ.
 
 ### Articles and blog posts
 
-- [Joseph Lindenberg, _Tau Before It Was Cool_, 1991](https://sites.google.com/site/taubeforeitwascool/)
 - [Bob Palais, _π is wrong!_, 2001](https://doi.org/10.1007%2FBF03026846)
 - [Bob Palais' web page](https://www.math.utah.edu/~palais/pi.html)
 - [Bill Gasarch, _Is Pi defined in the best way?_, 2007](http://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html)
@@ -29,6 +28,7 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Michael Hartl, _The Tau Manifesto_, 2010](https://tauday.com/tau-manifesto).
   As paperback
   [on Amazon](https://www.amazon.de/-/en/Michael-Hartl/dp/B096CXMQ3W)
+- [Joseph Lindenberg, _Tau Before It Was Cool_, 2011](https://sites.google.com/site/taubeforeitwascool/)
 - [Qiaochu Yuan, _Pi is still wrong_, 2011](https://qchu.wordpress.com/2011/03/14/pi-is-still-wrong/)
 - [Natalie Wolchover, _Mathematicians Want to Say Goodbye to Pi_, 2011](https://www.livescience.com/14836-pi-wrong-tau.html)
 - [Jason Palmer, _'Tau day' marked by opponents of maths constant pi_, 2011](https://www.bbc.com/news/science-environment-13906169)
@@ -36,6 +36,7 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Duncan Geere, _Happy Pi day! Let's kill it_, 2011](https://www.wired.co.uk/article/pi-winning)
 - [Drew Grant, _Pi Day threatened by tau protestors_, 2011](https://www.salon.com/2011/03/14/national_pi_day_viral_videos/)
 - [Murray Bourne, _Let’s drop pi_, 2011](https://www.intmath.com/blog/mathematics/lets-drop-pi-5665)
+- [Eric Raymond, _Tau versus Pi_, 2011](http://esr.ibiblio.org/?p=3481)
 - [Ethan Brown, _Pi vs Tau: Pi's Rebuttal_, 2013](http://coolmathstuff123.blogspot.com/2013/02/pi-vs-tau-pis-rebuttal_9.html)
 - [Randyn Charles Bartholomew, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
 - [Giorgia Fortuna, _2 Pi or Not 2 Pi?_, 2015](https://blog.wolfram.com/2015/06/28/2-pi-or-not-2-pi/)
@@ -91,7 +92,7 @@ Articles _against_ τ:
 
 ### Historical uses
 
-- Al-Kāshī, _Treatise on the Circumference of the Circle_, 1424. See [Peter
+- [Al-Kāshī](https://en.wikipedia.org/wiki/Jamsh%C4%ABd_al-K%C4%81sh%C4%AB), _Treatise on the Circumference of the Circle_, 1424. See [Peter
   Harremoës, _Al-Kāshī’s constant_,
   2018](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.pdf)
 
