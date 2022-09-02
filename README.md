@@ -49,6 +49,8 @@ This page lists notable articles, videos, discussion etc. about τ.
 
 Articles _against_ τ:
 
+- [The Pi Manifesto](https://archive.ph/VnJ2x)
+- [The Proper π Manifesto](http://proper-pi-manifesto.com/)
 - [Marc B. Reynolds, _Tau and the art of Windmill jousting_, 2020](http://marc-b-reynolds.github.io/math/2020/01/06/Tau.html)
 
 ### Videos
@@ -65,6 +67,7 @@ Articles _against_ τ:
 - [DerkCopyleft, _Tau=6,28... and has Perfect Numbers - Tau tiene Números Perfectos_, 2015](https://youtu.be/n1yshPWUlJw)
 - [Sen Zen, _Pi vs Tau_, 2016](https://youtu.be/ZEbTMbX9Qpo)
 - [Michael Hartl, _The Tau Manifesto | Talks at Google_, 2017](https://youtu.be/k7MuXCOlE6M)
+- [QuantumOverlord, _Refuting the Pi manifesto on Tau day_, 2017](https://youtu.be/k73uQF4iB_g)
 - [Vihart, _Pi Rant 2018: Alternative Pi_](https://youtu.be/6acbBrLoi14?t=273)
 - [3Blue1Brown, _How pi was almost 6.283185..._, 2018](https://youtu.be/bcPTiiiYDs8)
 - [BriTheMathGuy, _It's Tau Day (but should you care?)_, 2020](https://youtu.be/qifarbO4yX8)
