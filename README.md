@@ -37,6 +37,7 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Drew Grant, _Pi Day threatened by tau protestors_, 2011](https://www.salon.com/2011/03/14/national_pi_day_viral_videos/)
 - [Murray Bourne, _Let’s drop pi_, 2011](https://www.intmath.com/blog/mathematics/lets-drop-pi-5665)
 - [Eric Raymond, _Tau versus Pi_, 2011](http://esr.ibiblio.org/?p=3481)
+- [Stanley M. Max, _Radian Measurement: What It Is, and How to Calculate It More Easily Using τ Instead of π_, 2011](http://www.metricphilatelist.net/TowsonU/course_material/tau/radian_measurement.pdf)
 - [Ethan Brown, _Pi vs Tau: Pi's Rebuttal_, 2013](http://coolmathstuff123.blogspot.com/2013/02/pi-vs-tau-pis-rebuttal_9.html)
 - [Randyn Charles Bartholomew, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
 - [Giorgia Fortuna, _2 Pi or Not 2 Pi?_, 2015](https://blog.wolfram.com/2015/06/28/2-pi-or-not-2-pi/)
@@ -44,6 +45,7 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Stephen Abbott, _Aftermath: My Conversion to Tauism_, 2018](https://doi.org/10.4169%2Fmathhorizons.19.4.34)
 - [Chaim Gartenberg, _Tau Day is here: celebrate tau, not pi, as the true circle constant_, 2018](https://www.theverge.com/tldr/2018/3/14/17119388/pi-day-pie-math-tau-circle-constant-mathematics-circumference-diameter-radius-holiday-truth)
 - [Peter Harremoës, _Al-Kāshī’s constant_, 2018](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.pdf)
+- [Lulzim Gjyrgjialli, _Circle constant is a turn_, 2018](https://www.itisaturn.com/assets/docs/itisaturn.pdf)
 - [Paolo A., _in honor of tau_, 2021](https://mitadmissions.org/blogs/entry/in-honor-of-tau/)
 - <a href="https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals">Wikipedia,
   <emph>Proposals for a single letter to represent 2π</emph></a>
@@ -59,6 +61,7 @@ Articles _against_ τ:
 - [Vihart, _Pi Is (still) Wrong_, 2011](https://youtu.be/jG7vhMMXagQ)
 - [Michael Blake, _What Tau Sounds Like_, 2011](https://youtu.be/3174T-3-59Q)
 - [Kevin Houston, _Pi is wrong! Here comes Tau Day_, 2011](https://youtu.be/IF1zcRoOVN0)
+- [Matheatre1, _6.283..._, 2011](https://youtu.be/uAFU-K4M9Ck)
 - [Michael Hartl, _No, really, pi is wrong: The Tau Manifesto_, 2012](https://youtu.be/H69YH5TnNXI)
 - [Numberphile, _Tau replaces Pi_, 2012](https://youtu.be/83ofi_L6eAo)
 - [Numberphile, _Tau vs Pi Smackdown_, 2012](https://youtu.be/ZPv1UV0rD8U)
