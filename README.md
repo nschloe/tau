@@ -50,6 +50,7 @@ Articles _against_ τ:
 ### Videos
 
 - [Vihart, _Pi Is (still) Wrong_, 2011](https://youtu.be/jG7vhMMXagQ)
+- [Michael Blake, _What Tau Sounds Like_, 2011](https://youtu.be/3174T-3-59Q)
 - [Michael Hartl, _No, really, pi is wrong: The Tau Manifesto_, 2012](https://youtu.be/H69YH5TnNXI)
 - [Numberphile, _Tau replaces Pi_, 2012](https://youtu.be/83ofi_L6eAo)
 - [Numberphile, _Tau vs Pi Smackdown_, 2012](https://youtu.be/ZPv1UV0rD8U)
@@ -110,11 +111,12 @@ The section _Adoption of the symbol π_ of the excellent article
 - [Raku, since 2015](https://docs.raku.org/language/terms#term_tau)
 - [Nim, since 0.14.0 (2016)](https://github.com/nim-lang/Nim/pull/3976)
 - [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/)
-- [.NET, C#, since 5.0 (2016)](https://docs.microsoft.com/en-us/dotnet/api/system.math.tau)
 - [CSS (2018)](https://www.w3.org/TR/2018/WD-css-values-4-20180814/#angles)
   (called "turn")
 - [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703)
 - [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html)
+- [.NET, C#, since 5.0 (2020)](https://github.com/dotnet/runtime/pull/37517)
+  <!--https://docs.microsoft.com/en-us/dotnet/api/system.math.tau-->
 - [Boost, since 1.77.0 (2021)](https://www.boost.org/doc/libs/1_77_0/boost/math/constants/constants.hpp)
 - [OpenJDK, since 19 (2022)](https://github.com/openjdk/jdk/pull/7813)
 
