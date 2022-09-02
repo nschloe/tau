@@ -22,7 +22,8 @@ This page lists notable articles, videos, discussion etc. about τ.
 ### Articles and blog posts
 
 - [Bob Palais, _π is wrong!_, 2001](https://doi.org/10.1007%2FBF03026846)
-- [Gasarch, _Is Pi defined in the best way?_, 2007](http://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html)
+- [Bob Palais' web page](https://www.math.utah.edu/~palais/pi.html)
+- [Bill Gasarch, _Is Pi defined in the best way?_, 2007](http://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html)
 - [Robert P. Crease, _Constant failure_, 2008](https://physicsworld.com/a/constant-failure/)
 - [Michael Hartl, _The Tau Manifesto_, 2010](https://tauday.com/tau-manifesto)
   As paperback
@@ -30,6 +31,10 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Qiaochu Yuan, _Pi is still wrong_, 2011](https://qchu.wordpress.com/2011/03/14/pi-is-still-wrong/)
 - [Natalie Wolchover, _Mathematicians Want to Say Goodbye to Pi_, 2011](https://www.livescience.com/14836-pi-wrong-tau.html)
 - [Jason Palmer, _'Tau day' marked by opponents of maths constant pi_, 2011](https://www.bbc.com/news/science-environment-13906169)
+- [Elizabeth Landau, _On Pi Day, is 'pi' under attack?_](http://edition.cnn.com/2011/TECH/innovation/03/14/pi.tau.math/index.html?hpt=T2)
+- [Duncan Geere, _Happy Pi day! Let's kill it_](https://www.wired.co.uk/article/pi-winning)
+- [Drew Grant, _Pi Day threatened by tau protestors_, 2011](https://www.salon.com/2011/03/14/national_pi_day_viral_videos/)
+- [Ethan Brown, _Pi vs Tau: Pi's Rebuttal_, 2013](http://coolmathstuff123.blogspot.com/2013/02/pi-vs-tau-pis-rebuttal_9.html)
 - [Randyn Charles Bartholomew, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
 - [Giorgia Fortuna, _2 Pi or Not 2 Pi?_, 2015](https://blog.wolfram.com/2015/06/28/2-pi-or-not-2-pi/)
 - [Stephen Abbott, _Aftermath: My Conversion to Tauism_, 2018](https://doi.org/10.4169%2Fmathhorizons.19.4.34)
@@ -37,6 +42,10 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Paolo A., _in honor of tau_, 2021](https://mitadmissions.org/blogs/entry/in-honor-of-tau/)
 - <a href="https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals">Wikipedia,
   <emph>Proposals for a single letter to represent 2π</emph></a>
+
+Articles _against_ τ:
+
+- [Marc B. Reynolds, _Tau and the art of Windmill jousting_, 2020](http://marc-b-reynolds.github.io/math/2020/01/06/Tau.html)
 
 ### Videos
 
@@ -262,6 +271,7 @@ installed.
   ```
 
 - Physics
+
   - Cosmological constant:
     ```math
     \Lambda = \frac{4\textcolor{orange}{\tau} G}{3c^2} \rho
@@ -287,9 +297,11 @@ installed.
     T \approx \textcolor{orange}{\tau} \sqrt{\frac{L}{g}}
     ```
   - Exact period of a simple pendulum with amplitude `$\theta_0$`:
+
     ```math
     T = \frac{\textcolor{orange}{\tau}}{agm(1, \cos(\theta_0/2))} \sqrt{\frac{L}{g}}
     ```
+
     (`$agm$` is the [arithmetic-geometric
     mean](https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean).)
 
