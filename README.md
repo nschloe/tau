@@ -39,7 +39,9 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Giorgia Fortuna, _2 Pi or Not 2 Pi?_, 2015](https://blog.wolfram.com/2015/06/28/2-pi-or-not-2-pi/)
 - [Stephen Abbott, _Aftermath: My Conversion to Tauism_, 2018](https://doi.org/10.4169%2Fmathhorizons.19.4.34)
 - [Chaim Gartenberg, _Tau Day is here: celebrate tau, not pi, as the true circle constant_, 2018](https://www.theverge.com/tldr/2018/3/14/17119388/pi-day-pie-math-tau-circle-constant-mathematics-circumference-diameter-radius-holiday-truth)
+- [Peter Harremoës, _Al-Kāshī’s constant_, 2018](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.pdf)
 - [Paolo A., _in honor of tau_, 2021](https://mitadmissions.org/blogs/entry/in-honor-of-tau/)
+- [Joseph Lindenberg, _Tau Before It Was Cool_, 2021](https://sites.google.com/site/taubeforeitwascool/)
 - <a href="https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals">Wikipedia,
   <emph>Proposals for a single letter to represent 2π</emph></a>
 
@@ -73,60 +75,67 @@ Articles _against_ τ:
 - [xkcd, _Symbols_](https://xkcd.com/2520/)
 - [SMBC, _Proposed Number Improvements_](https://www.smbc-comics.com/comic/numbers-3)
 - [SMBC, _Pi-Tau conversion constant_](https://www.smbc-comics.com/comic/2013-10-04)
+- [Crooked Stave Artisan Beer Project, _Key Lime Tau (2π)_](https://untappd.com/b/crooked-stave-artisan-beer-project-key-lime-tau-2p/1343706)
 - [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day)
 - [Elon Musk, _tau > pi_](https://twitter.com/elonmusk/status/1496066844284928003)
 
 ### Historical uses
 
-The section _Adoption of the symbol π_ of the excellent article
-[Pi](https://www.wikiwand.com/en/Pi) says:
+- Al-Kāshī, _Treatise on the Circumference of the Circle_, 1424. See [Peter
+  Harremoës, _Al-Kāshī’s constant_,
+  2018](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.pdf)
 
-> In the earliest usages, the Greek letter π was an abbreviation of the Greek
-> word for periphery (περιφέρεια), and was combined in ratios with δ (for
-> diameter) or ρ (for radius) to form circle constants. (Before then,
-> mathematicians sometimes used letters such as c or p instead.) The first
-> recorded use is Oughtred's "δ.π", to express the ratio of periphery and
-> diameter in the 1647 and later editions of Clavis Mathematicae. Barrow
-> likewise used "`$\frac{\pi}{\delta}$`" to represent the constant 3.14...,
-> **while Gregory instead used "`$\frac{\pi}{\rho}$`" to represent 6.28...**
->
-> The earliest known use of the Greek letter π alone to represent the ratio of a
-> circle's circumference to its diameter was by Welsh mathematician William
-> Jones in his 1706 work Synopsis Palmariorum Matheseos; or, a New Introduction
-> to the Mathematics. The Greek letter first appears there in the phrase "1/2
-> Periphery (π)" in the discussion of a circle with radius one. However, he
-> writes that his equations for π are from the "ready pen of the truly ingenious
-> Mr. John Machin", leading to speculation that Machin may have employed the
-> Greek letter before Jones. Jones' notation was not immediately adopted by
-> other mathematicians, with the fraction notation still being used as late
-> as 1767.
->
-> Euler started using the single-letter form beginning with his 1727 Essay
-> Explaining the Properties of Air, **though he used π = 6.28..., the ratio of
-> periphery to radius, in this and some later writing.** Euler first used π =
-> 3.14... in his 1736 work Mechanica, and continued in his widely-read 1748 work
-> Introductio in analysin infinitorum (he wrote: "for the sake of brevity we
-> will write this number as π; thus π is equal to half the circumference of a
-> circle of radius 1"). Because Euler corresponded heavily with other
-> mathematicians in Europe, the use of the Greek letter spread rapidly, and the
-> practice was universally adopted thereafter in the Western world, **though the
-> definition still varied between 3.14... and 6.28... as late as 1761.**
+- The section _Adoption of the symbol π_ of the excellent article
+  [Pi](https://www.wikiwand.com/en/Pi) says:
+
+  > In the earliest usages, the Greek letter π was an abbreviation of the Greek
+  > word for periphery (περιφέρεια), and was combined in ratios with δ (for
+  > diameter) or ρ (for radius) to form circle constants. (Before then,
+  > mathematicians sometimes used letters such as c or p instead.) The first
+  > recorded use is Oughtred's "δ.π", to express the ratio of periphery and
+  > diameter in the 1647 and later editions of Clavis Mathematicae. Barrow
+  > likewise used "`$\frac{\pi}{\delta}$`" to represent the constant 3.14...,
+  > **while Gregory instead used "`$\frac{\pi}{\rho}$`" to represent 6.28...**
+  >
+  > The earliest known use of the Greek letter π alone to represent the ratio of a
+  > circle's circumference to its diameter was by Welsh mathematician William
+  > Jones in his 1706 work Synopsis Palmariorum Matheseos; or, a New Introduction
+  > to the Mathematics. The Greek letter first appears there in the phrase "1/2
+  > Periphery (π)" in the discussion of a circle with radius one. However, he
+  > writes that his equations for π are from the "ready pen of the truly ingenious
+  > Mr. John Machin", leading to speculation that Machin may have employed the
+  > Greek letter before Jones. Jones' notation was not immediately adopted by
+  > other mathematicians, with the fraction notation still being used as late
+  > as 1767.
+  >
+  > Euler started using the single-letter form beginning with his 1727 Essay
+  > Explaining the Properties of Air, **though he used π = 6.28..., the ratio of
+  > periphery to radius, in this and some later writing.** Euler first used π =
+  > 3.14... in his 1736 work Mechanica, and continued in his widely-read 1748 work
+  > Introductio in analysin infinitorum (he wrote: "for the sake of brevity we
+  > will write this number as π; thus π is equal to half the circumference of a
+  > circle of radius 1"). Because Euler corresponded heavily with other
+  > mathematicians in Europe, the use of the Greek letter spread rapidly, and the
+  > practice was universally adopted thereafter in the Western world, **though the
+  > definition still varied between 3.14... and 6.28... as late as 1761.**
 
 ### In programming
 
 - [Processing, since 2.0 (2013)](https://processing.org/reference/TAU.html)
-- [Raku, since 2015](https://docs.raku.org/language/terms#term_tau)
+- [Raku (aka Perl 6), since 2015](https://docs.raku.org/language/terms#term_tau)
 - [Nim, since 0.14.0 (2016)](https://github.com/nim-lang/Nim/pull/3976)
 - [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/)
 - [CSS (2018)](https://www.w3.org/TR/2018/WD-css-values-4-20180814/#angles)
   (called "turn")
+- [OpenFOAM](https://www.openfoam.com/documentation/guides/latest/api/namespaceFoam_1_1constant_1_1mathematical.html#ad9e5ddf5862462196c9159f5d761e93a)
+- [Extreme Optimization Numerical Libraries for .NET](https://www.extremeoptimization.com/Documentation/Reference/Extreme.Mathematics.Constants.TwoPi.aspx)
 - [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703)
 - [Zig, since 0.6.0 (2019)](https://github.com/ziglang/zig/pull/3716)
 - [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html)
 - [.NET, C#, since 5.0 (2020)](https://github.com/dotnet/runtime/pull/37517)
   <!--https://docs.microsoft.com/en-us/dotnet/api/system.math.tau-->
 - [Boost, since 1.77.0 (2021)](https://www.boost.org/doc/libs/1_77_0/boost/math/constants/constants.hpp)
-- [OpenJDK, since 19 (2022)](https://github.com/openjdk/jdk/pull/7813)
+- [Java, OpenJDK, since 19 (2022)](https://github.com/openjdk/jdk/pull/7813)
 
 Inclusion of a constant `tau` was _rejected_ by the following projects:
 
