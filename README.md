@@ -21,6 +21,7 @@ This page lists notable articles, videos, discussion etc. about τ.
 
 ### Articles and blog posts
 
+- [Joseph Lindenberg, _Tau Before It Was Cool_, 1991](https://sites.google.com/site/taubeforeitwascool/)
 - [Bob Palais, _π is wrong!_, 2001](https://doi.org/10.1007%2FBF03026846)
 - [Bob Palais' web page](https://www.math.utah.edu/~palais/pi.html)
 - [Bill Gasarch, _Is Pi defined in the best way?_, 2007](http://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html)
@@ -34,6 +35,7 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Elizabeth Landau, _On Pi Day, is 'pi' under attack?_, 2011](http://edition.cnn.com/2011/TECH/innovation/03/14/pi.tau.math/index.html?hpt=T2)
 - [Duncan Geere, _Happy Pi day! Let's kill it_, 2011](https://www.wired.co.uk/article/pi-winning)
 - [Drew Grant, _Pi Day threatened by tau protestors_, 2011](https://www.salon.com/2011/03/14/national_pi_day_viral_videos/)
+- [Murray Bourne, _Let’s drop pi_, 2011](https://www.intmath.com/blog/mathematics/lets-drop-pi-5665)
 - [Ethan Brown, _Pi vs Tau: Pi's Rebuttal_, 2013](http://coolmathstuff123.blogspot.com/2013/02/pi-vs-tau-pis-rebuttal_9.html)
 - [Randyn Charles Bartholomew, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
 - [Giorgia Fortuna, _2 Pi or Not 2 Pi?_, 2015](https://blog.wolfram.com/2015/06/28/2-pi-or-not-2-pi/)
@@ -41,7 +43,6 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Chaim Gartenberg, _Tau Day is here: celebrate tau, not pi, as the true circle constant_, 2018](https://www.theverge.com/tldr/2018/3/14/17119388/pi-day-pie-math-tau-circle-constant-mathematics-circumference-diameter-radius-holiday-truth)
 - [Peter Harremoës, _Al-Kāshī’s constant_, 2018](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.pdf)
 - [Paolo A., _in honor of tau_, 2021](https://mitadmissions.org/blogs/entry/in-honor-of-tau/)
-- [Joseph Lindenberg, _Tau Before It Was Cool_, 2021](https://sites.google.com/site/taubeforeitwascool/)
 - <a href="https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals">Wikipedia,
   <emph>Proposals for a single letter to represent 2π</emph></a>
 
