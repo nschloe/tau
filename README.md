@@ -26,9 +26,9 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Bob Palais' web page](https://www.math.utah.edu/~palais/pi.html)
 - [Bill Gasarch, _Is Pi defined in the best way?_, 2007](http://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html)
 - [Robert P. Crease, _Constant failure_, 2008](https://physicsworld.com/a/constant-failure/)
-- [Michael Hartl, _The Tau Manifesto_, 2010](https://tauday.com/tau-manifesto)
+- [Michael Hartl, _The Tau Manifesto_, 2010](https://tauday.com/tau-manifesto).
   As paperback
-  [on Amazon](https://www.amazon.com/Tau-Manifesto-No-really-pi-is-wrong/dp/B096CXMQ3W/)
+  [on Amazon](https://www.amazon.de/-/en/Michael-Hartl/dp/B096CXMQ3W)
 - [Qiaochu Yuan, _Pi is still wrong_, 2011](https://qchu.wordpress.com/2011/03/14/pi-is-still-wrong/)
 - [Natalie Wolchover, _Mathematicians Want to Say Goodbye to Pi_, 2011](https://www.livescience.com/14836-pi-wrong-tau.html)
 - [Jason Palmer, _'Tau day' marked by opponents of maths constant pi_, 2011](https://www.bbc.com/news/science-environment-13906169)
@@ -139,7 +139,7 @@ Articles _against_ τ:
 - [Zig, since 0.6.0 (2019)](https://github.com/ziglang/zig/pull/3716)
 - [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html)
 - [.NET, C#, since 5.0 (2020)](https://github.com/dotnet/runtime/pull/37517)
-  <!--https://docs.microsoft.com/en-us/dotnet/api/system.math.tau-->
+  <!--https://docs.microsoft.com/en-us/dotnet/api/system.math.tau -->
 - [Boost, since 1.77.0 (2021)](https://www.boost.org/doc/libs/1_77_0/boost/math/constants/constants.hpp)
 - [Java, OpenJDK, since 19 (2022)](https://github.com/openjdk/jdk/pull/7813)
 
@@ -221,7 +221,7 @@ installed.
   A = \textcolor{teal}{\pi} r^2 = \frac{\textcolor{orange}{\tau}}{2} r^2
   ```
 
-- more such examples at [ndim](https://github.com/nschloe/ndim)
+- more such examples at [ndim](https://github.com/sigma-py/ndim)
 
 - Compare
 
