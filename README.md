@@ -303,6 +303,22 @@ installed.
   \zeta(2n) = \sum_{k=1}^{\infty} \frac{1}{k^{2n}} = (-1)^{n+1} \frac{\textcolor{orange}{\tau}^{2n} B_{2n}}{2 (2n)!}
   ```
 
+<!--
+- [Euler’s reflection formula](https://en.wikipedia.org/wiki/Reflection_formula):
+  ```math
+  \Gamma(z)\Gamma(1-z)
+  = \frac{\textcolor{teal}{\pi}}{\sin(\textcolor{teal}{\pi} z)}
+  = \frac{\textcolor{orange}{tau}}{crd(\textcolor{orange}{\tau} z)}
+  ```
+-->
+
+- [Weyl law](https://en.wikipedia.org/wiki/Weyl_law):
+
+  ```math
+  \lim_{\lambda\to\infty} \frac{N(\lambda)}{\lambda^{d/2}}
+  = \textcolor{orange}{\tau}^{-d}\omega_d vol(\Omega)
+  ```
+
 - Physics
 
   - Cosmological constant:
@@ -318,9 +334,11 @@ installed.
     R_{\mu\nu} = \frac{4\textcolor{orange}{\tau} G}{c^4} T_{\mu\nu}
     ```
   - Coulomb's law for the electric force in vacuum:
+
     ```math
     F = \frac{|q_1 q_2|}{2\textcolor{orange}{\tau} \varepsilon_0 r^2}
     ```
+
   - Magnetic permeability of free space:
     ```math
     \mu_0 \approx 2\textcolor{orange}{\tau} \times 10^{-7} N/A^2
@@ -345,6 +363,18 @@ installed.
   - The buckling formula:
     ```math
     F = \frac{\textcolor{orange}{\tau}^2 EI}{4L^2}
+    ```
+  - Reduced Planck constant:
+    ```math
+    \hbar = \frac{h}{\textcolor{orange}{\tau}}
+    ```
+  - Reactance of an inductor:
+    ```math
+    \textcolor{orange}{\tau} fL
+    ```
+  - Susceptance of a capacitor:
+    ```math
+    \textcolor{orange}{\tau} fC
     ```
 
 ### Going further: `$2\pi i$`?
