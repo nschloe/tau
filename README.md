@@ -281,7 +281,7 @@ installed.
   > f(a) = \frac{1}{\textcolor{orange}{\tau} i} \oint_{\gamma}\frac{f(z)}{z-a} dz.
   > ```
 
-- [Cauchy's residue theorem](https://en.wikipedia.org/wiki/Residue_theorem),
+- [Cauchy's residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
 
   > Let $`U`$ be a simply connected open subset of the complex plane containing a
   > finite list of points $`a_1,\dots, a_n`$, $`U_0 = U \\ \{a_1,\dots,a_n\}`$, and a function $`f`$
@@ -297,8 +297,10 @@ installed.
 - [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 
   ```math
-  \hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) \exp(-i\textcolor{orange}{\tau} x\xi)\,dx,\quad
-  f(x)         = \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\textcolor{orange}{\tau} x\xi)\,d\xi
+  \begin{align*}
+  \hat{f}(\xi) &= \int_{-\infty}^{\infty} f(x) \exp(-i\textcolor{orange}{\tau} x\xi)\,dx,\\
+  f(x)         &= \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\textcolor{orange}{\tau} x\xi)\,d\xi
+  \end{align*}
   ```
 
 - [<emph>n</emph>th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
