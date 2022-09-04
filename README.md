@@ -49,6 +49,9 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Paolo A., _in honor of tau_, 2021](https://mitadmissions.org/blogs/entry/in-honor-of-tau/)
 - <a href="https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals">Wikipedia,
   <emph>Proposals for a single letter to represent 2π</emph></a>
+- [Theorem of the Day](https://www.theoremoftheday.org/), e.g.,
+  [Euler’s Identity](https://www.theoremoftheday.org/GeometryAndTrigonometry/EulerIdentity/TotDEulerIdentity.pdf) or
+  [Stirling’s Approximation](https://www.theoremoftheday.org/Binomial/Stirling/TotDStirling.pdf)
 
 Articles _against_ τ:
 
@@ -229,6 +232,20 @@ installed.
   A = \textcolor{teal}{\pi} r^2 = \frac{\textcolor{orange}{\tau}}{2} r^2
   ```
 
+- _n_-dimensional generalized Laguerre volume
+
+  ```math
+  \begin{align}
+    V_n
+    &= \int_{\mathbb{R}^n} \left(\sqrt{x_1^2+\cdots+x_n^2}\right)^\alpha \exp\left(-\sqrt{x_1^2+\dots+x_n^2}\right)\\
+    = \begin{cases}
+      2\Gamma(1+\alpha)&\text{if $n=1$}\\
+      \textcolor{orange}{\tau}\Gamma(2 + \alpha)&\text{if $n=2$}\\
+      V_{n-2} \times \frac{\textcolor{orange}{\tau}(n+\alpha-1) (n+\alpha-2)}{n-2}&\text{otherwise}
+    \end{cases}
+  \end{align}
+  ```
+
 - more such examples at [ndim](https://github.com/sigma-py/ndim)
 
 - Compare
@@ -249,9 +266,33 @@ installed.
 
 - [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
 
-  ```math
-  f(a) = \frac{1}{i\textcolor{orange}{\tau}} \oint \frac{f(z)}{z - a} \,dz
-  ```
+  > Let $`U`$ be an open subset of the complex plane $`\mathbb{C}`$, and suppose
+  > the closed disk $`D`$ defined as
+  >
+  > ```katex
+  > D = \bigl\{z:|z-z_{0}|\leq r\bigr\}
+  > ```
+  >
+  > is completely contained in `$U$`. Let `$f: U\to\mathbb{C}$` be a holomorphic
+  > function, and let `$\gamma$` be the circle, oriented counterclockwise, forming
+  > the boundary of `$D$`. Then for every `$a$` in the interior of `$D$`,
+  >
+  > ```math
+  > f(a) = \frac{1}{\textcolor{orange}{\tau} i} \oint_{\gamma}\frac{f(z)}{z-a} dz.
+  > ```
+
+- [Cauchy's residue theorem](https://en.wikipedia.org/wiki/Residue_theorem),
+
+  > Let $`U`$ be a simply connected open subset of the complex plane containing a
+  > finite list of points $`a_1,\dots, a_n`$, $`U_0 = U \\ \{a_1,\dots,a_n\}`$, and a function $`f`$
+  > defined and holomorphic on $`U_0`$. Let $`\gamma`$ be a closed rectifiable curve in $`U_0`$,
+  > and denote the winding number of $`\gamma`$ around $`a_k`$ by $`I(\gamma, a_k)`$. The line integral
+  > of $`f`$ around $`\gamma`$ is equal to $`\textcolor{orange}{\tau}i`$ times the sum of residues of $`f`$ at the points,
+  > each counted as many times as $`\gamma`$ winds around the point:
+  >
+  > ```math
+  > \oint_\gamma f(z)\,\mathrm{d}z = \textcolor{\orange}{\tau}i \sum_{k=1}^n I(\gamma,a_k) Res(f,a_k)
+  > ```
 
 - [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 
