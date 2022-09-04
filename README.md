@@ -238,7 +238,7 @@ installed.
   \begin{align}
     V_n
     &= \int_{\mathbb{R}^n} \left(\sqrt{x_1^2+\cdots+x_n^2}\right)^\alpha \exp\left(-\sqrt{x_1^2+\dots+x_n^2}\right)\\
-    = \begin{cases}
+    &= \begin{cases}
       2\Gamma(1+\alpha)&\text{if $n=1$}\\
       \textcolor{orange}{\tau}\Gamma(2 + \alpha)&\text{if $n=2$}\\
       V_{n-2} \times \frac{\textcolor{orange}{\tau}(n+\alpha-1) (n+\alpha-2)}{n-2}&\text{otherwise}
@@ -291,7 +291,7 @@ installed.
   > each counted as many times as $`\gamma`$ winds around the point:
   >
   > ```math
-  > \oint_\gamma f(z)\,\mathrm{d}z = \textcolor{\orange}{\tau}i \sum_{k=1}^n I(\gamma,a_k) Res(f,a_k)
+  > \oint_\gamma f(z)\,\mathrm{d}z = \textcolor{orange}{\tau}i \sum_{k=1}^n I(\gamma,a_k) Res(f,a_k)
   > ```
 
 - [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
