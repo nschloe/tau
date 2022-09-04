@@ -284,7 +284,7 @@ installed.
 - [Cauchy's residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
 
   > Let $`U`$ be a simply connected open subset of the complex plane containing a
-  > finite list of points $`a_1,\dots, a_n`$, $`U_0 = U \\ \{a_1,\dots,a_n\}`$, and a function $`f`$
+  > finite list of points $`a_1,\dots,a_n`$, $`U_0 = U \setminus \{a_1,\dots,a_n\}`$, and a function $`f`$
   > defined and holomorphic on $`U_0`$. Let $`\gamma`$ be a closed rectifiable curve in $`U_0`$,
   > and denote the winding number of $`\gamma`$ around $`a_k`$ by $`I(\gamma, a_k)`$. The line integral
   > of $`f`$ around $`\gamma`$ is equal to $`\textcolor{orange}{\tau}i`$ times the sum of residues of $`f`$ at the points,
