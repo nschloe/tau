@@ -38,9 +38,13 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Murray Bourne, _Let’s drop pi_, 2011](https://www.intmath.com/blog/mathematics/lets-drop-pi-5665)
 - [Eric Raymond, _Tau versus Pi_, 2011](http://esr.ibiblio.org/?p=3481)
 - [Stanley M. Max, _Radian Measurement: What It Is, and How to Calculate It More Easily Using τ Instead of π_, 2011](http://www.metricphilatelist.net/TowsonU/course_material/tau/radian_measurement.pdf)
+- [_Bye to Pi -- Mathematicians want pi out tau in_, 2011](https://www.sundaytimes.lk/110703/Timestwo/t2_09.html)
+- [Debra Black, _Down with ugly pi, long live elegant Tau, physicist urges_, 2011](https://www.thestar.com/news/world/2011/06/28/down_with_ugly_pi_long_live_elegant_tau_physicist_urges.html)
 - [Ethan Brown, _Pi vs Tau: Pi's Rebuttal_, 2013](http://coolmathstuff123.blogspot.com/2013/02/pi-vs-tau-pis-rebuttal_9.html)
+- [_Life of pi in no danger -- Experts cold-shoulder campaign to replace with tau_, 2013](https://archive.ph/ntrs0#selection-1149.0-1151.53)
 - [Randyn Charles Bartholomew, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
 - [Giorgia Fortuna, _2 Pi or Not 2 Pi?_, 2015](https://blog.wolfram.com/2015/06/28/2-pi-or-not-2-pi/)
+- [_On National Tau Day, Pi Under Attack_, 2015](https://www.foxnews.com/science/on-national-tau-day-pi-under-attack)
 - [Elizabeth Landau, _The Tao of Tau_, 2017](https://blogs.scientificamerican.com/observations/the-tao-of-tau/)
 - [Stephen Abbott, _Aftermath: My Conversion to Tauism_, 2018](https://doi.org/10.4169%2Fmathhorizons.19.4.34)
 - [Chaim Gartenberg, _Tau Day is here: celebrate tau, not pi, as the true circle constant_, 2018](https://www.theverge.com/tldr/2018/3/14/17119388/pi-day-pie-math-tau-circle-constant-mathematics-circumference-diameter-radius-holiday-truth)
@@ -422,15 +426,15 @@ installed.
 
 ### Quotes
 
-- [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao), 2007
-  ([here](http://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html?showComment=1186584000000#c971095637512882599)):
+- [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao) (2007,
+  [here](http://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html?showComment=1186584000000#c971095637512882599)):
 
   > It may be that `$2 \pi i$` is an even more fundamental constant than `$2 \pi$`
   > or `$\pi$`. It is, after all, the generator of `$\log(1)$`. The fact that so many
   > formulae involving `$\pi^n$` depend on the parity of `$n$` is another clue in this
   > regard.
 
-- [John Conway](https://en.wikipedia.org/wiki/John_Horton_Conway), 2008 (from
+- [John Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) (2008, from
   [Constant
   Failure](http://www.math.utah.edu/~palais/ConstantFailure-32679.html) by
   Robert P Crease):
