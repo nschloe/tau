@@ -420,13 +420,25 @@ installed.
     \textcolor{orange}{\tau} fC
     ```
 
-### Going further: `$2\pi i$`?
+### Quotes
 
-[Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao) (no pun intended)
-remarks
-[here](http://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html?showComment=1186584000000#c971095637512882599):
+- [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao), 2007
+  ([here](http://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html?showComment=1186584000000#c971095637512882599)):
 
-> It may be that `$2 \pi i$` is an even more fundamental constant than `$2 \pi$`
-> or `$\pi$`. It is, after all, the generator of `$\log(1)$`. The fact that so many
-> formulae involving `$\pi^n$` depend on the parity of `$n$` is another clue in this
-> regard.
+  > It may be that `$2 \pi i$` is an even more fundamental constant than `$2 \pi$`
+  > or `$\pi$`. It is, after all, the generator of `$\log(1)$`. The fact that so many
+  > formulae involving `$\pi^n$` depend on the parity of `$n$` is another clue in this
+  > regard.
+
+- [John Conway](https://en.wikipedia.org/wiki/John_Horton_Conway), 2008 (from
+  [Constant
+  Failure](http://www.math.utah.edu/~palais/ConstantFailure-32679.html) by
+  Robert P Crease):
+
+  > [...]
+  > I posed this question to the Princeton University mathematician John
+  > Conway, one of the most creative mathematicians working today. Conway, it
+  > turned out, had strong feelings on the subject. “2π is obviously the
+  > correct constant!” he told me immediately — although he also told me of
+  > arguments, which he did not find persuasive, for a third option, π/2.
+  > [...]
