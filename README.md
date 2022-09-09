@@ -404,7 +404,9 @@ installed.
   \int_{-\infty}^{\infty} \frac{\sin(ax)}{x}\,dx = \textcolor{teal}{\pi} = \frac{\textcolor{orange}{\tau}}{2}
   ```
 
-  for any `$a\in\mathbb{R}\setminus\{0\}$`. The normalized sinc function:
+  for any `$a\in\mathbb{R}\setminus\{0\}$`. The normalized sinc function is
+  defined to have zeros for all `$\mathbb{Z}\setminus\{0\}$`, and it's integral
+  is 1:
 
   ```math
   \sinc_{\pi}(x) =
