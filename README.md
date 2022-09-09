@@ -223,7 +223,7 @@ installed.
   \end{cases}
   ```
 
-- _n_-dimensional Gegenbauer integral
+- _n_-dimensional Gegenbauer integral over the unit ball `$S_n$`:
 
   ```math
   |G_n^{\lambda}|
@@ -251,15 +251,21 @@ installed.
   - The area of a disk (`$\lambda = 0, n = 2$`)
 
     ```math
-    A
+    |S_n(r)|
     = \frac{\ttau}{2} r^2
     = \ppi r^2
     ```
 
-  - `$n=1$`, `$\lambda = -1$`
+  - `$n=1$`, `$\lambda = -1/2$`
 
     ```math
     \int_{-1}^1 \frac{1}{\sqrt{1-x^2}} = \ppi
+    ```
+
+  - `$n=1$`, `$\lambda = 1/2$`
+
+    ```math
+    \int_{-1}^1 \sqrt{1-x^2} = \frac{\ppi}{2}
     ```
 
 - _n_-dimensional generalized Laguerre volume
