@@ -260,7 +260,7 @@ installed.
   ```
 
   One could argue that the latter is more "canonical" since it has
-  variance/standard deviation of 1, not `$\frac{1}{2}$` /
+  variance and standard deviation of 1, not `$\frac{1}{2}$` and 
   `$\sqrt{\frac{1}{2}}$`. Compare with the
   [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
@@ -369,13 +369,23 @@ installed.
 - [Error function](https://en.wikipedia.org/wiki/Error_function)
 
   ```math
-  erf(z) = \frac{2}{\sqrt{\textcolor{teal}{\pi}}} \int_0^z \exp(-t^2)\,\dt.
+  \DeclareMathOperator{\erf}{erf}
+  ```
+
+  ```math
+  \erf(z) = \frac{2}{\sqrt{\textcolor{teal}{\pi}}} \int_0^z \exp(-t^2)\, dt.
   ```
 
   In statistics, for non-negative values of `$x$`, the error function has the
   following interpretation: for a random variable `$Y$` that is normally
-  distributed with mean 0 and standard deviation `$1/\sqrt{2}$` , `$erf(x)$` is
+  distributed with mean 0 and standard deviation `$1/\sqrt{2}$`, `$erf(x)$` is
   the probability that `$Y$` falls in the range `$[−x, x]$`.
+
+  The same property with standard deviation 1 is fulfilled by
+
+  ```math
+  \widetilde{\erf}(z) = \frac{2}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\, dt.
+  ```
 
 - Physics
 
