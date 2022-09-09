@@ -215,7 +215,7 @@ installed.
 
   ```math
   |U_n|
-  = \frac{2\ppi}^{n/2}}{\Gamma(n/2)}
+  = \frac{2\ppi^{n/2}}{\Gamma(n/2)}
   = \begin{cases}
   2 & \text{if } n = 1\\
   \ttau & \text{if } n = 2\\
