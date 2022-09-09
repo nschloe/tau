@@ -369,7 +369,7 @@ installed.
 - [Error function](https://en.wikipedia.org/wiki/Error_function)
 
   ```math
-  \DeclareMathOperator{\erf}{erf}
+  \newcommand{\erf}{\operatorname{erf}}
   ```
 
   ```math
@@ -378,7 +378,7 @@ installed.
 
   In statistics, for non-negative values of `$x$`, the error function has the
   following interpretation: for a random variable `$Y$` that is normally
-  distributed with mean 0 and standard deviation `$1/\sqrt{2}$`, `$erf(x)$` is
+  distributed with mean 0 and standard deviation `$1/\sqrt{2}$`, `$\erf(x)$` is
   the probability that `$Y$` falls in the range `$[−x, x]$`.
 
   The same property with standard deviation 1 is fulfilled by
