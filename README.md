@@ -390,7 +390,7 @@ installed.
 - [sinc](https://en.wikipedia.org/wiki/Sinc_function) integral
 
   ```math
-  \int_{-\infty}^{\infty} \frac{\sin(ax)}{x}\,dx = \textcolor{orange}{\pi}
+  \int_{-\infty}^{\infty} \frac{\sin(ax)}{x}\,dx = \textcolor{teal}{\pi} = \frac{\textcolor{orange}{\tau}}{2}
   ```
 
   for any $a\in\mathbb{R}\textbackslash\{0\}$.
