@@ -389,10 +389,11 @@ installed.
 
 - [sinc](https://en.wikipedia.org/wiki/Sinc_function) integral
 
- ```math
- \int_{-\infty}^{\infty} \frac{\sin(ax)}{x}\,dx = \textcolor{orange}{\pi}
- ```
- for any $a\in\mathbb{R}\textbackslash\{0\}$.
+  ```math
+  \int_{-\infty}^{\infty} \frac{\sin(ax)}{x}\,dx = \textcolor{orange}{\pi}
+  ```
+
+  for any $a\in\mathbb{R}\textbackslash\{0\}$.
 
 - Physics
 
