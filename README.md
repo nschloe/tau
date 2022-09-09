@@ -437,18 +437,20 @@ installed.
   = \frac{\sqrt{\textcolor{teal}{\pi}\gamma} \Gamma(\gamma/2)}{\Gamma((\gamma+1) / 2)}
   ```
 
-  for all $\gamma>0$. specifically,
+  for all `$\gamma>0$`. specifically,
 
   ```math
-  V(1) = \textcolor{teal}{\pi},\\
-  V(2) = 2\sqrt{2}.
+  \begin{align}
+  V(1) &= \textcolor{teal}{\pi},\\
+  V(2) &= 2\sqrt{2}.
+  \end{align}
   ```
 
-  Interestingly, values for other `$\gamma\in\mathbb{N}$` can be determined via
+  Interestingly, values for larger `$\gamma$` can be determined via
   the recurrence
 
   ```math
-  \frac{V(\gamma)}{V(\gamma-2)} = \frac{\sqrt{\gamma(\gamma-2)}}{\gamma-1}
+  V(\gamma) = \frac{\sqrt{\gamma(\gamma-2)}}{\gamma-1} \times V(\gamma - 2)
   ```
 
   which is perhaps a bit more revealing than the closed-form expression with
