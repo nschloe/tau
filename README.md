@@ -395,6 +395,18 @@ installed.
 
   for any $a\in\mathbb{R}\textbackslash\{0\}$.
 
+- Integral
+
+  ```math
+  \int_0^{\infty} \frac{1}{1 + x^\alpha} = \frac{\textcolor{teal}{\pi} / \alpha}{\sin(\textcolor{teal}{\pi}/\alpha)}
+  ```
+
+  for all $\alpha > 1$. Specifically
+
+  ```math
+  \int_{-\infty}^{\infty} \frac{1}{1 + x^2} = \textcolor{teal}{\pi}
+  ```
+
 - Physics
 
   - Cosmological constant:
