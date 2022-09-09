@@ -260,7 +260,7 @@ installed.
   ```
 
   One could argue that the latter is more "canonical" since it has
-  variance and standard deviation of 1, not `$\frac{1}{2}$` and 
+  variance and standard deviation of 1, not `$\frac{1}{2}$` and
   `$\sqrt{\frac{1}{2}}$`. Compare with the
   [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
@@ -418,10 +418,14 @@ installed.
   - Exact period of a simple pendulum with amplitude `$\theta_0$`:
 
     ```math
-    T = \frac{\textcolor{orange}{\tau}}{agm(1, \cos(\theta_0/2))} \sqrt{\frac{L}{g}}
+    \newcommand{\agm}{\operatorname{agm}}
     ```
 
-    (`$agm$` is the [arithmetic-geometric
+    ```math
+    T = \frac{\textcolor{orange}{\tau}}{\agm(1, \cos(\theta_0/2))} \sqrt{\frac{L}{g}}
+    ```
+
+    (`$\agm$` is the [arithmetic-geometric
     mean](https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean).)
 
   - Kepler's third law of planetary motion:
