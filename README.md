@@ -249,7 +249,7 @@ installed.
     = \begin{cases}
       1&\text{for $n=0$}\\
       B\left(\lambda + 1, \frac{1}{2}\right)&\text{for $n=1$}\\
-      |G_{n-2}^{\lambda}|\times \frac{2\pi}{2\lambda + n}&\text{otherwise}
+      |G_{n-2}^{\lambda}|\times \ttau / (2\lambda + n) & \text{otherwise}
     \end{cases}
   ```
 
@@ -258,7 +258,7 @@ installed.
   - `$n=1$`, `$\lambda = -1$`
 
   ```math
-  \int_{-1}^1 \frac{1}{\sqrt(1-x^2)} = \ppi
+  \int_{-1}^1 \frac{1}{\sqrt{1-x^2}} = \ppi
   ```
 
 - _n_-dimensional generalized Laguerre volume
