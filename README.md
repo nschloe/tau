@@ -393,7 +393,12 @@ installed.
   \int_{-\infty}^{\infty} \frac{\sin(ax)}{x}\,dx = \textcolor{teal}{\pi} = \frac{\textcolor{orange}{\tau}}{2}
   ```
 
-  for any `$a\in\mathbb{R}\setminus\{0\}$`.
+  for any `$a\in\mathbb{R}\setminus\{0\}$`. The normalized sinc function:
+
+  ```math
+  \newcommand{\sinc}{\operatorname{sinc}}
+  \sinc_{\pi}(x) = \frac{\sin(\textcolor{teal}{\pi} x)}{\textcolor{teal}{\pi} x}
+  ```
 
 - Integral
 
