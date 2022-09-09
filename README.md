@@ -393,7 +393,7 @@ installed.
   \int_{-\infty}^{\infty} \frac{\sin(ax)}{x}\,dx = \textcolor{teal}{\pi} = \frac{\textcolor{orange}{\tau}}{2}
   ```
 
-  for any $a\in\mathbb{R}\textbackslash\{0\}$.
+  for any `$a\in\mathbb{R}\textbackslash\{0\}$`.
 
 - Integral
 
