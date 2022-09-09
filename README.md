@@ -393,8 +393,8 @@ installed.
   \newcommand{\sinc}{\operatorname{sinc}}
   \sinc(x) =
   \begin{cases}
-    1 &\quad{if } x=0,
-    \frac{\sin(x)}{x} &\quad\text{otherwise,}
+    1 &\quad\text{if } x=0,\\
+    \sin(x) / x &\quad\text{otherwise,}
   \end{cases}
   ```
 
@@ -407,8 +407,8 @@ installed.
   for any `$a\in\mathbb{R}\setminus\{0\}$`. The normalized sinc function:
 
   ```math
-  \newcommand{\sinc}{\operatorname{sinc}}
-  \sinc_{\pi}(x) = \frac{\sin(\textcolor{teal}{\pi} x)}{\textcolor{teal}{\pi} x}
+  \sinc_{\pi}(x) =
+  \frac{\sin(\textcolor{teal}{\pi} x)}{\textcolor{teal}{\pi} x}
   ```
 
 - Integral
