@@ -440,10 +440,10 @@ installed.
   for all `$\gamma>0$`. specifically,
 
   ```math
-  \begin{align}
+  \begin{align*}
   V(1) &= \textcolor{teal}{\pi},\\
   V(2) &= 2\sqrt{2}.
-  \end{align}
+  \end{align*}
   ```
 
   Interestingly, values for larger `$\gamma$` can be determined via
