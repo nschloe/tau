@@ -177,8 +177,8 @@ The following equations are best consumed on Chrome with
 installed.
 
 ```math
-\newcommand\ttau{\textcolor{orange}{tau}}
-\newcommand\ppi{\textcolor{teal}{pi}}
+\newcommand\ttau{\textcolor{orange}{\tau}}
+\newcommand\ppi{\textcolor{teal}{\pi}}
 ```
 
 - Trigonometrics
