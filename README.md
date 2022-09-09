@@ -387,6 +387,13 @@ installed.
   \widetilde{\erf}(z) = \frac{2}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\, dt.
   ```
 
+- [sinc](https://en.wikipedia.org/wiki/Sinc_function) integral
+
+ ```math
+ \int_{-\infty}^{\infty} \frac{\sin(ax)}{x}\,dx = \textcolor{orange}{\pi}
+ ```
+ for any $a\in\mathbb{R}\textbackslash\{0\}$.
+
 - Physics
 
   - Cosmological constant:
