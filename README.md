@@ -176,13 +176,18 @@ The following equations are best consumed on Chrome with
 [xhub](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
 installed.
 
+```math
+\newcommand\ttau{\ttau}
+\newcommand\ppi{\ppi}
+```
+
 - Trigonometrics
 
   ```math
   \begin{split}
-  \sin(\alpha) &= \sin(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha\\
-  \cos(\alpha) &= \cos(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha\\
-  \tan(\alpha) &= \tan(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha
+  \sin(\alpha) &= \sin(\alpha + \ttau) \quad\forall \alpha\\
+  \cos(\alpha) &= \cos(\alpha + \ttau) \quad\forall \alpha\\
+  \tan(\alpha) &= \tan(\alpha + \ttau) \quad\forall \alpha
   \end{split}
   ```
 
@@ -192,17 +197,17 @@ installed.
 
   ```math
   \begin{alignat*}{3}
-    \sin(n \textcolor{orange}{\tau}) &= 0,          &\qquad \cos(n \textcolor{orange}{\tau}) &= 1,\\
-    \sin((n + 1/4) \textcolor{orange}{\tau}) &= 1,  &\qquad \cos((n + 1/4) \textcolor{orange}{\tau}) &= 0,\\
-    \sin((n + 1/2) \textcolor{orange}{\tau}) &= 0,  &\qquad \cos((n + 1/2) \textcolor{orange}{\tau}) &= -1,\\
-    \sin((n + 3/4) \textcolor{orange}{\tau}) &= -1, &\qquad \cos((n + 3/4) \textcolor{orange}{\tau}) &= 0
+    \sin(n \ttau) &= 0,          &\qquad \cos(n \ttau) &= 1,\\
+    \sin((n + 1/4) \ttau) &= 1,  &\qquad \cos((n + 1/4) \ttau) &= 0,\\
+    \sin((n + 1/2) \ttau) &= 0,  &\qquad \cos((n + 1/2) \ttau) &= -1,\\
+    \sin((n + 3/4) \ttau) &= -1, &\qquad \cos((n + 3/4) \ttau) &= 0
   \end{alignat*}
   ```
 
   Trigonometric values off the grid can easily be estimated:
 
-  - `$\sin(27.4 \textcolor{teal}{\pi})$` – Where is my calculator?
-  - `$\sin(13.7 \textcolor{orange}{\tau})$` – 13 full revolutions: forget about
+  - `$\sin(27.4 \ppi)$` – Where is my calculator?
+  - `$\sin(13.7 \ttau)$` – 13 full revolutions: forget about
     those. Plus .7, that's almost 3/4 of a revolution, so probably something
     close to -1. (Actual value: -0.95105651629...)
 
@@ -210,11 +215,11 @@ installed.
 
   ```math
   |U_n|
-  = \frac{2\textcolor{teal}{\pi}^{n/2}}{\Gamma(n/2)}
+  = \frac{2\ppi}^{n/2}}{\Gamma(n/2)}
   = \begin{cases}
   2 & \text{if } n = 1\\
-  \textcolor{orange}{\tau} & \text{if } n = 2\\
-  |U_{n-2}| \times \textcolor{orange}{\tau} / (n - 2) & \text{otherwise}
+  \ttau & \text{if } n = 2\\
+  |U_{n-2}| \times \ttau / (n - 2) & \text{otherwise}
   \end{cases}
   ```
 
@@ -222,18 +227,38 @@ installed.
 
   ```math
   |S_n|
-  = \frac{\textcolor{teal}{\pi}^{n/2}}{\Gamma(n/2 + 1)}
+  = \frac{\ppi^{n/2}}{\Gamma(n/2 + 1)}
   = \begin{cases}
   1 & \text{if } n = 0\\
   2 & \text{if } n = 1\\
-  |S_{n-2}| \times \textcolor{orange}{\tau} / n & \text{otherwise}
+  |S_{n-2}| \times \ttau / n & \text{otherwise}
   \end{cases}
   ```
 
   The area of a disk:
 
   ```math
-  A = \textcolor{teal}{\pi} r^2 = \frac{\textcolor{orange}{\tau}}{2} r^2
+  A = \ppi r^2 = \frac{\ttau}{2} r^2
+  ```
+
+- _n_-dimensional Gegenbauer integral
+
+  ```math
+  |G_n^{\lambda}|
+    = \int_{S^n} \left(1 - \sum_{i=1}^n x_i^2\right)^\lambda
+    = \begin{cases}
+      1&\text{for $n=0$}\\
+      B\left(\lambda + 1, \frac{1}{2}\right)&\text{for $n=1$}\\
+      |G_{n-2}^{\lambda}|\times \frac{2\pi}{2\lambda + n}&\text{otherwise}
+    \end{cases}
+  ```
+
+  Special cases:
+
+  - `$n=1$`, `$\lambda = -1$`
+
+  ```math
+  \int_{-1}^1 \frac{1}{\sqrt(1-x^2)} = \ppi
   ```
 
 - _n_-dimensional generalized Laguerre volume
@@ -244,8 +269,8 @@ installed.
     &= \int_{\mathbb{R}^n} \left(\sqrt{x_1^2+\cdots+x_n^2}\right)^\alpha \exp\left(-\sqrt{x_1^2+\dots+x_n^2}\right)\\
     &= \begin{cases}
       2\Gamma(1+\alpha)&\text{if $n=1$}\\
-      \textcolor{orange}{\tau}\Gamma(2 + \alpha)&\text{if $n=2$}\\
-      V_{n-2} \times \frac{\textcolor{orange}{\tau}(n+\alpha-1) (n+\alpha-2)}{n-2}&\text{otherwise}
+      \ttau\Gamma(2 + \alpha)&\text{if $n=2$}\\
+      V_{n-2} \times \frac{\ttau(n+\alpha-1) (n+\alpha-2)}{n-2}&\text{otherwise}
     \end{cases}
   \end{align}
   ```
@@ -255,8 +280,8 @@ installed.
 - Compare
 
   ```math
-  \int_{-\infty}^{\infty} \exp(-x^2)\,dx = \sqrt{\textcolor{teal}{\pi}},\qquad
-  \int_{-\infty}^{\infty} \exp(-x^2 / 2)\,dx = \sqrt{\textcolor{orange}{\tau}}
+  \int_{-\infty}^{\infty} \exp(-x^2)\,dx = \sqrt{\ppi},\qquad
+  \int_{-\infty}^{\infty} \exp(-x^2 / 2)\,dx = \sqrt{\ttau}
   ```
 
   One could argue that the latter is more "canonical" since it has
@@ -265,7 +290,7 @@ installed.
   [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
   ```math
-  \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\textcolor{orange}{\tau}}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) \,dx= 1
+  \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\ttau}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) \,dx= 1
   ```
 
 - [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
@@ -282,7 +307,7 @@ installed.
   > the boundary of `$D$`. Then for every `$a$` in the interior of `$D$`,
   >
   > ```math
-  > f(a) = \frac{1}{\textcolor{orange}{\tau} i} \oint_{\gamma}\frac{f(z)}{z-a} dz.
+  > f(a) = \frac{1}{\ttau i} \oint_{\gamma}\frac{f(z)}{z-a} dz.
   > ```
 
 - [Cauchy's residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
@@ -291,71 +316,71 @@ installed.
   > finite list of points `$a_1,\dots,a_n$`, `$U_0 = U \setminus \{a_1,\dots,a_n\}$`, and a function $`f`$
   > defined and holomorphic on `$U_0$`. Let `$\gamma$` be a closed rectifiable curve in `$U_0$`,
   > and denote the winding number of $`\gamma`$ around $`a_k`$ by $`I(\gamma, a_k)`$. The line integral
-  > of $`f`$ around $`\gamma`$ is equal to $`\textcolor{orange}{\tau}i`$ times the sum of residues of $`f`$ at the points,
+  > of $`f`$ around $`\gamma`$ is equal to $`\ttau i`$ times the sum of residues of $`f`$ at the points,
   > each counted as many times as $`\gamma`$ winds around the point:
   >
   > ```math
-  > \oint_\gamma f(z)\,\mathrm{d}z = \textcolor{orange}{\tau}i \sum_{k=1}^n I(\gamma,a_k) Res(f,a_k)
+  > \oint_\gamma f(z)\,\mathrm{d}z = \ttau i \sum_{k=1}^n I(\gamma,a_k) Res(f,a_k)
   > ```
 
 - [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 
   ```math
   \begin{align*}
-  \hat{f}(\xi) &= \int_{-\infty}^{\infty} f(x) \exp(-i\textcolor{orange}{\tau} x\xi)\,dx,\\
-  f(x)         &= \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\textcolor{orange}{\tau} x\xi)\,d\xi
+  \hat{f}(\xi) &= \int_{-\infty}^{\infty} f(x) \exp(-i\ttau x\xi)\,dx,\\
+  f(x)         &= \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\ttau x\xi)\,d\xi
   \end{align*}
   ```
 
 - [<emph>n</emph>th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
 
   ```math
-  z^n = 1 \quad\Rightarrow\quad z = \exp(i\textcolor{orange}{\tau} k / n) \quad\forall k=0,\dots,n-1
+  z^n = 1 \quad\Rightarrow\quad z = \exp(i\ttau k / n) \quad\forall k=0,\dots,n-1
   ```
 
 - [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
 
   ```math
-  \exp(i \textcolor{teal}{\pi}) + 1  = 0,\quad
-  \exp(i \textcolor{orange}{\tau}) - 1 = 0
+  \exp(i \ppi) + 1  = 0,\quad
+  \exp(i \ttau) - 1 = 0
   ```
 
 - [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
 
   ```math
-  n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
+  n! \sim \sqrt{\ttau n} \left(\frac{n}{e}\right)^n
   ```
 
 - [Particular values of the Gamma function](https://en.wikipedia.org/wiki/Particular_values_of_the_gamma_function)
 
   ```math
   \Gamma(n / 2)
-  = \sqrt{\textcolor{teal}{\pi}} \frac{(n-2)!!}{2^{(n-1)/2}}
-  = \sqrt{\textcolor{orange}{\tau}} \frac{(n-2)!!}{2^{n/2}}
+  = \sqrt{\ppi} \frac{(n-2)!!}{2^{(n-1)/2}}
+  = \sqrt{\ttau} \frac{(n-2)!!}{2^{n/2}}
   ```
 
   ```math
   \Gamma(1 / 2 + n)
-  = \frac{(2n)!}{4^n n!} \sqrt{\textcolor{teal}{\pi}}
-  = \frac{(2n)!}{4^n n!} \sqrt{\frac{\textcolor{orange}{\tau}}{2}}
+  = \frac{(2n)!}{4^n n!} \sqrt{\ppi}
+  = \frac{(2n)!}{4^n n!} \sqrt{\frac{\ttau}{2}}
   ```
 
 - [Particular values of the Riemann zeta function](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
 
   ```math
-  \zeta(2) = \sum_{k=1}^{\infty} \frac{1}{k^2} = \frac{\textcolor{teal}{\pi}^2}{6} = \frac{\textcolor{orange}{\tau}^2}{24}
+  \zeta(2) = \sum_{k=1}^{\infty} \frac{1}{k^2} = \frac{\ppi^2}{6} = \frac{\ttau^2}{24}
   ```
 
   ```math
-  \zeta(2n) = \sum_{k=1}^{\infty} \frac{1}{k^{2n}} = (-1)^{n+1} \frac{\textcolor{orange}{\tau}^{2n} B_{2n}}{2 (2n)!}
+  \zeta(2n) = \sum_{k=1}^{\infty} \frac{1}{k^{2n}} = (-1)^{n+1} \frac{\ttau^{2n} B_{2n}}{2 (2n)!}
   ```
 
 <!--
 - [Euler’s reflection formula](https://en.wikipedia.org/wiki/Reflection_formula):
   ```math
   \Gamma(z)\Gamma(1-z)
-  = \frac{\textcolor{teal}{\pi}}{\sin(\textcolor{teal}{\pi} z)}
-  = \frac{\textcolor{orange}{tau}}{crd(\textcolor{orange}{\tau} z)}
+  = \frac{\ppi}{\sin(\ppi z)}
+  = \frac{\textcolor{orange}{tau}}{crd(\ttau z)}
   ```
 -->
 
@@ -364,7 +389,7 @@ installed.
   ```math
   \newcommand{\vol}{\operatorname{vol}}
   \lim_{\lambda\to\infty} \frac{N(\lambda)}{\lambda^{d/2}}
-  = \textcolor{orange}{\tau}^{-d}\omega_d \vol(\Omega)
+  = \ttau^{-d}\omega_d \vol(\Omega)
   ```
 
 - [Error function](https://en.wikipedia.org/wiki/Error_function)
@@ -374,7 +399,7 @@ installed.
   ```
 
   ```math
-  \erf(z) = \frac{2}{\sqrt{\textcolor{teal}{\pi}}} \int_0^z \exp(-t^2)\, dt.
+  \erf(z) = \frac{2}{\sqrt{\ppi}} \int_0^z \exp(-t^2)\, dt.
   ```
 
   In statistics, for non-negative values of `$x$`, the error function has the
@@ -385,7 +410,7 @@ installed.
   The same property with standard deviation 1 is fulfilled by
 
   ```math
-  \widetilde{\erf}(z) = \frac{2}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\, dt.
+  \widetilde{\erf}(z) = \frac{2}{\sqrt{\ttau}} \int_0^z \exp(-t^2 / 2)\, dt.
   ```
 
 - Consider the [sinc](https://en.wikipedia.org/wiki/Sinc_function) function
@@ -402,7 +427,7 @@ installed.
   and its integral
 
   ```math
-  \int_{-\infty}^{\infty} \frac{\sin(ax)}{x}\,dx = \textcolor{teal}{\pi} = \frac{\textcolor{orange}{\tau}}{2}
+  \int_{-\infty}^{\infty} \frac{\sin(ax)}{x}\,dx = \ppi = \frac{\ttau}{2}
   ```
 
   for any `$a\in\mathbb{R}\setminus\{0\}$`. The normalized sinc function is
@@ -411,19 +436,19 @@ installed.
 
   ```math
   \sinc_{\pi}(x) =
-  \frac{\sin(\textcolor{teal}{\pi} x)}{\textcolor{teal}{\pi} x}.
+  \frac{\sin(\ppi x)}{\ppi x}.
   ```
 
 - Consider the integral
 
   ```math
-  \int_0^{\infty} \frac{1}{1 + x^\alpha} = \frac{\textcolor{teal}{\pi} / \alpha}{\sin(\textcolor{teal}{\pi}/\alpha)}
+  \int_0^{\infty} \frac{1}{1 + x^\alpha} = \frac{\ppi / \alpha}{\sin(\ppi/\alpha)}
   ```
 
   for all $\alpha > 1$, specifically
 
   ```math
-  \int_{-\infty}^{\infty} \frac{1}{1 + x^2} = \textcolor{teal}{\pi}.
+  \int_{-\infty}^{\infty} \frac{1}{1 + x^2} = \ppi.
   ```
 
   This is relevant in the [Cauchy
@@ -434,14 +459,14 @@ installed.
 
   ```math
   V(\gamma) = \int_{-\infty}^\infty \frac{1}{\sqrt{1 + x^2/\gamma}^{\gamma+1}}
-  = \frac{\sqrt{\textcolor{teal}{\pi}\gamma} \Gamma(\gamma/2)}{\Gamma((\gamma+1) / 2)}
+  = \frac{\sqrt{\ppi\gamma} \Gamma(\gamma/2)}{\Gamma((\gamma+1) / 2)}
   ```
 
   for all `$\gamma>0$`. specifically,
 
   ```math
   \begin{align*}
-  V(1) &= \textcolor{teal}{\pi},\\
+  V(1) &= \ppi,\\
   V(2) &= 2\sqrt{2}.
   \end{align*}
   ```
@@ -460,29 +485,29 @@ installed.
 
   - Cosmological constant:
     ```math
-    \Lambda = \frac{4\textcolor{orange}{\tau} G}{3c^2} \rho
+    \Lambda = \frac{4\ttau G}{3c^2} \rho
     ```
   - Heisenberg's uncertainty principle:
     ```math
-    \Delta x \Delta p \ge \frac{h}{2 \textcolor{orange}{\tau}}
+    \Delta x \Delta p \ge \frac{h}{2 \ttau}
     ```
   - Einstein's field equation of general relativity:
     ```math
-    R_{\mu\nu} = \frac{4\textcolor{orange}{\tau} G}{c^4} T_{\mu\nu}
+    R_{\mu\nu} = \frac{4\ttau G}{c^4} T_{\mu\nu}
     ```
   - Coulomb's law for the electric force in vacuum:
 
     ```math
-    F = \frac{|q_1 q_2|}{2\textcolor{orange}{\tau} \varepsilon_0 r^2}
+    F = \frac{|q_1 q_2|}{2\ttau \varepsilon_0 r^2}
     ```
 
   - Magnetic permeability of free space:
     ```math
-    \mu_0 \approx 2\textcolor{orange}{\tau} \times 10^{-7} N/A^2
+    \mu_0 \approx 2\ttau \times 10^{-7} N/A^2
     ```
   - Approximate period of a simple pendulum with small amplitude:
     ```math
-    T \approx \textcolor{orange}{\tau} \sqrt{\frac{L}{g}}
+    T \approx \ttau \sqrt{\frac{L}{g}}
     ```
   - Exact period of a simple pendulum with amplitude `$\theta_0$`:
 
@@ -491,7 +516,7 @@ installed.
     ```
 
     ```math
-    T = \frac{\textcolor{orange}{\tau}}{\agm(1, \cos(\theta_0/2))} \sqrt{\frac{L}{g}}
+    T = \frac{\ttau}{\agm(1, \cos(\theta_0/2))} \sqrt{\frac{L}{g}}
     ```
 
     (`$\agm$` is the [arithmetic-geometric
@@ -499,23 +524,23 @@ installed.
 
   - Kepler's third law of planetary motion:
     ```math
-    \frac{R^3}{T^2} = \frac{GM}{\textcolor{orange}{\tau}^2}
+    \frac{R^3}{T^2} = \frac{GM}{\ttau^2}
     ```
   - The buckling formula:
     ```math
-    F = \frac{\textcolor{orange}{\tau}^2 EI}{4L^2}
+    F = \frac{\ttau^2 EI}{4L^2}
     ```
   - Reduced Planck constant:
     ```math
-    \hbar = \frac{h}{\textcolor{orange}{\tau}}
+    \hbar = \frac{h}{\ttau}
     ```
   - Reactance of an inductor:
     ```math
-    \textcolor{orange}{\tau} fL
+    \ttau fL
     ```
   - Susceptance of a capacitor:
     ```math
-    \textcolor{orange}{\tau} fC
+    \ttau fC
     ```
 
 ### Quotes
