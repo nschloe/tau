@@ -387,7 +387,18 @@ installed.
   \widetilde{\erf}(z) = \frac{2}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\, dt.
   ```
 
-- [sinc](https://en.wikipedia.org/wiki/Sinc_function) integral
+- Consider the [sinc](https://en.wikipedia.org/wiki/Sinc_function) function
+
+  ```math
+  \newcommand{\sinc}{\operatorname{sinc}}
+  \sinc(x) =
+  \begin{cases}
+    1 &\quad{if } x=0,
+    \frac{\sin(x)}{x} &\quad\text{otherwise,}
+  \end{cases}
+  ```
+
+  and its integral
 
   ```math
   \int_{-\infty}^{\infty} \frac{\sin(ax)}{x}\,dx = \textcolor{teal}{\pi} = \frac{\textcolor{orange}{\tau}}{2}
