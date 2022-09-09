@@ -406,14 +406,14 @@ installed.
 
   for any `$a\in\mathbb{R}\setminus\{0\}$`. The normalized sinc function is
   defined to have zeros for all `$\mathbb{Z}\setminus\{0\}$`, and it's integral
-  is 1:
+  is 1,
 
   ```math
   \sinc_{\pi}(x) =
-  \frac{\sin(\textcolor{teal}{\pi} x)}{\textcolor{teal}{\pi} x}
+  \frac{\sin(\textcolor{teal}{\pi} x)}{\textcolor{teal}{\pi} x}.
   ```
 
-- Integral
+- Consider the integral
 
   ```math
   \int_0^{\infty} \frac{1}{1 + x^\alpha} = \frac{\textcolor{teal}{\pi} / \alpha}{\sin(\textcolor{teal}{\pi}/\alpha)}
@@ -424,6 +424,9 @@ installed.
   ```math
   \int_{-\infty}^{\infty} \frac{1}{1 + x^2} = \textcolor{teal}{\pi}
   ```
+
+  This is relevant in the [Cauchy
+  distribution](https://en.wikipedia.org/wiki/Cauchy_distribution).
 
 - Physics
 
