@@ -362,8 +362,9 @@ installed.
 - [Weyl law](https://en.wikipedia.org/wiki/Weyl_law):
 
   ```math
+  \newcommand{\vol}{\operatorname{vol}}
   \lim_{\lambda\to\infty} \frac{N(\lambda)}{\lambda^{d/2}}
-  = \textcolor{orange}{\tau}^{-d}\omega_d vol(\Omega)
+  = \textcolor{orange}{\tau}^{-d}\omega_d \vol(\Omega)
   ```
 
 - [Error function](https://en.wikipedia.org/wiki/Error_function)
@@ -419,14 +420,39 @@ installed.
   \int_0^{\infty} \frac{1}{1 + x^\alpha} = \frac{\textcolor{teal}{\pi} / \alpha}{\sin(\textcolor{teal}{\pi}/\alpha)}
   ```
 
-  for all $\alpha > 1$. Specifically
+  for all $\alpha > 1$, specifically
 
   ```math
-  \int_{-\infty}^{\infty} \frac{1}{1 + x^2} = \textcolor{teal}{\pi}
+  \int_{-\infty}^{\infty} \frac{1}{1 + x^2} = \textcolor{teal}{\pi}.
   ```
 
   This is relevant in the [Cauchy
   distribution](https://en.wikipedia.org/wiki/Cauchy_distribution).
+
+- Consider the normalization of [Student's
+  `$t$`-distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution),
+
+  ```math
+  V(\gamma) = \int_{-\infty}^\infty \frac{1}{\sqrt{1 + x^2/\gamma}^{\gamma+1}}
+  = \frac{\sqrt{\textcolor{teal}{\pi}\gamma} \Gamma(\gamma/2)}{\Gamma((\gamma+1) / 2)}
+  ```
+
+  for all $\gamma>0$. specifically,
+
+  ```math
+  V(1) = \textcolor{teal}{\pi},\\
+  V(2) = 2\sqrt{2}.
+  ```
+
+  Interestingly, values for other `$\gamma\in\mathbb{N}$` can be determined via
+  the recurrence
+
+  ```math
+  \frac{V(\gamma)}{V(\gamma-2)} = \frac{\sqrt{\gamma(\gamma-2)}}{\gamma-1}
+  ```
+
+  which is perhaps a bit more revealing than the closed-form expression with
+  the Gamma function evaluations.
 
 - Physics
 
