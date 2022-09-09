@@ -223,24 +223,6 @@ installed.
   \end{cases}
   ```
 
-- Volume of the _n_-dimensional unit ball
-
-  ```math
-  |S_n|
-  = \frac{\ppi^{n/2}}{\Gamma(n/2 + 1)}
-  = \begin{cases}
-  1 & \text{if } n = 0\\
-  2 & \text{if } n = 1\\
-  |S_{n-2}| \times \ttau / n & \text{otherwise}
-  \end{cases}
-  ```
-
-  The area of a disk:
-
-  ```math
-  A = \ppi r^2 = \frac{\ttau}{2} r^2
-  ```
-
 - _n_-dimensional Gegenbauer integral
 
   ```math
@@ -255,11 +237,30 @@ installed.
 
   Special cases:
 
+  - Volume of the _n_-dimensional unit ball (`$\lambda = 0$`):
+
+    ```math
+    |S_n|
+    = \begin{cases}
+    1 & \text{if } n = 0\\
+    2 & \text{if } n = 1\\
+    |S_{n-2}| \times \ttau / n & \text{otherwise}
+    \end{cases}
+    ```
+
+  - The area of a disk (`$\lambda = 0, n = 2$`)
+
+    ```math
+    A
+    = \frac{\ttau}{2} r^2
+    = \ppi r^2
+    ```
+
   - `$n=1$`, `$\lambda = -1$`
 
-  ```math
-  \int_{-1}^1 \frac{1}{\sqrt{1-x^2}} = \ppi
-  ```
+    ```math
+    \int_{-1}^1 \frac{1}{\sqrt{1-x^2}} = \ppi
+    ```
 
 - _n_-dimensional generalized Laguerre volume
 
