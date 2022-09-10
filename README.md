@@ -424,7 +424,7 @@ installed.
   its power integrals
 
   ```math
-  \int_{-\infty}^{\infty} \left(\frac{\sin(x)}{x}\right)^n\,dx
+  \int_{-\infty}^{\infty} \frac{\sin^n(x)}{x^n}\,dx
   = \frac{n \ttau}{2^n}\sum_{k=0}^{\lfloor n/2 \rfloor} \frac{(-1)^k (n-2k)^{n-1}}{k!(n-k)!}
   ```
 
@@ -433,7 +433,7 @@ installed.
   ```math
   \int_{-\infty}^{\infty} \frac{\sin(x)}{x}\,dx
   = \int_{-\infty}^{\infty} \frac{\sin^2(x)}{x^2}\,dx
-  = \frac{\ttau}{2} = \ppi
+  = \frac{\ttau}{2} = \ppi.
   ```
 
 - Consider the integral
