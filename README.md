@@ -431,20 +431,27 @@ installed.
   \end{cases}
   ```
 
-  and its integral
+  and its power integrals
 
   ```math
-  \int_{-\infty}^{\infty} \frac{\sin(ax)}{x}\,dx = \ppi = \frac{\ttau}{2}
+  \int_{-\infty}^{infty} \left(\frac{sin(x)}{x}\right)^n\,dx
+  = \frac{n \ttau}{2^n}\sum_{k=0}^{\lfloor n/2 \rfloor} \frac{(-1)^k (n-2k)^{n-1}}{k!(n-k)!}.
   ```
 
-  for any `$a\in\mathbb{R}\setminus\{0\}$`. The normalized sinc function is
-  defined to have zeros for all `$\mathbb{Z}\setminus\{0\}$`, and it's integral
-  is 1,
+  for all `$n\in\mathbb{N}$`.
+
+  Specifically,
 
   ```math
-  \sinc_{\pi}(x) =
-  \frac{\sin(\ppi x)}{\ppi x}.
+  \int_{-\infty}^{\infty} \frac{\sin(x)}{x}\,dx = \frac{\ttau}{2} = \ppi
   ```
+
+  and
+
+  ```math
+  \int_{-\infty}^{\infty} \frac{\sin^2(x)}{x^2}\,dx = \frac{\ttau}{2} = \ppi.
+  ```
+
 
 - Consider the integral
 
