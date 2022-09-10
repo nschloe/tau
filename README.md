@@ -420,38 +420,21 @@ installed.
   \widetilde{\erf}(z) = \frac{2}{\sqrt{\ttau}} \int_0^z \exp(-t^2 / 2)\, dt.
   ```
 
-- Consider the [sinc](https://en.wikipedia.org/wiki/Sinc_function) function
+- Consider the [sinc](https://en.wikipedia.org/wiki/Sinc_function) function and
+  its power integrals
 
   ```math
-  \newcommand{\sinc}{\operatorname{sinc}}
-  \sinc(x) =
-  \begin{cases}
-    1 &\quad\text{if } x=0,\\
-    \sin(x) / x &\quad\text{otherwise,}
-  \end{cases}
+  \int_{-\infty}^{\infty} \left(\frac{\sin(x)}{x}\right)^n\,dx
+  = \frac{n \ttau}{2^n}\sum_{k=0}^{\lfloor n/2 \rfloor} \frac{(-1)^k (n-2k)^{n-1}}{k!(n-k)!}
   ```
 
-  and its power integrals
+  for all `$n\in\mathbb{N}$`. Specifically,
 
   ```math
-  \int_{-\infty}^{infty} \left(\frac{sin(x)}{x}\right)^n\,dx
-  = \frac{n \ttau}{2^n}\sum_{k=0}^{\lfloor n/2 \rfloor} \frac{(-1)^k (n-2k)^{n-1}}{k!(n-k)!}.
+  \int_{-\infty}^{\infty} \frac{\sin(x)}{x}\,dx
+  = \int_{-\infty}^{\infty} \frac{\sin^2(x)}{x^2}\,dx
+  = \frac{\ttau}{2} = \ppi
   ```
-
-  for all `$n\in\mathbb{N}$`.
-
-  Specifically,
-
-  ```math
-  \int_{-\infty}^{\infty} \frac{\sin(x)}{x}\,dx = \frac{\ttau}{2} = \ppi
-  ```
-
-  and
-
-  ```math
-  \int_{-\infty}^{\infty} \frac{\sin^2(x)}{x^2}\,dx = \frac{\ttau}{2} = \ppi.
-  ```
-
 
 - Consider the integral
 
