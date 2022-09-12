@@ -378,7 +378,8 @@ installed.
   \prod_{k=0}^{m-1}\Gamma\left(z+\frac{k}{m}\right) = \ttau^\frac{m-1}{2} m^{\frac{1}{2}-mz} \Gamma(mz),
   ```
 
-  and its special case, the [Legendre duplication formula](https://en.wikipedia.org/wiki/Multiplication_theorem#Gamma_function%E2%80%93Legendre_formula)
+  and its special case (`$m=2$`), the [Legendre duplication
+  formula](https://en.wikipedia.org/wiki/Multiplication_theorem#Gamma_function%E2%80%93Legendre_formula)
 
   ```math
   \Gamma(z)\Gamma(z+\frac{1}{2}) = 2^{1-2z}\sqrt{\ppi}\Gamma(2z).
