@@ -372,6 +372,18 @@ installed.
   = \frac{(2n)!}{4^n n!} \sqrt{\frac{\ttau}{2}}
   ```
 
+  [The multiplication theorem](https://en.wikipedia.org/wiki/Multiplication_theorem):
+
+  ```math
+  \prod_{k=0}^{m-1}\Gamma\left(z+\frac{k}{m}\right) = \ttau^\frac{m-1}{2} m^{\frac{1}{2}-mz} \Gamma(mz),
+  ```
+
+  and its special case, the [Legendre duplication formula](https://en.wikipedia.org/wiki/Multiplication_theorem#Gamma_function%E2%80%93Legendre_formula)
+
+  ```math
+  \Gamma(z)\Gamma(z+\frac{1}{2}) = 2^{1-2z}\sqrt{\ppi}\Gamma(2z).
+  ```
+
 - [Particular values of the Riemann zeta function](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
 
   ```math
