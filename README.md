@@ -382,7 +382,7 @@ installed.
   formula](https://en.wikipedia.org/wiki/Multiplication_theorem#Gamma_function%E2%80%93Legendre_formula)
 
   ```math
-  \Gamma(z)\Gamma(z+\frac{1}{2}) = 2^{1-2z}\sqrt{\ppi}\Gamma(2z).
+  \Gamma(z)\Gamma(z+\tfrac{1}{2}) = 2^{1-2z}\sqrt{\ppi}\Gamma(2z).
   ```
 
 - [Particular values of the Riemann zeta function](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
