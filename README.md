@@ -100,6 +100,10 @@ Articles _against_ τ:
 - [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day)
 - [Elon Musk, _tau > pi_](https://twitter.com/elonmusk/status/1496066844284928003)
 
+### Related texts
+
+- [Peter Luschny, The Bernoulli Manifesto, 2013](https://luschny.de/math/zeta/The-Bernoulli-Manifesto.html)
+
 ### Historical uses
 
 - [Al-Kāshī](https://en.wikipedia.org/wiki/Jamsh%C4%ABd_al-K%C4%81sh%C4%AB), _Treatise on the Circumference of the Circle_, 1424. See [Peter
