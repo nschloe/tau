@@ -180,14 +180,14 @@ The following equations are best consumed on Chrome with
 [xhub](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
 installed.
 
-```katex
+```math
 \newcommand\ttau{\textcolor{orange}{\tau}}
 \newcommand\ppi{\textcolor{teal}{\pi}}
 ```
 
 - Trigonometrics
 
-  ```katex
+  ```math
   \begin{split}
   \sin(\alpha) &= \sin(\alpha + \ttau) \quad\forall \alpha\\
   \cos(\alpha) &= \cos(\alpha + \ttau) \quad\forall \alpha\\
@@ -199,7 +199,7 @@ installed.
   to grasp (for integers `$n$`). Remember the sine is the projection of the
   angle onto the _y_-axis, the cosine is the projection onto the _x_-axis.
 
-  ```katex
+  ```math
   \begin{alignat*}{3}
     \sin(n \ttau) &= 0,          &\qquad \cos(n \ttau) &= 1,\\
     \sin((n + 1/4) \ttau) &= 1,  &\qquad \cos((n + 1/4) \ttau) &= 0,\\
@@ -217,7 +217,7 @@ installed.
 
 - Area of the _n_-dimensional unit sphere
 
-  ```katex
+  ```math
   |U_n|
   = \frac{2\ppi^{n/2}}{\Gamma(n/2)}
   = \begin{cases}
@@ -229,7 +229,7 @@ installed.
 
 - _n_-dimensional Gegenbauer integral over the unit ball `$S_n$`:
 
-  ```katex
+  ```math
   |G_n^{\lambda}|
     = \int_{S^n} \left(1 - \sum_{i=1}^n x_i^2\right)^\lambda
     = \begin{cases}
@@ -243,7 +243,7 @@ installed.
 
   - Volume of the _n_-dimensional unit ball (`$\lambda = 0$`):
 
-    ```katex
+    ```math
     |S_n|
     = \begin{cases}
     1 & \text{if } n = 0\\
@@ -254,7 +254,7 @@ installed.
 
   - The area of a disk (`$\lambda = 0, n = 2$`)
 
-    ```katex
+    ```math
     |S_n(r)|
     = \frac{\ttau}{2} r^2
     = \ppi r^2
@@ -262,19 +262,19 @@ installed.
 
   - `$n=1$`, `$\lambda = -1/2$`
 
-    ```katex
+    ```math
     \int_{-1}^1 \frac{1}{\sqrt{1-x^2}} = \ppi
     ```
 
   - `$n=1$`, `$\lambda = 1/2$`
 
-    ```katex
+    ```math
     \int_{-1}^1 \sqrt{1-x^2} = \frac{\ppi}{2}
     ```
 
 - _n_-dimensional generalized Laguerre volume
 
-  ```katex
+  ```math
   \begin{align}
     V_n
     &= \int_{\mathbb{R}^n} \left(\sqrt{x_1^2+\cdots+x_n^2}\right)^\alpha \exp\left(-\sqrt{x_1^2+\dots+x_n^2}\right)\\
@@ -290,7 +290,7 @@ installed.
 
 - Compare
 
-  ```katex
+  ```math
   \int_{-\infty}^{\infty} \exp(-x^2)\,dx = \sqrt{\ppi},\qquad
   \int_{-\infty}^{\infty} \exp(-x^2 / 2)\,dx = \sqrt{\ttau}
   ```
@@ -300,24 +300,25 @@ installed.
   `$\sqrt{\frac{1}{2}}$`. Compare with the
   [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
-  ```katex
+  ```math
   \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\ttau}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) \,dx= 1
   ```
 
 - [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
 
-  > Let $`U`$ be an open subset of the complex plane $`\mathbb{C}`$, and suppose
-  > the closed disk $`D`$ defined as
+  > Let $`U`$ be an open subset of the complex plane $`\mathbb{C}`$, and
+  > suppose the closed disk $`D`$ defined as
   >
-  > ```katex
+  > ```math
   > D = \bigl\{z:|z-z_{0}|\leq r\bigr\}
   > ```
   >
-  > is completely contained in `$U$`. Let `$f: U\to\mathbb{C}$` be a holomorphic
-  > function, and let `$\gamma$` be the circle, oriented counterclockwise, forming
-  > the boundary of `$D$`. Then for every `$a$` in the interior of `$D$`,
+  > is completely contained in `$U$`. Let `$f: U\to\mathbb{C}$` be a
+  > holomorphic function, and let `$\gamma$` be the circle, oriented
+  > counterclockwise, forming the boundary of `$D$`. Then for every `$a$` in
+  > the interior of `$D$`,
   >
-  > ```katex
+  > ```math
   > f(a) = \frac{1}{\ttau i} \oint_{\gamma}\frac{f(z)}{z-a} dz.
   > ```
 
@@ -330,14 +331,14 @@ installed.
   > of $`f`$ around $`\gamma`$ is equal to $`\ttau i`$ times the sum of residues of $`f`$ at the points,
   > each counted as many times as $`\gamma`$ winds around the point:
   >
-  > ```katex
+  > ```math
   > \newcommand{\Res}{\operatorname{Res}}
   > \oint_\gamma f(z)\,\mathrm{d}z = \ttau i \sum_{k=1}^n I(\gamma,a_k) \Res(f,a_k)
   > ```
 
 - [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 
-  ```katex
+  ```math
   \begin{align*}
   \hat{f}(\xi) &= \int_{-\infty}^{\infty} f(x) \exp(-i\ttau x\xi)\,dx,\\
   f(x)         &= \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\ttau x\xi)\,d\xi
@@ -346,32 +347,32 @@ installed.
 
 - [<emph>n</emph>th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
 
-  ```katex
+  ```math
   z^n = 1 \quad\Rightarrow\quad z = \exp(i\ttau k / n) \quad\forall k=0,\dots,n-1
   ```
 
 - [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
 
-  ```katex
+  ```math
   \exp(i \ppi) + 1  = 0,\quad
   \exp(i \ttau) - 1 = 0
   ```
 
 - [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
 
-  ```katex
+  ```math
   n! \sim \sqrt{\ttau n} \left(\frac{n}{e}\right)^n
   ```
 
 - [Particular values of the Gamma function](https://en.wikipedia.org/wiki/Particular_values_of_the_gamma_function)
 
-  ```katex
+  ```math
   \Gamma(n / 2)
   = \sqrt{\ppi} \frac{(n-2)!!}{2^{(n-1)/2}}
   = \sqrt{\ttau} \frac{(n-2)!!}{2^{n/2}}
   ```
 
-  ```katex
+  ```math
   \Gamma(1 / 2 + n)
   = \frac{(2n)!}{4^n n!} \sqrt{\ppi}
   = \frac{(2n)!}{4^n n!} \sqrt{\frac{\ttau}{2}}
@@ -379,32 +380,32 @@ installed.
 
   [The multiplication theorem](https://en.wikipedia.org/wiki/Multiplication_theorem):
 
-  ```katex
+  ```math
   \prod_{k=0}^{m-1}\Gamma\left(z+\frac{k}{m}\right) = \ttau^\frac{m-1}{2} m^{\frac{1}{2}-mz} \Gamma(mz),
   ```
 
   and its special case (`$m=2$`), the [Legendre duplication
   formula](https://en.wikipedia.org/wiki/Multiplication_theorem#Gamma_function%E2%80%93Legendre_formula)
 
-  ```katex
+  ```math
   \Gamma(z)\Gamma(z+\tfrac{1}{2}) = 2^{1-2z}\sqrt{\ppi}\Gamma(2z).
   ```
 
 - [Particular values of the Riemann zeta function](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
 
-  ```katex
+  ```math
   \zeta(2n) = \sum_{k=1}^{\infty} \frac{1}{k^{2n}} = (-1)^{n+1} \frac{\ttau^{2n} B_{2n}}{2 (2n)!},
   ```
 
   for $n\in\mathbb{N}$, e.g.,
 
-  ```katex
+  ```math
   \zeta(2) = \sum_{k=1}^{\infty} \frac{1}{k^2} = \frac{\ppi^2}{6} = \frac{\ttau^2}{24}
   ```
 
 <!--
 - [Euler’s reflection formula](https://en.wikipedia.org/wiki/Reflection_formula):
-  ```katex
+  ```math
   \Gamma(z)\Gamma(1-z)
   = \frac{\ppi}{\sin(\ppi z)}
   = \frac{\textcolor{orange}{tau}}{crd(\ttau z)}
@@ -413,7 +414,7 @@ installed.
 
 - [Weyl law](https://en.wikipedia.org/wiki/Weyl_law):
 
-  ```katex
+  ```math
   \newcommand{\vol}{\operatorname{vol}}
   \lim_{\lambda\to\infty} \frac{N(\lambda)}{\lambda^{d/2}}
   = \ttau^{-d}\omega_d \vol(\Omega)
@@ -421,11 +422,11 @@ installed.
 
 - [Error function](https://en.wikipedia.org/wiki/Error_function)
 
-  ```katex
+  ```math
   \newcommand{\erf}{\operatorname{erf}}
   ```
 
-  ```katex
+  ```math
   \erf(z) = \frac{2}{\sqrt{\ppi}} \int_0^z \exp(-t^2)\, dt.
   ```
 
@@ -436,21 +437,21 @@ installed.
 
   The same property with standard deviation 1 is fulfilled by
 
-  ```katex
+  ```math
   \erf_1(z) = \frac{2}{\sqrt{\ttau}} \int_0^z \exp(-t^2 / 2)\, dt.
   ```
 
 - Consider the [sinc](https://en.wikipedia.org/wiki/Sinc_function) function and
   its power integrals
 
-  ```katex
+  ```math
   \int_{-\infty}^{\infty} \frac{\sin^n(x)}{x^n}\,dx
   = \frac{n \ttau}{2^n}\sum_{k=0}^{\lfloor n/2 \rfloor} \frac{(-1)^k (n-2k)^{n-1}}{k!(n-k)!}
   ```
 
   for all `$n\in\mathbb{N}$`. Specifically,
 
-  ```katex
+  ```math
   \int_{-\infty}^{\infty} \frac{\sin(x)}{x}\,dx
   = \int_{-\infty}^{\infty} \frac{\sin^2(x)}{x^2}\,dx
   = \frac{\ttau}{2} = \ppi.
@@ -458,13 +459,13 @@ installed.
 
 - Consider the integral
 
-  ```katex
+  ```math
   \int_0^{\infty} \frac{1}{1 + x^\alpha} = \frac{\ppi / \alpha}{\sin(\ppi/\alpha)}
   ```
 
   for all $\alpha > 1$, specifically
 
-  ```katex
+  ```math
   \int_{-\infty}^{\infty} \frac{1}{1 + x^2} = \ppi.
   ```
 
@@ -474,14 +475,14 @@ installed.
 - Consider the normalization of [Student's
   `$t$`-distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution),
 
-  ```katex
+  ```math
   V(\gamma) = \int_{-\infty}^\infty \frac{1}{\sqrt{1 + x^2/\gamma}^{\gamma+1}}
   = \frac{\sqrt{\ppi\gamma} \Gamma(\gamma/2)}{\Gamma((\gamma+1) / 2)}
   ```
 
   for all `$\gamma>0$`. specifically,
 
-  ```katex
+  ```math
   \begin{align*}
   V(1) &= \ppi,\\
   V(2) &= 2\sqrt{2}.
@@ -491,7 +492,7 @@ installed.
   Interestingly, values for larger `$\gamma$` can be determined via
   the recurrence
 
-  ```katex
+  ```math
   V(\gamma) = \frac{\sqrt{\gamma(\gamma-2)}}{\gamma-1} \times V(\gamma - 2)
   ```
 
@@ -501,38 +502,38 @@ installed.
 - Physics
 
   - Cosmological constant:
-    ```katex
+    ```math
     \Lambda = \frac{4\ttau G}{3c^2} \rho
     ```
   - Heisenberg's uncertainty principle:
-    ```katex
+    ```math
     \Delta x \Delta p \ge \frac{h}{2 \ttau}
     ```
   - Einstein's field equation of general relativity:
-    ```katex
+    ```math
     R_{\mu\nu} = \frac{4\ttau G}{c^4} T_{\mu\nu}
     ```
   - Coulomb's law for the electric force in vacuum:
 
-    ```katex
+    ```math
     F = \frac{|q_1 q_2|}{2\ttau \varepsilon_0 r^2}
     ```
 
   - Magnetic permeability of free space:
-    ```katex
+    ```math
     \mu_0 \approx 2\ttau \times 10^{-7} N/A^2
     ```
   - Approximate period of a simple pendulum with small amplitude:
-    ```katex
+    ```math
     T \approx \ttau \sqrt{\frac{L}{g}}
     ```
   - Exact period of a simple pendulum with amplitude `$\theta_0$`:
 
-    ```katex
+    ```math
     \newcommand{\agm}{\operatorname{agm}}
     ```
 
-    ```katex
+    ```math
     T = \frac{\ttau}{\agm(1, \cos(\theta_0/2))} \sqrt{\frac{L}{g}}
     ```
 
@@ -540,23 +541,23 @@ installed.
     mean](https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean).)
 
   - Kepler's third law of planetary motion:
-    ```katex
+    ```math
     \frac{R^3}{T^2} = \frac{GM}{\ttau^2}
     ```
   - The buckling formula:
-    ```katex
+    ```math
     F = \frac{\ttau^2 EI}{4L^2}
     ```
   - Reduced Planck constant:
-    ```katex
+    ```math
     \hbar = \frac{h}{\ttau}
     ```
   - Reactance of an inductor:
-    ```katex
+    ```math
     \ttau fL
     ```
   - Susceptance of a capacitor:
-    ```katex
+    ```math
     \ttau fC
     ```
 
