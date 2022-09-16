@@ -489,6 +489,7 @@ installed.
   \end{align*}
   ```
 
+  <!--
   Interestingly, values for larger `$\gamma$` can be determined via
   the recurrence
 
@@ -498,6 +499,7 @@ installed.
 
   which is perhaps a bit more revealing than the closed-form expression with
   the Gamma function evaluations.
+  -->
 
 - Physics
 
