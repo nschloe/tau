@@ -368,8 +368,8 @@ installed.
 
   - Positive half-integers:
 
-    `$\Gamma(\tfrac{1}{2}) = \sqrt{\ppi}$`, so all half-integers contain that
-    factor (recall `$\Gamma(z+1)=z\Gamma(z)$`):
+    `$\Gamma(\tfrac{1}{2}) = \sqrt{\ppi}$`, so all half-integer values of
+    `$\Gamma$` contain that factor (recall `$\Gamma(z+1)=z\Gamma(z)$`):
 
     ```math
     \Gamma(n + \tfrac{1}{2})
