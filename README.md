@@ -392,11 +392,13 @@ installed.
 - [Particular values of the Riemann zeta function](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
 
   ```math
-  \zeta(2) = \sum_{k=1}^{\infty} \frac{1}{k^2} = \frac{\ppi^2}{6} = \frac{\ttau^2}{24}
+  \zeta(2n) = \sum_{k=1}^{\infty} \frac{1}{k^{2n}} = (-1)^{n+1} \frac{\ttau^{2n} B_{2n}}{2 (2n)!},
   ```
 
+  for $n\in\mathbb{N}$, e.g.,
+
   ```math
-  \zeta(2n) = \sum_{k=1}^{\infty} \frac{1}{k^{2n}} = (-1)^{n+1} \frac{\ttau^{2n} B_{2n}}{2 (2n)!}
+  \zeta(2) = \sum_{k=1}^{\infty} \frac{1}{k^2} = \frac{\ppi^2}{6} = \frac{\ttau^2}{24}
   ```
 
 <!--
@@ -434,7 +436,7 @@ installed.
   The same property with standard deviation 1 is fulfilled by
 
   ```math
-  \widetilde{\erf}(z) = \frac{2}{\sqrt{\ttau}} \int_0^z \exp(-t^2 / 2)\, dt.
+  \erf_1(z) = \frac{2}{\sqrt{\ttau}} \int_0^z \exp(-t^2 / 2)\, dt.
   ```
 
 - Consider the [sinc](https://en.wikipedia.org/wiki/Sinc_function) function and
