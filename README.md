@@ -331,7 +331,8 @@ installed.
   > each counted as many times as $`\gamma`$ winds around the point:
   >
   > ```math
-  > \oint_\gamma f(z)\,\mathrm{d}z = \ttau i \sum_{k=1}^n I(\gamma,a_k) Res(f,a_k)
+  > \newcommand{\Res}{\operatorname{Res}}
+  > \oint_\gamma f(z)\,\mathrm{d}z = \ttau i \sum_{k=1}^n I(\gamma,a_k) \Res(f,a_k)
   > ```
 
 - [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
