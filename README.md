@@ -368,19 +368,19 @@ installed.
 
   - Positive half-integers:
 
-    `$\Gamma(\tfrac{1}{2}) = \sqrt{\pi}$`, so all half-integers contain that
+    `$\Gamma(\tfrac{1}{2}) = \sqrt{\ppi}$`, so all half-integers contain that
     factor (recall `$\Gamma(z+1)=z\Gamma(z)$`):
 
     ```math
     \Gamma(n + \tfrac{1}{2})
-    = \sqrt{\pi} \prod_{i=0}^{n-1} \left(i + \frac{1}{2}\right).
+    = \sqrt{\ppi} \prod_{i=0}^{n-1} \left(i + \frac{1}{2}\right)
     ```
 
     for `$n\in\mathbb{N}$`. Equivalently:
 
     ```math
-    \Gamma(1 / 2 + n)
-    = \frac{(2n-1)!!}{2^n} \sqrt{\ppi}
+    \Gamma(n + \tfrac{1}{2})
+    = \sqrt{\ppi} \frac{(2n-1)!!}{2^n}
     ```
 
     or (for odd `$n>0$`)
