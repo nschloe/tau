@@ -368,19 +368,27 @@ installed.
 
   - Positive half-integers:
 
+    `$\Gamma(\tfrac{1}{2}) = \sqrt{pi}$`, so all half-integers contain that
+    factor (recall `$\Gamma(z+1)=z\Gamma(z)$`):
+
     ```math
-    \Gamma(n / 2)
-    = \sqrt{\ppi} \frac{(n-2)!!}{2^{(n-1)/2}}
+    \Gamma(n + \tfrac{1}{2})
+    = \sqrt{\pi} \prod{i=0}^{n-1} \left(i + \frac{1}{2}\right).
     ```
 
-    for odd `$n>0$`, or equivalently
+    for `$n\in\mathbb{N}$`. Equivalently:
 
     ```math
     \Gamma(1 / 2 + n)
-    = \frac{(2n-1)!!}{2^n n!} \sqrt{\ppi}
+    = \frac{(2n-1)!!}{2^n} \sqrt{\ppi}
     ```
 
-    for `$n\in\mathbb{N}$`.
+    or (for odd `$n>0$`)
+
+    ```math
+    \Gamma(\tfrac{n}{2})
+    = \sqrt{\ppi} \frac{(n-2)!!}{2^{(n-1)/2}}.
+    ```
 
   - [The multiplication theorem](https://en.wikipedia.org/wiki/Multiplication_theorem):
 
