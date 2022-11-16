@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Schlömer"
+  given-names: "Nico"
+  orcid: "https://orcid.org/0000-0001-5228-0946"
+title: "τ – the better π"
+url: https://github.com/nschloe/tau
+license: CC0-1.0
