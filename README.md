@@ -146,6 +146,8 @@ Articles after 2011:
 - [xkcd, _Symbols_](https://xkcd.com/2520/)
 - [SMBC, _Proposed Number Improvements_](https://www.smbc-comics.com/comic/numbers-3)
 - [SMBC, _Pi-Tau conversion constant_](https://www.smbc-comics.com/comic/2013-10-04)
+- [SMBC, _Social_](https://www.smbc-comics.com/comic/social)
+- [SMBC, _Better than pi_](https://www.smbc-comics.com/comic/better-than-pi)
 - [Crooked Stave Artisan Beer Project, _Key Lime Tau (2π)_](https://untappd.com/b/crooked-stave-artisan-beer-project-key-lime-tau-2p/1343706)
 - [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day)
 - [Mike Keith, _Pieces of Centaurs: A 768-digit mnemonic for τ = 2π_, 2011](http://www.cadaeic.net/centaurs.htm)
@@ -212,6 +214,7 @@ Articles after 2011:
 - [.NET, C#, since 5.0 (2020)](https://github.com/dotnet/runtime/pull/37517)
   <!--https://docs.microsoft.com/en-us/dotnet/api/system.math.tau -->
 - [Boost, since 1.77.0 (2021)](https://www.boost.org/doc/libs/1_77_0/boost/math/constants/constants.hpp)
+- [Godot game engine, since 3.3.3 (2021)](https://github.com/godotengine/godot/pull/48837)
 - [Java, OpenJDK, since 19 (2022)](https://github.com/openjdk/jdk/pull/7813)
 
 Inclusion of a constant `tau` was _rejected_ by the following projects:
