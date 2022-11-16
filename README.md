@@ -17,8 +17,6 @@ should be used instead of π. Some found his arguments convincing, including
 [The Tau Manifesto](https://tauday.com/tau-manifesto), and the τ movement was
 born.
 
-This page lists notable articles, videos, discussion etc. about τ.
-
 ### Scientific articles and blog posts
 
 - [Bob Palais, _π is wrong!_, 2001](https://doi.org/10.1007%2FBF03026846)
@@ -30,23 +28,10 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Stephen Abbott, _Aftermath: My Conversion to Tauism_, 2012](https://doi.org/10.4169%2Fmathhorizons.19.4.34)
 - [Peter Harremoës, _Al-Kāshī’s constant_, 2018](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.pdf)
 
-### Other articles
-
-- [Stanley M. Max, _Radian Measurement: What It Is, and How to Calculate It More Easily Using τ Instead of π_, 2011](http://www.metricphilatelist.net/TowsonU/course_material/tau/radian_measurement.pdf)
-- [Lulzim Gjyrgjialli, _Circle constant is a turn_, 2018](https://www.itisaturn.com/assets/docs/itisaturn.pdf)
-- <a href="https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals">Wikipedia,
-  <emph>Proposals for a single letter to represent 2π</emph></a>
-
-- [Theorem of the Day](https://www.theoremoftheday.org/), e.g.,
-  [Euler’s Identity](https://www.theoremoftheday.org/GeometryAndTrigonometry/EulerIdentity/TotDEulerIdentity.pdf) or
-  [Stirling’s Approximation](https://www.theoremoftheday.org/Binomial/Stirling/TotDStirling.pdf)
-  https://theoremoftheday.org/Annex/taumanifesto.html
-
 Articles _against_ τ:
 
 - [The Pi Manifesto](https://archive.ph/VnJ2x)
 - [The Proper π Manifesto](http://proper-pi-manifesto.com/)
-- [David Butler, _Pi may be wrong, but so is Tau!_, 2011](https://www.youtube.com/watch?v=1qpVdwizdvI) (video)
 - [Marc B. Reynolds, _Tau and the art of Windmill jousting_, 2020](http://marc-b-reynolds.github.io/math/2020/01/06/Tau.html)
 
 ### News articles and blog posts
@@ -111,12 +96,27 @@ Articles after 2011:
 - [Douglas Fehlen, Best Accredited Colleges,Best Accredited Colleges,  _Tau Day Generates Controversy Among Math Scholars_, 2021](https://bestaccreditedcolleges.org/articles/tau-day-generates-controversy-among-math-scholars.html)
 - [Andrea Zhao, The Varsity, _Tau versus pi: the unresolved battle_, 2022](https://thevarsity.ca/2022/06/28/tau-day-two-pi-mathematics/)
 
+### Other articles
+
+- [Stanley M. Max, _Radian Measurement: What It Is, and How to Calculate It More Easily Using τ Instead of π_, 2011](http://www.metricphilatelist.net/TowsonU/course_material/tau/radian_measurement.pdf)
+- [O.V. Vijimon, _A circle without "π"_, 2017](https://osf.io/stwxf)
+- [Lulzim Gjyrgjialli, _Circle constant is a turn_, 2018](https://www.itisaturn.com/assets/docs/itisaturn.pdf)
+- <a href="https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals">Wikipedia,
+  <emph>Proposals for a single letter to represent 2π</emph></a>
+
+- [Theorem of the Day](https://www.theoremoftheday.org/), e.g.,
+  [Euler’s Identity](https://www.theoremoftheday.org/GeometryAndTrigonometry/EulerIdentity/TotDEulerIdentity.pdf) or
+  [Stirling’s Approximation](https://www.theoremoftheday.org/Binomial/Stirling/TotDStirling.pdf)
+  https://theoremoftheday.org/Annex/taumanifesto.html
+
+
 ### Videos
 
 - [Vihart, _Pi Is (still) Wrong_, 2011](https://youtu.be/jG7vhMMXagQ)
 - [Michael Blake, _What Tau Sounds Like_, 2011](https://youtu.be/3174T-3-59Q)
 - [Kevin Houston, _Pi is wrong! Here comes Tau Day_, 2011](https://youtu.be/IF1zcRoOVN0)
 - [Matheatre1, _6.283..._, 2011](https://youtu.be/uAFU-K4M9Ck)
+- [David Butler, _Pi may be wrong, but so is Tau!_, 2011](https://www.youtube.com/watch?v=1qpVdwizdvI) (video)
 - [Michael Hartl, _No, really, pi is wrong: The Tau Manifesto_, 2012](https://youtu.be/H69YH5TnNXI)
 - [Numberphile, _Tau replaces Pi_, 2012](https://youtu.be/83ofi_L6eAo)
 - [Numberphile, _Tau vs Pi Smackdown_, 2012](https://youtu.be/ZPv1UV0rD8U)
