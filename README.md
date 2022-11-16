@@ -147,6 +147,7 @@ Articles after 2011:
 - [Crooked Stave Artisan Beer Project, _Key Lime Tau (2π)_](https://untappd.com/b/crooked-stave-artisan-beer-project-key-lime-tau-2p/1343706)
 - [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day)
 - [Mike Keith, _Pieces of Centaurs: A 768-digit mnemonic for τ = 2π_, 2011](http://www.cadaeic.net/centaurs.htm)
+- [Vitalik Buterin, _I'm boycotting pi day because tau day is better_, Twitter, 2020](https://twitter.com/vitalikbuterin/status/1238971048948830210)
 - [Elon Musk, _tau > pi_, Twitter, 2022](https://twitter.com/elonmusk/status/1496066844284928003)
 
 ### Related texts
