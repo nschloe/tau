@@ -335,8 +335,7 @@ installed.
   > each counted as many times as $`\gamma`$ winds around the point:
   >
   > ```math
-  > \newcommand{\Res}{\operatorname{Res}}
-  > \oint_\gamma f(z)\,\mathrm{d}z = \textcolor{orange}{\tau} i \sum_{k=1}^n I(\gamma,a_k) \Res(f,a_k)
+  > \oint_\gamma f(z)\,\mathrm{d}z = \textcolor{orange}{\tau} i \sum_{k=1}^n I(\gamma,a_k) \operatorname{Res}(f,a_k)
   > ```
 
 - [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
@@ -430,30 +429,25 @@ installed.
 - [Weyl law](https://en.wikipedia.org/wiki/Weyl_law):
 
   ```math
-  \newcommand{\vol}{\operatorname{vol}}
   \lim_{\lambda\to\infty} \frac{N(\lambda)}{\lambda^{d/2}}
-  = \textcolor{orange}{\tau}^{-d}\omega_d \vol(\Omega)
+  = \textcolor{orange}{\tau}^{-d}\omega_d \operatorname{vol}(\Omega)
   ```
 
 - [Error function](https://en.wikipedia.org/wiki/Error_function)
 
   ```math
-  \newcommand{\erf}{\operatorname{erf}}
-  ```
-
-  ```math
-  \erf(z) = \frac{2}{\sqrt{\textcolor{teal}{\pi}}} \int_0^z \exp(-t^2)\, dt.
+  \operatorname{erf}(z) = \frac{2}{\sqrt{\textcolor{teal}{\pi}}} \int_0^z \exp(-t^2)\, dt.
   ```
 
   In statistics, for non-negative values of `$x$`, the error function has the
   following interpretation: for a random variable `$Y$` that is normally
-  distributed with mean 0 and standard deviation `$1/\sqrt{2}$`, `$\erf(x)$` is
+  distributed with mean 0 and standard deviation `$1/\sqrt{2}$`, `$\operatorname{erf}(x)$` is
   the probability that `$Y$` falls in the range `$[−x, x]$`.
 
   The same property with standard deviation 1 is fulfilled by
 
   ```math
-  \erf_1(z) = \frac{2}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\, dt.
+  \operatorname{erf}_1(z) = \frac{2}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\, dt.
   ```
 
 - Consider the [sinc](https://en.wikipedia.org/wiki/Sinc_function) function and
@@ -547,14 +541,10 @@ installed.
   - Exact period of a simple pendulum with amplitude `$\theta_0$`:
 
     ```math
-    \newcommand{\agm}{\operatorname{agm}}
+    T = \frac{\textcolor{orange}{\tau}}{\operatorname{agm}(1, \cos(\theta_0/2))} \sqrt{\frac{L}{g}}
     ```
 
-    ```math
-    T = \frac{\textcolor{orange}{\tau}}{\agm(1, \cos(\theta_0/2))} \sqrt{\frac{L}{g}}
-    ```
-
-    (`$\agm$` is the [arithmetic-geometric
+    (`$\operatorname{agm}$` is the [arithmetic-geometric
     mean](https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean).)
 
   - Kepler's third law of planetary motion:
