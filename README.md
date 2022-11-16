@@ -226,6 +226,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 - [NumPy (2017)](https://github.com/numpy/numpy/pull/9696)
 - [Go (2020)](https://github.com/golang/go/issues/40663)
 - [Luau (2022)](https://github.com/Roblox/luau/issues/278)
+- [C++ (2022)](https://lists.isocpp.org/std-proposals/2022/03/3646.php)
 
 ### Some equations
 
