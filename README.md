@@ -27,7 +27,7 @@ This page lists notable articles, videos, discussion etc. about τ.
   As paperback
   [on Amazon](https://www.amazon.de/-/en/Michael-Hartl/dp/B096CXMQ3W)
 - [Joseph Lindenberg, _Tau Before It Was Cool_, 2011](https://sites.google.com/site/taubeforeitwascool/)
-- [Stephen Abbott, _Aftermath: My Conversion to Tauism_, 2018](https://doi.org/10.4169%2Fmathhorizons.19.4.34)
+- [Stephen Abbott, _Aftermath: My Conversion to Tauism_, 2012](https://doi.org/10.4169%2Fmathhorizons.19.4.34)
 - [Peter Harremoës, _Al-Kāshī’s constant_, 2018](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.pdf)
 
 ### Other articles
@@ -40,6 +40,7 @@ This page lists notable articles, videos, discussion etc. about τ.
 - [Theorem of the Day](https://www.theoremoftheday.org/), e.g.,
   [Euler’s Identity](https://www.theoremoftheday.org/GeometryAndTrigonometry/EulerIdentity/TotDEulerIdentity.pdf) or
   [Stirling’s Approximation](https://www.theoremoftheday.org/Binomial/Stirling/TotDStirling.pdf)
+  https://theoremoftheday.org/Annex/taumanifesto.html
 
 Articles _against_ τ:
 
@@ -52,13 +53,15 @@ Articles _against_ τ:
 
 - [Bill Gasarch, _Is Pi defined in the best way?_, 2007](http://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html)
 - [Robert P. Crease, Physics World, _Constant failure_, 2008](https://physicsworld.com/a/constant-failure/)
+- [_Dozenal tau unit circle_, 2010](https://hexnet.org/content/dozenal-tau-unit-circle)
 
 Tau Day (June 28) 2011 saw a large number of articles on τ:
 
-- [Natalie Wolchover, LiveScience, _Mathematicians Want to Say Goodbye to Pi_, 2011](https://www.livescience.com/14836-pi-wrong-tau.html)
-- [Jason Palmer, BBC, _'Tau day' marked by opponents of maths constant pi_, 2011](https://www.bbc.com/news/science-environment-13906169)
+- [Jason Palmer, BBC News, _'Tau day' marked by opponents of maths constant pi_, 2011](https://www.bbc.com/news/science-environment-13906169)
 - [Elizabeth Landau, CNN, _On Pi Day, is 'pi' under attack?_, 2011](http://edition.cnn.com/2011/TECH/innovation/03/14/pi.tau.math/index.html?hpt=T2)
+- [Daily Mail, _Your number's up: Why mathematicians are campaigning for pi to be replaced with alternate value tau_, 2011](https://www.dailymail.co.uk/sciencetech/article-2008963/Why-mathematicians-campaigning-pi-replaced-alternate-value-tau.html)
 - [Duncan Geere, Wired, _Happy Pi day! Let's kill it_, 2011](https://www.wired.co.uk/article/pi-winning)
+- [Natalie Wolchover, LiveScience, _Mathematicians Want to Say Goodbye to Pi_, 2011](https://www.livescience.com/14836-pi-wrong-tau.html)
 - [Drew Grant, Salon, _Pi Day threatened by tau protestors_, 2011](https://www.salon.com/2011/03/14/national_pi_day_viral_videos/)
 - [Murray Bourne, Interactive Mathematics, _Let’s drop pi_, 2011](https://www.intmath.com/blog/mathematics/lets-drop-pi-5665)
 - [Debra Black, Toronto Star, _Down with ugly pi, long live elegant Tau, physicist urges_, 2011](https://www.thestar.com/news/world/2011/06/28/down_with_ugly_pi_long_live_elegant_tau_physicist_urges.html)
@@ -71,7 +74,11 @@ Tau Day (June 28) 2011 saw a large number of articles on τ:
 - [The McGill Daily, _Pi is wrong_, 2011](https://www.mcgilldaily.com/2011/10/pi-is-wrong/)
 - [Anqi Shen, phys.org, _Math wars: Debate sparks anti-pi day_, 2011](https://phys.org/news/2011-06-math-wars-debate-anti-pi-day.html)
 - [The Telegraph Online, _Life of pi in no danger - Experts cold-shoulder campaign to replace with tau_, 2011](https://www.telegraphindia.com/india/life-of-pi-in-no-danger-experts-cold-shoulder-campaign-to-replace-with-tau/cid/380029)
-- [Daily Mail, _Your number's up: Why mathematicians are campaigning for pi to be replaced with alternate value tau_, 2011](https://www.dailymail.co.uk/sciencetech/article-2008963/Why-mathematicians-campaigning-pi-replaced-alternate-value-tau.html)
+- [Simon Wood, Little Storping-in-the-Swuff, _War on Tau_, 2011](http://littlestorping.co.uk/2011/06/28/war-on-tau/)
+- [Dan Amira, Intelligencer, _Pi Is Very Slowly and Nerdily Going Out of
+  Style_,
+  2011](https://nymag.com/intelligencer/2011/03/pi_is_very_slowly_and_nerdily.html)
+- [Sebastian Anthony, Extreme Tech, _Down with pi! Today is Tau Day_, 2011](https://www.extremetech.com/extreme/88298-down-with-pi-today-is-tau-day)
 - [Jacob Aron, New Scientist, _Pi's nemesis: Mathematics is better with tau_,
   2011](https://www.newscientist.com/article/mg20927944-300-pis-nemesis-mathematics-is-better-with-tau/)
   (Interview with M. Hartl, subscription required)
@@ -87,14 +94,20 @@ Same as the Daily Mail article:
 
 Articles after 2011:
 
+- [Jonathan Chang, Scient Line, _The tyranny of π_, 2012](https://scienceline.org/2012/06/the-tyranny-of-%CF%80-2/)
+- [Kevin Houston, _Why I'm not celecratin tau day_, 2012](http://www.kevinhouston.net/blog/2012/06/why-im-not-celebrating-tau-day/)
 - [Ethan Brown, _Pi vs Tau: Pi's Rebuttal_, 2013](http://coolmathstuff123.blogspot.com/2013/02/pi-vs-tau-pis-rebuttal_9.html)
+- [Rachel, Plus Magazine, _Happy Tau Day!!_, 2013](https://plus.maths.org/content/happy-tau-day)
+- [Dmitry Brant, _Pi is wrong! Long live Tau!_, 2013](https://dmitrybrant.com/2011/10/16/pi-is-wrong-long-live-tau)
 - [Randyn Charles Bartholomew, Scientific American, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
+- [_Pi vs. tau: Ultimate Smackdown_, 2014](https://www.prooffreader.com/2014/06/pi-vs-tau-ultimate-smackdown.html)
 - [Giorgia Fortuna, Wolfram, _2 Pi or Not 2 Pi?_, 2015](https://blog.wolfram.com/2015/06/28/2-pi-or-not-2-pi/)
 - [Fox News, _On National Tau Day, Pi Under Attack_, 2015](https://www.foxnews.com/science/on-national-tau-day-pi-under-attack)
 - [Greg Uyeno, ScienceLine, _The Circle Constant, Or what's the matter with π_, 2016](https://scienceline.org/2016/06/the-circle-constant/)
 - [Elizabeth Landau, Scientific American, _The Tao of Tau_, 2017](https://blogs.scientificamerican.com/observations/the-tao-of-tau/)
 - [Chaim Gartenberg, The Verge, _Tau Day is here: celebrate tau, not pi, as the true circle constant_, 2018](https://www.theverge.com/tldr/2018/3/14/17119388/pi-day-pie-math-tau-circle-constant-mathematics-circumference-diameter-radius-holiday-truth)
 - [Paolo A., _in honor of tau_, 2021](https://mitadmissions.org/blogs/entry/in-honor-of-tau/)
+- [Douglas Fehlen, Best Accredited Colleges,Best Accredited Colleges,  _Tau Day Generates Controversy Among Math Scholars_, 2021](https://bestaccreditedcolleges.org/articles/tau-day-generates-controversy-among-math-scholars.html)
 - [Andrea Zhao, The Varsity, _Tau versus pi: the unresolved battle_, 2022](https://thevarsity.ca/2022/06/28/tau-day-two-pi-mathematics/)
 
 ### Videos
@@ -132,6 +145,7 @@ Articles after 2011:
 - [SMBC, _Pi-Tau conversion constant_](https://www.smbc-comics.com/comic/2013-10-04)
 - [Crooked Stave Artisan Beer Project, _Key Lime Tau (2π)_](https://untappd.com/b/crooked-stave-artisan-beer-project-key-lime-tau-2p/1343706)
 - [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day)
+- [Mike Keith, _Pieces of Centaurs: A 768-digit mnemonic for τ = 2π_, 2011](http://www.cadaeic.net/centaurs.htm)
 - [Elon Musk, _tau > pi_, Twitter, 2022](https://twitter.com/elonmusk/status/1496066844284928003)
 
 ### Related texts
@@ -616,3 +630,13 @@ installed.
   > correct constant!” he told me immediately — although he also told me of
   > arguments, which he did not find persuasive, for a third option, π/2.
   > [...]
+
+- [Arthur Benjamin](https://en.wikipedia.org/wiki/Arthur_T._Benjamin) in
+  [Twitter
+  Q&A](http://laughmaths.blogspot.com/2013/07/arthur-benjamin-man-maths-magician-part_15.html)
+
+  > I’m a big tau lover. I agree with the statement that if we could go back in
+  > time and change the factor to tau we would have simplified our theorems and
+  > formulas. Obviously, it will be very hard to change people’s perceptions in
+  > order to use tau, but maybe in mathematics there is enough of a will to do such
+  > a thing. I’ve seen books now that proudly claim “tau certified”.
