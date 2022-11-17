@@ -207,8 +207,8 @@ Articles _against_ τ:
   > mathematicians sometimes used letters such as c or p instead.) The first
   > recorded use is Oughtred's "δ.π", to express the ratio of periphery and
   > diameter in the 1647 and later editions of Clavis Mathematicae. Barrow
-  > likewise used "`$\frac{\pi}{\delta}$`" to represent the constant 3.14...,
-  > **while Gregory instead used "`$\frac{\pi}{\rho}$`" to represent 6.28...**
+  > likewise used "$\frac{\pi}{\delta}$" to represent the constant 3.14...,
+  > **while Gregory instead used "$\frac{\pi}{\rho}$" to represent 6.28...**
   >
   > The earliest known use of the Greek letter π alone to represent the ratio of a
   > circle's circumference to its diameter was by Welsh mathematician William
@@ -281,8 +281,8 @@ installed.
   \end{split}
   ```
 
-  With `$\tau$` being a full revolution, the following identities are very easy
-  to grasp (for integers `$n$`). Remember the sine is the projection of the
+  With $\tau$ being a full revolution, the following identities are very easy
+  to grasp (for integers $n$). Remember the sine is the projection of the
   angle onto the _y_-axis, the cosine is the projection onto the _x_-axis.
 
   ```math
@@ -313,7 +313,7 @@ installed.
   \end{cases}
   ```
 
-- _n_-dimensional Gegenbauer integral over the unit ball `$S_n$`:
+- _n_-dimensional Gegenbauer integral over the unit ball $S_n$:
 
   ```math
   |G_n^{\lambda}|
@@ -327,7 +327,7 @@ installed.
 
   Special cases:
 
-  - Volume of the _n_-dimensional unit ball (`$\lambda = 0$`):
+  - Volume of the _n_-dimensional unit ball ($\lambda = 0$):
 
     ```math
     |S_n|
@@ -338,7 +338,7 @@ installed.
     \end{cases}
     ```
 
-  - The area of a disk (`$\lambda = 0, n = 2$`)
+  - The area of a disk ($\lambda = 0, n = 2$)
 
     ```math
     |S_n(r)|
@@ -346,13 +346,13 @@ installed.
     = \textcolor{teal}{\pi} r^2
     ```
 
-  - `$n=1$`, `$\lambda = -1/2$`
+  - $n=1$, $\lambda = -1/2$
 
     ```math
     \int_{-1}^1 \frac{1}{\sqrt{1-x^2}} = \textcolor{teal}{\pi}
     ```
 
-  - `$n=1$`, `$\lambda = 1/2$`
+  - $n=1$, $\lambda = 1/2$
 
     ```math
     \int_{-1}^1 \sqrt{1-x^2} = \frac{\textcolor{teal}{\pi}}{2}
@@ -382,8 +382,8 @@ installed.
   ```
 
   One could argue that the latter is more "canonical" since it has
-  variance and standard deviation of 1, not `$\frac{1}{2}$` and
-  `$\sqrt{\frac{1}{2}}$`. Compare with the
+  variance and standard deviation of 1, not $\frac{1}{2}$ and
+  $\sqrt{\frac{1}{2}}$. Compare with the
   [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
   ```math
@@ -392,17 +392,17 @@ installed.
 
 - [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
 
-  > Let $`U`$ be an open subset of the complex plane $`\mathbb{C}`$, and
-  > suppose the closed disk $`D`$ defined as
+  > Let $U$ be an open subset of the complex plane $\mathbb{C}$, and
+  > suppose the closed disk $D$ defined as
   >
   > ```math
   > D = \bigl\{z:|z-z_{0}|\leq r\bigr\}
   > ```
   >
-  > is completely contained in `$U$`. Let `$f: U\to\mathbb{C}$` be a
-  > holomorphic function, and let `$\gamma$` be the circle, oriented
-  > counterclockwise, forming the boundary of `$D$`. Then for every `$a$` in
-  > the interior of `$D$`,
+  > is completely contained in $U$. Let $f: U\to\mathbb{C}$ be a
+  > holomorphic function, and let $\gamma$ be the circle, oriented
+  > counterclockwise, forming the boundary of $D$. Then for every $a$ in
+  > the interior of $D$,
   >
   > ```math
   > f(a) = \frac{1}{\textcolor{orange}{\tau} i} \oint_{\gamma}\frac{f(z)}{z-a} dz.
@@ -410,12 +410,12 @@ installed.
 
 - [Cauchy's residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
 
-  > Let $`U`$ be a simply connected open subset of the complex plane containing a
-  > finite list of points `$a_1,\dots,a_n$`, `$U_0 = U \setminus \{a_1,\dots,a_n\}$`, and a function $`f`$
-  > defined and holomorphic on `$U_0$`. Let `$\gamma$` be a closed rectifiable curve in `$U_0$`,
-  > and denote the winding number of $`\gamma`$ around $`a_k`$ by $`I(\gamma, a_k)`$. The line integral
-  > of $`f`$ around $`\gamma`$ is equal to $`\textcolor{orange}{\tau} i`$ times the sum of residues of $`f`$ at the points,
-  > each counted as many times as $`\gamma`$ winds around the point:
+  > Let $U$ be a simply connected open subset of the complex plane containing a
+  > finite list of points $a_1,\dots,a_n$, $U_0 = U \setminus \{a_1,\dots,a_n\}$, and a function $f$
+  > defined and holomorphic on $U_0$. Let $\gamma$ be a closed rectifiable curve in $U_0$,
+  > and denote the winding number of $\gamma$ around $a_k$ by $I(\gamma, a_k)$. The line integral
+  > of $f$ around $\gamma$ is equal to $\textcolor{orange}{\tau} i$ times the sum of residues of $f$ at the points,
+  > each counted as many times as $\gamma$ winds around the point:
   >
   > ```math
   > \oint_\gamma f(z)\,\mathrm{d}z = \textcolor{orange}{\tau} i \sum_{k=1}^n I(\gamma,a_k) \operatorname{Res}(f,a_k)
@@ -453,22 +453,22 @@ installed.
 
   - Positive half-integers:
 
-    `$\Gamma(\tfrac{1}{2}) = \sqrt{\textcolor{teal}{\pi}}$`, so all half-integer values of
-    `$\Gamma$` contain that factor (recall `$\Gamma(z+1)=z\Gamma(z)$`):
+    $\Gamma(\tfrac{1}{2}) = \sqrt{\textcolor{teal}{\pi}}$, so all half-integer values of
+    $\Gamma$ contain that factor (recall $\Gamma(z+1)=z\Gamma(z)$):
 
     ```math
     \Gamma(n + \tfrac{1}{2})
     = \sqrt{\textcolor{teal}{\pi}} \prod_{i=0}^{n-1} \left(i + \frac{1}{2}\right)
     ```
 
-    for `$n\in\mathbb{N}$`. Equivalently:
+    for $n\in\mathbb{N}$. Equivalently:
 
     ```math
     \Gamma(n + \tfrac{1}{2})
     = \sqrt{\textcolor{teal}{\pi}} \frac{(2n-1)!!}{2^n}
     ```
 
-    or (for odd `$n>0$`)
+    or (for odd $n>0$)
 
     ```math
     \Gamma(\tfrac{n}{2})
@@ -481,7 +481,7 @@ installed.
     \prod_{k=0}^{m-1}\Gamma\left(z+\frac{k}{m}\right) = \textcolor{orange}{\tau}^\frac{m-1}{2} m^{\frac{1}{2}-mz} \Gamma(mz),
     ```
 
-    and its special case (`$m=2$`), the [Legendre duplication
+    and its special case ($m=2$), the [Legendre duplication
     formula](https://en.wikipedia.org/wiki/Multiplication_theorem#Gamma_function%E2%80%93Legendre_formula)
 
     ```math
@@ -522,10 +522,10 @@ installed.
   \operatorname{erf}(z) = \frac{2}{\sqrt{\textcolor{teal}{\pi}}} \int_0^z \exp(-t^2)\, dt.
   ```
 
-  In statistics, for non-negative values of `$x$`, the error function has the
-  following interpretation: for a random variable `$Y$` that is normally
-  distributed with mean 0 and standard deviation `$1/\sqrt{2}$`, `$\operatorname{erf}(x)$` is
-  the probability that `$Y$` falls in the range `$[−x, x]$`.
+  In statistics, for non-negative values of $x$, the error function has the
+  following interpretation: for a random variable $Y$ that is normally
+  distributed with mean 0 and standard deviation $1/\sqrt{2}$, $\operatorname{erf}(x)$ is
+  the probability that $Y$ falls in the range $[−x, x]$.
 
   The same property with standard deviation 1 is fulfilled by
 
@@ -541,7 +541,7 @@ installed.
   = \frac{n \textcolor{orange}{\tau}}{2^n}\sum_{k=0}^{\lfloor n/2 \rfloor} \frac{(-1)^k (n-2k)^{n-1}}{k!(n-k)!}
   ```
 
-  for all `$n\in\mathbb{N}$`. Specifically,
+  for all $n\in\mathbb{N}$. Specifically,
 
   ```math
   \int_{-\infty}^{\infty} \frac{\sin(x)}{x}\,dx
@@ -565,14 +565,14 @@ installed.
   distribution](https://en.wikipedia.org/wiki/Cauchy_distribution).
 
 - Consider the normalization of [Student's
-  `$t$`-distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution),
+  $t$-distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution),
 
   ```math
   V(\gamma) = \int_{-\infty}^\infty \frac{1}{\sqrt{1 + x^2/\gamma}^{\gamma+1}}
   = \frac{\sqrt{\textcolor{teal}{\pi}\gamma} \Gamma(\gamma/2)}{\Gamma((\gamma+1) / 2)}
   ```
 
-  for all `$\gamma>0$`. specifically,
+  for all $\gamma>0$. specifically,
 
   ```math
   \begin{align*}
@@ -582,7 +582,7 @@ installed.
   ```
 
   <!--
-  Interestingly, values for larger `$\gamma$` can be determined via
+  Interestingly, values for larger $\gamma$ can be determined via
   the recurrence
 
   ```math
@@ -621,13 +621,13 @@ installed.
     ```math
     T \approx \textcolor{orange}{\tau} \sqrt{\frac{L}{g}}
     ```
-  - Exact period of a simple pendulum with amplitude `$\theta_0$`:
+  - Exact period of a simple pendulum with amplitude $\theta_0$:
 
     ```math
     T = \frac{\textcolor{orange}{\tau}}{\operatorname{agm}(1, \cos(\theta_0/2))} \sqrt{\frac{L}{g}}
     ```
 
-    (`$\operatorname{agm}$` is the [arithmetic-geometric
+    ($\operatorname{agm}$ is the [arithmetic-geometric
     mean](https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean).)
 
   - Kepler's third law of planetary motion:
@@ -656,9 +656,9 @@ installed.
 - [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao) (2007,
   [here](http://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html?showComment=1186584000000#c971095637512882599)):
 
-  > It may be that `$2 \pi i$` is an even more fundamental constant than `$2 \pi$`
-  > or `$\pi$`. It is, after all, the generator of `$\log(1)$`. The fact that so many
-  > formulae involving `$\pi^n$` depend on the parity of `$n$` is another clue in this
+  > It may be that $2 \pi i$ is an even more fundamental constant than $2 \pi$
+  > or $\pi$. It is, after all, the generator of $\log(1)$. The fact that so many
+  > formulae involving $\pi^n$ depend on the parity of $n$ is another clue in this
   > regard.
 
 - [John Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) (2008, from
