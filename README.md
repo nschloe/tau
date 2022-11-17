@@ -198,10 +198,6 @@ Articles _against_ τ:
 - [Vitalik Buterin, _I'm boycotting pi day because tau day is better_, Twitter, 2020](https://twitter.com/vitalikbuterin/status/1238971048948830210)
 - [Elon Musk, _tau > pi_, Twitter, 2022](https://twitter.com/elonmusk/status/1496066844284928003)
 
-### Related texts
-
-- [Peter Luschny, The Bernoulli Manifesto, 2013](https://luschny.de/math/zeta/The-Bernoulli-Manifesto.html)
-
 ### Historical uses
 
 - (All quotes are translated from the German translation by P. Luckey, 1950.)
@@ -732,3 +728,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   > formulas. Obviously, it will be very hard to change people’s perceptions in
   > order to use tau, but maybe in mathematics there is enough of a will to do such
   > a thing. I’ve seen books now that proudly claim “tau certified”.
+
+### Related texts
+
+- [Peter Luschny, The Bernoulli Manifesto, 2013](https://luschny.de/math/zeta/The-Bernoulli-Manifesto.html)
