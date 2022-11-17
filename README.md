@@ -19,13 +19,13 @@ born.
 
 ### Scientific articles and blog posts
 
-- [Bob Palais, _π is wrong!_, 2001](https://doi.org/10.1007%2FBF03026846)
+- [Bob Palais, _π is wrong!_, 2001](https://doi.org/10.1007%2FBF03026846), The Mathematical Intelligencer, volume 23, pages 7–8
 - [Bob Palais' web page](https://www.math.utah.edu/~palais/pi.html)
 - [Michael Hartl, _The Tau Manifesto_, 2010](https://tauday.com/tau-manifesto).
-  As paperback
-  [on Amazon](https://www.amazon.de/-/en/Michael-Hartl/dp/B096CXMQ3W)
+  As paperback [on
+  Amazon](https://www.amazon.de/-/en/Michael-Hartl/dp/B096CXMQ3W)
 - [Joseph Lindenberg, _Tau Before It Was Cool_, 2011](https://sites.google.com/site/taubeforeitwascool/)
-- [Stephen Abbott, _Aftermath: My Conversion to Tauism_, 2012](https://doi.org/10.4169%2Fmathhorizons.19.4.34)
+- [Stephen Abbott, _Aftermath: My Conversion to Tauism_, 2012](https://doi.org/10.4169%2Fmathhorizons.19.4.34), Math Horizons, 19(4), p. 34
 - [Peter Harremoës, _Al-Kāshī’s constant_, 2018](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.pdf)
 
 Articles _against_ τ:
