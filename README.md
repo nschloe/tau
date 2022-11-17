@@ -19,6 +19,16 @@ born.
 
 ### Scientific articles and blog posts
 
+<table align="right">
+<tr>
+<td><img src="https://nschloe.github.io/tau/hartl-palais.jpg" width="200px"/></td>
+</tr>
+<tr><td>
+Michael Hartl (left) and Bob Palais (right) on Tau Day 2017 (Source:
+[Twitter](https://twitter.com/tauday/status/880612180822851586)).
+</td></tr>
+</table>
+
 - [Bob Palais, _π is wrong!_, 2001](https://doi.org/10.1007%2FBF03026846), The Mathematical Intelligencer, volume 23, pages 7–8
 - [Bob Palais' web page](https://www.math.utah.edu/~palais/pi.html)
 - [Michael Hartl, _The Tau Manifesto_, 2010](https://tauday.com/tau-manifesto).
