@@ -247,6 +247,10 @@ Articles _against_ τ:
   > and one [seven] and nine five and eight and six five is [it].
 
   Further reading:
+
+  - [P. Luckey, _Der Lehrbrief über den Kreisumfang_ von _Ǧamšīd b. Mas‛ūd
+    Al-Kāšī_,
+    1950](https://github.com/nschloe/tau/blob/gh-pages/kashi-luckey.pdf)
   - [Peter Harremoës, _Al-Kāshī’s constant_,
     2018](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.pdf)
 
