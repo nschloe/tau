@@ -19,7 +19,7 @@ born.
 
 ### Scientific articles and blog posts
 
-<table align="right">
+<table width="220px" align="right">
 <tr>
 <td><img src="https://nschloe.github.io/tau/hartl-palais.jpg" width="200px" align="right"/></td>
 </tr>
