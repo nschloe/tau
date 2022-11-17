@@ -198,8 +198,8 @@ Articles _against_ τ:
   Harremoës, _Al-Kāshī’s constant_,
   2018](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.pdf)
 
-- The section _Adoption of the symbol π_ of the excellent article
-  [Pi](https://www.wikiwand.com/en/Pi) says:
+- The section _Adoption of the symbol π_ of the excellent Wikipedia article
+  [Pi](https://en.wikipedia.org/wiki/Pi#Adoption_of_the_symbol_%CF%80) says:
 
   > In the earliest usages, the Greek letter π was an abbreviation of the Greek
   > word for periphery (περιφέρεια), and was combined in ratios with δ (for
