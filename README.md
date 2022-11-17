@@ -231,7 +231,7 @@ Articles _against_ τ:
   >
   > > wa baḥǧā ḥahǧi ṣaz a za ṭah ḥawahu
   > >
-  > > muḥīṭun li-quṭrin huwa 'ṯnāni minhu
+  > > muḥīṭun li-quṭrin huwa ’ṯnāni minhu
   >
   > 6 2 8 3 1 8 5 3 0 7 1 7 9 5 8 6 5
   >
