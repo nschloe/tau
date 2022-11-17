@@ -205,6 +205,7 @@ Articles _against_ τ:
 ### Historical uses
 
 - (All quotes are translated from the German translation by P. Luckey, 1950.)
+
   While Archimedes was able to bound the ratio of a circle circumference and
   diameter between $3\frac{1}{7}$ and $3\frac{10}{71}$, [Jamshid al-Kashi
   ](https://en.wikipedia.org/wiki/Jamshid_al-Kashi) wanted to determine it to a
