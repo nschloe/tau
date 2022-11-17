@@ -265,12 +265,6 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
 ### Some equations
 
-[![xhub](https://img.shields.io/badge/Rendered%20with-xhub-f2eecb?style=flat-square)](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
-
-The following equations are best consumed on Chrome with
-[xhub](https://chrome.google.com/webstore/detail/xhub/anidddebgkllnnnnjfkmjcaallemhjee)
-installed.
-
 - Trigonometrics
 
   ```math
@@ -674,9 +668,8 @@ installed.
   > arguments, which he did not find persuasive, for a third option, π/2.
   > [...]
 
-- [Arthur Benjamin](https://en.wikipedia.org/wiki/Arthur_T._Benjamin) in
-  [Twitter
-  Q&A](http://laughmaths.blogspot.com/2013/07/arthur-benjamin-man-maths-magician-part_15.html) 2013:
+- [Arthur Benjamin](https://en.wikipedia.org/wiki/Arthur_T._Benjamin) (2013, [Twitter
+  Q&A](http://laughmaths.blogspot.com/2013/07/arthur-benjamin-man-maths-magician-part_15.html)):
 
   > I’m a big tau lover. I agree with the statement that if we could go back in
   > time and change the factor to tau we would have simplified our theorems and
