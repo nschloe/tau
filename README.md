@@ -222,14 +222,14 @@ Articles _against_ τ:
   His calculations are performed in sexagesimal (base 60) digits. In section
   8,
 
-  > #### Transformation of the value of the circumference into the Indian digits
-  > under the condition that half of the circumference be one
+  > #### Transformation of the value of the circumference into the Indian digits under the condition that half of the circumference be one
 
-  he translates the result to decimal digits:
+  he gives the result in decimal digits:
 
   > We put the digits from left to right onto a half-verse, to get a verse:
   >
   > > wa baḥǧā ḥahǧi ṣaz a za ṭah ḥawahu
+  > >
   > > muḥīṭun li-quṭrin huwa 'ṯnāni minhu
   >
   > 6 2 8 3 1 8 5 3 0 7 1 7 9 5 8 6 5
@@ -239,6 +239,7 @@ Articles _against_ τ:
   > And in Persian:
   >
   > > šaš wa du hašt wa sih yak hašt wa panǧ wa sih ṣifrā
+  > >
   > > bahaft wa yakrā [haft] wa nuh panǧ wa hašt wa šaš panǧ ast
   >
   > Six and two eight and three one eight and five and three, a zero with seven
