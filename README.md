@@ -204,9 +204,49 @@ Articles _against_ τ:
 
 ### Historical uses
 
-- [Al-Kāshī](https://en.wikipedia.org/wiki/Jamsh%C4%ABd_al-K%C4%81sh%C4%AB), _Treatise on the Circumference of the Circle_, 1424. See [Peter
-  Harremoës, _Al-Kāshī’s constant_,
-  2018](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.pdf)
+- (All quotes are translated from the German translation by P. Luckey, 1950.)
+  While Archimedes was able to bound the ratio of a circle circumference and
+  diameter between $3\frac{1}{7}$ and $3\frac{10}{71}$, [Jamshid al-Kashi
+  ](https://en.wikipedia.org/wiki/Jamshid_al-Kashi) wanted to determine it to a
+  much higher precision. In his 1424 _Treatise on the circumference of the
+  circle_, it was his goal that
+
+  > in a circle whose diameter is 600,000 times the diameter of the earth, the
+  > difference between it [the calculated circumference] and the true
+  > circumference is less than a single hair, which is one sixth of the width
+  > of an average barley grain, such that it [the difference] in a [circle]
+  > which is smaller than that doesn't matter.
+
+  This translates to approximately 14 decimal digits.
+
+  His calculations are performed in sexagesimal (base 60) digits. In section
+  8,
+
+  > #### Transformation of the value of the circumference into the Indian digits
+  > under the condition that half of the circumference be one
+
+  he translates the result to decimal digits:
+
+  > We put the digits from left to right onto a half-verse, to get a verse:
+  >
+  > > wa baḥǧā ḥahǧi ṣaz a za ṭah ḥawahu
+  > > muḥīṭun li-quṭrin huwa 'ṯnāni minhu
+  >
+  > 6 2 8 3 1 8 5 3 0 7 1 7 9 5 8 6 5
+  >
+  > is the circumference for a diameter which is two thereof.
+  >
+  > And in Persian:
+  >
+  > > šaš wa du hašt wa sih yak hašt wa panǧ wa sih ṣifrā
+  > > bahaft wa yakrā [haft] wa nuh panǧ wa hašt wa šaš panǧ ast
+  >
+  > Six and two eight and three one eight and five and three, a zero with seven
+  > and one [seven] and nine five and eight and six five is [it].
+
+  Further reading:
+  - [Peter Harremoës, _Al-Kāshī’s constant_,
+    2018](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.pdf)
 
 - The section _Adoption of the symbol π_ of the excellent Wikipedia article
   [Pi](https://en.wikipedia.org/wiki/Pi#Adoption_of_the_symbol_%CF%80) says:
