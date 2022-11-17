@@ -87,8 +87,8 @@ Articles _against_ τ:
 
 - 2012:
 
-  - [Jonathan Chang, Scient Line, _The tyranny of π_, 2012](https://scienceline.org/2012/06/the-tyranny-of-%CF%80-2/)
-  - [Kevin Houston, _Why I'm not celecratin tau day_, 2012](http://www.kevinhouston.net/blog/2012/06/why-im-not-celebrating-tau-day/)
+  - [Jonathan Chang, Science Line, _The tyranny of π_, 2012](https://scienceline.org/2012/06/the-tyranny-of-%CF%80-2/)
+  - [Kevin Houston, _Why I'm not celebrating tau day_, 2012](http://www.kevinhouston.net/blog/2012/06/why-im-not-celebrating-tau-day/)
 
 - 2013:
 
@@ -109,7 +109,7 @@ Articles _against_ τ:
 
 - 2016:
 
-  - [Greg Uyeno, ScienceLine, _The Circle Constant, Or what's the matter with π_, 2016](https://scienceline.org/2016/06/the-circle-constant/)
+  - [Greg Uyeno, Science Line, _The Circle Constant, Or what's the matter with π_, 2016](https://scienceline.org/2016/06/the-circle-constant/)
   - [Tia Ghose, Live Science, _Tau Day: Should Pi Be Downgraded?_, 2016](https://www.livescience.com/55209-tau-is-better-than-pi.html)
 
 - 2017:
