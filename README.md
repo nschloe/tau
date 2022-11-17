@@ -21,11 +21,11 @@ born.
 
 <table align="right">
 <tr>
-<td><img src="https://nschloe.github.io/tau/hartl-palais.jpg" width="200px"/></td>
+<td><img src="https://nschloe.github.io/tau/hartl-palais.jpg" width="200px" align="right"/></td>
 </tr>
 <tr><td>
 Michael Hartl (left) and Bob Palais (right) on Tau Day 2017 (Source:
-[Twitter](https://twitter.com/tauday/status/880612180822851586)).
+<a href="https://twitter.com/tauday/status/880612180822851586">Twitter</a>).
 </td></tr>
 </table>
 
