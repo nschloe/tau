@@ -84,6 +84,7 @@ Articles after 2011:
 - [Ethan Brown, _Pi vs Tau: Pi's Rebuttal_, 2013](http://coolmathstuff123.blogspot.com/2013/02/pi-vs-tau-pis-rebuttal_9.html)
 - [Rachel, Plus Magazine, _Happy Tau Day!!_, 2013](https://plus.maths.org/content/happy-tau-day)
 - [Dmitry Brant, _Pi is wrong! Long live Tau!_, 2013](https://dmitrybrant.com/2011/10/16/pi-is-wrong-long-live-tau)
+- [PBS, _Geeking Out on Pi Day: For the Love of Pi and the Tao of Tau_, 2013](https://www.pbs.org/newshour/science/for-the-love-of-pi-and-the-tao-of-tau)
 - [Randyn Charles Bartholomew, Scientific American, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
 - [_Pi vs. tau: Ultimate Smackdown_, 2014](https://www.prooffreader.com/2014/06/pi-vs-tau-ultimate-smackdown.html)
 - [Giorgia Fortuna, Wolfram, _2 Pi or Not 2 Pi?_, 2015](https://blog.wolfram.com/2015/06/28/2-pi-or-not-2-pi/)
@@ -215,6 +216,7 @@ Articles after 2011:
   <!--https://docs.microsoft.com/en-us/dotnet/api/system.math.tau -->
 - [Boost, since 1.77.0 (2021)](https://www.boost.org/doc/libs/1_77_0/boost/math/constants/constants.hpp)
 - [Godot game engine, since 3.3.3 (2021)](https://github.com/godotengine/godot/pull/48837)
+- [Crystal, since 0.36.0 (2021)](https://github.com/crystal-lang/crystal/pull/10179)
 - [Java, OpenJDK, since 19 (2022)](https://github.com/openjdk/jdk/pull/7813)
 
 Inclusion of a constant `tau` was _rejected_ by the following projects:
