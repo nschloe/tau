@@ -150,6 +150,9 @@ Articles _against_ τ:
 - <a href="https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals">Wikipedia,
   <emph>Proposals for a single letter to represent 2π</emph></a>
 
+- [Mathematics Educators StackExchange: _Pi or Tau? How should the circle
+  constant be taught?_, 2014](https://matheducators.stackexchange.com/q/530/20645)
+
 - [Theorem of the Day](https://www.theoremoftheday.org/), e.g.,
   [Euler’s Identity](https://www.theoremoftheday.org/GeometryAndTrigonometry/EulerIdentity/TotDEulerIdentity.pdf) or
   [Stirling’s Approximation](https://www.theoremoftheday.org/Binomial/Stirling/TotDStirling.pdf)
