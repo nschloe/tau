@@ -19,7 +19,7 @@ born.
 
 ### Scientific articles and blog posts
 
-<table style="width:220px" align="right">
+<!--table style="width:220px" align="right">
 <tr>
 <td><img src="https://nschloe.github.io/tau/hartl-palais.jpg" width="200px" align="right"/></td>
 </tr>
@@ -27,7 +27,7 @@ born.
 Michael Hartl (left) and Bob Palais (right) on Tau Day 2017 (Source:
 <a href="https://twitter.com/tauday/status/880612180822851586">Twitter</a>).
 </td></tr>
-</table>
+</table-->
 
 - [Bob Palais, _π is wrong!_, 2001](https://doi.org/10.1007%2FBF03026846), The Mathematical Intelligencer, volume 23, pages 7–8
 - [Bob Palais' web page](https://www.math.utah.edu/~palais/pi.html)
