@@ -300,7 +300,7 @@ Articles _against_ τ:
 - [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html)
 - [.NET, C#, since 5.0 (2020)](https://github.com/dotnet/runtime/pull/37517)
   <!--https://docs.microsoft.com/en-us/dotnet/api/system.math.tau -->
-- [Boost, since 1.77.0 (2021)](https://www.boost.org/doc/libs/1_77_0/boost/math/constants/constants.hpp)
+- [Boost, since 1.77.0 (2021)](https://github.com/boostorg/math/pull/566)
 - [Godot game engine, since 3.3.3 (2021)](https://github.com/godotengine/godot/pull/48837)
 - [Crystal, since 0.36.0 (2021)](https://github.com/crystal-lang/crystal/pull/10179)
 - [Java, OpenJDK, since 19 (2022)](https://github.com/openjdk/jdk/pull/7813)
