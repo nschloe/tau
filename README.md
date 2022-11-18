@@ -221,8 +221,8 @@ Articles _against_ τ:
 
   His calculations are performed in sexagesimal (base 60) digits. In section 8,
   _Transformation of the value of the circumference into the Indian digits
-  under the condition that half of the circumference be one_, he gives the
-  result in decimal digits:
+  under the condition that half of the diameter be one_, he gives the result in
+  decimal digits:
 
   > We put the digits from left to right onto a half-verse, to get a verse:
   >
