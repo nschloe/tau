@@ -372,6 +372,10 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
     \end{cases}
   ```
 
+  Note that the [Beta function
+  _B_](https://en.wikipedia.org/wiki/Beta_function), with one argument
+  $\frac{1}{2}$, includes a factor $\sqrt{\pi}$.
+
   Special cases:
 
   - Volume of the _n_-dimensional unit ball ($\lambda = 0$):
@@ -404,6 +408,35 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
     ```math
     \int_{-1}^1 \sqrt{1-x^2} = \frac{\textcolor{teal}{\pi}}{2}
     ```
+
+- _n_-dimensional generalized Cauchy volume
+
+  $2 \lambda > n$.
+
+  As appearing in its one-dimensional version in the [Cauchy
+  distribution](https://en.wikipedia.org/wiki/Cauchy_distribution) and
+  [Student's _t_
+  distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution).
+
+  ```math
+      \begin{align}
+      |Y_n^{\lambda}|
+        &= \int_{\mathbb{R}^n} \left(1 + \sum_{i=1}^n x_i^2\right)^{-\lambda}\\
+        &= \begin{cases}
+          1&\text{for $n=0$}\\
+          B\left(\lambda - \frac{1}{2}, \frac{1}{2}\right)&\text{for $n=1$}\\
+          |Y_{n-2}^{\lambda}|\times \frac{\textcolor{orange}{\tau}}{2\lambda - n}&\text{otherwise}
+        \end{cases}
+    \end{align}
+  ```
+
+  Note again that the [Beta function
+  _B_](https://en.wikipedia.org/wiki/Beta_function), with one argument
+  $\frac{1}{2}$, includes a factor $\sqrt{\pi}$. Specifically, for $n=1$ and $\lambda=1$,
+
+  ```math
+  |Y_1^1| = B(\tfrac{1}{2}, \tfrac{1}{2}) = \textcolor{teal}{\pi}.
+  ```
 
 - _n_-dimensional generalized Laguerre volume
 
