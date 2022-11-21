@@ -352,7 +352,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   - `$\sin(27.4 \textcolor{teal}{\pi})$` – Where is my calculator?
   - `$\sin(13.7 \textcolor{orange}{\tau})$` – 13 full revolutions: forget about
     those. Plus .7, that's almost 3/4 of a revolution, so probably something
-    close to -1. (Actual value: -0.95105651629...)
+    close to −1. (Actual value: −0.95105651629...)
 
 - Area of the _n_-dimensional unit sphere
 
@@ -495,14 +495,14 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
 - [Cauchy's residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
 
-  > Let `$U$` be a simply connected open subset of the complex plane containing
-  > a finite list of points `$a_1,\dots,a_n$`, `$U_0 = U \setminus
-  > \{a_1,\dots,a_n\}$`, and a function `$f$` defined and holomorphic on
-  > `$U_0$`. Let `$\gamma$` be a closed rectifiable curve in `$U_0$`, and
-  > denote the winding number of `$\gamma$` around `$a_k$` by `$I(\gamma,
-  > a_k)$`. The line integral of `$f$` around `$\gamma$` is equal to
-  > `$\textcolor{orange}{\tau} i$` times the sum of residues of `$f$` at the
-  > points, each counted as many times as `$\gamma$` winds around the point:
+  > Let _U_ be a simply connected open subset of the complex plane containing a
+  > finite list of points `$a_1,\dots,a_n$`, `$U_0 = U \setminus
+  > \{a_1,\dots,a_n\}$`, and a function _f_ defined and holomorphic on
+  > _U_<sub>0</sub>. Let _γ_ be a closed rectifiable curve in _U_<sub>0</sub>,
+  > and denote the winding number of _γ_ around _a<sub>k</sub>_ by `$I(\gamma,
+  > a_k)$`. The line integral of _f_ around _γ_ is equal to
+  > `$\textcolor{orange}{\tau} i$` times the sum of residues of _f_ at the
+  > points, each counted as many times as _γ_ winds around the point:
   >
   > ```math
   > \oint_\gamma f(z)\,\mathrm{d}z = \textcolor{orange}{\tau} i \sum_{k=1}^n I(\gamma,a_k) \operatorname{Res}(f,a_k)
