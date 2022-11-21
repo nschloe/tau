@@ -349,6 +349,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   TODO insert link.
   Keep it as xhub "code" for now.
   -->
+
   - `$\sin(27.4 \textcolor{teal}{\pi})$` – Where is my calculator?
   - `$\sin(13.7 \textcolor{orange}{\tau})$` – 13 full revolutions: forget about
     those. Plus .7, that's almost 3/4 of a revolution, so probably something
@@ -485,9 +486,9 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   > D = \bigl\{z:|z-z_{0}|\leq r\bigr\}
   > ```
   >
-  > is completely contained in _U_. Let `$f: U\to\mathbb{C}$` be a holomorphic
-  > function, and let _γ_ be the circle, oriented counterclockwise, forming the
-  > boundary of _D_. Then for every _a_ in the interior of _D_,
+  > is completely contained in _U_. Let _f_: *U*→ℂ be a holomorphic function,
+  > and let _γ_ be the circle, oriented counterclockwise, forming the boundary
+  > of _D_. Then for every _a_ in the interior of _D_,
   >
   > ```math
   > f(a) = \frac{1}{\textcolor{orange}{\tau} i} \oint_{\gamma}\frac{f(z)}{z-a} dz.
@@ -496,11 +497,9 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 - [Cauchy's residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
 
   > Let _U_ be a simply connected open subset of the complex plane containing a
-  > finite list of points `$a_1,\dots,a_n$`, `$U_0 = U \setminus
-  > \{a_1,\dots,a_n\}$`, and a function _f_ defined and holomorphic on
+  > finite list of points `$a_1,\dots,a_n$`, `$U_0 = U \setminus \{a_1,\dots,a_n\}$`, and a function _f_ defined and holomorphic on
   > _U_<sub>0</sub>. Let _γ_ be a closed rectifiable curve in _U_<sub>0</sub>,
-  > and denote the winding number of _γ_ around _a<sub>k</sub>_ by `$I(\gamma,
-  > a_k)$`. The line integral of _f_ around _γ_ is equal to
+  > and denote the winding number of _γ_ around _a<sub>k</sub>_ by `$I(\gamma, a_k)$`. The line integral of _f_ around _γ_ is equal to
   > `$\textcolor{orange}{\tau} i$` times the sum of residues of _f_ at the
   > points, each counted as many times as _γ_ winds around the point:
   >
@@ -609,10 +608,11 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   \operatorname{erf}(z) = \frac{2}{\sqrt{\textcolor{teal}{\pi}}} \int_0^z \exp(-t^2)\, dt.
   ```
 
-  In statistics, for non-negative values of `$x$`, the error function has the
-  following interpretation: for a random variable `$Y$` that is normally
-  distributed with mean 0 and standard deviation `$1/\sqrt{2}$`, `$\operatorname{erf}(x)$` is
-  the probability that `$Y$` falls in the range `$[−x, x]$`.
+  In statistics, for non-negative values of _x_, the error function has the
+  following interpretation: for a random variable _Y_ that is normally
+  distributed with mean 0 and standard deviation `$1/\sqrt{2}$`,
+  `$\operatorname{erf}(x)$` is the probability that _Y_ falls in the range
+  [−_x_, _x_].
 
   The same property with standard deviation 1 is fulfilled by
 
@@ -628,7 +628,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   = \frac{n \textcolor{orange}{\tau}}{2^n}\sum_{k=0}^{\lfloor n/2 \rfloor} \frac{(-1)^k (n-2k)^{n-1}}{k!(n-k)!}
   ```
 
-  for all `$n\in\mathbb{N}$`. Specifically,
+  for all _n_ ∈ ℕ. Specifically,
 
   ```math
   \int_{-\infty}^{\infty} \frac{\sin(x)}{x}\,dx
@@ -642,7 +642,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   \int_0^{\infty} \frac{1}{1 + x^\alpha} = \frac{\textcolor{teal}{\pi} / \alpha}{\sin(\textcolor{teal}{\pi}/\alpha)}
   ```
 
-  for all `$\alpha > 1$`, specifically
+  for all _α_ > 1, specifically
 
   ```math
   \int_{-\infty}^{\infty} \frac{1}{1 + x^2} = \textcolor{teal}{\pi}.
