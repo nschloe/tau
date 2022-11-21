@@ -395,7 +395,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
     \end{cases}
     ```
 
-  - The area of a disk (_λ_=0, _n_ = 2)
+  - The area of a disk (_λ_ = 0, _n_ = 2)
 
     ```math
     |S_n(r)|
@@ -403,13 +403,13 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
     = \textcolor{teal}{\pi} r^2
     ```
 
-  - _n_=1, _λ_=-1/2
+  - _n_ = 1, _λ_ = −1/2
 
     ```math
     \int_{-1}^1 \frac{1}{\sqrt{1-x^2}} = \textcolor{teal}{\pi}
     ```
 
-  - _n_=1, _λ_=1/2
+  - _n_ = 1, _λ_ = 1/2
 
     ```math
     \int_{-1}^1 \sqrt{1-x^2} = \frac{\textcolor{teal}{\pi}}{2}
@@ -438,8 +438,8 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
   Note again that the [Beta function
   _B_](https://en.wikipedia.org/wiki/Beta_function), with one argument
-  ½, includes a factor `$\sqrt{\pi}$`. Specifically, for _n_=1
-  nd _λ_=1,
+  ½, includes a factor `$\sqrt{\pi}$`. Specifically, for _n_ = 1
+  and _λ_ = 1,
 
   ```math
   |Y_1^1| = B(\tfrac{1}{2}, \tfrac{1}{2}) = \textcolor{teal}{\pi}.
@@ -468,9 +468,8 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   \int_{-\infty}^{\infty} \exp(-x^2 / 2)\,dx = \sqrt{\textcolor{orange}{\tau}}
   ```
 
-  One could argue that the latter is more "canonical" since it has
-  variance and standard deviation of 1, not `$\frac{1}{2}$` and
-  `$\sqrt{\frac{1}{2}}$`. Compare with the
+  One could argue that the latter is more "canonical" since it has variance and
+  standard deviation of 1, not ½ and `$\sqrt{\frac{1}{2}}$`. Compare with the
   [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
   ```math
@@ -541,9 +540,8 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
   - Positive half-integers:
 
-    `$\Gamma(\tfrac{1}{2}) = \sqrt{\textcolor{teal}{\pi}}$`, so all
-    half-integer values of `$\Gamma$` contain that factor (recall
-    `$\Gamma(z+1)=z\Gamma(z)$`):
+    ½`$\Gamma(\tfrac{1}{2}) = \sqrt{\textcolor{teal}{\pi}}$`, so all
+    half-integer values of Γ contain that factor (recall Γ(_z_+1) = z Γ(z):
 
     ```math
     \Gamma(n + \tfrac{1}{2})
