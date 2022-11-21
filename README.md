@@ -129,6 +129,7 @@ Articles _against_ τ:
 - 2018:
 
   - [Chaim Gartenberg, The Verge, _Tau Day is here: celebrate tau, not pi, as the true circle constant_, 2018](https://www.theverge.com/tldr/2018/3/14/17119388/pi-day-pie-math-tau-circle-constant-mathematics-circumference-diameter-radius-holiday-truth)
+  - [Emily Conover, Science News, _Forget Pi Day. We should be celebrating Tau Day_, 2018](https://www.sciencenews.org/blog/science-the-public/forget-pi-day-we-should-be-celebrating-tau-day)
 
 - 2020:
 
