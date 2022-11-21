@@ -207,7 +207,7 @@ Articles _against_ τ:
 - (All quotes are translated from the German translation by P. Luckey, 1950.)
 
   While Archimedes was able to bound the ratio of a circle circumference and
-  diameter between $`3\frac{1}{7}`$ and $`3\frac{10}{71}`$, [Jamshid al-Kashi
+  diameter between `$3\frac{1}{7}$` and `$3\frac{10}{71}$`, [Jamshid al-Kashi
   ](https://en.wikipedia.org/wiki/Jamshid_al-Kashi) wanted to determine it to a
   much higher precision. In his 1424 _Treatise on the circumference of the
   circle_, it was his goal that
@@ -261,8 +261,8 @@ Articles _against_ τ:
   > mathematicians sometimes used letters such as c or p instead.) The first
   > recorded use is Oughtred's "δ.π", to express the ratio of periphery and
   > diameter in the 1647 and later editions of Clavis Mathematicae. Barrow
-  > likewise used "$`\frac{\pi}{\delta}`$" to represent the constant 3.14...,
-  > **while Gregory instead used "$`\frac{\pi}{\rho}`$" to represent 6.28...**
+  > likewise used "`$\frac{\pi}{\delta}$`" to represent the constant 3.14...,
+  > **while Gregory instead used "`$\frac{\pi}{\rho}$`" to represent 6.28...**
   >
   > The earliest known use of the Greek letter π alone to represent the ratio of a
   > circle's circumference to its diameter was by Welsh mathematician William
@@ -349,8 +349,8 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   TODO insert link.
   Keep it as xhub "code" for now.
   -->
-  - $`\sin(27.4 \textcolor{teal}{\pi})`$ – Where is my calculator?
-  - $`\sin(13.7 \textcolor{orange}{\tau})`$ – 13 full revolutions: forget about
+  - `$\sin(27.4 \textcolor{teal}{\pi})$` – Where is my calculator?
+  - `$\sin(13.7 \textcolor{orange}{\tau})$` – 13 full revolutions: forget about
     those. Plus .7, that's almost 3/4 of a revolution, so probably something
     close to -1. (Actual value: -0.95105651629...)
 
@@ -366,7 +366,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   \end{cases}
   ```
 
-- _n_-dimensional Gegenbauer integral over the unit ball $`S_n`$:
+- _n_-dimensional Gegenbauer integral over the unit ball `$S_n$`:
 
   ```math
   |G_n^{\lambda}|
@@ -380,11 +380,11 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
   Note that the [Beta function
   _B_](https://en.wikipedia.org/wiki/Beta_function), with one argument
-  $`\frac{1}{2}`$, includes a factor $`\sqrt{\pi}`$.
+  `$\frac{1}{2}$`, includes a factor `$\sqrt{\pi}$`.
 
   Special cases:
 
-  - Volume of the _n_-dimensional unit ball ($`\lambda = 0`$):
+  - Volume of the _n_-dimensional unit ball (`$\lambda = 0$`):
 
     ```math
     |S_n|
@@ -395,7 +395,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
     \end{cases}
     ```
 
-  - The area of a disk ($`\lambda = 0, n = 2`$)
+  - The area of a disk (`$\lambda = 0, n = 2$`)
 
     ```math
     |S_n(r)|
@@ -403,13 +403,13 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
     = \textcolor{teal}{\pi} r^2
     ```
 
-  - $`n=1`$, $`\lambda = -1/2`$
+  - `$n=1$`, `$\lambda = -1/2$`
 
     ```math
     \int_{-1}^1 \frac{1}{\sqrt{1-x^2}} = \textcolor{teal}{\pi}
     ```
 
-  - $`n=1`$, $`\lambda = 1/2`$
+  - `$n=1$`, `$\lambda = 1/2$`
 
     ```math
     \int_{-1}^1 \sqrt{1-x^2} = \frac{\textcolor{teal}{\pi}}{2}
@@ -417,7 +417,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
 - _n_-dimensional generalized Cauchy volume
 
-  $`2 \lambda > n`$.
+  `$2 \lambda > n$`.
 
   As appearing in its one-dimensional version in the [Cauchy
   distribution](https://en.wikipedia.org/wiki/Cauchy_distribution) and
@@ -438,8 +438,8 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
   Note again that the [Beta function
   _B_](https://en.wikipedia.org/wiki/Beta_function), with one argument
-  $`\frac{1}{2}`$, includes a factor $`\sqrt{\pi}`$. Specifically, for $`n=1`$
-  nd $`\lambda=1`$,
+  `$\frac{1}{2}$`, includes a factor `$\sqrt{\pi}$`. Specifically, for `$n=1$`
+  nd `$\lambda=1$`,
 
   ```math
   |Y_1^1| = B(\tfrac{1}{2}, \tfrac{1}{2}) = \textcolor{teal}{\pi}.
@@ -469,8 +469,8 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   ```
 
   One could argue that the latter is more "canonical" since it has
-  variance and standard deviation of 1, not $`\frac{1}{2}`$ and
-  $`\sqrt{\frac{1}{2}}`$. Compare with the
+  variance and standard deviation of 1, not `$\frac{1}{2}$` and
+  `$\sqrt{\frac{1}{2}}$`. Compare with the
   [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
   ```math
@@ -479,17 +479,17 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
 - [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
 
-  > Let $`U`$ be an open subset of the complex plane $`\mathbb{C}`$, and
-  > suppose the closed disk $`D`$ defined as
+  > Let `$U$` be an open subset of the complex plane `$\mathbb{C}$`, and
+  > suppose the closed disk `$D$` defined as
   >
   > ```math
   > D = \bigl\{z:|z-z_{0}|\leq r\bigr\}
   > ```
   >
-  > is completely contained in $`U`$. Let $`f: U\to\mathbb{C}`$ be a
-  > holomorphic function, and let $`\gamma`$ be the circle, oriented
-  > counterclockwise, forming the boundary of $`D`$. Then for every $`a`$ in
-  > the interior of $`D`$,
+  > is completely contained in `$U$`. Let `$f: U\to\mathbb{C}$` be a
+  > holomorphic function, and let `$\gamma$` be the circle, oriented
+  > counterclockwise, forming the boundary of `$D$`. Then for every `$a$` in
+  > the interior of `$D$`,
   >
   > ```math
   > f(a) = \frac{1}{\textcolor{orange}{\tau} i} \oint_{\gamma}\frac{f(z)}{z-a} dz.
@@ -497,14 +497,14 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
 - [Cauchy's residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
 
-  > Let $`U`$ be a simply connected open subset of the complex plane containing
-  > a finite list of points $`a_1,\dots,a_n`$, $`U_0 = U \setminus
-  > \{a_1,\dots,a_n\}`$, and a function $`f`$ defined and holomorphic on
-  > $`U_0`$. Let $`\gamma`$ be a closed rectifiable curve in $`U_0`$, and
-  > denote the winding number of $`\gamma`$ around $`a_k`$ by $`I(\gamma,
-  > a_k)`$. The line integral of $`f`$ around $`\gamma`$ is equal to
-  > $`\textcolor{orange}{\tau} i`$ times the sum of residues of $`f`$ at the
-  > points, each counted as many times as $`\gamma`$ winds around the point:
+  > Let `$U$` be a simply connected open subset of the complex plane containing
+  > a finite list of points `$a_1,\dots,a_n$`, `$U_0 = U \setminus
+  > \{a_1,\dots,a_n\}$`, and a function `$f$` defined and holomorphic on
+  > `$U_0$`. Let `$\gamma$` be a closed rectifiable curve in `$U_0$`, and
+  > denote the winding number of `$\gamma$` around `$a_k$` by `$I(\gamma,
+  > a_k)$`. The line integral of `$f$` around `$\gamma$` is equal to
+  > `$\textcolor{orange}{\tau} i$` times the sum of residues of `$f$` at the
+  > points, each counted as many times as `$\gamma$` winds around the point:
   >
   > ```math
   > \oint_\gamma f(z)\,\mathrm{d}z = \textcolor{orange}{\tau} i \sum_{k=1}^n I(\gamma,a_k) \operatorname{Res}(f,a_k)
@@ -542,23 +542,23 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
   - Positive half-integers:
 
-    $`\Gamma(\tfrac{1}{2}) = \sqrt{\textcolor{teal}{\pi}}`$, so all
-    half-integer values of $`\Gamma`$ contain that factor (recall
-    $`\Gamma(z+1)=z\Gamma(z)`$):
+    `$\Gamma(\tfrac{1}{2}) = \sqrt{\textcolor{teal}{\pi}}$`, so all
+    half-integer values of `$\Gamma$` contain that factor (recall
+    `$\Gamma(z+1)=z\Gamma(z)$`):
 
     ```math
     \Gamma(n + \tfrac{1}{2})
     = \sqrt{\textcolor{teal}{\pi}} \prod_{i=0}^{n-1} \left(i + \frac{1}{2}\right)
     ```
 
-    for $`n\in\mathbb{N}`$. Equivalently:
+    for `$n\in\mathbb{N}$`. Equivalently:
 
     ```math
     \Gamma(n + \tfrac{1}{2})
     = \sqrt{\textcolor{teal}{\pi}} \frac{(2n-1)!!}{2^n}
     ```
 
-    or (for odd $`n>0`$)
+    or (for odd `$n>0$`)
 
     ```math
     \Gamma(\tfrac{n}{2})
@@ -571,7 +571,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
     \prod_{k=0}^{m-1}\Gamma\left(z+\frac{k}{m}\right) = \textcolor{orange}{\tau}^\frac{m-1}{2} m^{\frac{1}{2}-mz} \Gamma(mz),
     ```
 
-    and its special case ($`m=2`$), the [Legendre duplication
+    and its special case (`$m=2$`), the [Legendre duplication
     formula](https://en.wikipedia.org/wiki/Multiplication_theorem#Gamma_function%E2%80%93Legendre_formula)
 
     ```math
@@ -584,7 +584,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   \zeta(2n) = \sum_{k=1}^{\infty} \frac{1}{k^{2n}} = (-1)^{n+1} \frac{\textcolor{orange}{\tau}^{2n} B_{2n}}{2 (2n)!},
   ```
 
-  for $`n\in\mathbb{N}`$, e.g.,
+  for `$n\in\mathbb{N}$`, e.g.,
 
   ```math
   \zeta(2) = \sum_{k=1}^{\infty} \frac{1}{k^2} = \frac{\textcolor{teal}{\pi}^2}{6} = \frac{\textcolor{orange}{\tau}^2}{24}
@@ -612,10 +612,10 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   \operatorname{erf}(z) = \frac{2}{\sqrt{\textcolor{teal}{\pi}}} \int_0^z \exp(-t^2)\, dt.
   ```
 
-  In statistics, for non-negative values of $`x`$, the error function has the
-  following interpretation: for a random variable $`Y`$ that is normally
-  distributed with mean 0 and standard deviation $`1/\sqrt{2}`$, $`\operatorname{erf}(x)`$ is
-  the probability that $`Y`$ falls in the range $`[−x, x]`$.
+  In statistics, for non-negative values of `$x$`, the error function has the
+  following interpretation: for a random variable `$Y$` that is normally
+  distributed with mean 0 and standard deviation `$1/\sqrt{2}$`, `$\operatorname{erf}(x)$` is
+  the probability that `$Y$` falls in the range `$[−x, x]$`.
 
   The same property with standard deviation 1 is fulfilled by
 
@@ -631,7 +631,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   = \frac{n \textcolor{orange}{\tau}}{2^n}\sum_{k=0}^{\lfloor n/2 \rfloor} \frac{(-1)^k (n-2k)^{n-1}}{k!(n-k)!}
   ```
 
-  for all $`n\in\mathbb{N}`$. Specifically,
+  for all `$n\in\mathbb{N}$`. Specifically,
 
   ```math
   \int_{-\infty}^{\infty} \frac{\sin(x)}{x}\,dx
@@ -645,7 +645,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   \int_0^{\infty} \frac{1}{1 + x^\alpha} = \frac{\textcolor{teal}{\pi} / \alpha}{\sin(\textcolor{teal}{\pi}/\alpha)}
   ```
 
-  for all $`\alpha > 1`$, specifically
+  for all `$\alpha > 1$`, specifically
 
   ```math
   \int_{-\infty}^{\infty} \frac{1}{1 + x^2} = \textcolor{teal}{\pi}.
@@ -716,7 +716,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
     T = \frac{\textcolor{orange}{\tau}}{\operatorname{agm}(1, \cos(\theta_0/2))} \sqrt{\frac{L}{g}}
     ```
 
-    ($`\operatorname{agm}`$ is the [arithmetic-geometric
+    (`$\operatorname{agm}$` is the [arithmetic-geometric
     mean](https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean).)
 
   - Kepler's third law of planetary motion:
