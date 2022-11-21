@@ -610,9 +610,8 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
   In statistics, for non-negative values of _x_, the error function has the
   following interpretation: for a random variable _Y_ that is normally
-  distributed with mean 0 and standard deviation `$1/\sqrt{2}$`,
-  `$\operatorname{erf}(x)$` is the probability that _Y_ falls in the range
-  [−_x_, _x_].
+  distributed with mean 0 and standard deviation `$1/\sqrt{2}$`, erf(_x_) is
+  the probability that _Y_ falls in the range [−<i>x</i>, _x_].
 
   The same property with standard deviation 1 is fulfilled by
 
@@ -713,7 +712,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
     T = \frac{\textcolor{orange}{\tau}}{\operatorname{agm}(1, \cos(\theta_0/2))} \sqrt{\frac{L}{g}}
     ```
 
-    (`$\operatorname{agm}$` is the [arithmetic-geometric
+    (arg is the [arithmetic-geometric
     mean](https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean).)
 
   - Kepler's third law of planetary motion:
