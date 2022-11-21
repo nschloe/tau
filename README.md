@@ -366,7 +366,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   \end{cases}
   ```
 
-- _n_-dimensional Gegenbauer integral over the unit ball <i>S<sub>n</<sub></i>:
+- _n_-dimensional Gegenbauer integral over the unit ball <i>S<sub>n</sub></i>:
 
   ```math
   |G_n^{\lambda}|
