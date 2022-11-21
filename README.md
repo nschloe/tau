@@ -207,7 +207,7 @@ Articles _against_ τ:
 - (All quotes are translated from the German translation by P. Luckey, 1950.)
 
   While Archimedes was able to bound the ratio of a circle circumference and
-  diameter between `$3\frac{1}{7}$` and `$3\frac{10}{71}$`, [Jamshid al-Kashi
+  diameter between 223/71 (≈3.1408) and 22/7 (≈3.1428), [Jamshid al-Kashi
   ](https://en.wikipedia.org/wiki/Jamshid_al-Kashi) wanted to determine it to a
   much higher precision. In his 1424 _Treatise on the circumference of the
   circle_, it was his goal that
@@ -366,7 +366,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   \end{cases}
   ```
 
-- _n_-dimensional Gegenbauer integral over the unit ball `$S_n$`:
+- _n_-dimensional Gegenbauer integral over the unit ball <i>S<sub>n</<sub></i>:
 
   ```math
   |G_n^{\lambda}|
@@ -379,12 +379,12 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   ```
 
   Note that the [Beta function
-  _B_](https://en.wikipedia.org/wiki/Beta_function), with one argument
-  `$\frac{1}{2}$`, includes a factor `$\sqrt{\pi}$`.
+  _B_](https://en.wikipedia.org/wiki/Beta_function), with one argument ½,
+  includes a factor `$\sqrt{\pi}$`.
 
   Special cases:
 
-  - Volume of the _n_-dimensional unit ball (`$\lambda = 0$`):
+  - Volume of the _n_-dimensional unit ball (_λ_=0):
 
     ```math
     |S_n|
@@ -395,7 +395,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
     \end{cases}
     ```
 
-  - The area of a disk (`$\lambda = 0, n = 2$`)
+  - The area of a disk (_λ_=0, _n_ = 2)
 
     ```math
     |S_n(r)|
@@ -403,13 +403,13 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
     = \textcolor{teal}{\pi} r^2
     ```
 
-  - `$n=1$`, `$\lambda = -1/2$`
+  - _n_=1, _λ_=-1/2
 
     ```math
     \int_{-1}^1 \frac{1}{\sqrt{1-x^2}} = \textcolor{teal}{\pi}
     ```
 
-  - `$n=1$`, `$\lambda = 1/2$`
+  - _n_=1, _λ_=1/2
 
     ```math
     \int_{-1}^1 \sqrt{1-x^2} = \frac{\textcolor{teal}{\pi}}{2}
@@ -417,7 +417,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
 - _n_-dimensional generalized Cauchy volume
 
-  `$2 \lambda > n$`.
+  2 _λ_ > _n_.
 
   As appearing in its one-dimensional version in the [Cauchy
   distribution](https://en.wikipedia.org/wiki/Cauchy_distribution) and
@@ -438,8 +438,8 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
   Note again that the [Beta function
   _B_](https://en.wikipedia.org/wiki/Beta_function), with one argument
-  `$\frac{1}{2}$`, includes a factor `$\sqrt{\pi}$`. Specifically, for `$n=1$`
-  nd `$\lambda=1$`,
+  ½, includes a factor `$\sqrt{\pi}$`. Specifically, for _n_=1
+  nd _λ_=1,
 
   ```math
   |Y_1^1| = B(\tfrac{1}{2}, \tfrac{1}{2}) = \textcolor{teal}{\pi}.
@@ -479,17 +479,16 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
 - [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
 
-  > Let `$U$` be an open subset of the complex plane `$\mathbb{C}$`, and
-  > suppose the closed disk `$D$` defined as
+  > Let _U_ be an open subset of the complex plane ℂ, and suppose the closed
+  > disk _D_ defined as
   >
   > ```math
   > D = \bigl\{z:|z-z_{0}|\leq r\bigr\}
   > ```
   >
-  > is completely contained in `$U$`. Let `$f: U\to\mathbb{C}$` be a
-  > holomorphic function, and let `$\gamma$` be the circle, oriented
-  > counterclockwise, forming the boundary of `$D$`. Then for every `$a$` in
-  > the interior of `$D$`,
+  > is completely contained in _U_. Let `$f: U\to\mathbb{C}$` be a holomorphic
+  > function, and let _γ_ be the circle, oriented counterclockwise, forming the
+  > boundary of _D_. Then for every _a_ in the interior of _D_,
   >
   > ```math
   > f(a) = \frac{1}{\textcolor{orange}{\tau} i} \oint_{\gamma}\frac{f(z)}{z-a} dz.
