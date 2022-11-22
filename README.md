@@ -574,12 +574,12 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
     \Gamma(z)\Gamma(z+\tfrac{1}{2}) = 2^{1-2z}\sqrt{\textcolor{teal}{\pi}}\Gamma(2z).
     ```
 
-- [Euler’s reflection formula](https://en.wikipedia.org/wiki/Reflection_formula):
-  ```math
-  \Gamma(z)\Gamma(1-z)
-  = \frac{\textcolor{teal}{\pi}}{\sin(\textcolor{teal}{\pi} z)}
-  ```
-  <!-- = \frac{\textcolor{orange}{tau}}{crd(\textcolor{orange}{\tau} z)} -->
+  - [Euler’s reflection formula](https://en.wikipedia.org/wiki/Reflection_formula):
+    ```math
+    \Gamma(z)\Gamma(1-z)
+    = \frac{\textcolor{teal}{\pi}}{\sin(\textcolor{teal}{\pi} z)}
+    ```
+    <!-- = \frac{\textcolor{orange}{tau}}{crd(\textcolor{orange}{\tau} z)} -->
 
 - [Particular values of the Riemann zeta function](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
 
