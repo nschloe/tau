@@ -574,6 +574,13 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
     \Gamma(z)\Gamma(z+\tfrac{1}{2}) = 2^{1-2z}\sqrt{\textcolor{teal}{\pi}}\Gamma(2z).
     ```
 
+- [Euler’s reflection formula](https://en.wikipedia.org/wiki/Reflection_formula):
+  ```math
+  \Gamma(z)\Gamma(1-z)
+  = \frac{\textcolor{teal}{\pi}}{\sin(\textcolor{teal}{\pi} z)}
+  ```
+  <!-- = \frac{\textcolor{orange}{tau}}{crd(\textcolor{orange}{\tau} z)} -->
+
 - [Particular values of the Riemann zeta function](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
 
   ```math
@@ -585,15 +592,6 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   ```math
   \zeta(2) = \sum_{k=1}^{\infty} \frac{1}{k^2} = \frac{\textcolor{teal}{\pi}^2}{6} = \frac{\textcolor{orange}{\tau}^2}{24}
   ```
-
-<!--
-- [Euler’s reflection formula](https://en.wikipedia.org/wiki/Reflection_formula):
-  ```math
-  \Gamma(z)\Gamma(1-z)
-  = \frac{\textcolor{teal}{\pi}}{\sin(\textcolor{teal}{\pi} z)}
-  = \frac{\textcolor{orange}{tau}}{crd(\textcolor{orange}{\tau} z)}
-  ```
--->
 
 - [Weyl law](https://en.wikipedia.org/wiki/Weyl_law):
 
