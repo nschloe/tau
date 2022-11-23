@@ -446,6 +446,49 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   |Y_1^1| = B(\tfrac{1}{2}, \tfrac{1}{2}) = \textcolor{teal}{\pi}.
   ```
 
+<!--
+- Consider the integral
+
+  ```math
+  \int_0^{\infty} \frac{1}{1 + x^\alpha} = \frac{\textcolor{teal}{\pi} / \alpha}{\sin(\textcolor{teal}{\pi}/\alpha)}
+  ```
+
+  for all _α_ > 1, specifically
+
+  ```math
+  \int_{-\infty}^{\infty} \frac{1}{1 + x^2} = \textcolor{teal}{\pi}.
+  ```
+
+  This is relevant in the [Cauchy
+  distribution](https://en.wikipedia.org/wiki/Cauchy_distribution).
+
+- Consider the normalization of [Student's
+  _t_-distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution),
+
+  ```math
+  V(\gamma) = \int_{-\infty}^\infty \frac{1}{\sqrt{1 + x^2/\gamma}^{\gamma+1}}
+  = \frac{\sqrt{\textcolor{teal}{\pi}\gamma} \Gamma(\gamma/2)}{\Gamma((\gamma+1) / 2)}
+  ```
+
+  for all _γ_>0. specifically,
+
+  ```math
+  \begin{align*}
+  V(1) &= \textcolor{teal}{\pi},\\
+  V(2) &= 2\sqrt{2}.
+  \end{align*}
+  ```
+
+  Interestingly, values for larger _γ_ can be determined via the recurrence
+
+  ```math
+  V(\gamma) = \frac{\sqrt{\gamma(\gamma-2)}}{\gamma-1} \times V(\gamma - 2)
+  ```
+
+  which is perhaps a bit more revealing than the closed-form expression with
+  the Gamma function evaluations.
+  -->
+
 - _n_-dimensional generalized Laguerre volume
 
   ```math
@@ -632,49 +675,6 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   = \int_{-\infty}^{\infty} \frac{\sin^2(x)}{x^2}\,dx
   = \frac{\textcolor{orange}{\tau}}{2} = \textcolor{teal}{\pi}.
   ```
-
-- Consider the integral
-
-  ```math
-  \int_0^{\infty} \frac{1}{1 + x^\alpha} = \frac{\textcolor{teal}{\pi} / \alpha}{\sin(\textcolor{teal}{\pi}/\alpha)}
-  ```
-
-  for all _α_ > 1, specifically
-
-  ```math
-  \int_{-\infty}^{\infty} \frac{1}{1 + x^2} = \textcolor{teal}{\pi}.
-  ```
-
-  This is relevant in the [Cauchy
-  distribution](https://en.wikipedia.org/wiki/Cauchy_distribution).
-
-- Consider the normalization of [Student's
-  _t_-distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution),
-
-  ```math
-  V(\gamma) = \int_{-\infty}^\infty \frac{1}{\sqrt{1 + x^2/\gamma}^{\gamma+1}}
-  = \frac{\sqrt{\textcolor{teal}{\pi}\gamma} \Gamma(\gamma/2)}{\Gamma((\gamma+1) / 2)}
-  ```
-
-  for all _γ_>0. specifically,
-
-  ```math
-  \begin{align*}
-  V(1) &= \textcolor{teal}{\pi},\\
-  V(2) &= 2\sqrt{2}.
-  \end{align*}
-  ```
-
-  <!--
-  Interestingly, values for larger _γ_ can be determined via the recurrence
-
-  ```math
-  V(\gamma) = \frac{\sqrt{\gamma(\gamma-2)}}{\gamma-1} \times V(\gamma - 2)
-  ```
-
-  which is perhaps a bit more revealing than the closed-form expression with
-  the Gamma function evaluations.
-  -->
 
 - Physics
 
