@@ -357,6 +357,8 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
     those. Plus .7, that's almost 3/4 of a revolution, so probably something
     close to −1. (Actual value: −0.95105651629...)
 
+  <br clear="right"/>
+
 - Area of the _n_-dimensional unit sphere
 
   ```math
