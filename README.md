@@ -261,7 +261,7 @@ Articles _against_ τ:
   > circle constants. (Before then, mathematicians sometimes used letters such
   > as c or p instead.) The first recorded use is Oughtred's "δ.π", to express
   > the ratio of periphery and diameter in the 1647 and later editions of
-  > _Clavis Mathematicae_. Barrow likewise used "`\frac{\pi}{\delta}`" to
+  > _Clavis Mathematicae_. Barrow likewise used "`$\frac{\pi}{\delta}$`" to
   > represent the constant 3.14..., **while Gregory instead used
   > "`$\frac{\pi}{\rho}$`" to represent 6.28...**
   >
