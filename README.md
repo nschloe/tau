@@ -436,7 +436,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
         &= \begin{cases}
           1&\text{for $n=0$}\\
           B\left(\lambda - \frac{1}{2}, \frac{1}{2}\right)&\text{for $n=1$}\\
-          |Y_{n-2}^{\lambda}|\times \frac{\textcolor{orange}{\tau}}{2\lambda - n}&\text{otherwise}
+          |Y_{n-2}^{\lambda}|\times \textcolor{orange}{\tau} / (2\lambda - n) & \text{otherwise}
         \end{cases}
     \end{align}
   ```
@@ -502,7 +502,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
     &= \begin{cases}
       2\Gamma(1+\alpha)&\text{if $n=1$}\\
       \textcolor{orange}{\tau}\Gamma(2 + \alpha)&\text{if $n=2$}\\
-      V_{n-2} \times \frac{\textcolor{orange}{\tau}(n+\alpha-1) (n+\alpha-2)}{n-2}&\text{otherwise}
+      V_{n-2} \times \textcolor{orange}{\tau} (n+\alpha-1) (n+\alpha-2) / (n-2) & \text{otherwise}
     \end{cases}
   \end{align}
   ```
