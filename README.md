@@ -342,7 +342,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   \end{alignat*}
   ```
 
-  <img src="plots/sin137.svg" align="right" width="200px"/>
+  <img src="plots/sin137.svg" align="right" width="30%"/>
 
   Trigonometric values off the grid can easily be estimated:
 
