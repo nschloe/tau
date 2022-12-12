@@ -255,36 +255,38 @@ Articles _against_ τ:
 - The section _Adoption of the symbol π_ of the excellent Wikipedia article
   [Pi](https://en.wikipedia.org/wiki/Pi#Adoption_of_the_symbol_%CF%80) says:
 
-  > In the earliest usages, the Greek letter π was an abbreviation of the Greek
-  > word for periphery (περιφέρεια), and was combined in ratios with δ (for
-  > diameter) or ρ (for radius) to form circle constants. (Before then,
-  > mathematicians sometimes used letters such as c or p instead.) The first
-  > recorded use is Oughtred's "δ.π", to express the ratio of periphery and
-  > diameter in the 1647 and later editions of Clavis Mathematicae. Barrow
-  > likewise used "`$\frac{\pi}{\delta}$`" to represent the constant 3.14...,
-  > **while Gregory instead used "`$\frac{\pi}{\rho}$`" to represent 6.28...**
+  > In the earliest usages, the Greek letter π was used to denote the
+  > semiperimeter (_semiperipheria_ in Latin) of a circle and was combined in
+  > ratios with δ (for diameter or semidiameter) or ρ (for radius) to form
+  > circle constants. (Before then, mathematicians sometimes used letters such
+  > as c or p instead.) The first recorded use is Oughtred's "δ.π", to express
+  > the ratio of periphery and diameter in the 1647 and later editions of
+  > _Clavis Mathematicae_. Barrow likewise used "`\frac{\pi}{\delta}`" to
+  > represent the constant 3.14..., **while Gregory instead used
+  > "`$\frac{\pi}{\rho}$`" to represent 6.28...**
   >
-  > The earliest known use of the Greek letter π alone to represent the ratio of a
-  > circle's circumference to its diameter was by Welsh mathematician William
-  > Jones in his 1706 work Synopsis Palmariorum Matheseos; or, a New Introduction
-  > to the Mathematics. The Greek letter first appears there in the phrase "1/2
-  > Periphery (π)" in the discussion of a circle with radius one. However, he
-  > writes that his equations for π are from the "ready pen of the truly ingenious
-  > Mr. John Machin", leading to speculation that Machin may have employed the
-  > Greek letter before Jones. Jones' notation was not immediately adopted by
-  > other mathematicians, with the fraction notation still being used as late
-  > as 1767.
+  > The earliest known use of the Greek letter π alone to represent the ratio
+  > of a circle's circumference to its diameter was by Welsh mathematician
+  > William Jones in his 1706 work _Synopsis Palmariorum Matheseos_; or, _a New
+  > Introduction to the Mathematics_. The Greek letter first appears there in
+  > the phrase "1/2 Periphery (π)" in the discussion of a circle with radius
+  > one. However, he writes that his equations for π are from the "ready pen of
+  > the truly ingenious Mr. John Machin", leading to speculation that Machin
+  > may have employed the Greek letter before Jones. Jones' notation was not
+  > immediately adopted by other mathematicians, with the fraction notation
+  > still being used as late as 1767.
   >
   > Euler started using the single-letter form beginning with his 1727 Essay
-  > Explaining the Properties of Air, **though he used π = 6.28..., the ratio of
-  > periphery to radius, in this and some later writing.** Euler first used π =
-  > 3.14... in his 1736 work Mechanica, and continued in his widely-read 1748 work
-  > Introductio in analysin infinitorum (he wrote: "for the sake of brevity we
-  > will write this number as π; thus π is equal to half the circumference of a
-  > circle of radius 1"). Because Euler corresponded heavily with other
-  > mathematicians in Europe, the use of the Greek letter spread rapidly, and the
-  > practice was universally adopted thereafter in the Western world, **though the
-  > definition still varied between 3.14... and 6.28... as late as 1761.**
+  > _Explaining the Properties of Air_, **though he used π = 6.28..., the ratio
+  > of periphery to radius, in this and some later writing.** Euler first used
+  > π = 3.14... in his 1736 work Mechanica, and continued in his widely-read
+  > 1748 work _Introductio in analysin infinitorum_ (he wrote: "for the sake of
+  > brevity we will write this number as π; thus π is equal to half the
+  > circumference of a circle of radius 1"). Because Euler corresponded heavily
+  > with other mathematicians in Europe, the use of the Greek letter spread
+  > rapidly, and the practice was universally adopted thereafter in the Western
+  > world, **though the definition still varied between 3.14... and 6.28... as
+  > late as 1761.**
 
 ### In programming
 
