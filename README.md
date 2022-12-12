@@ -430,15 +430,15 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution).
 
   ```math
-      \begin{align}
-      |Y_n^{\lambda}|
-        &= \int_{\mathbb{R}^n} \left(1 + \sum_{i=1}^n x_i^2\right)^{-\lambda}\\
-        &= \begin{cases}
-          1&\text{for $n=0$}\\
-          B\left(\lambda - \frac{1}{2}, \frac{1}{2}\right)&\text{for $n=1$}\\
-          |Y_{n-2}^{\lambda}|\times \textcolor{orange}{\tau} / (2\lambda - n) & \text{otherwise}
-        \end{cases}
-    \end{align}
+  \begin{align*}
+    |Y_n^{\lambda}|
+      &= \int_{\mathbb{R}^n} \left(1 + \sum_{i=1}^n x_i^2\right)^{-\lambda}\\
+      &= \begin{cases}
+        1&\text{for $n=0$}\\
+        B\left(\lambda - \frac{1}{2}, \frac{1}{2}\right)&\text{for $n=1$}\\
+        |Y_{n-2}^{\lambda}|\times \textcolor{orange}{\tau} / (2\lambda - n) & \text{otherwise}
+      \end{cases}
+  \end{align*}
   ```
 
   Note again that the [Beta function
@@ -496,7 +496,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 - _n_-dimensional generalized Laguerre volume
 
   ```math
-  \begin{align}
+  \begin{align*}
     V_n
     &= \int_{\mathbb{R}^n} \left(\sqrt{x_1^2+\cdots+x_n^2}\right)^\alpha \exp\left(-\sqrt{x_1^2+\dots+x_n^2}\right)\\
     &= \begin{cases}
@@ -504,7 +504,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
       \textcolor{orange}{\tau}\Gamma(2 + \alpha)&\text{if $n=2$}\\
       V_{n-2} \times \textcolor{orange}{\tau} (n+\alpha-1) (n+\alpha-2) / (n-2) & \text{otherwise}
     \end{cases}
-  \end{align}
+  \end{align*}
   ```
 
 - more such examples at [ndim](https://github.com/sigma-py/ndim)
