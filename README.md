@@ -714,7 +714,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
     T = \frac{\textcolor{orange}{\tau}}{\operatorname{agm}(1, \cos(\theta_0/2))} \sqrt{\frac{L}{g}}
     ```
 
-    (arg is the [arithmetic-geometric
+    (agm is the [arithmetic-geometric
     mean](https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean).)
 
   - Kepler's third law of planetary motion:
