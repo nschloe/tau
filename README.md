@@ -141,7 +141,9 @@ Articles _against_ τ:
   - [Douglas Fehlen, Best Accredited Colleges,Best Accredited Colleges, _Tau Day Generates Controversy Among Math Scholars_, 2021](https://bestaccreditedcolleges.org/articles/tau-day-generates-controversy-among-math-scholars.html)
 
 - 2022:
+
   - [Andrea Zhao, The Varsity, _Tau versus pi: the unresolved battle_, 2022](https://thevarsity.ca/2022/06/28/tau-day-two-pi-mathematics/)
+  - [Live Science, _11 numbers that are cooler than pi_](https://www.livescience.com/64987-numbers-as-cool-as-pi.html)
 
 ### Other articles
 
