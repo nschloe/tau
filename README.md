@@ -342,6 +342,8 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   \end{alignat*}
   ```
 
+  <img src="plots/sin137.svg" align="right" width="30%"/>
+
   Trigonometric values off the grid can easily be estimated:
 
   <!--
@@ -354,6 +356,8 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   - `$\sin(13.7 \textcolor{orange}{\tau})$` – 13 full revolutions: forget about
     those. Plus .7, that's almost 3/4 of a revolution, so probably something
     close to −1. (Actual value: −0.95105651629...)
+
+  <br clear="right"/>
 
 - Area of the _n_-dimensional unit sphere
 
