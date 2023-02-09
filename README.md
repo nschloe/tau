@@ -292,23 +292,22 @@ Articles _against_ τ:
 
 ### In programming
 
-- [Processing, since 2.0 (2013)](https://processing.org/reference/TAU.html)
-- [Raku (aka Perl 6), since 2015](https://docs.raku.org/language/terms#term_tau)
-- [Nim, since 0.14.0 (2016)](https://github.com/nim-lang/Nim/pull/3976)
-- [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/)
-- [CSS (2018)](https://www.w3.org/TR/2018/WD-css-values-4-20180814/#angles)
-  (called "turn")
-- [OpenFOAM](https://www.openfoam.com/documentation/guides/latest/api/namespaceFoam_1_1constant_1_1mathematical.html#ad9e5ddf5862462196c9159f5d761e93a)
-- [Extreme Optimization Numerical Libraries for .NET](https://www.extremeoptimization.com/Documentation/Reference/Extreme.Mathematics.Constants.TwoPi.aspx)
-- [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703)
-- [Zig, since 0.6.0 (2019)](https://github.com/ziglang/zig/pull/3716)
-- [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html)
-- [.NET, C#, since 5.0 (2020)](https://github.com/dotnet/runtime/pull/37517)
+- [Processing, since 2.0 (2013)](https://processing.org/reference/TAU.html) `TAU`
+- [Raku (aka Perl 6), since 2015](https://docs.raku.org/language/terms#term_tau) `tau`
+- [Nim, since 0.14.0 (2016)](https://github.com/nim-lang/Nim/pull/3976) `TAU`
+- [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/) `math.tau`
+- [CSS (2018)](https://www.w3.org/TR/2018/WD-css-values-4-20180814/#angles) `turn`
+- [OpenFOAM](https://www.openfoam.com/documentation/guides/latest/api/namespaceFoam_1_1constant_1_1mathematical.html#ad9e5ddf5862462196c9159f5d761e93a) `twoPi`
+- [Extreme Optimization Numerical Libraries for .NET](https://www.extremeoptimization.com/Documentation/Reference/Extreme.Mathematics.Constants.TwoPi.aspx) `Constants.TwoPi`
+- [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703) `Tau`
+- [Zig, since 0.6.0 (2019)](https://github.com/ziglang/zig/pull/3716) `tau`
+- [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html) `std::f64::consts::TAU`
+- [.NET, C#, since 5.0 (2020)](https://github.com/dotnet/runtime/pull/37517) `Tau`
   <!--https://docs.microsoft.com/en-us/dotnet/api/system.math.tau -->
-- [Boost, since 1.77.0 (2021)](https://github.com/boostorg/math/pull/566)
-- [Godot game engine, since 3.3.3 (2021)](https://github.com/godotengine/godot/pull/48837)
-- [Crystal, since 0.36.0 (2021)](https://github.com/crystal-lang/crystal/pull/10179)
-- [Java, OpenJDK, since 19 (2022)](https://github.com/openjdk/jdk/pull/7813)
+- [Boost, since 1.77.0 (2021)](https://github.com/boostorg/math/pull/566) `tau`
+- [Godot game engine, since 3.3.3 (2021)](https://github.com/godotengine/godot/pull/48837) `TAU`
+- [Crystal, since 0.36.0 (2021)](https://github.com/crystal-lang/crystal/pull/10179) `Math::TAU`
+- [Java, OpenJDK, since 19 (2022)](https://github.com/openjdk/jdk/pull/7813) `Math.TAU`
 
 Inclusion of a constant `tau` was _rejected_ by the following projects:
 
