@@ -1,7 +1,9 @@
+<div align="center">
 <p align="center">
   <a href="https://github.com/nschloe/tau"><img alt="tau" src="https://nschloe.github.io/tau/tau.svg" width="15%"></a>
   <p align="center">The better π</p>
 </p>
+</div>
 
 > Beauty is the first test: there is no permanent place in this world for ugly
 > mathematics.
