@@ -263,9 +263,9 @@ Articles _against_ τ:
   > circle constants. (Before then, mathematicians sometimes used letters such
   > as c or p instead.) The first recorded use is Oughtred's "δ.π", to express
   > the ratio of periphery and diameter in the 1647 and later editions of
-  > _Clavis Mathematicae_. Barrow likewise used "`$\frac{\pi}{\delta}$`" to
+  > _Clavis Mathematicae_. Barrow likewise used "$`\frac{\pi}{\delta}`$" to
   > represent the constant 3.14..., **while Gregory instead used
-  > "`$\frac{\pi}{\rho}$`" to represent 6.28...**
+  > "$`\frac{\pi}{\rho}`$" to represent 6.28...**
   >
   > The earliest known use of the Greek letter π alone to represent the ratio
   > of a circle's circumference to its diameter was by Welsh mathematician
@@ -355,8 +355,8 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   Keep it as xhub "code" for now.
   -->
 
-  - `$\sin(27.4 \textcolor{teal}{\pi})$` – Where is my calculator?
-  - `$\sin(13.7 \textcolor{orange}{\tau})$` – 13 full revolutions: forget about
+  - $`\sin(27.4 \textcolor{teal}{\pi})`$ – Where is my calculator?
+  - $`\sin(13.7 \textcolor{orange}{\tau})`$ – 13 full revolutions: forget about
     those. Plus .7, that's almost 3/4 of a revolution, so probably something
     close to −1. (Actual value: −0.95105651629...)
 
@@ -547,10 +547,10 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 - [Cauchy's residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
 
   > Let _U_ be a simply connected open subset of the complex plane containing a
-  > finite list of points `$a_1,\dots,a_n$`, `$U_0 = U \setminus \{a_1,\dots,a_n\}$`, and a function _f_ defined and holomorphic on
+  > finite list of points $`a_1,\dots,a_n`$, $`U_0 = U \setminus \{a_1,\dots,a_n\}`$, and a function _f_ defined and holomorphic on
   > _U_<sub>0</sub>. Let _γ_ be a closed rectifiable curve in _U_<sub>0</sub>,
-  > and denote the winding number of _γ_ around _a<sub>k</sub>_ by `$I(\gamma, a_k)$`. The line integral of _f_ around _γ_ is equal to
-  > `$\textcolor{orange}{\tau} i$` times the sum of residues of _f_ at the
+  > and denote the winding number of _γ_ around _a<sub>k</sub>_ by $`I(\gamma, a_k)`$. The line integral of _f_ around _γ_ is equal to
+  > $`\textcolor{orange}{\tau} i`$ times the sum of residues of _f_ at the
   > points, each counted as many times as _γ_ winds around the point:
   >
   > ```math
@@ -589,7 +589,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
   - Positive half-integers:
 
-    `$\Gamma(\tfrac{1}{2}) = \sqrt{\textcolor{teal}{\pi}}$`, so all
+    $`\Gamma(\tfrac{1}{2}) = \sqrt{\textcolor{teal}{\pi}}`$, so all
     half-integer values of Γ contain that factor (recall Γ(_z_+1) = _z_ Γ(_z_)):
 
     ```math
@@ -658,7 +658,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
   In statistics, for non-negative values of _x_, the error function has the
   following interpretation: for a random variable _Y_ that is normally
-  distributed with mean 0 and standard deviation `$1/\sqrt{2}$`, erf(_x_) is
+  distributed with mean 0 and standard deviation $`1/\sqrt{2}`$, erf(_x_) is
   the probability that _Y_ falls in the range [−<i>x</i>, _x_].
 
   The same property with standard deviation 1 is fulfilled by
