@@ -388,7 +388,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
   Note that the [Beta function
   _B_](https://en.wikipedia.org/wiki/Beta_function), with one argument ½,
-  includes a factor `$\sqrt{\pi}$`.
+  includes a factor $`\sqrt{\pi}`$.
 
   Special cases:
 
@@ -520,7 +520,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   ```
 
   One could argue that the latter is more "canonical" since it has variance and
-  standard deviation of 1, not ½ and `$\sqrt{\frac{1}{2}}$`. Compare with the
+  standard deviation of 1, not ½ and $`\sqrt{\frac{1}{2}}`$. Compare with the
   [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
   ```math
