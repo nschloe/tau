@@ -114,6 +114,7 @@ Articles _against_ τ:
 
   - [Randyn Charles Bartholomew, Scientific American, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
   - [_Pi vs. tau: Ultimate Smackdown_, 2014](https://www.prooffreader.com/2014/06/pi-vs-tau-ultimate-smackdown.html)
+  - [Jolie Lee, _Happy Pi Day! Unless you are a Tauist_, 2014](https://eu.usatoday.com/story/news/nation-now/2014/03/14/pi-day-tau-math/6410959/)
 
 - 2015:
 
@@ -128,6 +129,7 @@ Articles _against_ τ:
 - 2017:
 
   - [Elizabeth Landau, Scientific American, _The Tao of Tau_, 2017](https://blogs.scientificamerican.com/observations/the-tao-of-tau/)
+  - [_Pi vs Tau – The Great Debate_, 2017](https://maffsisphun.wordpress.com/2017/12/09/pi-vs-tau-the-great-debate/)
 
 - 2018:
 
