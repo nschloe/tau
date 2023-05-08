@@ -92,6 +92,7 @@ Articles _against_ τ:
     (interview with M. Hartl)
   - [Eric Raymond, _Tau versus Pi_, 2011](http://esr.ibiblio.org/?p=3481)
   - [Qiaochu Yuan, _Pi is still wrong_, 2011](https://qchu.wordpress.com/2011/03/14/pi-is-still-wrong/)
+  - [Ulrich Pontes, Der Spiegel, _Physiker will Pi abschaffen_,  2011](https://www.spiegel.de/wissenschaft/mensch/revolution-gegen-die-kreiszahl-physiker-will-pi-abschaffen-a-771007.html)
   <!--
   Same as the Daily Mail article:
   - [_Bye to Pi -- Mathematicians want pi out tau in_, 2011](https://www.sundaytimes.lk/110703/Timestwo/t2_09.html)
@@ -141,11 +142,13 @@ Articles _against_ τ:
 
   - [Paolo A., _in honor of tau_, 2021](https://mitadmissions.org/blogs/entry/in-honor-of-tau/)
   - [Douglas Fehlen, Best Accredited Colleges,Best Accredited Colleges, _Tau Day Generates Controversy Among Math Scholars_, 2021](https://bestaccreditedcolleges.org/articles/tau-day-generates-controversy-among-math-scholars.html)
+  - [Susanne M. Hoffmann, _Wer pi nicht mag, kann heute tau feiern_, 2021](https://scilogs.spektrum.de/uhura-uraniae/wer-pi-nicht-mag-kann-heute-tau-feiern/)
 
 - 2022:
 
   - [Andrea Zhao, The Varsity, _Tau versus pi: the unresolved battle_, 2022](https://thevarsity.ca/2022/06/28/tau-day-two-pi-mathematics/)
   - [Live Science, _11 numbers that are cooler than pi_](https://www.livescience.com/64987-numbers-as-cool-as-pi.html)
+  - [Mary Bilyeu, _Double both pi and pie on Tau Day_, 2022](https://www.toledoblade.com/a-e/food/2022/06/26/june-28-tau-pie-day/stories/20220626002)
 
 ### Other articles
 
