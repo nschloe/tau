@@ -539,22 +539,22 @@ and _λ_ = 1,
 \end{align*}
 ```
 
-- more such examples at [ndim](https://github.com/sigma-py/ndim)
+#### [The Gaussian integral](https://en.wikipedia.org/wiki/Gaussian_integral)
 
-- Compare
+Compare
 
-  ```math
-  \int_{-\infty}^{\infty} \exp(-x^2)\,dx = \sqrt{\textcolor{teal}{\pi}},\qquad
-  \int_{-\infty}^{\infty} \exp(-x^2 / 2)\,dx = \sqrt{\textcolor{orange}{\tau}}
-  ```
+```math
+\int_{-\infty}^{\infty} \exp(-x^2)\,dx = \sqrt{\textcolor{teal}{\pi}},\qquad
+\int_{-\infty}^{\infty} \exp(-x^2 / 2)\,dx = \sqrt{\textcolor{orange}{\tau}}
+```
 
-  One could argue that the latter is more "canonical" since it has variance and
-  standard deviation of 1, not ½ and √½. Compare with the [Normal
-  distribution](https://en.wikipedia.org/wiki/Normal_distribution)
+One could argue that the latter is more "canonical" since it has variance and
+standard deviation of 1, not ½ and √½. Compare with the [Normal
+distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
-  ```math
-  \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\textcolor{orange}{\tau}}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) \,dx= 1
-  ```
+```math
+\int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\textcolor{orange}{\tau}}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) \,dx= 1
+```
 
 #### [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
 
