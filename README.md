@@ -222,6 +222,9 @@ Articles _against_ τ:
 - [Mike Keith, _Pieces of Centaurs: A 768-digit mnemonic for τ = 2π_, 2011](http://www.cadaeic.net/centaurs.htm)
 - [Vitalik Buterin, _I'm boycotting pi day because tau day is better_, Twitter, 2020](https://twitter.com/vitalikbuterin/status/1238971048948830210)
 - [Elon Musk, _tau > pi_, Twitter, 2022](https://twitter.com/elonmusk/status/1496066844284928003)
+  <div align="center">
+    <img src="pictures/musk.png" width="30%">
+  </div>
 
 ### Historical uses
 
