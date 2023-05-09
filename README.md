@@ -10,14 +10,13 @@
 >
 > – [G.H. Hardy](https://en.wikipedia.org/wiki/G._H._Hardy)
 
-In 2001, [Bob Palais](http://www.math.utah.edu/~palais/) wrote the article
-[_π is wrong!_](https://doi.org/10.1007%2FBF03026846), remarking on the fact
-that when π occurs in nature, it occurs as 2π most of the time. He suggests that
-2π = 6.283185... should be given a name (τ is now a fan favorite) and that it
+In 2001, [Bob Palais](http://www.math.utah.edu/~palais/) wrote the article [_π
+is wrong!_](https://doi.org/10.1007%2FBF03026846), remarking on the fact that
+when π occurs in nature, it occurs as 2π most of the time. He suggests that 2π
+= 6.283185... should be given a name (τ is now a fan favorite) and that it
 should be used instead of π. Some found his arguments convincing, including
-[Michael Hartl](https://www.michaelhartl.com/). In 2010, Hartl published
-[The Tau Manifesto](https://tauday.com/tau-manifesto), and the τ movement was
-born.
+[Michael Hartl](https://www.michaelhartl.com/). In 2010, Hartl published [The
+Tau Manifesto](https://tauday.com/tau-manifesto), and the τ movement was born.
 
 ### Scientific articles and blog posts
 
@@ -92,7 +91,7 @@ Articles _against_ τ:
     (interview with M. Hartl)
   - [Eric Raymond, _Tau versus Pi_, 2011](http://esr.ibiblio.org/?p=3481)
   - [Qiaochu Yuan, _Pi is still wrong_, 2011](https://qchu.wordpress.com/2011/03/14/pi-is-still-wrong/)
-  - [Ulrich Pontes, Der Spiegel, _Physiker will Pi abschaffen_,  2011](https://www.spiegel.de/wissenschaft/mensch/revolution-gegen-die-kreiszahl-physiker-will-pi-abschaffen-a-771007.html)
+  - [Ulrich Pontes, Der Spiegel, _Physiker will Pi abschaffen_, 2011](https://www.spiegel.de/wissenschaft/mensch/revolution-gegen-die-kreiszahl-physiker-will-pi-abschaffen-a-771007.html)
   <!--
   Same as the Daily Mail article:
   - [_Bye to Pi -- Mathematicians want pi out tau in_, 2011](https://www.sundaytimes.lk/110703/Timestwo/t2_09.html)
