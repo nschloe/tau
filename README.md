@@ -393,7 +393,7 @@ GitHub doesn't understand inline and block math in one list item
 
 <br clear="right"/>
 
-#### Area of the _n_-dimensional unit sphere
+#### Surface area of the _n_-dimensional unit sphere
 
 ```math
 |U_n|
