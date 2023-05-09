@@ -207,13 +207,16 @@ Articles _against_ τ:
 
 - [xkcd, _Pi vs. Tau_](https://xkcd.com/1292/)
   <div align="center">
-    <img src="pictures/pi_vs_tau.png" width="50%">
+    <img src="pictures/pi_vs_tau.png" width="30%">
   </div>
 - [xkcd, _Symbols_](https://xkcd.com/2520/)
 - [SMBC, _Proposed Number Improvements_](https://www.smbc-comics.com/comic/numbers-3)
 - [SMBC, _Pi-Tau conversion constant_](https://www.smbc-comics.com/comic/2013-10-04)
 - [SMBC, _Social_](https://www.smbc-comics.com/comic/social)
 - [SMBC, _Better than pi_](https://www.smbc-comics.com/comic/better-than-pi)
+  <div align="center">
+    <img src="pictures/megapi.png" width="30%">
+  </div>
 - [Crooked Stave Artisan Beer Project, _Key Lime Tau (2π)_](https://untappd.com/b/crooked-stave-artisan-beer-project-key-lime-tau-2p/1343706)
 - [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day)
 - [Mike Keith, _Pieces of Centaurs: A 768-digit mnemonic for τ = 2π_, 2011](http://www.cadaeic.net/centaurs.htm)
