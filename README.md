@@ -333,7 +333,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
 ### Some equations
 
-##### Trigonometry
+#### Trigonometry
 
 ```math
 \begin{split}
@@ -372,7 +372,7 @@ GitHub doesn't understand inline and block math in one list item
 
 <br clear="right"/>
 
-##### Area of the _n_-dimensional unit sphere
+#### Area of the _n_-dimensional unit sphere
 
 ```math
 |U_n|
@@ -384,7 +384,7 @@ GitHub doesn't understand inline and block math in one list item
 \end{cases}
 ```
 
-##### _n_-dimensional Gegenbauer integral over the unit ball <i>S<sub>n</sub></i>
+#### _n_-dimensional Gegenbauer integral over the unit ball <i>S<sub>n</sub></i>
 
 ```math
 |G_n^{\lambda}|
@@ -433,7 +433,7 @@ Special cases:
   \int_{-1}^1 \sqrt{1-x^2} = \frac{\textcolor{teal}{\pi}}{2}
   ```
 
-##### _n_-dimensional generalized Cauchy volume
+#### _n_-dimensional generalized Cauchy volume
 
 2 _λ_ > _n_.
 
@@ -506,19 +506,19 @@ and _λ_ = 1,
   the Gamma function evaluations.
   -->
 
-- _n_-dimensional generalized Laguerre volume
+#### _n_-dimensional generalized Laguerre volume
 
-  ```math
-  \begin{align*}
-    V_n
-    &= \int_{\mathbb{R}^n} \left(\sqrt{x_1^2+\cdots+x_n^2}\right)^\alpha \exp\left(-\sqrt{x_1^2+\dots+x_n^2}\right)\\
-    &= \begin{cases}
-      2\Gamma(1+\alpha)&\text{if $n=1$}\\
-      \textcolor{orange}{\tau}\Gamma(2 + \alpha)&\text{if $n=2$}\\
-      V_{n-2} \times \textcolor{orange}{\tau} (n+\alpha-1) (n+\alpha-2) / (n-2) & \text{otherwise}
-    \end{cases}
-  \end{align*}
-  ```
+```math
+\begin{align*}
+  V_n
+  &= \int_{\mathbb{R}^n} \left(\sqrt{x_1^2+\cdots+x_n^2}\right)^\alpha \exp\left(-\sqrt{x_1^2+\dots+x_n^2}\right)\\
+  &= \begin{cases}
+    2\Gamma(1+\alpha)&\text{if $n=1$}\\
+    \textcolor{orange}{\tau}\Gamma(2 + \alpha)&\text{if $n=2$}\\
+    V_{n-2} \times \textcolor{orange}{\tau} (n+\alpha-1) (n+\alpha-2) / (n-2) & \text{otherwise}
+  \end{cases}
+\end{align*}
+```
 
 - more such examples at [ndim](https://github.com/sigma-py/ndim)
 
@@ -537,111 +537,111 @@ and _λ_ = 1,
   \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\textcolor{orange}{\tau}}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) \,dx= 1
   ```
 
-- [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
+#### [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
 
-  > Let _U_ be an open subset of the complex plane ℂ, and suppose the closed
-  > disk _D_ defined as
-  >
-  > ```math
-  > D = \bigl\{z:|z-z_{0}|\leq r\bigr\}
-  > ```
-  >
-  > is completely contained in _U_. Let _f_: *U*→ℂ be a holomorphic function,
-  > and let _γ_ be the circle, oriented counterclockwise, forming the boundary
-  > of _D_. Then for every _a_ in the interior of _D_,
-  >
-  > ```math
-  > f(a) = \frac{1}{\textcolor{orange}{\tau} i} \oint_{\gamma}\frac{f(z)}{z-a} dz.
-  > ```
+> Let _U_ be an open subset of the complex plane ℂ, and suppose the closed
+> disk _D_ defined as
+>
+> ```math
+> D = \bigl\{z:|z-z_{0}|\leq r\bigr\}
+> ```
+>
+> is completely contained in _U_. Let _f_: *U*→ℂ be a holomorphic function,
+> and let _γ_ be the circle, oriented counterclockwise, forming the boundary
+> of _D_. Then for every _a_ in the interior of _D_,
+>
+> ```math
+> f(a) = \frac{1}{\textcolor{orange}{\tau} i} \oint_{\gamma}\frac{f(z)}{z-a} dz.
+> ```
 
-- [Cauchy's residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
+#### [Cauchy's residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
 
-  > Let _U_ be a simply connected open subset of the complex plane containing a
-  > finite list of points `$a_1,\dots,a_n$`, `$U_0 = U \setminus \{a_1,\dots,a_n\}$`, and a function _f_ defined and holomorphic on
-  > _U_<sub>0</sub>. Let _γ_ be a closed rectifiable curve in _U_<sub>0</sub>,
-  > and denote the winding number of _γ_ around _a<sub>k</sub>_ by `$I(\gamma, a_k)$`. The line integral of _f_ around _γ_ is equal to
-  > `$\textcolor{orange}{\tau} i$` times the sum of residues of _f_ at the
-  > points, each counted as many times as _γ_ winds around the point:
-  >
-  > ```math
-  > \oint_\gamma f(z)\,\mathrm{d}z = \textcolor{orange}{\tau} i \sum_{k=1}^n I(\gamma,a_k) \operatorname{Res}(f,a_k)
-  > ```
+> Let _U_ be a simply connected open subset of the complex plane containing a
+> finite list of points `$a_1,\dots,a_n$`, `$U_0 = U \setminus \{a_1,\dots,a_n\}$`, and a function _f_ defined and holomorphic on
+> _U_<sub>0</sub>. Let _γ_ be a closed rectifiable curve in _U_<sub>0</sub>,
+> and denote the winding number of _γ_ around _a<sub>k</sub>_ by `$I(\gamma, a_k)$`. The line integral of _f_ around _γ_ is equal to
+> `$\textcolor{orange}{\tau} i$` times the sum of residues of _f_ at the
+> points, each counted as many times as _γ_ winds around the point:
+>
+> ```math
+> \oint_\gamma f(z)\,\mathrm{d}z = \textcolor{orange}{\tau} i \sum_{k=1}^n I(\gamma,a_k) \operatorname{Res}(f,a_k)
+> ```
 
-- [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
+#### [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
+
+```math
+\begin{align*}
+\hat{f}(\xi) &= \int_{-\infty}^{\infty} f(x) \exp(-i\textcolor{orange}{\tau} x\xi)\,dx,\\
+f(x)         &= \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\textcolor{orange}{\tau} x\xi)\,d\xi
+\end{align*}
+```
+
+#### [<emph>n</emph>th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
+
+```math
+z^n = 1 \quad\Rightarrow\quad z = \exp(i\textcolor{orange}{\tau} k / n) \quad\forall k=0,\dots,n-1
+```
+
+#### [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
+
+```math
+\exp(i \textcolor{teal}{\pi}) + 1  = 0,\quad
+\exp(i \textcolor{orange}{\tau}) - 1 = 0
+```
+
+#### [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
+
+```math
+n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
+```
+
+#### [Particular values of the Gamma function](https://en.wikipedia.org/wiki/Particular_values_of_the_gamma_function)
+
+- Positive half-integers:
+
+  $`\Gamma(\tfrac{1}{2}) = \sqrt{\textcolor{teal}{\pi}}`$, so all
+  half-integer values of Γ contain that factor (recall Γ(_z_+1) = _z_ Γ(_z_)):
 
   ```math
-  \begin{align*}
-  \hat{f}(\xi) &= \int_{-\infty}^{\infty} f(x) \exp(-i\textcolor{orange}{\tau} x\xi)\,dx,\\
-  f(x)         &= \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\textcolor{orange}{\tau} x\xi)\,d\xi
-  \end{align*}
+  \Gamma(n + \tfrac{1}{2})
+  = \sqrt{\textcolor{teal}{\pi}} \prod_{i=0}^{n-1} \left(i + \frac{1}{2}\right)
   ```
 
-- [<emph>n</emph>th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
+  for _n_ ∈ ℕ. Equivalently:
 
   ```math
-  z^n = 1 \quad\Rightarrow\quad z = \exp(i\textcolor{orange}{\tau} k / n) \quad\forall k=0,\dots,n-1
+  \Gamma(n + \tfrac{1}{2})
+  = \sqrt{\textcolor{teal}{\pi}} \frac{(2n-1)!!}{2^n}
   ```
 
-- [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
+  or (for odd _n_ > 0)
 
   ```math
-  \exp(i \textcolor{teal}{\pi}) + 1  = 0,\quad
-  \exp(i \textcolor{orange}{\tau}) - 1 = 0
+  \Gamma(\tfrac{n}{2})
+  = \sqrt{\textcolor{teal}{\pi}} \frac{(n-2)!!}{2^{(n-1)/2}}.
   ```
 
-- [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
+- [The multiplication theorem](https://en.wikipedia.org/wiki/Multiplication_theorem):
 
   ```math
-  n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
+  \prod_{k=0}^{m-1}\Gamma\left(z+\frac{k}{m}\right) = \textcolor{orange}{\tau}^\frac{m-1}{2} m^{\frac{1}{2}-mz} \Gamma(mz),
   ```
 
-- [Particular values of the Gamma function](https://en.wikipedia.org/wiki/Particular_values_of_the_gamma_function)
+  and its special case (_m_ = 2), the [Legendre duplication
+  formula](https://en.wikipedia.org/wiki/Multiplication_theorem#Gamma_function%E2%80%93Legendre_formula)
 
-  - Positive half-integers:
+  ```math
+  \Gamma(z)\Gamma(z+\tfrac{1}{2}) = 2^{1-2z}\sqrt{\textcolor{teal}{\pi}}\Gamma(2z).
+  ```
 
-    $`\Gamma(\tfrac{1}{2}) = \sqrt{\textcolor{teal}{\pi}}`$, so all
-    half-integer values of Γ contain that factor (recall Γ(_z_+1) = _z_ Γ(_z_)):
+- [Euler’s reflection formula](https://en.wikipedia.org/wiki/Reflection_formula):
+  ```math
+  \Gamma(z)\Gamma(1-z)
+  = \frac{\textcolor{teal}{\pi}}{\sin(\textcolor{teal}{\pi} z)}
+  ```
+  <!-- = \frac{\textcolor{orange}{tau}}{crd(\textcolor{orange}{\tau} z)} -->
 
-    ```math
-    \Gamma(n + \tfrac{1}{2})
-    = \sqrt{\textcolor{teal}{\pi}} \prod_{i=0}^{n-1} \left(i + \frac{1}{2}\right)
-    ```
-
-    for _n_ ∈ ℕ. Equivalently:
-
-    ```math
-    \Gamma(n + \tfrac{1}{2})
-    = \sqrt{\textcolor{teal}{\pi}} \frac{(2n-1)!!}{2^n}
-    ```
-
-    or (for odd _n_ > 0)
-
-    ```math
-    \Gamma(\tfrac{n}{2})
-    = \sqrt{\textcolor{teal}{\pi}} \frac{(n-2)!!}{2^{(n-1)/2}}.
-    ```
-
-  - [The multiplication theorem](https://en.wikipedia.org/wiki/Multiplication_theorem):
-
-    ```math
-    \prod_{k=0}^{m-1}\Gamma\left(z+\frac{k}{m}\right) = \textcolor{orange}{\tau}^\frac{m-1}{2} m^{\frac{1}{2}-mz} \Gamma(mz),
-    ```
-
-    and its special case (_m_ = 2), the [Legendre duplication
-    formula](https://en.wikipedia.org/wiki/Multiplication_theorem#Gamma_function%E2%80%93Legendre_formula)
-
-    ```math
-    \Gamma(z)\Gamma(z+\tfrac{1}{2}) = 2^{1-2z}\sqrt{\textcolor{teal}{\pi}}\Gamma(2z).
-    ```
-
-  - [Euler’s reflection formula](https://en.wikipedia.org/wiki/Reflection_formula):
-    ```math
-    \Gamma(z)\Gamma(1-z)
-    = \frac{\textcolor{teal}{\pi}}{\sin(\textcolor{teal}{\pi} z)}
-    ```
-    <!-- = \frac{\textcolor{orange}{tau}}{crd(\textcolor{orange}{\tau} z)} -->
-
-- [Particular values of the Riemann zeta function](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
+#### [Particular values of the Riemann zeta function](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
 
   ```math
   \zeta(2n) = \sum_{k=1}^{\infty} \frac{1}{k^{2n}} = (-1)^{n+1} \frac{\textcolor{orange}{\tau}^{2n} B_{2n}}{2 (2n)!},
