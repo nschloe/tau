@@ -528,8 +528,8 @@ and _λ_ = 1,
   ```
 
   One could argue that the latter is more "canonical" since it has variance and
-  standard deviation of 1, not ½ and $`\sqrt{\frac{1}{2}}`$. Compare with the
-  [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution)
+  standard deviation of 1, not ½ and √½. Compare with the [Normal
+  distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
   ```math
   \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\textcolor{orange}{\tau}}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) \,dx= 1
