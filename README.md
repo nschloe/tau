@@ -221,7 +221,7 @@ Articles _against_ τ:
 
 ### Historical uses
 
-- <img src="pictures/stamp-al-kashi.jpg" align="right" width="200px"/>
+- <img src="pictures/al-kashi-stamp.jpg" align="right" width="200px"/>
 
   (All quotes are translated from the German translation by P. Luckey, 1950.)
 
@@ -276,7 +276,7 @@ Articles _against_ τ:
 - The section _Adoption of the symbol π_ of the excellent Wikipedia article
   [Pi](https://en.wikipedia.org/wiki/Pi#Adoption_of_the_symbol_%CF%80) says:
 
-  > <img src="pictures/david-gregory.jpg" align="right" width="200px"/>
+  > <img src="pictures/david-gregory.png" align="right" width="200px"/>
   >
   > In the earliest usages, the Greek letter π was used to denote the
   > semiperimeter (_semiperipheria_ in Latin) of a circle and was combined in
