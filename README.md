@@ -537,16 +537,16 @@ and _λ_ = 1,
 
 #### [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
 
-> Let _U_ be an open subset of the complex plane ℂ, and suppose the closed
-> disk _D_ defined as
+> Let $`U`$ be an open subset of the complex plane $`\mathbb{C}`$, and suppose the closed
+> disk $`D`$ defined as
 >
 > ```math
 > D = \bigl\{z:|z-z_{0}|\leq r\bigr\}
 > ```
 >
-> is completely contained in _U_. Let _f_: *U*→ℂ be a holomorphic function,
-> and let _γ_ be the circle, oriented counterclockwise, forming the boundary
-> of _D_. Then for every _a_ in the interior of _D_,
+> is completely contained in $`U`$. Let $`f:U\to\mathbb{C}`$ be a holomorphic function,
+> and let $`\gamma`$ be the circle, oriented counterclockwise, forming the boundary
+> of $`D`$. Then for every $`a`$ in the interior of $`D`$,
 >
 > ```math
 > f(a) = \frac{1}{\textcolor{orange}{\tau} i} \oint_{\gamma}\frac{f(z)}{z-a} dz.
@@ -554,14 +554,14 @@ and _λ_ = 1,
 
 #### [Cauchy's residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
 
-> Let _U_ be a simply connected open subset of the complex plane containing a
+> Let $`U`$ be a simply connected open subset of the complex plane containing a
 > finite list of points $`a_1,\dots,a_n`$, $`U_0 = U \setminus
 > \{a_1,\dots,a_n\}`$, and a function _f_ defined and holomorphic on $`U_0`$.
 > Let _γ_ be a closed rectifiable curve in $`U_0`$, and denote the winding
 > number of $`\gamma`$ around $`a_k`$ by $`I(\gamma, a_k)`$. The line integral
-> of _f_ around _γ_ is equal to `$\textcolor{orange}{\tau} i$` times the sum of
-> residues of _f_ at the points, each counted as many times as _γ_ winds around
-> the point:
+> of $`f`$ around $`\gamma`$ is equal to $`\textcolor{orange}{\tau} i`$ times
+> the sum of residues of $`f`$ at the points, each counted as many times as
+> $`\gamma`$ winds around the point:
 >
 > ```math
 > \oint_\gamma f(z)\,\mathrm{d}z = \textcolor{orange}{\tau} i \sum_{k=1}^n I(\gamma,a_k) \mathrm{Res}(f,a_k)
@@ -643,27 +643,27 @@ n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
 
 #### [Particular values of the Riemann zeta function](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
 
-  ```math
-  \zeta(2n) = \sum_{k=1}^{\infty} \frac{1}{k^{2n}} = (-1)^{n+1} \frac{\textcolor{orange}{\tau}^{2n} B_{2n}}{2 (2n)!},
-  ```
+```math
+\zeta(2n) = \sum_{k=1}^{\infty} \frac{1}{k^{2n}} = (-1)^{n+1} \frac{\textcolor{orange}{\tau}^{2n} B_{2n}}{2 (2n)!},
+```
 
-  for _n_ ∈ ℕ, e.g.,
+for $`n\in\mathbb{N}`$, e.g.,
 
-  ```math
-  \zeta(2) = \sum_{k=1}^{\infty} \frac{1}{k^2} = \frac{\textcolor{teal}{\pi}^2}{6} = \frac{\textcolor{orange}{\tau}^2}{24}
-  ```
+```math
+\zeta(2) = \sum_{k=1}^{\infty} \frac{1}{k^2} = \frac{\textcolor{teal}{\pi}^2}{6} = \frac{\textcolor{orange}{\tau}^2}{24}
+```
 
 #### [Weyl law](https://en.wikipedia.org/wiki/Weyl_law)
 
 ```math
 \lim_{\lambda\to\infty} \frac{N(\lambda)}{\lambda^{d/2}}
-= \textcolor{orange}{\tau}^{-d}\omega_d \operatorname{vol}(\Omega)
+= \textcolor{orange}{\tau}^{-d}\omega_d \mathrm{vol}(\Omega)
 ```
 
 #### [Error function](https://en.wikipedia.org/wiki/Error_function)
 
 ```math
-\operatorname{erf}(z) = \frac{2}{\sqrt{\textcolor{teal}{\pi}}} \int_0^z \exp(-t^2)\, dt.
+\mathrm{erf}(z) = \frac:{2}{\sqrt{\textcolor{teal}{\pi}}} \int_0^z \exp(-t^2)\, dt.
 ```
 
 In statistics, for non-negative values of _x_, the error function has the
@@ -674,7 +674,7 @@ the probability that _Y_ falls in the range [−<i>x</i>, _x_].
 The same property with standard deviation 1 is fulfilled by
 
 ```math
-\operatorname{erf}_1(z) = \frac{2}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\, dt.
+\mathrm{erf}_1(z) = \frac{2}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\, dt.
 ```
 
 #### The [sinc](https://en.wikipedia.org/wiki/Sinc_function) function and its power integrals
@@ -723,7 +723,7 @@ for all $`n\in\mathbb{N}`$. Specifically,
   - Exact period of a simple pendulum with amplitude θ<sub>0</sub>:
 
     ```math
-    T = \frac{\textcolor{orange}{\tau}}{\operatorname{agm}(1, \cos(\theta_0/2))} \sqrt{\frac{L}{g}}
+    T = \frac{\textcolor{orange}{\tau}}{\mathrm{agm}(1, \cos(\theta_0/2))} \sqrt{\frac{L}{g}}
     ```
 
     (agm is the [arithmetic-geometric
