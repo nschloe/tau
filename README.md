@@ -45,7 +45,8 @@ Articles _against_ τ:
 - [The Proper π Manifesto](http://proper-pi-manifesto.com/)
 - [Marc B. Reynolds, _Tau and the art of Windmill jousting_, 2020](http://marc-b-reynolds.github.io/math/2020/01/06/Tau.html)
 
-### News articles and blog posts
+<details>
+<summary>News articles and blog posts</summary>
 
 - 2007:
 
@@ -150,6 +151,8 @@ Articles _against_ τ:
   - [Andrea Zhao, The Varsity, _Tau versus pi: the unresolved battle_, 2022](https://thevarsity.ca/2022/06/28/tau-day-two-pi-mathematics/)
   - [Live Science, _11 numbers that are cooler than pi_](https://www.livescience.com/64987-numbers-as-cool-as-pi.html)
   - [Mary Bilyeu, _Double both pi and pie on Tau Day_, 2022](https://www.toledoblade.com/a-e/food/2022/06/26/june-28-tau-pie-day/stories/20220626002)
+
+</details>
 
 ### Other articles
 
