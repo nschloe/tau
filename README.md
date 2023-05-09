@@ -8,7 +8,7 @@
 > Beauty is the first test: there is no permanent place in this world for ugly
 > mathematics.
 >
-> – [G.H. Hardy](https://en.wikipedia.org/wiki/G._H._Hardy)
+> —[G.H. Hardy](https://en.wikipedia.org/wiki/G._H._Hardy)
 
 In 2001, [Bob Palais](http://www.math.utah.edu/~palais/) wrote the article [_π
 is wrong!_](https://doi.org/10.1007%2FBF03026846), remarking on the fact that
