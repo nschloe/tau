@@ -665,7 +665,7 @@ for $`n\in\mathbb{N}`$, e.g.,
 #### [Error function](https://en.wikipedia.org/wiki/Error_function)
 
 ```math
-\mathrm{erf}(z) = \frac:{2}{\sqrt{\textcolor{teal}{\pi}}} \int_0^z \exp(-t^2)\, dt.
+\mathrm{erf}(z) = \frac{2}{\sqrt{\textcolor{teal}{\pi}}} \int_0^z \exp(-t^2)\, dt.
 ```
 
 In statistics, for non-negative values of _x_, the error function has the
