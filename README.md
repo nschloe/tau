@@ -10,6 +10,8 @@
 >
 > —[G.H. Hardy](https://en.wikipedia.org/wiki/G._H._Hardy)
 
+<img src="pictures/hartl-palais.jpg" align="left" width="200px"/>
+
 In 2001, [Bob Palais](http://www.math.utah.edu/~palais/) wrote the article [_π
 is wrong!_](https://doi.org/10.1007%2FBF03026846), remarking on the fact that
 when π occurs in nature, it occurs as 2π most of the time. He suggests that
@@ -17,6 +19,8 @@ when π occurs in nature, it occurs as 2π most of the time. He suggests that
 should be used instead of π. Some found his arguments convincing, including
 [Michael Hartl](https://www.michaelhartl.com/). In 2010, Hartl published [The
 Tau Manifesto](https://tauday.com/tau-manifesto), and the τ movement was born.
+
+<br clear="left"/>
 
 ### Scientific articles and blog posts
 
