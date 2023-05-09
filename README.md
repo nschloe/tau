@@ -45,8 +45,10 @@ Articles _against_ τ:
 - [The Proper π Manifesto](http://proper-pi-manifesto.com/)
 - [Marc B. Reynolds, _Tau and the art of Windmill jousting_, 2020](http://marc-b-reynolds.github.io/math/2020/01/06/Tau.html)
 
+### News articles and blog posts
+
 <details>
-<summary>News articles and blog posts</summary>
+<summary>Click to expand</summary>
 
 - 2007:
 
