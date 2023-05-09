@@ -454,7 +454,7 @@ Special cases:
   \int_{-1}^1 \sqrt{1-x^2} = \frac{\textcolor{teal}{\pi}}{2}
   ```
 
-#### _n_-dimensional generalized Cauchy volume (2 _λ_ > _n_)
+#### _n_-dimensional generalized Cauchy volume (2*λ* > _n_)
 
 As appearing in its one-dimensional version in the [Cauchy
 distribution](https://en.wikipedia.org/wiki/Cauchy_distribution) and
@@ -700,7 +700,7 @@ The same property with standard deviation 1 is fulfilled by
 \mathrm{erf}_1(z) = \frac{2}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\, dt.
 ```
 
-#### The [sinc](https://en.wikipedia.org/wiki/Sinc_function) function and its power integrals
+#### The [sinc function](https://en.wikipedia.org/wiki/Sinc_function) and its power integrals
 
 ```math
 \int_{-\infty}^{\infty} \frac{\sin^n(x)}{x^n}\,dx
