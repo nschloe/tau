@@ -12,8 +12,8 @@
 
 In 2001, [Bob Palais](http://www.math.utah.edu/~palais/) wrote the article [_π
 is wrong!_](https://doi.org/10.1007%2FBF03026846), remarking on the fact that
-when π occurs in nature, it occurs as 2π most of the time. He suggests that 2π
-= 6.283185... should be given a name (τ is now a fan favorite) and that it
+when π occurs in nature, it occurs as 2π most of the time. He suggests that
+2π = 6.283185... should be given a name (τ is now a fan favorite) and that it
 should be used instead of π. Some found his arguments convincing, including
 [Michael Hartl](https://www.michaelhartl.com/). In 2010, Hartl published [The
 Tau Manifesto](https://tauday.com/tau-manifesto), and the τ movement was born.
@@ -218,7 +218,7 @@ Articles _against_ τ:
 - (All quotes are translated from the German translation by P. Luckey, 1950.)
 
   While Archimedes was able to bound the ratio of a circle circumference and
-  diameter between 223/71 (≈3.1408) and 22/7 (≈3.1428), [Jamshid al-Kashi
+  diameter between 223/71 (≈ 3.1408) and 22/7 (≈ 3.1428), [Jamshid al-Kashi
   ](https://en.wikipedia.org/wiki/Jamshid_al-Kashi) wanted to determine it to a
   much higher precision. In his 1424 _Treatise on the circumference of the
   circle_, it was his goal that
@@ -288,9 +288,9 @@ Articles _against_ τ:
   > still being used as late as 1767.
   >
   > Euler started using the single-letter form beginning with his 1727 Essay
-  > _Explaining the Properties of Air_, **though he used π = 6.28..., the ratio
+  > _Explaining the Properties of Air_, **though he used π = 6.28..., the ratio
   > of periphery to radius, in this and some later writing.** Euler first used
-  > π = 3.14... in his 1736 work Mechanica, and continued in his widely-read
+  > π = 3.14... in his 1736 work Mechanica, and continued in his widely-read
   > 1748 work _Introductio in analysin infinitorum_ (he wrote: "for the sake of
   > brevity we will write this number as π; thus π is equal to half the
   > circumference of a circle of radius 1"). Because Euler corresponded heavily
