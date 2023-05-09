@@ -433,9 +433,7 @@ Special cases:
   \int_{-1}^1 \sqrt{1-x^2} = \frac{\textcolor{teal}{\pi}}{2}
   ```
 
-#### _n_-dimensional generalized Cauchy volume
-
-2 _λ_ > _n_.
+#### _n_-dimensional generalized Cauchy volume (2 _λ_ > _n_)
 
 As appearing in its one-dimensional version in the [Cauchy
 distribution](https://en.wikipedia.org/wiki/Cauchy_distribution) and
@@ -456,7 +454,7 @@ distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution).
 
 Note again that the [Beta function
 _B_](https://en.wikipedia.org/wiki/Beta_function), with one argument
-½, includes a factor `$\sqrt{\pi}$`. Specifically, for _n_ = 1
+½, includes a factor $`\sqrt{\pi}`$. Specifically, for _n_ = 1
 and _λ_ = 1,
 
 ```math
@@ -564,7 +562,7 @@ and _λ_ = 1,
 > points, each counted as many times as _γ_ winds around the point:
 >
 > ```math
-> \oint_\gamma f(z)\,\mathrm{d}z = \textcolor{orange}{\tau} i \sum_{k=1}^n I(\gamma,a_k) \operatorname{Res}(f,a_k)
+> \oint_\gamma f(z)\,\mathrm{d}z = \textcolor{orange}{\tau} i \sum_{k=1}^n I(\gamma,a_k) \mathrm{Res}(f,a_k)
 > ```
 
 #### [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
