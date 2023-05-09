@@ -333,135 +333,135 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
 ### Some equations
 
-- Trigonometry
+##### Trigonometry
 
-  ```math
-  \begin{split}
-  \sin(\alpha) &= \sin(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha\\
-  \cos(\alpha) &= \cos(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha\\
-  \tan(\alpha) &= \tan(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha
-  \end{split}
-  ```
+```math
+\begin{split}
+\sin(\alpha) &= \sin(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha\\
+\cos(\alpha) &= \cos(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha\\
+\tan(\alpha) &= \tan(\alpha + \textcolor{orange}{\tau}) \quad\forall \alpha
+\end{split}
+```
 
-  With τ being a full revolution, the following identities are very easy to
-  grasp (for integers _n_). Remember the sine is the projection of the angle
-  onto the _y_-axis, the cosine is the projection onto the _x_-axis.
+With τ being a full revolution, the following identities are very easy to
+grasp (for integers _n_). Remember the sine is the projection of the angle
+onto the _y_-axis, the cosine is the projection onto the _x_-axis.
 
-  ```math
-  \begin{alignat*}{3}
-    \sin(n \textcolor{orange}{\tau}) &= 0,          &\qquad \cos(n \textcolor{orange}{\tau}) &= 1,\\
-    \sin((n + 1/4) \textcolor{orange}{\tau}) &= 1,  &\qquad \cos((n + 1/4) \textcolor{orange}{\tau}) &= 0,\\
-    \sin((n + 1/2) \textcolor{orange}{\tau}) &= 0,  &\qquad \cos((n + 1/2) \textcolor{orange}{\tau}) &= -1,\\
-    \sin((n + 3/4) \textcolor{orange}{\tau}) &= -1, &\qquad \cos((n + 3/4) \textcolor{orange}{\tau}) &= 0
-  \end{alignat*}
-  ```
+```math
+\begin{alignat*}{3}
+  \sin(n \textcolor{orange}{\tau}) &= 0,          &\qquad \cos(n \textcolor{orange}{\tau}) &= 1,\\
+  \sin((n + 1/4) \textcolor{orange}{\tau}) &= 1,  &\qquad \cos((n + 1/4) \textcolor{orange}{\tau}) &= 0,\\
+  \sin((n + 1/2) \textcolor{orange}{\tau}) &= 0,  &\qquad \cos((n + 1/2) \textcolor{orange}{\tau}) &= -1,\\
+  \sin((n + 3/4) \textcolor{orange}{\tau}) &= -1, &\qquad \cos((n + 3/4) \textcolor{orange}{\tau}) &= 0
+\end{alignat*}
+```
 
-  <img src="plots/sin137.svg" align="right" width="30%"/>
+<img src="plots/sin137.svg" align="right" width="30%"/>
 
-  Trigonometric values off the grid can easily be estimated:
+Trigonometric values off the grid can easily be estimated:
 
-  <!--
-  GitHub doesn't understand inline and block math in one list item
-  <https://github.com/nschloe/github-math-bugs#inline-and-display-math-in-same-list-item-doesnt-render>.
-  -->
+<!--
+GitHub doesn't understand inline and block math in one list item
+<https://github.com/nschloe/github-math-bugs#inline-and-display-math-in-same-list-item-doesnt-render>.
+-->
 
-  - sin(27.4 π) – Where is my calculator?
-  - sin(13.7 τ) – 13 full revolutions: forget about those. Plus .7, that's
-    almost 3/4 of a revolution, so probably something close to −1. (Actual
-    value: −0.95105651629...)
+- sin(27.4 π) – Where is my calculator?
+- sin(13.7 τ) – 13 full revolutions: forget about those. Plus .7, that's
+  almost 3/4 of a revolution, so probably something close to −1. (Actual
+  value: −0.95105651629...)
 
-  <br clear="right"/>
+<br clear="right"/>
 
-- Area of the _n_-dimensional unit sphere
+##### Area of the _n_-dimensional unit sphere
 
-  ```math
-  |U_n|
-  = \frac{2\textcolor{teal}{\pi}^{n/2}}{\Gamma(n/2)}
+```math
+|U_n|
+= \frac{2\textcolor{teal}{\pi}^{n/2}}{\Gamma(n/2)}
+= \begin{cases}
+2 & \text{if } n = 1\\
+\textcolor{orange}{\tau} & \text{if } n = 2\\
+|U_{n-2}| \times \textcolor{orange}{\tau} / (n - 2) & \text{otherwise}
+\end{cases}
+```
+
+##### _n_-dimensional Gegenbauer integral over the unit ball <i>S<sub>n</sub></i>
+
+```math
+|G_n^{\lambda}|
+  = \int_{S^n} \left(1 - \sum_{i=1}^n x_i^2\right)^\lambda
   = \begin{cases}
+    1&\text{for $n=0$}\\
+    B\left(\lambda + 1, \frac{1}{2}\right)&\text{for $n=1$}\\
+    |G_{n-2}^{\lambda}|\times \textcolor{orange}{\tau} / (2\lambda + n) & \text{otherwise}
+  \end{cases}
+```
+
+Note that the [Beta function
+_B_](https://en.wikipedia.org/wiki/Beta_function), with one argument ½,
+includes a factor $`\sqrt{\pi}`$.
+
+Special cases:
+
+- Volume of the _n_-dimensional unit ball (_λ_=0):
+
+  ```math
+  |S_n|
+  = \begin{cases}
+  1 & \text{if } n = 0\\
   2 & \text{if } n = 1\\
-  \textcolor{orange}{\tau} & \text{if } n = 2\\
-  |U_{n-2}| \times \textcolor{orange}{\tau} / (n - 2) & \text{otherwise}
+  |S_{n-2}| \times \textcolor{orange}{\tau} / n & \text{otherwise}
   \end{cases}
   ```
 
-- _n_-dimensional Gegenbauer integral over the unit ball <i>S<sub>n</sub></i>:
+- The area of a disk (_λ_ = 0, _n_ = 2)
 
   ```math
-  |G_n^{\lambda}|
-    = \int_{S^n} \left(1 - \sum_{i=1}^n x_i^2\right)^\lambda
-    = \begin{cases}
+  |S_n(r)|
+  = \frac{\textcolor{orange}{\tau}}{2} r^2
+  = \textcolor{teal}{\pi} r^2
+  ```
+
+- _n_ = 1, _λ_ = −1/2
+
+  ```math
+  \int_{-1}^1 \frac{1}{\sqrt{1-x^2}} = \textcolor{teal}{\pi}
+  ```
+
+- _n_ = 1, _λ_ = 1/2
+
+  ```math
+  \int_{-1}^1 \sqrt{1-x^2} = \frac{\textcolor{teal}{\pi}}{2}
+  ```
+
+##### _n_-dimensional generalized Cauchy volume
+
+2 _λ_ > _n_.
+
+As appearing in its one-dimensional version in the [Cauchy
+distribution](https://en.wikipedia.org/wiki/Cauchy_distribution) and
+[Student's _t_
+distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution).
+
+```math
+\begin{align*}
+  |Y_n^{\lambda}|
+    &= \int_{\mathbb{R}^n} \left(1 + \sum_{i=1}^n x_i^2\right)^{-\lambda}\\
+    &= \begin{cases}
       1&\text{for $n=0$}\\
-      B\left(\lambda + 1, \frac{1}{2}\right)&\text{for $n=1$}\\
-      |G_{n-2}^{\lambda}|\times \textcolor{orange}{\tau} / (2\lambda + n) & \text{otherwise}
+      B\left(\lambda - \frac{1}{2}, \frac{1}{2}\right)&\text{for $n=1$}\\
+      |Y_{n-2}^{\lambda}|\times \textcolor{orange}{\tau} / (2\lambda - n) & \text{otherwise}
     \end{cases}
-  ```
+\end{align*}
+```
 
-  Note that the [Beta function
-  _B_](https://en.wikipedia.org/wiki/Beta_function), with one argument ½,
-  includes a factor $`\sqrt{\pi}`$.
+Note again that the [Beta function
+_B_](https://en.wikipedia.org/wiki/Beta_function), with one argument
+½, includes a factor `$\sqrt{\pi}$`. Specifically, for _n_ = 1
+and _λ_ = 1,
 
-  Special cases:
-
-  - Volume of the _n_-dimensional unit ball (_λ_=0):
-
-    ```math
-    |S_n|
-    = \begin{cases}
-    1 & \text{if } n = 0\\
-    2 & \text{if } n = 1\\
-    |S_{n-2}| \times \textcolor{orange}{\tau} / n & \text{otherwise}
-    \end{cases}
-    ```
-
-  - The area of a disk (_λ_ = 0, _n_ = 2)
-
-    ```math
-    |S_n(r)|
-    = \frac{\textcolor{orange}{\tau}}{2} r^2
-    = \textcolor{teal}{\pi} r^2
-    ```
-
-  - _n_ = 1, _λ_ = −1/2
-
-    ```math
-    \int_{-1}^1 \frac{1}{\sqrt{1-x^2}} = \textcolor{teal}{\pi}
-    ```
-
-  - _n_ = 1, _λ_ = 1/2
-
-    ```math
-    \int_{-1}^1 \sqrt{1-x^2} = \frac{\textcolor{teal}{\pi}}{2}
-    ```
-
-- _n_-dimensional generalized Cauchy volume
-
-  2 _λ_ > _n_.
-
-  As appearing in its one-dimensional version in the [Cauchy
-  distribution](https://en.wikipedia.org/wiki/Cauchy_distribution) and
-  [Student's _t_
-  distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution).
-
-  ```math
-  \begin{align*}
-    |Y_n^{\lambda}|
-      &= \int_{\mathbb{R}^n} \left(1 + \sum_{i=1}^n x_i^2\right)^{-\lambda}\\
-      &= \begin{cases}
-        1&\text{for $n=0$}\\
-        B\left(\lambda - \frac{1}{2}, \frac{1}{2}\right)&\text{for $n=1$}\\
-        |Y_{n-2}^{\lambda}|\times \textcolor{orange}{\tau} / (2\lambda - n) & \text{otherwise}
-      \end{cases}
-  \end{align*}
-  ```
-
-  Note again that the [Beta function
-  _B_](https://en.wikipedia.org/wiki/Beta_function), with one argument
-  ½, includes a factor `$\sqrt{\pi}$`. Specifically, for _n_ = 1
-  and _λ_ = 1,
-
-  ```math
-  |Y_1^1| = B(\tfrac{1}{2}, \tfrac{1}{2}) = \textcolor{teal}{\pi}.
-  ```
+```math
+|Y_1^1| = B(\tfrac{1}{2}, \tfrac{1}{2}) = \textcolor{teal}{\pi}.
+```
 
 <!--
 - Consider the integral
