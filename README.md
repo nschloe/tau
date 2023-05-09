@@ -555,11 +555,13 @@ and _λ_ = 1,
 #### [Cauchy's residue theorem](https://en.wikipedia.org/wiki/Residue_theorem)
 
 > Let _U_ be a simply connected open subset of the complex plane containing a
-> finite list of points `$a_1,\dots,a_n$`, `$U_0 = U \setminus \{a_1,\dots,a_n\}$`, and a function _f_ defined and holomorphic on
-> _U_<sub>0</sub>. Let _γ_ be a closed rectifiable curve in _U_<sub>0</sub>,
-> and denote the winding number of _γ_ around _a<sub>k</sub>_ by `$I(\gamma, a_k)$`. The line integral of _f_ around _γ_ is equal to
-> `$\textcolor{orange}{\tau} i$` times the sum of residues of _f_ at the
-> points, each counted as many times as _γ_ winds around the point:
+> finite list of points $`a_1,\dots,a_n`$, $`U_0 = U \setminus
+> \{a_1,\dots,a_n\}`$, and a function _f_ defined and holomorphic on $`U_0`$.
+> Let _γ_ be a closed rectifiable curve in $`U_0`$, and denote the winding
+> number of $`\gamma`$ around $`a_k`$ by $`I(\gamma, a_k)`$. The line integral
+> of _f_ around _γ_ is equal to `$\textcolor{orange}{\tau} i$` times the sum of
+> residues of _f_ at the points, each counted as many times as _γ_ winds around
+> the point:
 >
 > ```math
 > \oint_\gamma f(z)\,\mathrm{d}z = \textcolor{orange}{\tau} i \sum_{k=1}^n I(\gamma,a_k) \mathrm{Res}(f,a_k)
@@ -651,47 +653,46 @@ n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
   \zeta(2) = \sum_{k=1}^{\infty} \frac{1}{k^2} = \frac{\textcolor{teal}{\pi}^2}{6} = \frac{\textcolor{orange}{\tau}^2}{24}
   ```
 
-- [Weyl law](https://en.wikipedia.org/wiki/Weyl_law):
+#### [Weyl law](https://en.wikipedia.org/wiki/Weyl_law)
 
-  ```math
-  \lim_{\lambda\to\infty} \frac{N(\lambda)}{\lambda^{d/2}}
-  = \textcolor{orange}{\tau}^{-d}\omega_d \operatorname{vol}(\Omega)
-  ```
+```math
+\lim_{\lambda\to\infty} \frac{N(\lambda)}{\lambda^{d/2}}
+= \textcolor{orange}{\tau}^{-d}\omega_d \operatorname{vol}(\Omega)
+```
 
-- [Error function](https://en.wikipedia.org/wiki/Error_function)
+#### [Error function](https://en.wikipedia.org/wiki/Error_function)
 
-  ```math
-  \operatorname{erf}(z) = \frac{2}{\sqrt{\textcolor{teal}{\pi}}} \int_0^z \exp(-t^2)\, dt.
-  ```
+```math
+\operatorname{erf}(z) = \frac{2}{\sqrt{\textcolor{teal}{\pi}}} \int_0^z \exp(-t^2)\, dt.
+```
 
-  In statistics, for non-negative values of _x_, the error function has the
-  following interpretation: for a random variable _Y_ that is normally
-  distributed with mean 0 and standard deviation $`1/\sqrt{2}`$, erf(_x_) is
-  the probability that _Y_ falls in the range [−<i>x</i>, _x_].
+In statistics, for non-negative values of _x_, the error function has the
+following interpretation: for a random variable _Y_ that is normally
+distributed with mean 0 and standard deviation $`1/\sqrt{2}`$, erf(_x_) is
+the probability that _Y_ falls in the range [−<i>x</i>, _x_].
 
-  The same property with standard deviation 1 is fulfilled by
+The same property with standard deviation 1 is fulfilled by
 
-  ```math
-  \operatorname{erf}_1(z) = \frac{2}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\, dt.
-  ```
+```math
+\operatorname{erf}_1(z) = \frac{2}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\, dt.
+```
 
-- Consider the [sinc](https://en.wikipedia.org/wiki/Sinc_function) function and
-  its power integrals
+#### The [sinc](https://en.wikipedia.org/wiki/Sinc_function) function and its power integrals
 
-  ```math
-  \int_{-\infty}^{\infty} \frac{\sin^n(x)}{x^n}\,dx
-  = \frac{n \textcolor{orange}{\tau}}{2^n}\sum_{k=0}^{\lfloor n/2 \rfloor} \frac{(-1)^k (n-2k)^{n-1}}{k!(n-k)!}
-  ```
+```math
+\int_{-\infty}^{\infty} \frac{\sin^n(x)}{x^n}\,dx
+= \frac{n \textcolor{orange}{\tau}}{2^n}\sum_{k=0}^{\lfloor n/2 \rfloor} \frac{(-1)^k (n-2k)^{n-1}}{k!(n-k)!}
+```
 
-  for all _n_ ∈ ℕ. Specifically,
+for all $`n\in\mathbb{N}`$. Specifically,
 
-  ```math
-  \int_{-\infty}^{\infty} \frac{\sin(x)}{x}\,dx
-  = \int_{-\infty}^{\infty} \frac{\sin^2(x)}{x^2}\,dx
-  = \frac{\textcolor{orange}{\tau}}{2} = \textcolor{teal}{\pi}.
-  ```
+```math
+\int_{-\infty}^{\infty} \frac{\sin(x)}{x}\,dx
+= \int_{-\infty}^{\infty} \frac{\sin^2(x)}{x^2}\,dx
+= \frac{\textcolor{orange}{\tau}}{2} = \textcolor{teal}{\pi}.
+```
 
-- Physics
+#### Physics
 
   - Cosmological constant:
     ```math
