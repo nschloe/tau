@@ -329,7 +329,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 
 ### Some equations
 
-- Trigonometrics
+- Trigonometry
 
   ```math
   \begin{split}
@@ -357,15 +357,14 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
   Trigonometric values off the grid can easily be estimated:
 
   <!--
-  GitHub doesn't understand inline and block math in one list item <>.
-  TODO insert link.
-  Keep it as xhub "code" for now.
+  GitHub doesn't understand inline and block math in one list item
+  <https://github.com/nschloe/github-math-bugs#inline-and-display-math-in-same-list-item-doesnt-render>.
   -->
 
-  - $`\sin(27.4 \textcolor{teal}{\pi})`$ – Where is my calculator?
-  - $`\sin(13.7 \textcolor{orange}{\tau})`$ – 13 full revolutions: forget about
-    those. Plus .7, that's almost 3/4 of a revolution, so probably something
-    close to −1. (Actual value: −0.95105651629...)
+  - sin(27.4 π) – Where is my calculator?
+  - sin(13.7 τ) – 13 full revolutions: forget about those. Plus .7, that's
+    almost 3/4 of a revolution, so probably something close to −1. (Actual
+    value: −0.95105651629...)
 
   <br clear="right"/>
 
