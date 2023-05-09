@@ -1,8 +1,6 @@
 <div align="center">
-<p align="center">
   <a href="https://github.com/nschloe/tau"><img alt="tau" src="https://nschloe.github.io/tau/tau.svg" width="15%"></a>
   <p align="center">The better π</p>
-</p>
 </div>
 
 > Beauty is the first test: there is no permanent place in this world for ugly
@@ -208,6 +206,9 @@ Articles _against_ τ:
 ### In pop culture
 
 - [xkcd, _Pi vs. Tau_](https://xkcd.com/1292/)
+  <div align="center">
+    <img src="pictures/pi_vs_tau.png" width="50%">
+  </div>
 - [xkcd, _Symbols_](https://xkcd.com/2520/)
 - [SMBC, _Proposed Number Improvements_](https://www.smbc-comics.com/comic/numbers-3)
 - [SMBC, _Pi-Tau conversion constant_](https://www.smbc-comics.com/comic/2013-10-04)
@@ -239,8 +240,6 @@ Articles _against_ τ:
 
   This translates to approximately 14 decimal digits.
 
-  <br clear="right"/>
-
   His calculations are performed in sexagesimal (base 60) digits. In section 8,
   _Transformation of the value of the circumference into the Indian digits
   under the condition that half of the diameter be one_, he gives the result in
@@ -265,6 +264,8 @@ Articles _against_ τ:
   > Six and two eight and three one eight and five and three, a zero with seven
   > and one [seven] and nine five and eight and six five is [it].
 
+  <br clear="right"/>
+
   Further reading:
 
   - [P. Luckey, _Der Lehrbrief über den Kreisumfang_ von _Ǧamšīd b. Mas‛ūd
@@ -287,8 +288,6 @@ Articles _against_ τ:
   > _Clavis Mathematicae_. Barrow likewise used "$`\frac{\pi}{\delta}`$" to
   > represent the constant 3.14..., **while Gregory instead used
   > "$`\frac{\pi}{\rho}`$" to represent 6.28...**
-  >
-  > <br clear="right"/>
   >
   > The earliest known use of the Greek letter π alone to represent the ratio
   > of a circle's circumference to its diameter was by Welsh mathematician
