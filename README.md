@@ -599,8 +599,10 @@ n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
 
 - Positive half-integers:
 
-  $`\Gamma(\tfrac{1}{2}) = \sqrt{\textcolor{teal}{\pi}}`$, so all
-  half-integer values of Γ contain that factor (recall Γ(_z_+1) = _z_ Γ(_z_)):
+  <!--Again, can't use inline math here.-->
+
+  Γ(½) = √π, so all half-integer values of Γ contain that factor (recall
+  Γ(_z_+1) = _z_ Γ(_z_)):
 
   ```math
   \Gamma(n + \tfrac{1}{2})
