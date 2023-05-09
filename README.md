@@ -221,7 +221,9 @@ Articles _against_ τ:
 
 ### Historical uses
 
-- (All quotes are translated from the German translation by P. Luckey, 1950.)
+- <img src="pictures/stamp-al-kashi.jpg" align="right" width="200px"/>
+
+  (All quotes are translated from the German translation by P. Luckey, 1950.)
 
   While Archimedes was able to bound the ratio of a circle circumference and
   diameter between 223/71 (≈ 3.1408) and 22/7 (≈ 3.1428), [Jamshid al-Kashi
@@ -236,6 +238,8 @@ Articles _against_ τ:
   > which is smaller than that doesn't matter.
 
   This translates to approximately 14 decimal digits.
+
+  <br clear="right"/>
 
   His calculations are performed in sexagesimal (base 60) digits. In section 8,
   _Transformation of the value of the circumference into the Indian digits
@@ -272,6 +276,8 @@ Articles _against_ τ:
 - The section _Adoption of the symbol π_ of the excellent Wikipedia article
   [Pi](https://en.wikipedia.org/wiki/Pi#Adoption_of_the_symbol_%CF%80) says:
 
+  > <img src="pictures/david-gregory.jpg" align="right" width="200px"/>
+  >
   > In the earliest usages, the Greek letter π was used to denote the
   > semiperimeter (_semiperipheria_ in Latin) of a circle and was combined in
   > ratios with δ (for diameter or semidiameter) or ρ (for radius) to form
@@ -281,6 +287,8 @@ Articles _against_ τ:
   > _Clavis Mathematicae_. Barrow likewise used "$`\frac{\pi}{\delta}`$" to
   > represent the constant 3.14..., **while Gregory instead used
   > "$`\frac{\pi}{\rho}`$" to represent 6.28...**
+  >
+  > <br clear="right"/>
   >
   > The earliest known use of the Greek letter π alone to represent the ratio
   > of a circle's circumference to its diameter was by Welsh mathematician
@@ -293,6 +301,8 @@ Articles _against_ τ:
   > immediately adopted by other mathematicians, with the fraction notation
   > still being used as late as 1767.
   >
+  > <img src="pictures/euler.jpg" align="right" width="200px"/>
+  >
   > Euler started using the single-letter form beginning with his 1727 Essay
   > _Explaining the Properties of Air_, **though he used π = 6.28..., the ratio
   > of periphery to radius, in this and some later writing.** Euler first used
@@ -304,6 +314,8 @@ Articles _against_ τ:
   > rapidly, and the practice was universally adopted thereafter in the Western
   > world, **though the definition still varied between 3.14... and 6.28... as
   > late as 1761.**
+  >
+  > <br clear="right"/>
 
 ### In programming
 
@@ -758,7 +770,9 @@ for all $`n\in\mathbb{N}`$. Specifically,
 
 ### Quotes
 
-- [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao) (2007,
+- <img src="pictures/tao.jpg" align="right" width="200px"/>
+
+  [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao) (2007,
   [here](http://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html?showComment=1186584000000#c971095637512882599)):
 
   > It may be that 2πi is an even more fundamental constant than 2π or π. It
@@ -766,7 +780,11 @@ for all $`n\in\mathbb{N}`$. Specifically,
   > involving π<sup><i>n</i></sup> depend on the parity of _n_ is another
   > clue in this regard.
 
-- [John Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) (2008, from
+  <br clear="right"/>
+
+- <img src="pictures/conway.jpg" align="right" width="200px"/>
+
+  [John Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) (2008, from
   [Constant
   Failure](http://www.math.utah.edu/~palais/ConstantFailure-32679.html) by
   Robert P Crease):
@@ -779,7 +797,11 @@ for all $`n\in\mathbb{N}`$. Specifically,
   > arguments, which he did not find persuasive, for a third option, π/2.
   > [...]
 
-- [Arthur Benjamin](https://en.wikipedia.org/wiki/Arthur_T._Benjamin) (2013, [Twitter
+  <br clear="right"/>
+
+- <img src="pictures/benjamin.jpg" align="right" width="200px"/>
+
+  [Arthur Benjamin](https://en.wikipedia.org/wiki/Arthur_T._Benjamin) (2013, [Twitter
   Q&A](http://laughmaths.blogspot.com/2013/07/arthur-benjamin-man-maths-magician-part_15.html)):
 
   > I’m a big tau lover. I agree with the statement that if we could go back in
@@ -787,6 +809,8 @@ for all $`n\in\mathbb{N}`$. Specifically,
   > formulas. Obviously, it will be very hard to change people’s perceptions in
   > order to use tau, but maybe in mathematics there is enough of a will to do such
   > a thing. I’ve seen books now that proudly claim “tau certified”.
+
+  <br clear="right"/>
 
 ### Related texts
 
