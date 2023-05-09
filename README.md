@@ -423,7 +423,7 @@ includes a factor $`\sqrt{\pi}`$.
 
 Special cases:
 
-- Volume of the _n_-dimensional unit ball (_λ_=0):
+- Volume of the _n_-dimensional unit ball (_λ_ = 0):
 
   ```math
   |S_n|
@@ -434,7 +434,7 @@ Special cases:
   \end{cases}
   ```
 
-- The area of a disk (_λ_ = 0, _n_ = 2)
+- The area of a disk (_λ_ = 0, _n_ = 2)
 
   ```math
   |S_n(r)|
@@ -442,13 +442,13 @@ Special cases:
   = \textcolor{teal}{\pi} r^2
   ```
 
-- _n_ = 1, _λ_ = −1/2
+- _n_ = 1, _λ_ = −1/2
 
   ```math
   \int_{-1}^1 \frac{1}{\sqrt{1-x^2}} = \textcolor{teal}{\pi}
   ```
 
-- _n_ = 1, _λ_ = 1/2
+- _n_ = 1, _λ_ = 1/2
 
   ```math
   \int_{-1}^1 \sqrt{1-x^2} = \frac{\textcolor{teal}{\pi}}{2}
@@ -597,7 +597,7 @@ f(x)         &= \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\textcolor{orange}{\t
 \end{align*}
 ```
 
-#### [<emph>n</emph>th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
+#### [*n*th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
 
 ```math
 z^n = 1 \quad\Rightarrow\quad z = \exp(i\textcolor{orange}{\tau} k / n) \quad\forall k=0,\dots,n-1
