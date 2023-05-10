@@ -442,19 +442,25 @@ Special cases:
   = \textcolor{teal}{\pi} r^2
   ```
 
-- _n_ = 1, _λ_ = −1/2
+- <img src="plots/chebyshev1.svg" align="right" width="30%"/>
+  _n_ = 1, _λ_ = −1/2
 
   ```math
   \int_{-1}^1 \frac{1}{\sqrt{1-x^2}} = \textcolor{teal}{\pi}
   ```
+  <br clear="right"/>
 
-- _n_ = 1, _λ_ = 1/2
+- <img src="plots/chebyshev2.svg" align="right" width="30%"/>
+  _n_ = 1, _λ_ = 1/2
 
   ```math
   \int_{-1}^1 \sqrt{1-x^2} = \frac{\textcolor{teal}{\pi}}{2}
   ```
+  <br clear="right"/>
 
 #### _n_-dimensional generalized Cauchy volume (2*λ* > _n_)
+
+<img src="plots/cauchy.svg" align="right" width="30%"/>
 
 As appearing in its one-dimensional version in the [Cauchy
 distribution](https://en.wikipedia.org/wiki/Cauchy_distribution) and
@@ -481,6 +487,7 @@ and _λ_ = 1,
 ```math
 |Y_1^1| = B(\tfrac{1}{2}, \tfrac{1}{2}) = \textcolor{teal}{\pi}.
 ```
+<br clear="right"/>
 
 <!--
 - Consider the integral
