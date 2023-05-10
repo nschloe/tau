@@ -690,11 +690,10 @@ for $`n\in\mathbb{N}`$, e.g.,
 ```
 
 In statistics, for non-negative values of _x_, the error function has the
-following interpretation: for a random variable _Y_ that is normally
-distributed with mean 0 and standard deviation $`1/\sqrt{2}`$, erf(_x_) is
-the probability that _Y_ falls in the range [−<i>x</i>, _x_].
-
-The same property with standard deviation 1 is fulfilled by
+following interpretation: For a random variable _Y_ that is normally
+distributed with mean 0 and standard deviation $`1/\sqrt{2}`$, erf(_x_) is the
+probability that _Y_ falls in the range [−<i>x</i>, _x_]. The same property
+with standard deviation 1 is fulfilled by
 
 ```math
 \mathrm{erf}_1(z)
