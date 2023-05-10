@@ -17,7 +17,6 @@ when π occurs in nature, it occurs as 2π most of the time. He suggests that
 should be used instead of π. Some found his arguments convincing, including
 [Michael Hartl](https://www.michaelhartl.com/). In 2010, Hartl published [The
 Tau Manifesto](https://tauday.com/tau-manifesto), and the τ movement was born.
-
 <br clear="right"/>
 
 ### Scientific articles and blog posts
@@ -269,7 +268,6 @@ Articles _against_ τ:
   >
   > Six and two eight and three one eight and five and three, a zero with seven
   > and one [seven] and nine five and eight and six five is [it].
-
   <br clear="right"/>
 
   Further reading:
@@ -319,7 +317,6 @@ Articles _against_ τ:
   > rapidly, and the practice was universally adopted thereafter in the Western
   > world, **though the definition still varied between 3.14... and 6.28... as
   > late as 1761.**
-  >
   > <br clear="right"/>
 
 ### In programming
@@ -390,7 +387,6 @@ GitHub doesn't understand inline and block math in one list item
 - sin(13.7 τ) – 13 full revolutions: forget about those. Plus .7, that's
   almost 3/4 of a revolution, so probably something close to −1. (Actual
   value: −0.95105651629...)
-
 <br clear="right"/>
 
 #### Surface area of the _n_-dimensional unit sphere
@@ -534,6 +530,8 @@ and _λ_ = 1,
 
 #### _n_-dimensional generalized Laguerre volume
 
+<img src="plots/laguerre.svg" align="right" width="30%"/>
+
 ```math
 \begin{align*}
   V_n
@@ -545,8 +543,11 @@ and _λ_ = 1,
   \end{cases}
 \end{align*}
 ```
+<br clear="right"/>
 
 #### [The Gaussian integral](https://en.wikipedia.org/wiki/Gaussian_integral)
+
+<img src="plots/gaussian.svg" align="right" width="30%"/>
 
 Compare
 
@@ -562,6 +563,7 @@ distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 ```math
 \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\textcolor{orange}{\tau}}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) \,dx= 1
 ```
+<br clear="right"/>
 
 #### [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
 
@@ -619,11 +621,16 @@ z^n = 1 \quad\Rightarrow\quad z = \exp(i\textcolor{orange}{\tau} k / n) \quad\fo
 
 #### [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
 
+<img src="plots/stirling.svg" align="right" width="30%"/>
+
 ```math
 n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
 ```
+<br clear="right"/>
 
 #### [Particular values of the Gamma function](https://en.wikipedia.org/wiki/Particular_values_of_the_gamma_function)
+
+<img src="plots/gamma.svg" align="right" width="30%"/>
 
 - Positive half-integers:
 
@@ -670,6 +677,7 @@ n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
   = \frac{\textcolor{teal}{\pi}}{\sin(\textcolor{teal}{\pi} z)}
   ```
   <!-- = \frac{\textcolor{orange}{tau}}{crd(\textcolor{orange}{\tau} z)} -->
+<br clear="right"/>
 
 #### [Particular values of the Riemann zeta function](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
 
@@ -692,6 +700,8 @@ for $`n\in\mathbb{N}`$, e.g.,
 
 #### [Error function](https://en.wikipedia.org/wiki/Error_function)
 
+<img src="plots/erf.svg" align="right" width="30%"/>
+
 ```math
 \mathrm{erf}(z) = \frac{2}{\sqrt{\textcolor{teal}{\pi}}} \int_0^z \exp(-t^2)\, dt.
 ```
@@ -707,8 +717,11 @@ with standard deviation 1 is fulfilled by
 = \mathrm{erf}(z / \sqrt{2})
 = \frac{2}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\, dt.
 ```
+<br clear="right"/>
 
 #### The [sinc function](https://en.wikipedia.org/wiki/Sinc_function) and its power integrals
+
+<img src="plots/sinc.svg" align="right" width="30%"/>
 
 ```math
 \int_{-\infty}^{\infty} \frac{\sin^n(x)}{x^n}\,dx
@@ -722,6 +735,7 @@ for all $`n\in\mathbb{N}`$. Specifically,
 = \int_{-\infty}^{\infty} \frac{\sin^2(x)}{x^2}\,dx
 = \frac{\textcolor{orange}{\tau}}{2} = \textcolor{teal}{\pi}.
 ```
+<br clear="right"/>
 
 #### Physics
 
