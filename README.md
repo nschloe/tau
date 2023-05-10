@@ -697,7 +697,9 @@ the probability that _Y_ falls in the range [−<i>x</i>, _x_].
 The same property with standard deviation 1 is fulfilled by
 
 ```math
-\mathrm{erf}_1(z) = \frac{2}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\, dt.
+\mathrm{erf}_1(z)
+= \mathrm{erf}(z / \sqrt{2})
+= \frac{2}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\, dt.
 ```
 
 #### The [sinc function](https://en.wikipedia.org/wiki/Sinc_function) and its power integrals
