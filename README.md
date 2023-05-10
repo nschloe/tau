@@ -206,7 +206,7 @@ Articles _against_ τ:
 
 - [xkcd, _Pi vs. Tau_](https://xkcd.com/1292/)
   <div align="center">
-    <img src="pictures/pi_vs_tau.png" width="30%">
+    <img src="pictures/pi_vs_tau.png" width="50%"/>
   </div>
 - [xkcd, _Symbols_](https://xkcd.com/2520/)
 - [SMBC, _Proposed Number Improvements_](https://www.smbc-comics.com/comic/numbers-3)
@@ -214,7 +214,7 @@ Articles _against_ τ:
 - [SMBC, _Social_](https://www.smbc-comics.com/comic/social)
 - [SMBC, _Better than pi_](https://www.smbc-comics.com/comic/better-than-pi)
   <div align="center">
-    <img src="pictures/megapi.png" width="30%">
+    <img src="pictures/megapi.png" width="50%"/>
   </div>
 - [Crooked Stave Artisan Beer Project, _Key Lime Tau (2π)_](https://untappd.com/b/crooked-stave-artisan-beer-project-key-lime-tau-2p/1343706)
 - [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day)
@@ -222,7 +222,7 @@ Articles _against_ τ:
 - [Vitalik Buterin, _I'm boycotting pi day because tau day is better_, Twitter, 2020](https://twitter.com/vitalikbuterin/status/1238971048948830210)
 - [Elon Musk, _tau > pi_, Twitter, 2022](https://twitter.com/elonmusk/status/1496066844284928003)
   <div align="center">
-    <img src="pictures/musk.png" width="30%">
+    <img src="pictures/musk.png" width="50%"/>
   </div>
 
 ### Historical uses
