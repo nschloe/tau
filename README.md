@@ -844,6 +844,17 @@ for all $`n\in\mathbb{N}`$. Specifically,
 
   <br clear="right"/>
 
+- <img src="pictures/baez.jpg" align="right" width="200px"/>
+
+  [John Baez](https://en.wikipedia.org/wiki/John_C._Baez) (2022, from [12
+  numbers that are cooler than
+  pi](https://www.livescience.com/64987-numbers-as-cool-as-pi.html)):
+
+  > Using τ makes every formula clearer and more logical than using π. Our
+  > focus on π rather than 2π is a historical accident.
+
+  <br clear="right"/>
+
 ### Related texts
 
 - [Peter Luschny, The Bernoulli Manifesto, 2013](https://luschny.de/math/zeta/The-Bernoulli-Manifesto.html)
