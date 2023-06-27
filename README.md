@@ -439,6 +439,7 @@ Special cases:
   ```
 
 - <img src="plots/chebyshev1.svg" align="right" width="30%"/>
+
   *n* = 1, *λ* = −1/2
 
   ```math
@@ -447,6 +448,7 @@ Special cases:
   <br clear="right"/>
 
 - <img src="plots/chebyshev2.svg" align="right" width="30%"/>
+
   *n* = 1, *λ* = 1/2
 
   ```math
