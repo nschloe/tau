@@ -152,8 +152,11 @@ Articles _against_ τ:
 - 2022:
 
   - [Andrea Zhao, The Varsity, _Tau versus pi: the unresolved battle_, 2022](https://thevarsity.ca/2022/06/28/tau-day-two-pi-mathematics/)
-  - [Live Science, _11 numbers that are cooler than pi_](https://www.livescience.com/64987-numbers-as-cool-as-pi.html)
   - [Mary Bilyeu, _Double both pi and pie on Tau Day_, 2022](https://www.toledoblade.com/a-e/food/2022/06/26/june-28-tau-pie-day/stories/20220626002)
+
+- 2023:
+
+  - [Live Science, _12 numbers that are cooler than pi_](https://www.livescience.com/64987-numbers-as-cool-as-pi.html)
 
 </details>
 
