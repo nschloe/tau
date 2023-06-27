@@ -439,7 +439,7 @@ Special cases:
   ```
 
 - <img src="plots/chebyshev1.svg" align="right" width="30%"/>
-  _n_ = 1, _λ_ = −1/2
+  *n* = 1, *λ* = −1/2
 
   ```math
   \int_{-1}^1 \frac{1}{\sqrt{1-x^2}} = \textcolor{teal}{\pi}
@@ -447,7 +447,7 @@ Special cases:
   <br clear="right"/>
 
 - <img src="plots/chebyshev2.svg" align="right" width="30%"/>
-  _n_ = 1, _λ_ = 1/2
+  *n* = 1, *λ* = 1/2
 
   ```math
   \int_{-1}^1 \sqrt{1-x^2} = \frac{\textcolor{teal}{\pi}}{2}
