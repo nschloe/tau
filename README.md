@@ -165,7 +165,8 @@ Articles _against_ τ:
 - [Stanley M. Max, _Radian Measurement: What It Is, and How to Calculate It More Easily Using τ Instead of π_, 2011](http://www.metricphilatelist.net/TowsonU/course_material/tau/radian_measurement.pdf)
 - [O.V. Vijimon, _A circle without "π"_, 2017](https://osf.io/stwxf/)
 - [Lulzim Gjyrgjialli, _Circle constant is a turn_, 2018](https://www.itisaturn.com/assets/docs/itisaturn.pdf)
-- <a href="https://en.wikipedia.org/wiki/Turn(angle)#Tau_proposals">Wikipedia,
+- <a
+  href="https://en.wikipedia.org/wiki/Turn_(angle)#Proposals_for_a_single_letter_to_represent_2%CF%80">Wikipedia,
   <emph>Proposals for a single letter to represent 2π</emph></a>
 
 - [Mathematics Educators StackExchange: _Pi or Tau? How should the circle
