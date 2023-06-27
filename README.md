@@ -53,7 +53,7 @@ Articles _against_ τ:
 
 - 2007:
 
-  - [Bill Gasarch, _Is Pi defined in the best way?_, 2007](http://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html)
+  - [Bill Gasarch, _Is Pi defined in the best way?_, 2007](https://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html)
 
 - 2008:
 
@@ -78,7 +78,7 @@ Articles _against_ τ:
   - [Evann Gastaldo, Newser, _Forget Pi, Here Comes Tau_, 2011](https://www.newser.com/story/122114/forget-pi-here-comes-tau.html)
   - [Daniel Tovrov, International Business Times, _Happy Tau Day!_, 2011](https://www.ibtimes.com/happy-tau-day-294421)
   - [Nancy Haught, The Oregonian, _Tau Day today: Mathematicians show their work_, 2011](https://www.oregonlive.com/living/2011/06/post_14.html)
-  - [Nancy Haxton, ABC Australia, _Push to roll Pi_, 2011](https://www.abc.net.au/pm/content/2011/s3255854.htm?site=melbourne)
+  - [Nance Haxton, ABC Australia, _Push to roll Pi_, 2011](https://www.abc.net.au/radio/programs/pm/push-to-roll-pi/2775348)
   - [The McGill Daily, _Pi is wrong_, 2011](https://www.mcgilldaily.com/2011/10/pi-is-wrong/)
   - [Anqi Shen, phys.org, _Math wars: Debate sparks anti-pi day_, 2011](https://phys.org/news/2011-06-math-wars-debate-anti-pi-day.html)
   - [The Telegraph Online, _Life of pi in no danger - Experts cold-shoulder campaign to replace with tau_, 2011](https://www.telegraphindia.com/india/life-of-pi-in-no-danger-experts-cold-shoulder-campaign-to-replace-with-tau/cid/380029)
@@ -160,9 +160,9 @@ Articles _against_ τ:
 ### Other articles
 
 - [Stanley M. Max, _Radian Measurement: What It Is, and How to Calculate It More Easily Using τ Instead of π_, 2011](http://www.metricphilatelist.net/TowsonU/course_material/tau/radian_measurement.pdf)
-- [O.V. Vijimon, _A circle without "π"_, 2017](https://osf.io/stwxf)
+- [O.V. Vijimon, _A circle without "π"_, 2017](https://osf.io/stwxf/)
 - [Lulzim Gjyrgjialli, _Circle constant is a turn_, 2018](https://www.itisaturn.com/assets/docs/itisaturn.pdf)
-- <a href="https://en.wikipedia.org/wiki/Turn_(angle)#Tau_proposals">Wikipedia,
+- <a href="https://en.wikipedia.org/wiki/Turn(angle)#Tau_proposals">Wikipedia,
   <emph>Proposals for a single letter to represent 2π</emph></a>
 
 - [Mathematics Educators StackExchange: _Pi or Tau? How should the circle
@@ -327,12 +327,12 @@ Articles _against_ τ:
 - [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/) `math.tau`
 - [CSS (2018)](https://www.w3.org/TR/2018/WD-css-values-4-20180814/#angles) `turn`
 - [OpenFOAM](https://www.openfoam.com/documentation/guides/latest/api/namespaceFoam_1_1constant_1_1mathematical.html#ad9e5ddf5862462196c9159f5d761e93a) `twoPi`
-- [Extreme Optimization Numerical Libraries for .NET](https://www.extremeoptimization.com/Documentation/Reference/Extreme.Mathematics.Constants.TwoPi.aspx) `Constants.TwoPi`
+- [Extreme Optimization Numerical Libraries for .NET](https://www.extremeoptimization.com/Documentation/Reference/Extreme.Mathematics.Constants.TwoPi) `Constants.TwoPi`
 - [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703) `Tau`
 - [Zig, since 0.6.0 (2019)](https://github.com/ziglang/zig/pull/3716) `tau`
 - [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html) `std::f64::consts::TAU`
 - [.NET, C#, since 5.0 (2020)](https://github.com/dotnet/runtime/pull/37517) `Tau`
-  <!--https://docs.microsoft.com/en-us/dotnet/api/system.math.tau -->
+  <!--https://learn.microsoft.com/en-us/dotnet/api/system.math.tau?view=net-7.0 -->
 - [Boost, since 1.77.0 (2021)](https://github.com/boostorg/math/pull/566) `tau`
 - [Godot game engine, since 3.3.3 (2021)](https://github.com/godotengine/godot/pull/48837) `TAU`
 - [Crystal, since 0.36.0 (2021)](https://github.com/crystal-lang/crystal/pull/10179) `Math::TAU`
@@ -800,7 +800,7 @@ for all $`n\in\mathbb{N}`$. Specifically,
 - <img src="pictures/tao.jpg" align="right" width="200px"/>
 
   [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao) (2007,
-  [here](http://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html?showComment=1186584000000#c971095637512882599)):
+  [here](https://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html?showComment=1186584000000#c971095637512882599)):
 
   > It may be that 2πi is an even more fundamental constant than 2π or π. It
   > is, after all, the generator of log(1). The fact that so many formulae
