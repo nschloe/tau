@@ -200,11 +200,13 @@ Articles _against_ τ:
 - [Mathstreet Boys, _Larger Than Pi (Tau Day Parody) | Larger Than Life_, 2020](https://www.youtube.com/watch?v=bUmiWUfMrvk)
 - [Khan Academy, _Tau versus pi_, 2021](https://youtu.be/1jDDfkKKgmc)
 - [EasyMemory, _Writing 1,000 decimals of Tau (2x Pi) from memory_, 2021](https://youtu.be/x41_CRWpgLc)
+- [sudgylacmoe, _The Tau Manifesto - With Michael Hartl_, 2023](https://youtu.be/kMtgV18Iew8)
 
 ### Textbooks
 
 - [Phil A. Smith, _Trigonometry With Tau as Circle Constant_, 2015](https://taufortrig.org/docs/trigbook.pdf)
 - [Phil A. Smith, _College Trigonometry With Extensive Use of the Tau Transcendental_, 2015](https://taufortrig.org/docs/AlgTrigBookprint.pdf)
+- [Michael Hartl, _Learn enough Python to be dangerous_, 2023](https://www.learnenough.com/python)
 
 ### In pop culture
 
@@ -341,6 +343,8 @@ Articles _against_ τ:
 - [Godot game engine, since 3.3.3 (2021)](https://github.com/godotengine/godot/pull/48837) `TAU`
 - [Crystal, since 0.36.0 (2021)](https://github.com/crystal-lang/crystal/pull/10179) `Math::TAU`
 - [Java, OpenJDK, since 19 (2022)](https://github.com/openjdk/jdk/pull/7813) `Math.TAU`
+- [JSCAD, since 2.6.3 (2022)](https://github.com/jscad/OpenJSCAD.org/pull/1128) `TAU`
+- [Liberty Eiffel, upcoming (202x)](https://wiki.liberty-eiffel.org/index.php/Versions_history#Curtiss_(2022.dev,_to_be_named_after_Glenn_Curtiss)) `Tau`
 
 Inclusion of a constant `tau` was _rejected_ by the following projects:
 
