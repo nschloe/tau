@@ -156,7 +156,8 @@ Articles _against_ τ:
 
 - 2023:
 
-  - [Live Science, _12 numbers that are cooler than pi_](https://www.livescience.com/64987-numbers-as-cool-as-pi.html)
+  - [Live Science, _12 numbers that are cooler than pi_, 2023](https://www.livescience.com/64987-numbers-as-cool-as-pi.html)
+  - [Mathnasium, _Tau: A better constant than Pi?_, 2023](https://www.mathnasium.com/blog/tau-constant-better-pi)
 
 </details>
 
