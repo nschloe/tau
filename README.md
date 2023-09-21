@@ -142,6 +142,7 @@ Articles _against_ τ:
 - 2020:
 
   - [Robert McMillan, The Wall Street Journal, _For Math Fans, Nothing Can Spoil Pi Day—Except Maybe Tau Day_, 2020](https://www.wsj.com/articles/for-math-fans-nothing-can-spoil-pi-dayexcept-maybe-tau-day-11584123031)
+  - [Abinash Das, cosmisconundrum, _Tau vs Pi: The Quest to Become the Ultimate Constant._, 2020](https://cosmicconundrum.org/the-struggle-for-being-the-ultimate-constant-tau-vs-pi/)
 
 - 2021:
 
