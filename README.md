@@ -73,13 +73,13 @@ Articles _against_ τ:
   - [Natalie Wolchover, Live Science, _Mathematicians Want to Say Goodbye to Pi_, 2011](https://www.livescience.com/14836-pi-wrong-tau.html)
   - [Drew Grant, Salon, _Pi Day threatened by tau protestors_, 2011](https://www.salon.com/2011/03/14/national_pi_day_viral_videos/)
   - [Murray Bourne, Interactive Mathematics, _Let’s drop pi_, 2011](https://www.intmath.com/blog/mathematics/lets-drop-pi-5665)
-  - [Debra Black, Toronto Star, _Down with ugly pi, long live elegant Tau, physicist urges_, 2011](https://www.thestar.com/news/world/2011/06/28/down_with_ugly_pi_long_live_elegant_tau_physicist_urges.html)
+  - [Debra Black, Toronto Star, _Down with ugly pi, long live elegant Tau, physicist urges_, 2011](https://www.thestar.com/news/world/down-with-ugly-pi-long-live-elegant-tau-physicist-urges/article_e78ae806-7cb6-5ce3-abc8-207053fbdd4d.html)
   - [The Times of India, _Life of pi over? 'Tau' may set calculations aright_, 2011](https://timesofindia.indiatimes.com/home/science/Life-of-pi-over-Tau-may-set-calculations-aright/articleshow/9034053.cms)
   - [Alessondra Springmann, PCWorld, _Tau Day: An Even More Fundamental Holiday Than Pi Day_, 2011](https://www.pcworld.com/article/485803/tau_day.html)
   - [Evann Gastaldo, Newser, _Forget Pi, Here Comes Tau_, 2011](https://www.newser.com/story/122114/forget-pi-here-comes-tau.html)
   - [Daniel Tovrov, International Business Times, _Happy Tau Day!_, 2011](https://www.ibtimes.com/happy-tau-day-294421)
   - [Nancy Haught, The Oregonian, _Tau Day today: Mathematicians show their work_, 2011](https://www.oregonlive.com/living/2011/06/post_14.html)
-  - [Nance Haxton, ABC Australia, _Push to roll Pi_, 2011](https://www.abc.net.au/radio/programs/pm/push-to-roll-pi/2775348)
+  - [Nance Haxton, ABC Australia, _Push to roll Pi_, 2011](https://www.abc.net.au/listen/programs/pm/push-to-roll-pi/2775348)
   - [The McGill Daily, _Pi is wrong_, 2011](https://www.mcgilldaily.com/2011/10/pi-is-wrong/)
   - [Anqi Shen, phys.org, _Math wars: Debate sparks anti-pi day_, 2011](https://phys.org/news/2011-06-math-wars-debate-anti-pi-day.html)
   - [The Telegraph Online, _Life of pi in no danger - Experts cold-shoulder campaign to replace with tau_, 2011](https://www.telegraphindia.com/india/life-of-pi-in-no-danger-experts-cold-shoulder-campaign-to-replace-with-tau/cid/380029)
@@ -117,7 +117,6 @@ Articles _against_ τ:
 - 2014:
 
   - [Randyn Charles Bartholomew, Scientific American, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
-  - [_Pi vs. tau: Ultimate Smackdown_, 2014](https://www.prooffreader.com/2014/06/pi-vs-tau-ultimate-smackdown.html)
   - [Jolie Lee, _Happy Pi Day! Unless you are a Tauist_, 2014](https://eu.usatoday.com/story/news/nation-now/2014/03/14/pi-day-tau-math/6410959/)
 
 - 2015:
@@ -148,7 +147,6 @@ Articles _against_ τ:
 - 2021:
 
   - [Paolo A., _in honor of tau_, 2021](https://mitadmissions.org/blogs/entry/in-honor-of-tau/)
-  - [Douglas Fehlen, Best Accredited Colleges,Best Accredited Colleges, _Tau Day Generates Controversy Among Math Scholars_, 2021](https://bestaccreditedcolleges.org/articles/tau-day-generates-controversy-among-math-scholars.html)
   - [Susanne M. Hoffmann, _Wer pi nicht mag, kann heute tau feiern_, 2021](https://scilogs.spektrum.de/uhura-uraniae/wer-pi-nicht-mag-kann-heute-tau-feiern/)
 
 - 2022:
