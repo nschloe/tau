@@ -761,7 +761,7 @@ for all $`n\in\mathbb{N}`$. Specifically,
 where 
 
 ```math
-C_n = \frac{1}{2^n n! \prod_{k=1}^n a_k} \sum_{\gamma\in\{\pm 1\}^n} \varepsilon_\gamma b_\gamma^n \sgn(b_\gamma)
+C_n = \frac{1}{2^n n! \prod_{k=1}^n a_k} \sum_{\gamma\in\{\pm 1\}^n} \varepsilon_\gamma b_\gamma^n \text{sgn}(b_\gamma)
 ```
 
 In case $`a_0 > \sum_{k=1}^n |a_k|`$, $`C_n=1`$.
