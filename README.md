@@ -755,16 +755,10 @@ for all $`n\in\mathbb{N}`$. Specifically,
 
 ```math
 \int_{-\infty}^{\infty} \prod_{k=0}^n \frac{\sin(a_k x)}{a_k x}\,dx
-= \textcolor{teal}{\pi} \frac{C_n}{a_0}
+= \textcolor{teal}{\pi} C_n
 ```
 
-where 
-
-```math
-C_n = \frac{1}{2^n n! \prod_{k=1}^n a_k} \sum_{\gamma\in\{\pm 1\}^n} \varepsilon_\gamma b_\gamma^n \text{sgn}(b_\gamma)
-```
-
-In case $`a_0 > \sum_{k=1}^n |a_k|`$, $`C_n=1`$.
+with a particular $`C_n`$ (see [here](https://en.wikipedia.org/wiki/Borwein_integral#General_formula)).
 
 #### Physics
 
