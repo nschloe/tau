@@ -749,6 +749,21 @@ for all $`n\in\mathbb{N}`$. Specifically,
 ```
 <br clear="right"/>
 
+#### The [Borwein integral](https://en.wikipedia.org/wiki/Borwein_integral)
+
+<img src="plots/borwein.svg" align="right" width="30%"/>
+
+
+```math
+\int_{-\infty}^{\infty} \prod_{k=0}^n \frac{\sin(a_k x)}{a_k x}\,dx
+= \textcolor{teal}{\pi} \frac{C_n}{a_0}
+```
+where 
+```
+C_n = \frac{1}{2^n n! \prod_{k=1}^n a_k} \sum_{\gamma\in\{\pm 1\}^n} \varepsilon_\gamma b_\gamma^n \sgn(b_\gamma)
+```
+In case $`a_0 > \sum_{k=1}^n |a_k|`$, $`C_n=1`$.
+
 #### Physics
 
   - Cosmological constant:
