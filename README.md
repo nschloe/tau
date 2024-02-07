@@ -10,7 +10,7 @@
 
 <img src="pictures/hartl-palais.jpg" align="right" width="200px"/>
 
-In 2001, [Bob Palais](http://www.math.utah.edu/~palais/) wrote the article [_π
+In 2001, [Bob Palais](https://www.math.utah.edu/~palais/) wrote the article [_π
 is wrong!_](https://doi.org/10.1007%2FBF03026846), remarking on the fact that
 when π occurs in nature, it occurs as 2π most of the time. He suggests that
 2π = 6.283185... should be given a name (τ is now a fan favorite) and that it
@@ -44,7 +44,7 @@ Articles _against_ τ:
 
 - [The Pi Manifesto](https://archive.ph/VnJ2x)
 - [The Proper π Manifesto](http://proper-pi-manifesto.com/)
-- [Marc B. Reynolds, _Tau and the art of Windmill jousting_, 2020](http://marc-b-reynolds.github.io/math/2020/01/06/Tau.html)
+- [Marc B. Reynolds, _Tau and the art of Windmill jousting_, 2020](https://marc-b-reynolds.github.io/math/2020/01/06/Tau.html)
 
 ### News articles and blog posts
 
@@ -67,7 +67,7 @@ Articles _against_ τ:
 - 2011:
 
   - [Jason Palmer, BBC News, _'Tau day' marked by opponents of maths constant pi_, 2011](https://www.bbc.com/news/science-environment-13906169)
-  - [Elizabeth Landau, CNN, _On Pi Day, is 'pi' under attack?_, 2011](http://edition.cnn.com/2011/TECH/innovation/03/14/pi.tau.math/index.html?hpt=T2)
+  - [Elizabeth Landau, CNN, _On Pi Day, is 'pi' under attack?_, 2011](http://edition.cnn.com/2011/TECH/innovation/03/14/pi.tau.math/index.html)
   - [Daily Mail, _Your number's up: Why mathematicians are campaigning for pi to be replaced with alternate value tau_, 2011](https://www.dailymail.co.uk/sciencetech/article-2008963/Why-mathematicians-campaigning-pi-replaced-alternate-value-tau.html)
   - [Duncan Geere, Wired, _Happy Pi day! Let's kill it_, 2011](https://www.wired.co.uk/article/pi-winning)
   - [Natalie Wolchover, Live Science, _Mathematicians Want to Say Goodbye to Pi_, 2011](https://www.livescience.com/14836-pi-wrong-tau.html)
@@ -83,7 +83,7 @@ Articles _against_ τ:
   - [The McGill Daily, _Pi is wrong_, 2011](https://www.mcgilldaily.com/2011/10/pi-is-wrong/)
   - [Anqi Shen, phys.org, _Math wars: Debate sparks anti-pi day_, 2011](https://phys.org/news/2011-06-math-wars-debate-anti-pi-day.html)
   - [The Telegraph Online, _Life of pi in no danger - Experts cold-shoulder campaign to replace with tau_, 2011](https://www.telegraphindia.com/india/life-of-pi-in-no-danger-experts-cold-shoulder-campaign-to-replace-with-tau/cid/380029)
-  - [Simon Wood, Little Storping-in-the-Swuff, _War on Tau_, 2011](http://littlestorping.co.uk/2011/06/28/war-on-tau/)
+  - [Simon Wood, Little Storping-in-the-Swuff, _War on Tau_, 2011](https://littlestorping.co.uk/2011/06/28/war-on-tau/)
   - [Dan Amira, Intelligencer, _Pi Is Very Slowly and Nerdily Going Out of
     Style_,
     2011](https://nymag.com/intelligencer/2011/03/pi_is_very_slowly_and_nerdily.html)
@@ -105,11 +105,11 @@ Articles _against_ τ:
 - 2012:
 
   - [Jonathan Chang, Science Line, _The tyranny of π_, 2012](https://scienceline.org/2012/06/the-tyranny-of-%CF%80-2/)
-  - [Kevin Houston, _Why I'm not celebrating tau day_, 2012](http://www.kevinhouston.net/blog/2012/06/why-im-not-celebrating-tau-day/)
+  - [Kevin Houston, _Why I'm not celebrating tau day_, 2012](https://www.kevinhouston.net/blog/2012/06/why-im-not-celebrating-tau-day/)
 
 - 2013:
 
-  - [Ethan Brown, _Pi vs Tau: Pi's Rebuttal_, 2013](http://coolmathstuff123.blogspot.com/2013/02/pi-vs-tau-pis-rebuttal_9.html)
+  - [Ethan Brown, _Pi vs Tau: Pi's Rebuttal_, 2013](https://coolmathstuff123.blogspot.com/2013/02/pi-vs-tau-pis-rebuttal_9.html)
   - [Rachel, Plus Magazine, _Happy Tau Day!!_, 2013](https://plus.maths.org/content/happy-tau-day)
   - [Dmitry Brant, _Pi is wrong! Long live Tau!_, 2013](https://dmitrybrant.com/2011/10/16/pi-is-wrong-long-live-tau)
   - [PBS, _Geeking Out on Pi Day: For the Love of Pi and the Tao of Tau_, 2013](https://www.pbs.org/newshour/science/for-the-love-of-pi-and-the-tao-of-tau)
@@ -118,7 +118,7 @@ Articles _against_ τ:
 
   - [Randyn Charles Bartholomew, Scientific American, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
   - [Jolie Lee, _Happy Pi Day! Unless you are a Tauist_, 2014](https://eu.usatoday.com/story/news/nation-now/2014/03/14/pi-day-tau-math/6410959/)
-  - [_Pi VERSUS Tau?!?_, 2014](http://headinside.blogspot.com/2014/06/pi-versus-tau.html)
+  - [_Pi VERSUS Tau?!?_, 2014](https://headinside.blogspot.com/2014/06/pi-versus-tau.html)
 
 - 2015:
 
@@ -357,7 +357,7 @@ Inclusion of a constant `tau` was _rejected_ by the following projects:
 - [Ruby (2016)](https://bugs.ruby-lang.org/issues/4897)
 - [NumPy (2017)](https://github.com/numpy/numpy/pull/9696)
 - [Go (2020)](https://github.com/golang/go/issues/40663)
-- [Luau (2022)](https://github.com/Roblox/luau/issues/278)
+- [Luau (2022)](https://github.com/luau-lang/luau/issues/278)
 - [C++ (2022)](https://lists.isocpp.org/std-proposals/2022/03/3646.php)
 
 ### Some equations
@@ -391,7 +391,7 @@ Trigonometric values off the grid can easily be estimated:
 
 <!--
 GitHub doesn't understand inline and block math in one list item
-<https://github.com/nschloe/github-math-bugs#inline-and-display-math-in-same-list-item-doesnt-render>.
+<https://github.com/nschloe/markdown-math-acid-test#inline-and-display-math-in-same-list-item-doesnt-render>.
 -->
 
 - sin(27.4 π) – Where is my calculator?
@@ -848,7 +848,7 @@ with a particular $`C_n`$ (see [here](https://en.wikipedia.org/wiki/Borwein_inte
 
   [John Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) (2008, from
   [Constant
-  Failure](http://www.math.utah.edu/~palais/ConstantFailure-32679.html) by
+  Failure](https://www.math.utah.edu/~palais/ConstantFailure-32679.html) by
   Robert P Crease):
 
   > [...]
@@ -864,7 +864,7 @@ with a particular $`C_n`$ (see [here](https://en.wikipedia.org/wiki/Borwein_inte
 - <img src="pictures/benjamin.jpg" align="right" width="200px"/>
 
   [Arthur Benjamin](https://en.wikipedia.org/wiki/Arthur_T._Benjamin) (2013, [Twitter
-  Q&A](http://laughmaths.blogspot.com/2013/07/arthur-benjamin-man-maths-magician-part_15.html)):
+  Q&A](https://laughmaths.blogspot.com/2013/07/arthur-benjamin-man-maths-magician-part_15.html)):
 
   > I’m a big tau lover. I agree with the statement that if we could go back in
   > time and change the factor to tau we would have simplified our theorems and
