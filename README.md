@@ -159,6 +159,7 @@ Articles _against_ τ:
 
   - [Live Science, _12 numbers that are cooler than pi_, 2023](https://www.livescience.com/64987-numbers-as-cool-as-pi.html)
   - [Mathnasium, _Tau: A better constant than Pi?_, 2023](https://www.mathnasium.com/blog/tau-constant-better-pi)
+  - [Andrew Griffin, _Pi Day: Why some mathematicians refuse to celebrate 14 March and won't observe it_, 2023](https://www.aol.com/news/pi-day-why-mathematicians-refuse-150701047.html)
 
 </details>
 
@@ -276,7 +277,7 @@ Articles _against_ τ:
   >
   > Six and two eight and three one eight and five and three, a zero with seven
   > and one [seven] and nine five and eight and six five is [it].
-  <br clear="right"/>
+  > <br clear="right"/>
 
   Further reading:
 
@@ -346,7 +347,7 @@ Articles _against_ τ:
 - [Crystal, since 0.36.0 (2021)](https://github.com/crystal-lang/crystal/pull/10179) `Math::TAU`
 - [Java, OpenJDK, since 19 (2022)](https://github.com/openjdk/jdk/pull/7813) `Math.TAU`
 - [JSCAD, since 2.6.3 (2022)](https://github.com/jscad/OpenJSCAD.org/pull/1128) `TAU`
-- [Liberty Eiffel, upcoming (202x)](https://wiki.liberty-eiffel.org/index.php/Versions_history#Curtiss_(2022.dev,_to_be_named_after_Glenn_Curtiss)) `Tau`
+- [Liberty Eiffel, upcoming (202x)](<https://wiki.liberty-eiffel.org/index.php/Versions_history#Curtiss_(2022.dev,_to_be_named_after_Glenn_Curtiss)>) `Tau`
 
 Inclusion of a constant `tau` was _rejected_ by the following projects:
 
@@ -397,6 +398,7 @@ GitHub doesn't understand inline and block math in one list item
 - sin(13.7 τ) – 13 full revolutions: forget about those. Plus .7, that's
   almost 3/4 of a revolution, so probably something close to −1. (Actual
   value: −0.95105651629...)
+
 <br clear="right"/>
 
 #### Surface area of the _n_-dimensional unit sphere
@@ -429,7 +431,7 @@ includes a factor $`\sqrt{\pi}`$.
 
 Special cases:
 
-- Volume of the _n_-dimensional unit ball (_λ_ = 0):
+- Volume of the _n_-dimensional unit ball (*λ* = 0):
 
   ```math
   |S_n|
@@ -440,7 +442,7 @@ Special cases:
   \end{cases}
   ```
 
-- The area of a disk (_λ_ = 0, _n_ = 2)
+- The area of a disk (*λ* = 0, *n* = 2)
 
   ```math
   |S_n(r)|
@@ -455,6 +457,7 @@ Special cases:
   ```math
   \int_{-1}^1 \frac{1}{\sqrt{1-x^2}} = \textcolor{teal}{\pi}
   ```
+
   <br clear="right"/>
 
 - <img src="plots/chebyshev2.svg" align="right" width="30%"/>
@@ -464,6 +467,7 @@ Special cases:
   ```math
   \int_{-1}^1 \sqrt{1-x^2} = \frac{\textcolor{teal}{\pi}}{2}
   ```
+
   <br clear="right"/>
 
 #### _n_-dimensional generalized Cauchy volume (2*λ* > _n_)
@@ -495,6 +499,7 @@ and _λ_ = 1,
 ```math
 |Y_1^1| = B(\tfrac{1}{2}, \tfrac{1}{2}) = \textcolor{teal}{\pi}.
 ```
+
 <br clear="right"/>
 
 <!--
@@ -555,6 +560,7 @@ and _λ_ = 1,
   \end{cases}
 \end{align*}
 ```
+
 <br clear="right"/>
 
 #### [The Gaussian integral](https://en.wikipedia.org/wiki/Gaussian_integral)
@@ -575,6 +581,7 @@ distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 ```math
 \int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\textcolor{orange}{\tau}}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) \,dx= 1
 ```
+
 <br clear="right"/>
 
 #### [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
@@ -638,6 +645,7 @@ z^n = 1 \quad\Rightarrow\quad z = \exp(i\textcolor{orange}{\tau} k / n) \quad\fo
 ```math
 n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
 ```
+
 <br clear="right"/>
 
 #### [Particular values of the Gamma function](https://en.wikipedia.org/wiki/Particular_values_of_the_gamma_function)
@@ -688,8 +696,8 @@ n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
   \Gamma(z)\Gamma(1-z)
   = \frac{\textcolor{teal}{\pi}}{\sin(\textcolor{teal}{\pi} z)}
   ```
-  <!-- = \frac{\textcolor{orange}{tau}}{crd(\textcolor{orange}{\tau} z)} -->
-<br clear="right"/>
+    <!-- = \frac{\textcolor{orange}{tau}}{crd(\textcolor{orange}{\tau} z)} -->
+  <br clear="right"/>
 
 #### [Particular values of the Riemann zeta function](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
 
@@ -729,6 +737,7 @@ with standard deviation 1 is fulfilled by
 = \mathrm{erf}(z / \sqrt{2})
 = \frac{2}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\, dt.
 ```
+
 <br clear="right"/>
 
 #### The [sinc function](https://en.wikipedia.org/wiki/Sinc_function) and its power integrals
@@ -747,6 +756,7 @@ for all $`n\in\mathbb{N}`$. Specifically,
 = \int_{-\infty}^{\infty} \frac{\sin^2(x)}{x^2}\,dx
 = \frac{\textcolor{orange}{\tau}}{2} = \textcolor{teal}{\pi}.
 ```
+
 <br clear="right"/>
 
 #### The [Borwein integral](https://en.wikipedia.org/wiki/Borwein_integral)
@@ -764,61 +774,61 @@ with a particular $`C_n`$ (see [here](https://en.wikipedia.org/wiki/Borwein_inte
 
 #### Physics
 
-  - Cosmological constant:
-    ```math
-    \Lambda = \frac{4\textcolor{orange}{\tau} G}{3c^2} \rho
-    ```
-  - Heisenberg's uncertainty principle:
-    ```math
-    \Delta x \Delta p \ge \frac{h}{2 \textcolor{orange}{\tau}}
-    ```
-  - Einstein's field equation of general relativity:
-    ```math
-    R_{\mu\nu} = \frac{4\textcolor{orange}{\tau} G}{c^4} T_{\mu\nu}
-    ```
-  - Coulomb's law for the electric force in vacuum:
+- Cosmological constant:
+  ```math
+  \Lambda = \frac{4\textcolor{orange}{\tau} G}{3c^2} \rho
+  ```
+- Heisenberg's uncertainty principle:
+  ```math
+  \Delta x \Delta p \ge \frac{h}{2 \textcolor{orange}{\tau}}
+  ```
+- Einstein's field equation of general relativity:
+  ```math
+  R_{\mu\nu} = \frac{4\textcolor{orange}{\tau} G}{c^4} T_{\mu\nu}
+  ```
+- Coulomb's law for the electric force in vacuum:
 
-    ```math
-    F = \frac{|q_1 q_2|}{2\textcolor{orange}{\tau} \varepsilon_0 r^2}
-    ```
+  ```math
+  F = \frac{|q_1 q_2|}{2\textcolor{orange}{\tau} \varepsilon_0 r^2}
+  ```
 
-  - Magnetic permeability of free space:
-    ```math
-    \mu_0 \approx 2\textcolor{orange}{\tau} \times 10^{-7} N/A^2
-    ```
-  - Approximate period of a simple pendulum with small amplitude:
-    ```math
-    T \approx \textcolor{orange}{\tau} \sqrt{\frac{L}{g}}
-    ```
-  - Exact period of a simple pendulum with amplitude θ<sub>0</sub>:
+- Magnetic permeability of free space:
+  ```math
+  \mu_0 \approx 2\textcolor{orange}{\tau} \times 10^{-7} N/A^2
+  ```
+- Approximate period of a simple pendulum with small amplitude:
+  ```math
+  T \approx \textcolor{orange}{\tau} \sqrt{\frac{L}{g}}
+  ```
+- Exact period of a simple pendulum with amplitude θ<sub>0</sub>:
 
-    ```math
-    T = \frac{\textcolor{orange}{\tau}}{\mathrm{agm}(1, \cos(\theta_0/2))} \sqrt{\frac{L}{g}}
-    ```
+  ```math
+  T = \frac{\textcolor{orange}{\tau}}{\mathrm{agm}(1, \cos(\theta_0/2))} \sqrt{\frac{L}{g}}
+  ```
 
-    (agm is the [arithmetic-geometric
-    mean](https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean).)
+  (agm is the [arithmetic-geometric
+  mean](https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean).)
 
-  - Kepler's third law of planetary motion:
-    ```math
-    \frac{R^3}{T^2} = \frac{GM}{\textcolor{orange}{\tau}^2}
-    ```
-  - The buckling formula:
-    ```math
-    F = \frac{\textcolor{orange}{\tau}^2 EI}{4L^2}
-    ```
-  - Reduced Planck constant:
-    ```math
-    \hbar = \frac{h}{\textcolor{orange}{\tau}}
-    ```
-  - Reactance of an inductor:
-    ```math
-    \textcolor{orange}{\tau} fL
-    ```
-  - Susceptance of a capacitor:
-    ```math
-    \textcolor{orange}{\tau} fC
-    ```
+- Kepler's third law of planetary motion:
+  ```math
+  \frac{R^3}{T^2} = \frac{GM}{\textcolor{orange}{\tau}^2}
+  ```
+- The buckling formula:
+  ```math
+  F = \frac{\textcolor{orange}{\tau}^2 EI}{4L^2}
+  ```
+- Reduced Planck constant:
+  ```math
+  \hbar = \frac{h}{\textcolor{orange}{\tau}}
+  ```
+- Reactance of an inductor:
+  ```math
+  \textcolor{orange}{\tau} fL
+  ```
+- Susceptance of a capacitor:
+  ```math
+  \textcolor{orange}{\tau} fC
+  ```
 
 ### Quotes
 
