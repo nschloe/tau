@@ -236,88 +236,92 @@ Articles _against_ τ:
 
 ### Historical uses
 
-- <img src="pictures/al-kashi-stamp.jpg" align="right" width="200px"/>
+#### Al-Kashi (1424)
 
-  (All quotes are translated from the German translation by P. Luckey, 1950.)
+<img src="pictures/al-kashi-stamp.jpg" align="right" width="200px"/>
 
-  While Archimedes was able to bound the ratio of a circle circumference and
-  diameter between 223/71 (≈ 3.1408) and 22/7 (≈ 3.1428), [Jamshid al-Kashi
-  ](https://en.wikipedia.org/wiki/Jamshid_al-Kashi) wanted to determine it to a
-  much higher precision. In his 1424 _Treatise on the circumference of the
-  circle_, it was his goal that
+(All quotes are translated from the German translation by P. Luckey, 1950.)
 
-  > in a circle whose diameter is 600,000 times the diameter of the earth, the
-  > difference between it [the calculated circumference] and the true
-  > circumference is less than a single hair, which is one sixth of the width
-  > of an average barley grain, such that it [the difference] in a [circle]
-  > which is smaller than that doesn't matter.
+While Archimedes was able to bound the ratio of a circle circumference and
+diameter between 223/71 (≈ 3.1408) and 22/7 (≈ 3.1428), [Jamshid al-Kashi
+](https://en.wikipedia.org/wiki/Jamshid_al-Kashi) wanted to determine it to a
+much higher precision. In his 1424 _Treatise on the circumference of the
+circle_, it was his goal that
 
-  This translates to approximately 14 decimal digits.
+> in a circle whose diameter is 600,000 times the diameter of the earth, the
+> difference between it [the calculated circumference] and the true
+> circumference is less than a single hair, which is one sixth of the width
+> of an average barley grain, such that it [the difference] in a [circle]
+> which is smaller than that doesn't matter.
 
-  His calculations are performed in sexagesimal (base 60) digits. In section 8,
-  _Transformation of the value of the circumference into the Indian digits
-  under the condition that half of the diameter be one_, he gives the result in
-  decimal digits:
+This translates to approximately 14 decimal digits.
 
-  > We put the digits from left to right onto a half-verse, to get a verse:
-  >
-  > > wa baḥǧā ḥahǧi ṣaz a za ṭah ḥawahu
-  > >
-  > > muḥīṭun li-quṭrin huwa ’ṯnāni minhu
-  >
-  > 6 2 8 3 1 8 5 3 0 7 1 7 9 5 8 6 5
-  >
-  > is the circumference for a diameter which is two thereof.
+His calculations are performed in sexagesimal (base 60) digits. In section 8,
+_Transformation of the value of the circumference into the Indian digits
+under the condition that half of the diameter be one_, he gives the result in
+decimal digits:
 
-  Further reading:
+> We put the digits from left to right onto a half-verse, to get a verse:
+>
+> > wa baḥǧā ḥahǧi ṣaz a za ṭah ḥawahu
+> >
+> > muḥīṭun li-quṭrin huwa ’ṯnāni minhu
+>
+> 6 2 8 3 1 8 5 3 0 7 1 7 9 5 8 6 5
+>
+> is the circumference for a diameter which is two thereof.
 
-  - [P. Luckey, _Der Lehrbrief über den Kreisumfang_ von _Ǧamšīd b. Mas‛ūd
-    Al-Kāšī_,
-    1950](https://github.com/nschloe/tau/blob/gh-pages/kashi-luckey.pdf)
-  - [Peter Harremoës, _Al-Kāshī’s constant_,
-    2018](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.pdf)
+Further reading:
 
-- The section _Adoption of the symbol π_ of the excellent Wikipedia article
-  [Pi](https://en.wikipedia.org/wiki/Pi#Adoption_of_the_symbol_%CF%80) says:
+- [P. Luckey, _Der Lehrbrief über den Kreisumfang_ von _Ǧamšīd b. Mas‛ūd
+  Al-Kāšī_,
+  1950](https://github.com/nschloe/tau/blob/gh-pages/kashi-luckey.pdf)
+- [Peter Harremoës, _Al-Kāshī’s constant_,
+  2018](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.pdf)
 
-  > <img src="pictures/david-gregory.png" align="right" width="200px"/>
-  >
-  > In the earliest usages, the Greek letter π was used to denote the
-  > semiperimeter (_semiperipheria_ in Latin) of a circle and was combined in
-  > ratios with δ (for diameter or semidiameter) or ρ (for radius) to form
-  > circle constants. (Before then, mathematicians sometimes used letters such
-  > as c or p instead.) The first recorded use is Oughtred's "δ.π", to express
-  > the ratio of periphery and diameter in the 1647 and later editions of
-  > _Clavis Mathematicae_. Barrow likewise used "$`\frac{\pi}{\delta}`$" to
-  > represent the constant 3.14..., **while Gregory instead used
-  > "$`\frac{\pi}{\rho}`$" to represent 6.28...**
-  >
-  > The earliest known use of the Greek letter π alone to represent the ratio
-  > of a circle's circumference to its diameter was by Welsh mathematician
-  > William Jones in his 1706 work _Synopsis Palmariorum Matheseos_; or, _a New
-  > Introduction to the Mathematics_. The Greek letter first appears there in
-  > the phrase "1/2 Periphery (π)" in the discussion of a circle with radius
-  > one. However, he writes that his equations for π are from the "ready pen of
-  > the truly ingenious Mr. John Machin", leading to speculation that Machin
-  > may have employed the Greek letter before Jones. Jones' notation was not
-  > immediately adopted by other mathematicians, with the fraction notation
-  > still being used as late as 1767.
-  >
-  > <img src="pictures/euler.jpg" align="right" width="200px"/>
-  >
-  > Euler started using the single-letter form beginning with his 1727 Essay
-  > _Explaining the Properties of Air_, **though he used π = 6.28..., the ratio
-  > of periphery to radius, in this and some later writing.** Euler first used
-  > π = 3.14... in his 1736 work Mechanica, and continued in his widely-read
-  > 1748 work _Introductio in analysin infinitorum_ (he wrote: "for the sake of
-  > brevity we will write this number as π; thus π is equal to half the
-  > circumference of a circle of radius 1"). Because Euler corresponded heavily
-  > with other mathematicians in Europe, the use of the Greek letter spread
-  > rapidly, and the practice was universally adopted thereafter in the Western
-  > world, **though the definition still varied between 3.14... and 6.28... as
-  > late as 1761.**
-  >
-  > <br clear="right"/>
+#### π in the times of Euler
+
+The section _Adoption of the symbol π_ of the excellent Wikipedia article
+[Pi](https://en.wikipedia.org/wiki/Pi#Adoption_of_the_symbol_%CF%80) says:
+
+> <img src="pictures/david-gregory.png" align="right" width="200px"/>
+>
+> In the earliest usages, the Greek letter π was used to denote the
+> semiperimeter (_semiperipheria_ in Latin) of a circle and was combined in
+> ratios with δ (for diameter or semidiameter) or ρ (for radius) to form
+> circle constants. (Before then, mathematicians sometimes used letters such
+> as c or p instead.) The first recorded use is Oughtred's "δ.π", to express
+> the ratio of periphery and diameter in the 1647 and later editions of
+> _Clavis Mathematicae_. Barrow likewise used "$`\frac{\pi}{\delta}`$" to
+> represent the constant 3.14..., **while Gregory instead used
+> "$`\frac{\pi}{\rho}`$" to represent 6.28...**
+>
+> The earliest known use of the Greek letter π alone to represent the ratio
+> of a circle's circumference to its diameter was by Welsh mathematician
+> William Jones in his 1706 work _Synopsis Palmariorum Matheseos_; or, _a New
+> Introduction to the Mathematics_. The Greek letter first appears there in
+> the phrase "1/2 Periphery (π)" in the discussion of a circle with radius
+> one. However, he writes that his equations for π are from the "ready pen of
+> the truly ingenious Mr. John Machin", leading to speculation that Machin
+> may have employed the Greek letter before Jones. Jones' notation was not
+> immediately adopted by other mathematicians, with the fraction notation
+> still being used as late as 1767.
+>
+> <img src="pictures/euler.jpg" align="right" width="200px"/>
+>
+> Euler started using the single-letter form beginning with his 1727 Essay
+> _Explaining the Properties of Air_, **though he used π = 6.28..., the ratio
+> of periphery to radius, in this and some later writing.** Euler first used
+> π = 3.14... in his 1736 work Mechanica, and continued in his widely-read
+> 1748 work _Introductio in analysin infinitorum_ (he wrote: "for the sake of
+> brevity we will write this number as π; thus π is equal to half the
+> circumference of a circle of radius 1"). Because Euler corresponded heavily
+> with other mathematicians in Europe, the use of the Greek letter spread
+> rapidly, and the practice was universally adopted thereafter in the Western
+> world, **though the definition still varied between 3.14... and 6.28... as
+> late as 1761.**
+>
+> <br clear="right"/>
 
 ### In programming
 
