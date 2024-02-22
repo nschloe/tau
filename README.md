@@ -124,6 +124,7 @@ Articles _against_ τ:
 
   - [Giorgia Fortuna, Wolfram, _2 Pi or Not 2 Pi?_, 2015](https://blog.wolfram.com/2015/06/28/2-pi-or-not-2-pi/)
   - [Fox News, _On National Tau Day, Pi Under Attack_, 2015](https://www.foxnews.com/science/on-national-tau-day-pi-under-attack)
+  - [Kury Cagle, _The Tao of Tau_, 2015](https://medium.com/metaphorical-web/the-tao-of-tau-c0a703283075)
 
 - 2016:
 
