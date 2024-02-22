@@ -268,16 +268,6 @@ Articles _against_ τ:
   > 6 2 8 3 1 8 5 3 0 7 1 7 9 5 8 6 5
   >
   > is the circumference for a diameter which is two thereof.
-  >
-  > And in Persian:
-  >
-  > > šaš wa du hašt wa sih yak hašt wa panǧ wa sih ṣifrā
-  > >
-  > > bahaft wa yakrā [haft] wa nuh panǧ wa hašt wa šaš panǧ ast
-  >
-  > Six and two eight and three one eight and five and three, a zero with seven
-  > and one [seven] and nine five and eight and six five is [it].
-  > <br clear="right"/>
 
   Further reading:
 
