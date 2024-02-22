@@ -130,6 +130,7 @@ Articles _against_ τ:
 
   - [Greg Uyeno, Science Line, _The Circle Constant, Or what's the matter with π_, 2016](https://scienceline.org/2016/06/the-circle-constant/)
   - [Tia Ghose, Live Science, _Tau Day: Should Pi Be Downgraded?_, 2016](https://www.livescience.com/55209-tau-is-better-than-pi.html)
+  - [Nsikan Akpan, _3 reasons Pi Day is a sham_, 2016](https://www.pbs.org/newshour/science/3-reasons-pi-day-is-a-sham)
 
 - 2017:
 
