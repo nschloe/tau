@@ -165,7 +165,7 @@ Articles _against_ τ:
 
 ### Other articles
 
-- [Stanley M. Max, _Radian Measurement: What It Is, and How to Calculate It More Easily Using τ Instead of π_, 2011](http://www.metricphilatelist.net/TowsonU/course_material/tau/radian_measurement.pdf)
+- [Stanley M. Max, _Radian Measurement: What It Is, and How to Calculate It More Easily Using τ Instead of π_, 2011](https://www.yumpu.com/en/document/view/32767957/radian-measurement-metric-philatelist)
 - [O.V. Vijimon, _A circle without "π"_, 2017](https://osf.io/stwxf/)
 - [Lulzim Gjyrgjialli, _Circle constant is a turn_, 2018](https://www.itisaturn.com/assets/docs/itisaturn.pdf)
 - <a
@@ -331,7 +331,7 @@ The section _Adoption of the symbol π_ of the excellent Wikipedia article
 - [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/) `math.tau`
 - [CSS (2018)](https://www.w3.org/TR/2018/WD-css-values-4-20180814/#angles) `turn`
 - [OpenFOAM](https://www.openfoam.com/documentation/guides/latest/api/namespaceFoam_1_1constant_1_1mathematical.html#ad9e5ddf5862462196c9159f5d761e93a) `twoPi`
-- [Extreme Optimization Numerical Libraries for .NET](https://www.extremeoptimization.com/Documentation/Reference/Extreme.Mathematics.Constants.TwoPi) `Constants.TwoPi`
+- [Extreme Numerics.NET](https://numerics.net/documentation/reference/extreme.mathematics.constants.twopi) `Constants.TwoPi`
 - [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703) `Tau`
 - [Zig, since 0.6.0 (2019)](https://github.com/ziglang/zig/pull/3716) `tau`
 - [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html) `std::f64::consts::TAU`
