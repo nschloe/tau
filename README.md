@@ -199,6 +199,7 @@ Articles _against_ τ:
 - [QuantumOverlord, _Refuting the Pi manifesto on Tau day_, 2017](https://youtu.be/k73uQF4iB_g)
 - [Vihart, _Pi Rant 2018: Alternative Pi_](https://youtu.be/6acbBrLoi14?t=273)
 - [3Blue1Brown, _How pi was almost 6.283185..._, 2018](https://youtu.be/bcPTiiiYDs8)
+- [HDSQ, _Tau the Song with 6.28318 Million Notes_, 2019](https://youtu.be/b0gyQMJHQ78)
 - [BriTheMathGuy, _It's Tau Day (but should you care?)_, 2020](https://youtu.be/qifarbO4yX8)
 - [Mathstreet Boys, _Larger Than Pi (Tau Day Parody) | Larger Than Life_, 2020](https://www.youtube.com/watch?v=bUmiWUfMrvk)
 - [Khan Academy, _Tau versus pi_, 2021](https://youtu.be/1jDDfkKKgmc)
