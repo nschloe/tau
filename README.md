@@ -765,7 +765,7 @@ for all $`n\in\mathbb{N}`$. Specifically,
 = \textcolor{teal}{\pi} C_n
 ```
 
-with a particular $`C_n`$ (see [here](https://en.wikipedia.org/wiki/Borwein_integral#General_formula)).
+with some rational $`C_n`$ (see [here](https://en.wikipedia.org/wiki/Borwein_integral#General_formula)).
 
 <br clear="right"/>
 
