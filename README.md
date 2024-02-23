@@ -334,7 +334,7 @@ The section _Adoption of the symbol π_ of the excellent Wikipedia article
 - [CSS (2018)](https://www.w3.org/TR/2018/WD-css-values-4-20180814/#angles) `turn`
 - [OpenFOAM](https://www.openfoam.com/documentation/guides/latest/api/namespaceFoam_1_1constant_1_1mathematical.html#ad9e5ddf5862462196c9159f5d761e93a) `twoPi`
 - [Extreme Numerics.NET](https://numerics.net/documentation/reference/extreme.mathematics.constants.twopi) `Constants.TwoPi`
-- [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703) `Tau`
+- [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703) `tau`
 - [Zig, since 0.6.0 (2019)](https://github.com/ziglang/zig/pull/3716) `tau`
 - [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html) `std::f64::consts::TAU`
 - [.NET, C#, since 5.0 (2020)](https://github.com/dotnet/runtime/pull/37517) `Tau`
