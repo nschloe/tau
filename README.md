@@ -332,6 +332,7 @@ The section _Adoption of the symbol π_ of the excellent Wikipedia article
 - [Raku (aka Perl 6), since 2015](https://docs.raku.org/language/terms#term_tau) `tau`
 - [Nim, since 0.14.0 (2016)](https://github.com/nim-lang/Nim/pull/3976) `TAU`
 - [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/) `math.tau`
+- [Unreal Engine, since 4.12 (2016)](https://docs.unrealengine.com/5.3/en-US/BlueprintAPI/Math/Trig/GetTAU/) `TAU`
 - [CSS (2018)](https://www.w3.org/TR/2018/WD-css-values-4-20180814/#angles) `turn`
 - [OpenFOAM](https://www.openfoam.com/documentation/guides/latest/api/namespaceFoam_1_1constant_1_1mathematical.html#ad9e5ddf5862462196c9159f5d761e93a) `twoPi`
 - [Extreme Numerics.NET](https://numerics.net/documentation/reference/extreme.mathematics.constants.twopi) `Constants.TwoPi`
@@ -341,7 +342,7 @@ The section _Adoption of the symbol π_ of the excellent Wikipedia article
 - [.NET, C#, since 5.0 (2020)](https://github.com/dotnet/runtime/pull/37517) `Tau`
   <!--https://learn.microsoft.com/en-us/dotnet/api/system.math.tau?view=net-7.0 -->
 - [Boost, since 1.77.0 (2021)](https://github.com/boostorg/math/pull/566) `tau`
-- [Godot game engine, since 3.3.3 (2021)](https://github.com/godotengine/godot/pull/48837) `TAU`
+- [Godot game engine/GDScript, since 3.3.3 (2021)](https://github.com/godotengine/godot/pull/48837) `TAU`
 - [Crystal, since 0.36.0 (2021)](https://github.com/crystal-lang/crystal/pull/10179) `Math::TAU`
 - [Java, OpenJDK, since 19 (2022)](https://github.com/openjdk/jdk/pull/7813) `Math.TAU`
 - [JSCAD, since 2.6.3 (2022)](https://github.com/jscad/OpenJSCAD.org/pull/1128) `TAU`
