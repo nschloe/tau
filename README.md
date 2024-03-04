@@ -696,7 +696,9 @@ n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
     <!-- = \frac{\textcolor{orange}{tau}}{crd(\textcolor{orange}{\tau} z)} -->
   <br clear="right"/>
 
-#### [Particular values of the Riemann zeta function](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
+#### [Riemann zeta function](https://en.wikipedia.org/wiki/Riemann_zeta_function)
+
+[Values at even integers:](https://en.wikipedia.org/wiki/Particular_values_of_the_Riemann_zeta_function)
 
 ```math
 \zeta(2n) = \sum_{k=1}^{\infty} \frac{1}{k^{2n}} = (-1)^{n+1} \frac{\textcolor{orange}{\tau}^{2n} B_{2n}}{2 (2n)!},
@@ -706,6 +708,12 @@ for $`n\in\mathbb{N}`$, e.g.,
 
 ```math
 \zeta(2) = \sum_{k=1}^{\infty} \frac{1}{k^2} = \frac{\textcolor{teal}{\pi}^2}{6} = \frac{\textcolor{orange}{\tau}^2}{24}
+```
+
+A reflection formula:
+
+```math
+\frac{\zeta(1-z)}{\zeta(z)} = 2 \frac{\Gamma(z)}{\textcolor{teal}{\tau}^z} \cos\left(\frac{\textcolor{teal}{\tau} z}{4}\right)
 ```
 
 #### [Weyl law](https://en.wikipedia.org/wiki/Weyl_law)
