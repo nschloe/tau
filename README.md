@@ -168,6 +168,7 @@ Articles _against_ τ:
 ### Other articles
 
 - [Stanley M. Max, _Radian Measurement: What It Is, and How to Calculate It More Easily Using τ Instead of π_, 2011](https://www.yumpu.com/en/document/view/32767957/radian-measurement-metric-philatelist)
+- [Peter Luschny, _The Bernoulli Manifesto_, 2013](https://luschny.de/math/zeta/The-Bernoulli-Manifesto.html)
 - [O.V. Vijimon, _A circle without "π"_, 2017](https://osf.io/stwxf/)
 - [Lulzim Gjyrgjialli, _Circle constant is a turn_, 2018](https://www.itisaturn.com/assets/docs/itisaturn.pdf)
 - <a
@@ -889,7 +890,3 @@ with some rational $`C_n`$ (see [here](https://en.wikipedia.org/wiki/Borwein_int
   > focus on π rather than 2π is a historical accident.
 
   <br clear="right"/>
-
-### Related texts
-
-- [Peter Luschny, The Bernoulli Manifesto, 2013](https://luschny.de/math/zeta/The-Bernoulli-Manifesto.html)
