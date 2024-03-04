@@ -713,7 +713,7 @@ for $`n\in\mathbb{N}`$, e.g.,
 A reflection formula:
 
 ```math
-\frac{\zeta(1-z)}{\zeta(z)} = 2 \frac{\Gamma(z)}{\textcolor{teal}{\tau}^z} \cos\left(\frac{\textcolor{teal}{\tau} z}{4}\right)
+\frac{\zeta(1-z)}{\zeta(z)} = 2 \frac{\Gamma(z)}{\textcolor{orange}{\tau}^z} \cos\left(\frac{\textcolor{orange}{\tau} z}{4}\right)
 ```
 
 #### [Weyl law](https://en.wikipedia.org/wiki/Weyl_law)
