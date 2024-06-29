@@ -338,6 +338,7 @@ The section _Adoption of the symbol π_ of the excellent Wikipedia article
 - [Extreme Numerics.NET](https://numerics.net/documentation/reference/extreme.mathematics.constants.twopi) `Constants.TwoPi`
 - [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703) `tau`
 - [Zig, since 0.6.0 (2019)](https://github.com/ziglang/zig/pull/3716) `tau`
+- [Manim, since 0.1.0 (2020)](https://github.com/ManimCommunity/manim/commit/42b11d284c26d25a27db1c41c61f13234f571176) `TAU`
 - [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html) `std::f64::consts::TAU`
 - [.NET, C#, since 5.0 (2020)](https://github.com/dotnet/runtime/pull/37517) `Tau`
   <!--https://learn.microsoft.com/en-us/dotnet/api/system.math.tau?view=net-7.0 -->
