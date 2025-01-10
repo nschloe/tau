@@ -27,7 +27,7 @@ Tau Manifesto](https://tauday.com/tau-manifesto), and the τ movement was born.
 </tr>
 <tr><td>
 Michael Hartl (left) and Bob Palais (right) on Tau Day 2017 (Source:
-<a href="https://twitter.com/tauday/status/880612180822851586">Twitter</a>).
+<a href="https://x.com/tauday/status/880612180822851586">Twitter</a>).
 </td></tr>
 </table-->
 
@@ -67,9 +67,8 @@ Articles _against_ τ:
 - 2011:
 
   - [Jason Palmer, BBC News, _'Tau day' marked by opponents of maths constant pi_, 2011](https://www.bbc.com/news/science-environment-13906169)
-  - [Elizabeth Landau, CNN, _On Pi Day, is 'pi' under attack?_, 2011](http://edition.cnn.com/2011/TECH/innovation/03/14/pi.tau.math/index.html)
   - [Daily Mail, _Your number's up: Why mathematicians are campaigning for pi to be replaced with alternate value tau_, 2011](https://www.dailymail.co.uk/sciencetech/article-2008963/Why-mathematicians-campaigning-pi-replaced-alternate-value-tau.html)
-  - [Duncan Geere, Wired, _Happy Pi day! Let's kill it_, 2011](https://www.wired.co.uk/article/pi-winning)
+  - [Duncan Geere, Wired, _Happy Pi day! Let's kill it_, 2011](https://www.wired.com/story/pi-winning/)
   - [Natalie Wolchover, Live Science, _Mathematicians Want to Say Goodbye to Pi_, 2011](https://www.livescience.com/14836-pi-wrong-tau.html)
   - [Drew Grant, Salon, _Pi Day threatened by tau protestors_, 2011](https://www.salon.com/2011/03/14/national_pi_day_viral_videos/)
   - [Murray Bourne, Interactive Mathematics, _Let’s drop pi_, 2011](https://www.intmath.com/blog/mathematics/lets-drop-pi-5665)
@@ -232,8 +231,8 @@ Articles _against_ τ:
 - [Crooked Stave Artisan Beer Project, _Key Lime Tau (2π)_](https://untappd.com/b/crooked-stave-artisan-beer-project-key-lime-tau-2p/1343706)
 - [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day)
 - [Mike Keith, _Pieces of Centaurs: A 768-digit mnemonic for τ = 2π_, 2011](http://www.cadaeic.net/centaurs.htm)
-- [Vitalik Buterin, _I'm boycotting pi day because tau day is better_, Twitter, 2020](https://twitter.com/vitalikbuterin/status/1238971048948830210)
-- [Elon Musk, _tau > pi_, Twitter, 2022](https://twitter.com/elonmusk/status/1496066844284928003)
+- [Vitalik Buterin, _I'm boycotting pi day because tau day is better_, Twitter, 2020](https://x.com/vitalikbuterin/status/1238971048948830210)
+- [Elon Musk, _tau > pi_, Twitter, 2022](https://x.com/elonmusk/status/1496066844284928003)
   <div align="center">
     <img src="pictures/musk.png" width="50%"/>
   </div>
@@ -328,11 +327,11 @@ The section _Adoption of the symbol π_ of the excellent Wikipedia article
 
 ### In programming
 
-- [Processing, since 2.0 (2013)](https://processing.org/reference/TAU.html) `TAU`
+- [Processing, since 2.0 (2013)](https://processing.org/reference/tau) `TAU`
 - [Raku (aka Perl 6), since 2015](https://docs.raku.org/language/terms#term_tau) `tau`
 - [Nim, since 0.14.0 (2016)](https://github.com/nim-lang/Nim/pull/3976) `TAU`
 - [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/) `math.tau`
-- [Unreal Engine, since 4.12 (2016)](https://docs.unrealengine.com/5.3/en-US/BlueprintAPI/Math/Trig/GetTAU/) `TAU`
+- [Unreal Engine, since 4.12 (2016)](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Math/Trig/GetTAU) `TAU`
 - [CSS (2018)](https://www.w3.org/TR/2018/WD-css-values-4-20180814/#angles) `turn`
 - [OpenFOAM](https://www.openfoam.com/documentation/guides/latest/api/namespaceFoam_1_1constant_1_1mathematical.html#ad9e5ddf5862462196c9159f5d761e93a) `twoPi`
 - [Extreme Numerics.NET](https://numerics.net/documentation/reference/extreme.mathematics.constants.twopi) `Constants.TwoPi`
