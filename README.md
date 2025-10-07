@@ -16,7 +16,7 @@ when π occurs in nature, it occurs as 2π most of the time. He suggests that
 2π = 6.283185... should be given a name (τ is now a fan favorite) and that it
 should be used instead of π. Some found his arguments convincing, including
 [Michael Hartl](https://www.michaelhartl.com/). In 2010, Hartl published [The
-Tau Manifesto](https://tauday.com/tau-manifesto), and the τ movement was born.
+Tau Manifesto](https://www.tauday.com/tau-manifesto), and the τ movement was born.
 <br clear="right"/>
 
 ### Scientific articles and blog posts
@@ -33,7 +33,7 @@ Michael Hartl (left) and Bob Palais (right) on Tau Day 2017 (Source:
 
 - [Bob Palais, _π is wrong!_, 2001](https://doi.org/10.1007%2FBF03026846), The Mathematical Intelligencer, volume 23, pages 7–8
 - [Bob Palais' web page](https://www.math.utah.edu/~palais/pi.html)
-- [Michael Hartl, _The Tau Manifesto_, 2010](https://tauday.com/tau-manifesto).
+- [Michael Hartl, _The Tau Manifesto_, 2010](https://www.tauday.com/tau-manifesto).
   As paperback [on
   Amazon](https://www.amazon.de/-/en/Michael-Hartl/dp/B096CXMQ3W)
 - [Joseph Lindenberg, _Tau Before It Was Cool_, 2011](https://sites.google.com/site/taubeforeitwascool/)
@@ -228,7 +228,7 @@ Articles _against_ τ:
   <div align="center">
     <img src="pictures/megapi.png" width="50%"/>
   </div>
-- [Crooked Stave Artisan Beer Project, _Key Lime Tau (2π)_](https://untappd.com/b/crooked-stave-artisan-beer-project-key-lime-tau-2p/1343706)
+- [Crooked Stave Artisan Beer Project, _Key Lime Tau (2π)_](https://untappd.com/b/crooked-stave-brewing-co-key-lime-tau-2p/1343706)
 - [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day)
 - [Mike Keith, _Pieces of Centaurs: A 768-digit mnemonic for τ = 2π_, 2011](http://www.cadaeic.net/centaurs.htm)
 - [Vitalik Buterin, _I'm boycotting pi day because tau day is better_, Twitter, 2020](https://x.com/vitalikbuterin/status/1238971048948830210)
