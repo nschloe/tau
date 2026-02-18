@@ -86,7 +86,9 @@ Articles _against_ τ:
   - [Dan Amira, Intelligencer, _Pi Is Very Slowly and Nerdily Going Out of
     Style_,
     2011](https://nymag.com/intelligencer/2011/03/pi_is_very_slowly_and_nerdily.html)
+  <!--
   - [Sebastian Anthony, Extreme Tech, _Down with pi! Today is Tau Day_, 2011](https://www.extremetech.com/extreme/88298-down-with-pi-today-is-tau-day)
+  -->
   - [Jacob Aron, New Scientist, _Pi's nemesis: Mathematics is better with tau_,
     2011](https://www.newscientist.com/article/mg20927944-300-pis-nemesis-mathematics-is-better-with-tau/)
     (Interview with M. Hartl, subscription required)
@@ -109,7 +111,7 @@ Articles _against_ τ:
 - 2013:
 
   - [Ethan Brown, _Pi vs Tau: Pi's Rebuttal_, 2013](https://coolmathstuff123.blogspot.com/2013/02/pi-vs-tau-pis-rebuttal_9.html)
-  - [Rachel, Plus Magazine, _Happy Tau Day!!_, 2013](https://plus.maths.org/content/happy-tau-day)
+  - [Rachel, Plus Magazine, _Happy Tau Day!!_, 2013](https://plus.maths.org/happy-tau-day)
   - [Dmitry Brant, _Pi is wrong! Long live Tau!_, 2013](https://dmitrybrant.com/2011/10/16/pi-is-wrong-long-live-tau)
   - [PBS, _Geeking Out on Pi Day: For the Love of Pi and the Tao of Tau_, 2013](https://www.pbs.org/newshour/science/for-the-love-of-pi-and-the-tao-of-tau)
 
