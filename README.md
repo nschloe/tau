@@ -90,7 +90,7 @@ Articles _against_ τ:
   - [Sebastian Anthony, Extreme Tech, _Down with pi! Today is Tau Day_, 2011](https://www.extremetech.com/extreme/88298-down-with-pi-today-is-tau-day)
   -->
   - [Jacob Aron, New Scientist, _Pi's nemesis: Mathematics is better with tau_,
-    2011](https://www.newscientist.com/article/mg20927944-300-pis-nemesis-mathematics-is-better-with-tau/)
+    2011](https://www.newscientist.com/article/1956216-pis-nemesis-mathematics-is-better-with-tau/)
     (Interview with M. Hartl, subscription required)
   - [Alasdair Wilkins, _Why we have to get rid of pi for the sake of good math_,
     2011](https://gizmodo.com/why-we-have-to-get-rid-of-pi-for-the-sake-of-good-math-5750275)
@@ -164,6 +164,9 @@ Articles _against_ τ:
   - [Mathnasium, _Tau: A better constant than Pi?_, 2023](https://www.mathnasium.com/blog/tau-constant-better-pi)
   - [Andrew Griffin, _Pi Day: Why some mathematicians refuse to celebrate 14 March and won't observe it_, 2023](https://www.aol.com/news/pi-day-why-mathematicians-refuse-150701047.html)
 
+- 2026:
+  - [Scientific America, _Why some mathematicians think we should abandon pi_, 2026](https://www.scientificamerican.com/article/why-some-mathematicians-think-we-should-abandon-pi/)
+
 </details>
 
 ### Other articles
@@ -232,7 +235,7 @@ Articles _against_ τ:
   </div>
 - [Crooked Stave Artisan Beer Project, _Key Lime Tau (2π)_](https://untappd.com/b/crooked-stave-brewing-co-key-lime-tau-2p/1343706)
 - [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day)
-- [Mike Keith, _Pieces of Centaurs: A 768-digit mnemonic for τ = 2π_, 2011](http://www.cadaeic.net/centaurs.htm)
+- [Mike Keith, _Pieces of Centaurs: A 768-digit mnemonic for τ = 2π_, 2011](https://www.cadaeic.net/centaurs.htm)
 - [Vitalik Buterin, _I'm boycotting pi day because tau day is better_, Twitter, 2020](https://x.com/vitalikbuterin/status/1238971048948830210)
 - [Elon Musk, _tau > pi_, Twitter, 2022](https://x.com/elonmusk/status/1496066844284928003)
   <div align="center">
