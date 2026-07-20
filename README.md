@@ -10,8 +10,8 @@
 
 <img src="pictures/hartl-palais.jpg" align="right" width="200px"/>
 
-In 2001, [Bob Palais](https://www.math.utah.edu/~palais/) wrote the article [_π
-is wrong!_](https://doi.org/10.1007%2FBF03026846), remarking on the fact that
+In 2001, [Bob Palais](https://dna-utah.org/math/) wrote the article [_π
+is wrong!_](https://doi.org/10.1007/BF03026846), remarking on the fact that
 when π occurs in nature, it occurs as 2π most of the time. He suggests that
 2π = 6.283185... should be given a name (τ is now a fan favorite) and that it
 should be used instead of π. Some found his arguments convincing, including
@@ -332,7 +332,7 @@ The section _Adoption of the symbol π_ of the excellent Wikipedia article
 
 ### In programming
 
-- [Processing, since 2.0 (2013)](https://processing.org/reference/tau) `TAU`
+- [Processing, since 2.0 (2013)](https://processing.org/reference/TAU.html) `TAU`
 - [Raku (aka Perl 6), since 2015](https://docs.raku.org/language/terms#term_tau) `tau`
 - [Nim, since 0.14.0 (2016)](https://github.com/nim-lang/Nim/pull/3976) `TAU`
 - [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/) `math.tau`
