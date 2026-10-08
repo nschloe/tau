@@ -569,7 +569,7 @@ variance 1/_N_:
   ```math
   \Gamma(z)\Gamma(1-z)
   = \frac{\textcolor{teal}{\pi}}{\sin(\textcolor{teal}{\pi} z)}
-  = \frac{\textcolor{orange}{\tau}}{\operatorname{crd}(\textcolor{orange}{\tau} z)}
+  = \frac{\textcolor{orange}{\tau}}{\mathrm{crd}(\textcolor{orange}{\tau} z)}
   ```
 
 <br clear="right"/>
