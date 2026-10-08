@@ -954,8 +954,12 @@ The section _Adoption of the symbol π_ of the excellent Wikipedia article
 
 ## In programming
 
+- [Extreme Numerics.NET, since 2005 or earlier](https://web.archive.org/web/20050322145327/http://www.extremeoptimization.com/Mathematics/Reference/Extreme.Mathematics.ConstantsMembers.html) `Constants.TwoPi`
+- [Perl, `Math::Trig`, since 1.03 (2005)](https://github.com/Perl/perl5/commit/bf5f1b4c41) `pi2`
+- [OpenFOAM, since 1.4 (2007)](https://sourceforge.net/projects/foam/files/foam/1.4/) `twoPi`
 - [Processing, since 2.0 (2013)](https://processing.org/reference/TAU.html) `TAU`
 - [p5.js, since 0.1 (2013)](https://p5js.org/reference/p5/constants/TAU/) `TAU`
+- [Elm, since 0.8 (2013)](https://github.com/elm/compiler/commit/e80f19b4) `turns`
 - [Raku (aka Perl 6), since 2015](https://docs.raku.org/language/terms#term_tau) `tau`
 - [Nim, since 0.14.0 (2016)](https://github.com/nim-lang/Nim/pull/3976) `TAU`
 - [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/) `math.tau`
@@ -964,6 +968,7 @@ The section _Adoption of the symbol π_ of the excellent Wikipedia article
 - [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703) `tau`
 - [Odin (2019)](https://github.com/odin-lang/Odin/commit/8ee41c20a) `math.TAU`, also `math.τ`
 - [Zig, since 0.6.0 (2019)](https://github.com/ziglang/zig/pull/3716) `tau`
+- [Fastly VCL (2019)](https://docs.fastly.com/changes/2019/07/31/changes) `math.TAU`
 - [Manim, since 0.1.0 (2020)](https://github.com/3b1b/manim/commit/42b11d284c26d25a27db1c41c61f13234f571176) `TAU`
 - [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html) `std::f64::consts::TAU`
   (after a [rejected attempt in 2014](https://github.com/rust-lang/rust/pull/15248))
@@ -978,17 +983,13 @@ The section _Adoption of the symbol π_ of the excellent Wikipedia article
 - [Erlang/OTP, since 26.0 (2023)](https://github.com/erlang/otp/pull/6536) `math:tau()`
 - [Unity.Mathematics, since 1.3.1 (2023)](https://docs.unity3d.com/Packages/com.unity.mathematics@1.3/api/Unity.Mathematics.math.TAU.html) `math.TAU`
 - [Garry's Mod (2023)](https://github.com/Facepunch/garrysmod/pull/2030) `math.tau`
+- [KCL (Zoo), since 0.8.0 (2023)](https://github.com/KittyCAD/modeling-app/pull/558) `TAU`
 - [Hare, since 0.24.2 (2024)](https://docs.harelang.org/math) `math::TAU`
 - [Mojo (2024)](https://github.com/modular/modular/commit/939b7e5e00446977ce7c9a3f58e129eaa08a4961) `math.tau`
 - [Luau, since release 711 (2026)](https://rfcs.luau.org/math-constants.html) `math.tau`
   (after a [rejection in 2022](https://github.com/luau-lang/luau/issues/278))
-- [Elm](https://package.elm-lang.org/packages/elm/core/latest/Basics#turns) `turns`
-- [OpenFOAM](https://api.openfoam.com/2512/namespaceFoam_1_1constant_1_1mathematical.html) `twoPi`
-- [Perl, `Math::Trig`](https://perldoc.perl.org/Math::Trig#PI) `pi2`
-- [Extreme Numerics.NET](https://numerics.net/documentation/reference/extreme.mathematics.constants.twopi) `Constants.TwoPi`
-- [Fastly VCL](https://www.fastly.com/documentation/reference/vcl/variables/math-constants-limits/math-tau/) `math.TAU`
-- [KCL (Zoo)](https://docs.zoo.dev/docs/kcl-std/consts/std-math-TAU) `TAU`
 - [Liberty Eiffel, upcoming (202x)](<https://wiki.liberty-eiffel.org/index.php/Versions_history#Curtiss_(2024.dev,_to_be_named_after_Glenn_Curtiss)>) `Tau`
+  (in the development branch [since 2016](https://github.com/LibertyEiffel/Liberty/commit/05704115c))
 
 Inclusion of a constant `tau` was _rejected_ (or at least not adopted) by the
 following projects:
