@@ -929,10 +929,11 @@ circle_, it was his goal that
 > in a circle whose diameter is 600,000 times the diameter of the earth, the
 > difference between it [the calculated circumference] and the true
 > circumference is less than a single hair, which is one sixth of the width
-> of an average barley grain, such that it [the difference] in a [circle]
-> which is smaller than that doesn't matter.
+> of an average barley grain, so that in a [circle] smaller than that one,
+> it [the difference] amounts to nothing.
 
-This translates to approximately 14 decimal digits.
+This translates to about 16 significant decimal digits, which is what nine
+sexagesimal places give.
 
 His calculations are performed in sexagesimal (base 60) digits. In section 8,
 _Transformation of the value of the circumference into the Indian digits
@@ -950,16 +951,11 @@ decimal digits:
 > is the circumference for a diameter which is two thereof.
 
 That is, al-Kashi chose the radius as his unit and computed the
-circumference for it, i.e., τ. His value
-
-```math
-6.2831853071795865
-```
-
-is τ = 6.283185307179586476… correctly rounded to 16 decimal places, as is
+circumference for it, i.e., τ. His value 6.2831853071795865 is
+τ = 6.283185307179586476… correctly rounded to 16 decimal places, as is
 his original sexagesimal result 6;16,59,28,01,34,51,46,14,50 (nine
 sexagesimal places, also for a radius of 1). This remained the most precise
-determination of the circle constant for about 180 years, until [Ludolph
+determination of the circle constant for about 170 years, until [Ludolph
 van Ceulen](https://en.wikipedia.org/wiki/Ludolph_van_Ceulen) surpassed it
 in 1596. The constant he computed was τ, not π.
 
