@@ -3,8 +3,37 @@ import matplotlib.pyplot as plt
 from math import tau
 from scipy.special import erf, gamma, factorial, zeta
 import matplotx
+from cycler import cycler
 
-with plt.style.context(matplotx.styles.dracula):
+# Two variants of every plot: the Dracula style for dark mode, and a light
+# counterpart with the same color roles (c0 blue/cyan, c1 orange, c2 green,
+# c3 red, ...) on white. The README picks one via <picture>.
+dark = dict(matplotx.styles.dracula)
+light = {
+    **dark,
+    "lines.color": "#282a36",
+    "patch.edgecolor": "#282a36",
+    "text.color": "#282a36",
+    "axes.facecolor": "white",
+    "axes.edgecolor": "#282a36",
+    "axes.labelcolor": "#282a36",
+    "xtick.color": "#282a36",
+    "ytick.color": "#282a36",
+    "grid.color": "#cccccc",
+    "figure.facecolor": "white",
+    "figure.edgecolor": "white",
+    "savefig.facecolor": "white",
+    "savefig.edgecolor": "white",
+    "axes.prop_cycle": cycler(
+        "color",
+        ["#1f77b4", "#e8710a", "#2ca02c", "#d62728", "#9467bd", "#e377c2", "#7f7f7f", "#bcbd22"],
+    ),
+}
+
+for style, suffix in [(dark, ""), (light, "-light")]:
+  with plt.style.context(style):
+    # foreground color for annotations that were hard-coded white
+    fg = plt.rcParams["text.color"]
     # cauchy
     x = np.linspace(-5.0, 5.0, 201)
     y = 1 / (1 + x**2)
@@ -12,7 +41,7 @@ with plt.style.context(matplotx.styles.dracula):
     plt.fill_between(x, y)
     plt.title(r"$\int_{-\infty}^{\infty} 1 / (1+x^2)$")
     # plt.gca().set_aspect('equal')
-    plt.savefig("cauchy.svg")
+    plt.savefig(f"cauchy{suffix}.svg")
     # plt.show()
     plt.close()
 
@@ -23,7 +52,7 @@ with plt.style.context(matplotx.styles.dracula):
     plt.fill_between(x, y)
     plt.title(r"$\int_{-1}^1 1 / \sqrt{1-x^2}$")
     # plt.gca().set_aspect('equal')
-    plt.savefig("chebyshev1.svg")
+    plt.savefig(f"chebyshev1{suffix}.svg")
     # plt.show()
     plt.close()
 
@@ -34,7 +63,7 @@ with plt.style.context(matplotx.styles.dracula):
     plt.fill_between(x, y)
     plt.title(r"$\int_{-1}^1 \sqrt{1-x^2}$")
     plt.gca().set_aspect("equal")
-    plt.savefig("chebyshev2.svg")
+    plt.savefig(f"chebyshev2{suffix}.svg")
     # plt.show()
     plt.close()
 
@@ -45,7 +74,7 @@ with plt.style.context(matplotx.styles.dracula):
     plt.plot(x, y1, label="$\mathrm{erf}$")
     plt.plot(x, y2, label="$\mathrm{erf}_1$")
     plt.legend()
-    plt.savefig("erf.svg")
+    plt.savefig(f"erf{suffix}.svg")
     plt.close()
 
     # gamma
@@ -56,7 +85,7 @@ with plt.style.context(matplotx.styles.dracula):
     plt.title("$\Gamma(x)$")
     plt.xlabel("$x$")
     plt.ylim(0.0, 100.0)
-    plt.savefig("gamma.svg")
+    plt.savefig(f"gamma{suffix}.svg")
     plt.close()
 
     # gaussian integral
@@ -70,7 +99,7 @@ with plt.style.context(matplotx.styles.dracula):
     # plt.title(r"$\int_{-\infty}^{\infty}\exp(-x^2/2)$")
     # plt.gca().set_aspect('equal')
     plt.legend()
-    plt.savefig("gaussian.svg")
+    plt.savefig(f"gaussian{suffix}.svg")
     # plt.show()
     plt.close()
 
@@ -81,7 +110,7 @@ with plt.style.context(matplotx.styles.dracula):
     plt.plot(x, y)
     plt.fill_between(x, y)
     # plt.gca().set_aspect('equal')
-    plt.savefig("laguerre.svg")
+    plt.savefig(f"laguerre{suffix}.svg")
     # plt.show()
     plt.close()
 
@@ -94,7 +123,7 @@ with plt.style.context(matplotx.styles.dracula):
     plt.semilogy(x2, y2, "-", label="Stirling", zorder=1)
     plt.xlabel("n")
     plt.legend()
-    plt.savefig("stirling.svg")
+    plt.savefig(f"stirling{suffix}.svg")
     # plt.show()
     plt.close()
 
@@ -108,7 +137,7 @@ with plt.style.context(matplotx.styles.dracula):
     # plt.plot(x, y**3, label="$sinc^3$")
     plt.fill_between(x, y**3, zorder=3, label="$sinc^3$")
     plt.legend()
-    plt.savefig("sinc.svg")
+    plt.savefig(f"sinc{suffix}.svg")
     # plt.show()
     plt.close()
 
@@ -124,7 +153,7 @@ with plt.style.context(matplotx.styles.dracula):
     # plt.plot(x, y, label="$sinc(x) sinc(x/3) sinc(x/5)$")
     plt.fill_between(x, y, zorder=1,label="$sinc(x) sinc(x/3) sinc(x/5)$")
     plt.legend()
-    plt.savefig("borwein.svg")
+    plt.savefig(f"borwein{suffix}.svg")
     # plt.show()
     plt.close()
 
@@ -136,7 +165,7 @@ with plt.style.context(matplotx.styles.dracula):
     # plt.title("$\zeta(x)$")
     # plt.xlabel("$x$")
     # # plt.ylim(0.0, 100.0)
-    # plt.savefig("zeta.svg")
+    # plt.savefig(f"zeta{suffix}.svg")
     # # plt.show()
     # plt.close()
 
@@ -146,7 +175,7 @@ with plt.style.context(matplotx.styles.dracula):
     plt.plot(x, y)
     plt.fill_between(x, y)
     plt.title(r"$\sqrt{4 - x^2} / \tau$")
-    plt.savefig("semicircle.svg")
+    plt.savefig(f"semicircle{suffix}.svg")
     plt.close()
 
     # chord / Euler reflection formula
@@ -204,7 +233,7 @@ with plt.style.context(matplotx.styles.dracula):
     ax.set_ylim(-1.45, 1.45)
     ax.axis("off")
     ax.set_title(r"$\Gamma(z)\,\Gamma(1-z) = \tau \,/\, \mathrm{crd}(\tau z)$", fontsize=14)
-    fig.savefig("chord.svg", bbox_inches="tight")
+    fig.savefig(f"chord{suffix}.svg", bbox_inches="tight")
     plt.close()
 
     # ---------------------------------------------------------------------
@@ -241,7 +270,7 @@ with plt.style.context(matplotx.styles.dracula):
     ax.set_ylim(-1.5, 1.5)
     ax.axis("off")
     ax.set_title(r"$t \mapsto e^{i\tau t}$: one full turn", fontsize=14)
-    fig.savefig("euler_identity.svg", bbox_inches="tight")
+    fig.savefig(f"euler_identity{suffix}.svg", bbox_inches="tight")
     plt.close()
 
     # ---------------------------------------------------------------------
@@ -268,7 +297,7 @@ with plt.style.context(matplotx.styles.dracula):
     ax.set_ylim(-1.45, 1.45)
     ax.axis("off")
     ax.set_title(r"$z^7 = 1$", fontsize=14)
-    fig.savefig("roots.svg", bbox_inches="tight")
+    fig.savefig(f"roots{suffix}.svg", bbox_inches="tight")
     plt.close()
 
     # ---------------------------------------------------------------------
@@ -289,24 +318,24 @@ with plt.style.context(matplotx.styles.dracula):
             [(-tau * rho0 / 2, r - rho0), (tau * rho0 / 2, r - rho0),
              (tau * rho1 / 2, r - rho1), (-tau * rho1 / 2, r - rho1)],
             closed=True, facecolor=cmap(kk / (N - 1)), edgecolor="none"))
-    ax1.plot([0, r], [0, 0], color="white", lw=1)
-    ax1.text(r / 2, 0.08, r"$r$", color="white", ha="center", fontsize=13)
+    ax1.plot([0, r], [0, 0], color=fg, lw=1)
+    ax1.text(r / 2, 0.08, r"$r$", color=fg, ha="center", fontsize=13)
     ax1.set_xlim(-1.1, 1.1)
     ax1.set_ylim(-1.1, 1.1)
     ax1.set_aspect("equal")
     ax1.axis("off")
     ax2.annotate("", xy=(tau / 2, -0.12), xytext=(-tau / 2, -0.12),
-                 arrowprops=dict(arrowstyle="<->", color="white", lw=1))
-    ax2.text(0, -0.3, r"$\tau r$", color="white", ha="center", fontsize=13)
+                 arrowprops=dict(arrowstyle="<->", color=fg, lw=1))
+    ax2.text(0, -0.3, r"$\tau r$", color=fg, ha="center", fontsize=13)
     ax2.annotate("", xy=(tau / 2 + 0.15, r), xytext=(tau / 2 + 0.15, 0),
-                 arrowprops=dict(arrowstyle="<->", color="white", lw=1))
-    ax2.text(tau / 2 + 0.3, r / 2, r"$r$", color="white", va="center", fontsize=13)
+                 arrowprops=dict(arrowstyle="<->", color=fg, lw=1))
+    ax2.text(tau / 2 + 0.3, r / 2, r"$r$", color=fg, va="center", fontsize=13)
     ax2.set_xlim(-tau / 2 - 0.2, tau / 2 + 0.6)
     ax2.set_ylim(-0.45, 1.1)
     ax2.set_aspect("equal")
     ax2.axis("off")
     fig.suptitle(r"$A = \frac{1}{2}\cdot \tau r \cdot r = \frac{1}{2}\tau r^2$", fontsize=14)
-    fig.savefig("sector.svg", bbox_inches="tight")
+    fig.savefig(f"sector{suffix}.svg", bbox_inches="tight")
     plt.close()
 
     # ---------------------------------------------------------------------
@@ -314,7 +343,7 @@ with plt.style.context(matplotx.styles.dracula):
     V = np.array([(0.0, 0.0), (3.0, 0.3), (3.8, 2.2), (1.8, 3.4), (-0.6, 2.0)])
     m = len(V)
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(8, 4), gridspec_kw={"width_ratios": [1.3, 1]})
-    ax1.add_patch(Polygon(V, closed=True, facecolor="none", edgecolor="white", lw=2))
+    ax1.add_patch(Polygon(V, closed=True, facecolor="none", edgecolor=fg, lw=2))
     angles = []
     for i in range(m):
         d_in = V[i] - V[i - 1]
@@ -343,7 +372,7 @@ with plt.style.context(matplotx.styles.dracula):
     ax2.set_aspect("equal")
     ax2.axis("off")
     ax2.set_title(r"$\sum_k \varepsilon_k = \tau$", fontsize=13)
-    fig.savefig("exterior.svg", bbox_inches="tight")
+    fig.savefig(f"exterior{suffix}.svg", bbox_inches="tight")
     plt.close()
 
     # ---------------------------------------------------------------------
@@ -378,7 +407,7 @@ with plt.style.context(matplotx.styles.dracula):
     ax2.set_aspect("equal")
     ax2.axis("off")
     ax2.set_title(r"$\oint_\gamma \kappa\,ds = \tau$", fontsize=13)
-    fig.savefig("umlaufsatz.svg", bbox_inches="tight")
+    fig.savefig(f"umlaufsatz{suffix}.svg", bbox_inches="tight")
     plt.close()
 
     # ---------------------------------------------------------------------
@@ -408,5 +437,43 @@ with plt.style.context(matplotx.styles.dracula):
     ax.set_ylim(-1.35, 1.35)
     ax.axis("off")
     ax.set_title(r"$x \mapsto \int_{-\infty}^{x} e^{is^2/2}\,ds$", fontsize=14)
-    fig.savefig("fresnel.svg", bbox_inches="tight")
+    fig.savefig(f"fresnel{suffix}.svg", bbox_inches="tight")
+    plt.close()
+
+    # ---------------------------------------------------------------------
+    # sin(13.7 tau): 13 full turns plus 0.7 of a turn
+    frac = 0.7
+    alpha = 13.7 * tau
+    fig, ax = plt.subplots(figsize=(5, 5))
+    colors = plt.rcParams["axes.prop_cycle"].by_key()["color"]
+    c0, c1, c2, c3 = colors[0], colors[1], colors[2], colors[3]
+    t = np.linspace(0, tau, 400)
+    ax.plot(np.cos(t), np.sin(t), color="gray", lw=1, alpha=0.6)
+    ax.plot([-1.15, 1.15], [0, 0], color="gray", lw=1, ls="--", alpha=0.6)
+    ax.plot([0, 0], [-1.15, 1.15], color="gray", lw=1, ls="--", alpha=0.6)
+    x, y = np.cos(alpha), np.sin(alpha)
+    # the 0.7 of a turn, as an arc with an arrow head
+    ta = np.linspace(0, frac * tau, 300)
+    ax.plot(1.08 * np.cos(ta), 1.08 * np.sin(ta), color=c1, lw=2.5)
+    ax.annotate(
+        "",
+        xy=(1.08 * np.cos(frac * tau), 1.08 * np.sin(frac * tau)),
+        xytext=(1.08 * np.cos(frac * tau - 0.02), 1.08 * np.sin(frac * tau - 0.02)),
+        arrowprops=dict(arrowstyle="-|>", color=c1, lw=2, mutation_scale=22),
+    )
+    ax.text(1.25 * np.cos(frac * tau / 2), 1.25 * np.sin(frac * tau / 2),
+            r"$0.7\,\tau$", color=c1, ha="center", va="center", fontsize=14)
+    # radius, sine and cosine
+    ax.plot([0, x], [0, y], color=c3, lw=2.5)
+    ax.plot([x, x], [0, y], color=c0, lw=3)
+    ax.plot([0, x], [0, 0], color=c2, lw=3)
+    ax.plot(x, y, "o", color=c3, ms=8)
+    ax.text(x + 0.06, y / 2, r"$\sin$", color=c0, ha="left", va="center", fontsize=14)
+    ax.text(x / 2, 0.08, r"$\cos$", color=c2, ha="center", va="bottom", fontsize=14)
+    ax.set_aspect("equal")
+    ax.set_xlim(-1.45, 1.45)
+    ax.set_ylim(-1.45, 1.45)
+    ax.axis("off")
+    ax.set_title(r"$\sin(13.7\,\tau) \approx -0.95$: 13 turns, then $0.7$ of a turn", fontsize=12)
+    fig.savefig(f"sin137{suffix}.svg", bbox_inches="tight")
     plt.close()

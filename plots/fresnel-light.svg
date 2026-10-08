@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-08T13:15:18.554965</dc:date>
+    <dc:date>2026-10-08T13:15:24.032966</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -26,7 +26,7 @@ L 291.6 317.34
 L 291.6 0 
 L 0 0 
 z
-" style="fill: #282a36"/>
+" style="fill: #ffffff"/>
   </g>
   <g id="axes_1">
    <g id="line2d_1">
@@ -563,12 +563,12 @@ L 225.770288 90.30204
 L 227.065752 91.54533 
 L 227.883506 92.190872 
 L 227.883506 92.190872 
-" clip-path="url(#p37e839d47a)" style="fill: none; stroke: #8be9fd; stroke-linecap: square"/>
+" clip-path="url(#pa42b0649a1)" style="fill: none; stroke: #1f77b4; stroke-linecap: square"/>
    </g>
    <g id="line2d_2">
     <path d="M 54.814036 262.525964 
 L 147.214036 262.525964 
-" clip-path="url(#p37e839d47a)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #808080"/>
+" clip-path="url(#pa42b0649a1)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #808080"/>
    </g>
    <g id="line2d_3">
     <path d="M 106.147369 262.525964 
@@ -601,11 +601,11 @@ L 93.938354 229.293468
 L 93.024092 228.246193 
 L 92.081804 227.224059 
 L 91.112184 226.227816 
-" clip-path="url(#p37e839d47a)" style="fill: none; stroke: #808080; stroke-linecap: square"/>
+" clip-path="url(#pa42b0649a1)" style="fill: none; stroke: #808080; stroke-linecap: square"/>
    </g>
    <g id="line2d_4">
     <defs>
-     <path id="m1f12a0d0c4" d="M 0 3 
+     <path id="mb9a0d361f9" d="M 0 3 
 C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
 C 2.683901 1.55874 3 0.795609 3 0 
 C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
@@ -615,26 +615,26 @@ C -2.683901 -1.55874 -3 -0.795609 -3 0
 C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
 C -1.55874 2.683901 -0.795609 3 0 3 
 z
-" style="stroke: #50fa7b"/>
+" style="stroke: #2ca02c"/>
     </defs>
-    <g clip-path="url(#p37e839d47a)">
-     <use xlink:href="#m1f12a0d0c4" x="236.785964" y="80.554036" style="fill: #50fa7b; stroke: #50fa7b"/>
-     <use xlink:href="#m1f12a0d0c4" x="54.814036" y="262.525964" style="fill: #50fa7b; stroke: #50fa7b"/>
+    <g clip-path="url(#pa42b0649a1)">
+     <use xlink:href="#mb9a0d361f9" x="236.785964" y="80.554036" style="fill: #2ca02c; stroke: #2ca02c"/>
+     <use xlink:href="#mb9a0d361f9" x="54.814036" y="262.525964" style="fill: #2ca02c; stroke: #2ca02c"/>
     </g>
    </g>
    <g id="patch_2">
     <path d="M 56.227361 261.112639 
 Q 145.799978 171.540022 233.396172 83.943828 
-" style="fill: none; stroke: #ffb86c; stroke-width: 2.5; stroke-linecap: round"/>
+" style="fill: none; stroke: #e8710a; stroke-width: 2.5; stroke-linecap: round"/>
     <path d="M 224.91089 86.772256 
 L 233.396172 83.943828 
 L 230.567744 92.42911 
 z
-" style="fill: #ffb86c; stroke: #ffb86c; stroke-width: 2.5; stroke-linecap: round"/>
+" style="fill: #e8710a; stroke: #e8710a; stroke-width: 2.5; stroke-linecap: round"/>
    </g>
    <g id="text_1">
     <!-- $\sqrt{\tau}\,e^{i\tau/8}$ -->
-    <g style="fill: #ffb86c" transform="translate(92.282746 170.483575) rotate(-45) scale(0.14 -0.14)">
+    <g style="fill: #e8710a" transform="translate(92.282746 170.483575) rotate(-45) scale(0.14 -0.14)">
      <defs>
       <path id="DejaVuSans-ca4" d="M 3488 5191 
 L 4078 5191 
@@ -785,7 +785,7 @@ z
    </g>
    <g id="text_3">
     <!-- $x \mapsto \int_{-\infty}^{x} e^{is^2/2}\,ds$ -->
-    <g style="fill: #f8f8f2" transform="translate(94.56 26.94) scale(0.14 -0.14)">
+    <g style="fill: #282a36" transform="translate(94.56 26.94) scale(0.14 -0.14)">
      <defs>
       <path id="DejaVuSans-Oblique-5b" d="M 3841 3500 
 L 2234 1784 
@@ -989,7 +989,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p37e839d47a">
+  <clipPath id="pa42b0649a1">
    <rect x="7.2" y="32.94" width="277.2" height="277.2"/>
   </clipPath>
  </defs>

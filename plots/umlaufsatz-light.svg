@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-08T13:15:18.084547</dc:date>
+    <dc:date>2026-10-08T13:15:23.765026</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -26,7 +26,7 @@ L 460.8 240.567603
 L 460.8 0 
 L 0 0 
 z
-" style="fill: #282a36"/>
+" style="fill: #ffffff"/>
   </g>
   <g id="axes_1">
    <g id="line2d_1">
@@ -141,7 +141,7 @@ L 206.047369 98.031169
 L 205.197003 95.550628 
 L 204.176491 93.142993 
 L 204.176491 93.142993 
-" clip-path="url(#p7dc46b25e7)" style="fill: none; stroke: #808080; stroke-width: 1.5; stroke-linecap: square"/>
+" clip-path="url(#pf530fea430)" style="fill: none; stroke: #808080; stroke-width: 1.5; stroke-linecap: square"/>
    </g>
    <g id="patch_2">
     <path d="M 203.330018 91.327726 
@@ -265,7 +265,7 @@ z
    </g>
    <g id="text_1">
     <!-- tangents along $\gamma$ -->
-    <g style="fill: #f8f8f2" transform="translate(74.085455 17.08) scale(0.13 -0.13)">
+    <g style="fill: #282a36" transform="translate(74.085455 17.08) scale(0.13 -0.13)">
      <defs>
       <path id="DejaVuSans-57" d="M 1172 4494 
 L 1172 3500 
@@ -599,7 +599,7 @@ L 434.491001 135.092007
 L 434.800273 131.172191 
 L 434.86993 128.223802 
 L 434.86993 128.223802 
-" clip-path="url(#p3377825341)" style="fill: none; stroke: #808080; stroke-opacity: 0.5; stroke-linecap: square"/>
+" clip-path="url(#p0bfcd72861)" style="fill: none; stroke: #808080; stroke-opacity: 0.5; stroke-linecap: square"/>
    </g>
    <g id="patch_14">
     <path d="M 371.590879 126.410654 
@@ -723,7 +723,7 @@ z
    </g>
    <g id="text_2">
     <!-- $\oint_\gamma \kappa\,ds = \tau$ -->
-    <g style="fill: #f8f8f2" transform="translate(340.781364 40.560165) scale(0.13 -0.13)">
+    <g style="fill: #282a36" transform="translate(340.781364 40.560165) scale(0.13 -0.13)">
      <defs>
       <path id="DejaVuSansDisplay-14" d="M 2134 5525 
 Q 2172 6263 2538 6563 
@@ -889,10 +889,10 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p7dc46b25e7">
+  <clipPath id="pf530fea430">
    <rect x="7.2" y="23.08" width="243.490909" height="210.287603"/>
   </clipPath>
-  <clipPath id="p3377825341">
+  <clipPath id="p0bfcd72861">
    <rect x="291.272727" y="47.060165" width="162.327273" height="162.327273"/>
   </clipPath>
  </defs>

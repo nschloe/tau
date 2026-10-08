@@ -23,6 +23,14 @@ should be used instead of π. Some found his arguments convincing, including
 Tau Manifesto](https://www.tauday.com/tau-manifesto), and the τ movement was born.
 <br clear="right"/>
 
+The case for τ in one paragraph: τ is one full turn, so a fraction of τ is a
+fraction of a turn and trigonometry becomes reading a clock. Where π appears
+without a 2, it is usually because of a half-turn (the π in sin(π*z*) is half
+the chord angle), a square root (√π = Γ(½) from the Gaussian integral), or
+the ½ of an integral (½τ*r*²), and the formulas below show which is which.
+Below, a full turn is written $`\textcolor{orange}{\tau}`$, and a π that is
+genuinely π is written $`\textcolor{teal}{\pi}`$.
+
 ## Some equations
 
 ### The circle
@@ -50,7 +58,10 @@ onto the _y_-axis, the cosine is the projection onto the _x_-axis.
 \end{alignat*}
 ```
 
-<img src="plots/sin137.svg" align="right" width="30%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="plots/sin137.svg">
+  <img src="plots/sin137-light.svg" align="right" width="30%">
+</picture>
 
 Trigonometric values off the grid can easily be estimated:
 
@@ -68,7 +79,10 @@ GitHub doesn't understand inline and block math in one list item
 
 #### [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
 
-<img src="plots/euler_identity.svg" align="right" width="30%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="plots/euler_identity.svg">
+  <img src="plots/euler_identity-light.svg" align="right" width="30%">
+</picture>
 
 ```math
 \exp(i \textcolor{teal}{\pi}) + 1  = 0,\quad
@@ -94,7 +108,10 @@ around the unit circle; the circle group is $`\mathbb{R}/\textcolor{orange}{\tau
 
 #### [*n*th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
 
-<img src="plots/roots.svg" align="right" width="30%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="plots/roots.svg">
+  <img src="plots/roots-light.svg" align="right" width="30%">
+</picture>
 
 ```math
 z^n = 1 \quad\Rightarrow\quad z = \exp(i\textcolor{orange}{\tau} k / n) \quad\forall k=0,\dots,n-1
@@ -108,7 +125,10 @@ The roots sit at the fractions _k_/_n_ of a full turn.
 
 #### Arc length, sector area, polygons
 
-<img src="plots/sector.svg" align="right" width="45%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="plots/sector.svg">
+  <img src="plots/sector-light.svg" align="right" width="45%">
+</picture>
 
 An angle _θ_ (in radians) cuts an arc of length _rθ_ and a sector of area
 ½ _r_²_θ_ out of a circle of radius _r_. For the full turn _θ_ = τ, this
@@ -134,7 +154,10 @@ A_n = \frac{n}{2} r^2 \sin\left(\frac{\textcolor{orange}{\tau}}{n}\right)
 \quad\to\quad \tfrac{1}{2} \textcolor{orange}{\tau} r^2 \quad (n\to\infty).
 ```
 
-<img src="plots/exterior.svg" align="right" width="45%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="plots/exterior.svg">
+  <img src="plots/exterior-light.svg" align="right" width="45%">
+</picture>
 
 Its interior angles are $`(\tfrac{1}{2} - \tfrac{1}{n})\textcolor{orange}{\tau}`$. Walking
 once around _any_ simple polygon, you turn by exactly one full revolution,
@@ -148,7 +171,10 @@ so the exterior angles always sum to
 
 #### [Total curvature](https://en.wikipedia.org/wiki/Total_curvature) of a closed plane curve
 
-<img src="plots/umlaufsatz.svg" align="right" width="45%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="plots/umlaufsatz.svg">
+  <img src="plots/umlaufsatz-light.svg" align="right" width="45%">
+</picture>
 
 The smooth version of the exterior angle sum (Hopf's _Umlaufsatz_): for a
 closed curve _γ_ with turning number _k_ (1 for a simple curve),
@@ -199,156 +225,6 @@ V = \tfrac{1}{2} \textcolor{orange}{\tau} r^2 \cdot \textcolor{orange}{\tau} R =
 |U_{n-2}| \times \textcolor{orange}{\tau} / (n - 2) & \text{otherwise}
 \end{cases}
 ```
-
-#### _n_-dimensional Gegenbauer integral over the unit ball <i>S<sub>n</sub></i>
-
-```math
-|G_n^{\lambda}|
-  = \int_{S^n} \left(1 - \sum_{i=1}^n x_i^2\right)^\lambda
-  = \begin{cases}
-    1&\text{for $n=0$}\\
-    B\left(\lambda + 1, \frac{1}{2}\right)&\text{for $n=1$}\\
-    |G_{n-2}^{\lambda}|\times \textcolor{orange}{\tau} / (2\lambda + n) & \text{otherwise}
-  \end{cases}
-```
-
-Note that the [Beta function
-_B_](https://en.wikipedia.org/wiki/Beta_function), with one argument ½,
-includes a factor $`\sqrt{\pi}`$.
-
-Special cases:
-
-- Volume of the _n_-dimensional unit ball (*λ* = 0):
-
-  ```math
-  |S_n|
-  = \begin{cases}
-  1 & \text{if } n = 0\\
-  2 & \text{if } n = 1\\
-  |S_{n-2}| \times \textcolor{orange}{\tau} / n & \text{otherwise}
-  \end{cases}
-  ```
-
-- The area of a disk (*λ* = 0, *n* = 2)
-
-  ```math
-  |S_n(r)|
-  = \frac{\textcolor{orange}{\tau}}{2} r^2
-  = \textcolor{teal}{\pi} r^2
-  ```
-
-- <img src="plots/chebyshev1.svg" align="right" width="30%"/>
-
-  *n* = 1, *λ* = −1/2
-
-  ```math
-  \int_{-1}^1 \frac{1}{\sqrt{1-x^2}} = \textcolor{teal}{\pi}
-  ```
-
-  <br clear="right"/>
-
-- <img src="plots/chebyshev2.svg" align="right" width="30%"/>
-
-  *n* = 1, *λ* = 1/2
-
-  ```math
-  \int_{-1}^1 \sqrt{1-x^2} = \frac{\textcolor{teal}{\pi}}{2}
-  ```
-
-  <br clear="right"/>
-
-#### _n_-dimensional generalized Cauchy volume (2*λ* > _n_)
-
-<img src="plots/cauchy.svg" align="right" width="30%"/>
-
-As appearing in its one-dimensional version in the [Cauchy
-distribution](https://en.wikipedia.org/wiki/Cauchy_distribution) and
-[Student's _t_
-distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution).
-
-```math
-\begin{align*}
-  |Y_n^{\lambda}|
-    &= \int_{\mathbb{R}^n} \left(1 + \sum_{i=1}^n x_i^2\right)^{-\lambda}\\
-    &= \begin{cases}
-      1&\text{for $n=0$}\\
-      B\left(\lambda - \frac{1}{2}, \frac{1}{2}\right)&\text{for $n=1$}\\
-      |Y_{n-2}^{\lambda}|\times \textcolor{orange}{\tau} / (2\lambda - n) & \text{otherwise}
-    \end{cases}
-\end{align*}
-```
-
-Note again that the [Beta function
-_B_](https://en.wikipedia.org/wiki/Beta_function), with one argument
-½, includes a factor $`\sqrt{\pi}`$. Specifically, for _n_ = 1
-and _λ_ = 1,
-
-```math
-|Y_1^1| = B(\tfrac{1}{2}, \tfrac{1}{2}) = \textcolor{teal}{\pi}.
-```
-
-<br clear="right"/>
-
-<!--
-- Consider the integral
-
-  ```math
-  \int_0^{\infty} \frac{1}{1 + x^\alpha} = \frac{\textcolor{teal}{\pi} / \alpha}{\sin(\textcolor{teal}{\pi}/\alpha)}
-  ```
-
-  for all _α_ > 1, specifically
-
-  ```math
-  \int_{-\infty}^{\infty} \frac{1}{1 + x^2} = \textcolor{teal}{\pi}.
-  ```
-
-  This is relevant in the [Cauchy
-  distribution](https://en.wikipedia.org/wiki/Cauchy_distribution).
-
-- Consider the normalization of [Student's
-  _t_-distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution),
-
-  ```math
-  V(\gamma) = \int_{-\infty}^\infty \frac{1}{\sqrt{1 + x^2/\gamma}^{\gamma+1}}
-  = \frac{\sqrt{\textcolor{teal}{\pi}\gamma} \Gamma(\gamma/2)}{\Gamma((\gamma+1) / 2)}
-  ```
-
-  for all _γ_>0. specifically,
-
-  ```math
-  \begin{align*}
-  V(1) &= \textcolor{teal}{\pi},\\
-  V(2) &= 2\sqrt{2}.
-  \end{align*}
-  ```
-
-  Interestingly, values for larger _γ_ can be determined via the recurrence
-
-  ```math
-  V(\gamma) = \frac{\sqrt{\gamma(\gamma-2)}}{\gamma-1} \times V(\gamma - 2)
-  ```
-
-  which is perhaps a bit more revealing than the closed-form expression with
-  the Gamma function evaluations.
-  -->
-
-#### _n_-dimensional generalized Laguerre volume
-
-<img src="plots/laguerre.svg" align="right" width="30%"/>
-
-```math
-\begin{align*}
-  V_n
-  &= \int_{\mathbb{R}^n} \left(\sqrt{x_1^2+\cdots+x_n^2}\right)^\alpha \exp\left(-\sqrt{x_1^2+\dots+x_n^2}\right)\\
-  &= \begin{cases}
-    2\Gamma(1+\alpha)&\text{if $n=1$}\\
-    \textcolor{orange}{\tau}\Gamma(2 + \alpha)&\text{if $n=2$}\\
-    V_{n-2} \times \textcolor{orange}{\tau} (n+\alpha-1) (n+\alpha-2) / (n-2) & \text{otherwise}
-  \end{cases}
-\end{align*}
-```
-
-<br clear="right"/>
 
 ### Complex analysis
 
@@ -481,7 +357,10 @@ J_n(x) = \frac{1}{\textcolor{orange}{\tau}} \int_0^{\textcolor{orange}{\tau}} \e
 
 #### The [sinc function](https://en.wikipedia.org/wiki/Sinc_function) and its power integrals
 
-<img src="plots/sinc.svg" align="right" width="30%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="plots/sinc.svg">
+  <img src="plots/sinc-light.svg" align="right" width="30%">
+</picture>
 
 ```math
 \int_{-\infty}^{\infty} \frac{\sin^n(x)}{x^n}\,dx
@@ -500,7 +379,10 @@ for all $`n\in\mathbb{N}`$. Specifically,
 
 #### The [Borwein integral](https://en.wikipedia.org/wiki/Borwein_integral)
 
-<img src="plots/borwein.svg" align="right" width="30%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="plots/borwein.svg">
+  <img src="plots/borwein-light.svg" align="right" width="30%">
+</picture>
 
 ```math
 \int_{-\infty}^{\infty} \prod_{k=0}^n \frac{\sin(a_k x)}{a_k x}\,dx
@@ -515,7 +397,10 @@ with some rational $`C_n`$ (see [here](https://en.wikipedia.org/wiki/Borwein_int
 
 #### [The Gaussian integral](https://en.wikipedia.org/wiki/Gaussian_integral)
 
-<img src="plots/gaussian.svg" align="right" width="30%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="plots/gaussian.svg">
+  <img src="plots/gaussian-light.svg" align="right" width="30%">
+</picture>
 
 Compare
 
@@ -536,7 +421,10 @@ distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
 #### [Error function](https://en.wikipedia.org/wiki/Error_function)
 
-<img src="plots/erf.svg" align="right" width="30%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="plots/erf.svg">
+  <img src="plots/erf-light.svg" align="right" width="30%">
+</picture>
 
 ```math
 \mathrm{erf}(z) = \frac{2}{\sqrt{\textcolor{teal}{\pi}}} \int_0^z \exp(-t^2)\, dt.
@@ -582,7 +470,10 @@ in one dimension $`h(X) = \tfrac{1}{2}\ln(\textcolor{orange}{\tau} e \sigma^2)`$
 
 #### [Fresnel integral](https://en.wikipedia.org/wiki/Fresnel_integral)
 
-<img src="plots/fresnel.svg" align="right" width="30%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="plots/fresnel.svg">
+  <img src="plots/fresnel-light.svg" align="right" width="30%">
+</picture>
 
 The Gaussian integral with an imaginary exponent:
 
@@ -599,7 +490,10 @@ between its two eyes is the value of the integral.
 
 #### [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
 
-<img src="plots/stirling.svg" align="right" width="30%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="plots/stirling.svg">
+  <img src="plots/stirling-light.svg" align="right" width="30%">
+</picture>
 
 ```math
 n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
@@ -609,7 +503,10 @@ n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
 
 #### [Wigner semicircle law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution)
 
-<img src="plots/semicircle.svg" align="right" width="30%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="plots/semicircle.svg">
+  <img src="plots/semicircle-light.svg" align="right" width="30%">
+</picture>
 
 The eigenvalue density of large random symmetric matrices with entry
 variance 1/_N_:
@@ -624,7 +521,10 @@ variance 1/_N_:
 
 #### [Particular values of the Gamma function](https://en.wikipedia.org/wiki/Particular_values_of_the_gamma_function)
 
-<img src="plots/gamma.svg" align="right" width="30%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="plots/gamma.svg">
+  <img src="plots/gamma-light.svg" align="right" width="30%">
+</picture>
 
 - Positive half-integers:
 
@@ -674,7 +574,10 @@ variance 1/_N_:
 
   <br clear="right"/>
 
-  <img src="plots/chord.svg" align="right" width="30%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="plots/chord.svg">
+    <img src="plots/chord-light.svg" align="right" width="30%">
+  </picture>
 
   Here crd(_θ_) = 2 sin(_θ_/2) is the length of the
   [chord](https://en.wikipedia.org/wiki/Chord_(geometry)) spanning an arc of
@@ -731,6 +634,170 @@ N(T) = \frac{T}{\textcolor{orange}{\tau}} \ln\frac{T}{\textcolor{orange}{\tau} e
 = \textcolor{orange}{\tau}^{-d}\omega_d \mathrm{vol}(\Omega)
 ```
 
+### Higher-dimensional volume recurrences
+
+#### _n_-dimensional Gegenbauer integral over the unit ball <i>S<sub>n</sub></i>
+
+```math
+|G_n^{\lambda}|
+  = \int_{S_n} \left(1 - \sum_{i=1}^n x_i^2\right)^\lambda
+  = \begin{cases}
+    1&\text{for $n=0$}\\
+    B\left(\lambda + 1, \frac{1}{2}\right)&\text{for $n=1$}\\
+    |G_{n-2}^{\lambda}|\times \textcolor{orange}{\tau} / (2\lambda + n) & \text{otherwise}
+  \end{cases}
+```
+
+Note that the [Beta function
+_B_](https://en.wikipedia.org/wiki/Beta_function), with one argument ½,
+includes a factor $`\sqrt{\pi}`$.
+
+Special cases:
+
+- Volume of the _n_-dimensional unit ball (*λ* = 0):
+
+  ```math
+  |S_n|
+  = \begin{cases}
+  1 & \text{if } n = 0\\
+  2 & \text{if } n = 1\\
+  |S_{n-2}| \times \textcolor{orange}{\tau} / n & \text{otherwise}
+  \end{cases}
+  ```
+
+- The area of a disk (*λ* = 0, *n* = 2)
+
+  ```math
+  |S_n(r)|
+  = \frac{\textcolor{orange}{\tau}}{2} r^2
+  = \textcolor{teal}{\pi} r^2
+  ```
+
+- <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="plots/chebyshev1.svg">
+    <img src="plots/chebyshev1-light.svg" align="right" width="30%">
+  </picture>
+
+  *n* = 1, *λ* = −1/2
+
+  ```math
+  \int_{-1}^1 \frac{1}{\sqrt{1-x^2}} = \textcolor{teal}{\pi}
+  ```
+
+  <br clear="right"/>
+
+- <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="plots/chebyshev2.svg">
+    <img src="plots/chebyshev2-light.svg" align="right" width="30%">
+  </picture>
+
+  *n* = 1, *λ* = 1/2
+
+  ```math
+  \int_{-1}^1 \sqrt{1-x^2} = \frac{\textcolor{teal}{\pi}}{2}
+  ```
+
+  <br clear="right"/>
+
+#### _n_-dimensional generalized Cauchy volume (2*λ* > _n_)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="plots/cauchy.svg">
+  <img src="plots/cauchy-light.svg" align="right" width="30%">
+</picture>
+
+As appearing in its one-dimensional version in the [Cauchy
+distribution](https://en.wikipedia.org/wiki/Cauchy_distribution) and
+[Student's _t_
+distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution).
+
+```math
+\begin{align*}
+  |Y_n^{\lambda}|
+    &= \int_{\mathbb{R}^n} \left(1 + \sum_{i=1}^n x_i^2\right)^{-\lambda}\\
+    &= \begin{cases}
+      1&\text{for $n=0$}\\
+      B\left(\lambda - \frac{1}{2}, \frac{1}{2}\right)&\text{for $n=1$}\\
+      |Y_{n-2}^{\lambda}|\times \textcolor{orange}{\tau} / (2\lambda - n) & \text{otherwise}
+    \end{cases}
+\end{align*}
+```
+
+Note again that the [Beta function
+_B_](https://en.wikipedia.org/wiki/Beta_function), with one argument
+½, includes a factor $`\sqrt{\pi}`$. Specifically, for _n_ = 1
+and _λ_ = 1,
+
+```math
+|Y_1^1| = B(\tfrac{1}{2}, \tfrac{1}{2}) = \textcolor{teal}{\pi}.
+```
+
+<br clear="right"/>
+
+<!--
+- Consider the integral
+
+  ```math
+  \int_0^{\infty} \frac{1}{1 + x^\alpha} = \frac{\textcolor{teal}{\pi} / \alpha}{\sin(\textcolor{teal}{\pi}/\alpha)}
+  ```
+
+  for all _α_ > 1, specifically
+
+  ```math
+  \int_{-\infty}^{\infty} \frac{1}{1 + x^2} = \textcolor{teal}{\pi}.
+  ```
+
+  This is relevant in the [Cauchy
+  distribution](https://en.wikipedia.org/wiki/Cauchy_distribution).
+
+- Consider the normalization of [Student's
+  _t_-distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution),
+
+  ```math
+  V(\gamma) = \int_{-\infty}^\infty \frac{1}{\sqrt{1 + x^2/\gamma}^{\gamma+1}}
+  = \frac{\sqrt{\textcolor{teal}{\pi}\gamma} \Gamma(\gamma/2)}{\Gamma((\gamma+1) / 2)}
+  ```
+
+  for all _γ_>0. specifically,
+
+  ```math
+  \begin{align*}
+  V(1) &= \textcolor{teal}{\pi},\\
+  V(2) &= 2\sqrt{2}.
+  \end{align*}
+  ```
+
+  Interestingly, values for larger _γ_ can be determined via the recurrence
+
+  ```math
+  V(\gamma) = \frac{\sqrt{\gamma(\gamma-2)}}{\gamma-1} \times V(\gamma - 2)
+  ```
+
+  which is perhaps a bit more revealing than the closed-form expression with
+  the Gamma function evaluations.
+  -->
+
+#### _n_-dimensional generalized Laguerre volume
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="plots/laguerre.svg">
+  <img src="plots/laguerre-light.svg" align="right" width="30%">
+</picture>
+
+```math
+\begin{align*}
+  V_n
+  &= \int_{\mathbb{R}^n} \left(\sqrt{x_1^2+\cdots+x_n^2}\right)^\alpha \exp\left(-\sqrt{x_1^2+\dots+x_n^2}\right)\\
+  &= \begin{cases}
+    2\Gamma(1+\alpha)&\text{if $n=1$}\\
+    \textcolor{orange}{\tau}\Gamma(2 + \alpha)&\text{if $n=2$}\\
+    V_{n-2} \times \textcolor{orange}{\tau} (n+\alpha-1) (n+\alpha-2) / (n-2) & \text{otherwise}
+  \end{cases}
+\end{align*}
+```
+
+<br clear="right"/>
+
 ### Physics
 
 **Mechanics**
@@ -759,10 +826,6 @@ N(T) = \frac{T}{\textcolor{orange}{\tau}} \ln\frac{T}{\textcolor{orange}{\tau} e
   ```math
   T = \textcolor{orange}{\tau} \sqrt{\frac{m}{k}}
   ```
-- The buckling formula:
-  ```math
-  F = \frac{\textcolor{orange}{\tau}^2 EI}{4L^2}
-  ```
 
 **Waves and circuits**
 
@@ -785,11 +848,6 @@ N(T) = \frac{T}{\textcolor{orange}{\tau}} \ln\frac{T}{\textcolor{orange}{\tau} e
 
 **Electromagnetism**
 
-- Coulomb's law for the electric force in vacuum:
-
-  ```math
-  F = \frac{|q_1 q_2|}{2\textcolor{orange}{\tau} \varepsilon_0 r^2}
-  ```
 - Electric field of an infinite line charge:
   ```math
   E = \frac{\lambda}{\textcolor{orange}{\tau} \varepsilon_0 r}
@@ -801,10 +859,6 @@ N(T) = \frac{T}{\textcolor{orange}{\tau}} \ln\frac{T}{\textcolor{orange}{\tau} e
 - Force per length between two parallel wires:
   ```math
   \frac{F}{L} = \frac{\mu_0 I_1 I_2}{\textcolor{orange}{\tau} d}
-  ```
-- Magnetic permeability of free space:
-  ```math
-  \mu_0 \approx 2\textcolor{orange}{\tau} \times 10^{-7} N/A^2
   ```
 - Cyclotron frequency of a charge in a magnetic field:
   ```math
@@ -819,23 +873,12 @@ N(T) = \frac{T}{\textcolor{orange}{\tau}} \ln\frac{T}{\textcolor{orange}{\tau} e
   ```
 - Heisenberg's uncertainty principle:
   ```math
-  \Delta x \Delta p \ge \frac{h}{2 \textcolor{orange}{\tau}}
+  \Delta x \Delta p \ge \frac{\hbar}{2} = \frac{h}{2\textcolor{orange}{\tau}}
   ```
 - Bohr's quantization condition: an integer number of de Broglie
   wavelengths fit on the orbit,
   ```math
   n \lambda = \textcolor{orange}{\tau} r \quad\Leftrightarrow\quad L = n \frac{h}{\textcolor{orange}{\tau}} = n\hbar
-  ```
-
-**Gravitation**
-
-- Einstein's field equation of general relativity:
-  ```math
-  R_{\mu\nu} = \frac{4\textcolor{orange}{\tau} G}{c^4} T_{\mu\nu}
-  ```
-- Cosmological constant:
-  ```math
-  \Lambda = \frac{4\textcolor{orange}{\tau} G}{3c^2} \rho
   ```
 
 **Fluid dynamics**
@@ -848,6 +891,25 @@ N(T) = \frac{T}{\textcolor{orange}{\tau}} \ln\frac{T}{\textcolor{orange}{\tau} e
   theory):
   ```math
   C_L = \textcolor{orange}{\tau} \alpha
+  ```
+
+**Where the constant is a sphere area**
+
+In the following, the 4π is not two full turns but the surface area of the
+unit sphere, $`|U_3| = 2\textcolor{orange}{\tau}`$ (see the fundamental
+solution of the Laplacian above). τ does not simplify these.
+
+- Coulomb's law for the electric force in vacuum:
+  ```math
+  F = \frac{|q_1 q_2|}{2\textcolor{orange}{\tau} \varepsilon_0 r^2}
+  ```
+- Einstein's field equation of general relativity:
+  ```math
+  R_{\mu\nu} = \frac{4\textcolor{orange}{\tau} G}{c^4} T_{\mu\nu}
+  ```
+- Cosmological constant:
+  ```math
+  \Lambda = \frac{4\textcolor{orange}{\tau} G}{3c^2} \rho
   ```
 
 ## Historical uses
@@ -1179,14 +1241,18 @@ Articles _against_ τ:
 
 - [Phil A. Smith, _Trigonometry With Tau as Circle Constant_, 2015](https://taufortrig.org/docs/trigbook.pdf)
 - [Phil A. Smith, _College Trigonometry With Extensive Use of the Tau Transcendental_, 2015](https://taufortrig.org/docs/AlgTrigBookprint.pdf)
-- [Michael Hartl, _Learn enough Python to be dangerous_, 2023](https://www.learnenough.com/python)
+- [Michael Hartl, _Learn enough Python to be dangerous_, 2023](https://www.learnenough.com/python) (uses τ throughout)
 
 ## Videos
+
+<details>
+<summary>Click to expand</summary>
 
 - [Vihart, _Pi Is (still) Wrong_, 2011](https://youtu.be/jG7vhMMXagQ)
 - [Michael Blake, _What Tau Sounds Like_, 2011](https://youtu.be/3174T-3-59Q)
 - [Kevin Houston, _Pi is wrong! Here comes Tau Day_, 2011](https://youtu.be/IF1zcRoOVN0)
 - [Matheatre1, _6.283..._, 2011](https://youtu.be/uAFU-K4M9Ck)
+- [Khan Academy, _Tau versus pi_, 2011](https://youtu.be/1jDDfkKKgmc)
 - [David Butler, _Pi may be wrong, but so is Tau!_, 2011](https://www.youtube.com/watch?v=1qpVdwizdvI)
 - [Michael Hartl, _No, really, pi is wrong: The Tau Manifesto_, 2012](https://youtu.be/H69YH5TnNXI)
 - [Numberphile, _Tau replaces Pi_, 2012](https://youtu.be/83ofi_L6eAo)
@@ -1203,9 +1269,10 @@ Articles _against_ τ:
 - [HDSQ, _Tau the Song with 6.28318 Million Notes_, 2019](https://youtu.be/b0gyQMJHQ78)
 - [BriTheMathGuy, _It's Tau Day (but should you care?)_, 2020](https://youtu.be/qifarbO4yX8)
 - [Mathstreet Boys, _Larger Than Pi (Tau Day Parody) | Larger Than Life_, 2020](https://www.youtube.com/watch?v=bUmiWUfMrvk)
-- [Khan Academy, _Tau versus pi_, 2021](https://youtu.be/1jDDfkKKgmc)
 - [EasyMemory, _Writing 1,000 decimals of Tau (2x Pi) from memory_, 2021](https://youtu.be/x41_CRWpgLc)
 - [sudgylacmoe, _The Tau Manifesto - With Michael Hartl_, 2023](https://youtu.be/kMtgV18Iew8)
+
+</details>
 
 ## News articles and blog posts
 
