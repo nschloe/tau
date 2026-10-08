@@ -1040,34 +1040,6 @@ following projects:
 
   <br clear="right"/>
 
-- <img src="pictures/benjamin.jpg" align="right" width="200px"/>
-
-  [Arthur Benjamin](https://en.wikipedia.org/wiki/Arthur_T._Benjamin) (2013, [Twitter
-  Q&A](https://laughmaths.blogspot.com/2013/07/arthur-benjamin-man-maths-magician-part_15.html)):
-
-  > I’m a big tau lover. I agree with the statement that if we could go back in
-  > time and change the factor to tau we would have simplified our theorems and
-  > formulas. Obviously, it will be very hard to change people’s perceptions in
-  > order to use tau, but maybe in mathematics there is enough of a will to do such
-  > a thing. I’ve seen books now that proudly claim “tau certified”.
-
-  <sub>Photo: AllenS, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Arthur_Benjamin_Washington_2009.jpg).</sub>
-
-  <br clear="right"/>
-
-- <img src="pictures/baez.jpg" align="right" width="200px"/>
-
-  [John Baez](https://en.wikipedia.org/wiki/John_C._Baez) (2022, from [12
-  numbers that are cooler than
-  pi](https://www.livescience.com/64987-numbers-as-cool-as-pi.html)):
-
-  > Using τ makes every formula clearer and more logical than using π. Our
-  > focus on π rather than 2π is a historical accident.
-
-  <sub>Photo: John Baez, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Baez,_physicist_(2009).jpg).</sub>
-
-  <br clear="right"/>
-
 - <img src="pictures/khan.jpg" align="right" width="200px"/>
 
   [Sal Khan](https://en.wikipedia.org/wiki/Sal_Khan) (2011, in the Khan
@@ -1115,6 +1087,34 @@ following projects:
   > Although π has been the subject of books, feature films, biblical
   > debates, and pages upon pages of mathematical lore, it is, in the end,
   > only half the story.
+
+- <img src="pictures/benjamin.jpg" align="right" width="200px"/>
+
+  [Arthur Benjamin](https://en.wikipedia.org/wiki/Arthur_T._Benjamin) (2013, [Twitter
+  Q&A](https://laughmaths.blogspot.com/2013/07/arthur-benjamin-man-maths-magician-part_15.html)):
+
+  > I’m a big tau lover. I agree with the statement that if we could go back in
+  > time and change the factor to tau we would have simplified our theorems and
+  > formulas. Obviously, it will be very hard to change people’s perceptions in
+  > order to use tau, but maybe in mathematics there is enough of a will to do such
+  > a thing. I’ve seen books now that proudly claim “tau certified”.
+
+  <sub>Photo: AllenS, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Arthur_Benjamin_Washington_2009.jpg).</sub>
+
+  <br clear="right"/>
+
+- <img src="pictures/baez.jpg" align="right" width="200px"/>
+
+  [John Baez](https://en.wikipedia.org/wiki/John_C._Baez) (2022, from [12
+  numbers that are cooler than
+  pi](https://www.livescience.com/64987-numbers-as-cool-as-pi.html)):
+
+  > Using τ makes every formula clearer and more logical than using π. Our
+  > focus on π rather than 2π is a historical accident.
+
+  <sub>Photo: John Baez, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Baez,_physicist_(2009).jpg).</sub>
+
+  <br clear="right"/>
 
 ## In pop culture
 
