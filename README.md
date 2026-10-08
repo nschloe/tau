@@ -426,6 +426,8 @@ GitHub doesn't understand inline and block math in one list item
 
 #### Arc length, sector area, polygons
 
+<img src="plots/sector.svg" align="right" width="45%"/>
+
 An angle _θ_ (in radians) cuts an arc of length _rθ_ and a sector of area
 ½ _r_²_θ_ out of a circle of radius _r_. For the full turn _θ_ = τ, this
 gives circumference and area of the circle:
@@ -437,7 +439,10 @@ A = \tfrac{1}{2} \textcolor{orange}{\tau} r^2
 
 The ½ in the area is the same ½ as in ½ _mv_², ½ _kx_², ½ _gt_²: it comes
 from integrating a linear function, $`\int_0^r \textcolor{orange}{\tau} s\,ds`$. Writing π*r*²
-hides it.
+hides it. (Picture: cut the disk into thin rings and lay them out as
+strips; the result is a triangle with base τ*r* and height _r_.)
+
+<br clear="right"/>
 
 A regular _n_-gon with circumradius _r_ consists of _n_ isosceles triangles
 with apex angle τ/_n_, so
@@ -447,6 +452,8 @@ A_n = \frac{n}{2} r^2 \sin\left(\frac{\textcolor{orange}{\tau}}{n}\right)
 \quad\to\quad \tfrac{1}{2} \textcolor{orange}{\tau} r^2 \quad (n\to\infty).
 ```
 
+<img src="plots/exterior.svg" align="right" width="45%"/>
+
 Its interior angles are $`(\tfrac{1}{2} - \tfrac{1}{n})\textcolor{orange}{\tau}`$. Walking
 once around _any_ simple polygon, you turn by exactly one full revolution,
 so the exterior angles always sum to
@@ -455,7 +462,11 @@ so the exterior angles always sum to
 \sum_k \varepsilon_k = \textcolor{orange}{\tau}.
 ```
 
+<br clear="right"/>
+
 #### [Total curvature](https://en.wikipedia.org/wiki/Total_curvature) of a closed plane curve
+
+<img src="plots/umlaufsatz.svg" align="right" width="45%"/>
 
 The smooth version of the exterior angle sum (Hopf's _Umlaufsatz_): for a
 closed curve _γ_ with turning number _k_ (1 for a simple curve),
@@ -463,6 +474,11 @@ closed curve _γ_ with turning number _k_ (1 for a simple curve),
 ```math
 \oint_\gamma \kappa\,ds = k\,\textcolor{orange}{\tau}.
 ```
+
+The unit tangent vector, carried along the curve, sweeps the unit circle
+exactly _k_ times.
+
+<br clear="right"/>
 
 #### [Gauss–Bonnet theorem](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem)
 
@@ -675,6 +691,8 @@ distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
 #### [Fresnel integral](https://en.wikipedia.org/wiki/Fresnel_integral)
 
+<img src="plots/fresnel.svg" align="right" width="30%"/>
+
 The Gaussian integral with an imaginary exponent:
 
 ```math
@@ -682,6 +700,11 @@ The Gaussian integral with an imaginary exponent:
 ```
 
 that is, $`\sqrt{\textcolor{orange}{\tau}}`$ rotated by one eighth of a turn.
+Plotted as a path in the complex plane, the partial integrals trace the
+[Euler spiral](https://en.wikipedia.org/wiki/Euler_spiral); the vector
+between its two eyes is the value of the integral.
+
+<br clear="right"/>
 
 #### [Multivariate normal distribution](https://en.wikipedia.org/wiki/Multivariate_normal_distribution)
 
@@ -841,16 +864,31 @@ In both cases, the argument of exp is _i_ times a fraction of a full turn.
 
 #### [*n*th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
 
+<img src="plots/roots.svg" align="right" width="30%"/>
+
 ```math
 z^n = 1 \quad\Rightarrow\quad z = \exp(i\textcolor{orange}{\tau} k / n) \quad\forall k=0,\dots,n-1
 ```
 
+The roots sit at the fractions _k_/_n_ of a full turn.
+
+<br clear="right"/>
+
 #### [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
+
+<img src="plots/euler_identity.svg" align="right" width="30%"/>
 
 ```math
 \exp(i \textcolor{teal}{\pi}) + 1  = 0,\quad
-\exp(i \textcolor{orange}{\tau}) - 1 = 0
+\exp(i \textcolor{orange}{\tau}/2) + 1 = 0
 ```
+
+As _t_ runs from 0 to 1, $`\exp(i\textcolor{orange}{\tau} t)`$ runs once
+around the unit circle and comes back to where it started: a full turn is
+the identity, $`\exp(i\textcolor{orange}{\tau}) = 1`$. The famous
+$`\exp(i\textcolor{teal}{\pi}) = -1`$ is the half-way point.
+
+<br clear="right"/>
 
 #### Periodicity of the [complex exponential](https://en.wikipedia.org/wiki/Exponential_function#Complex_plane)
 
