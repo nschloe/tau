@@ -1017,13 +1017,15 @@ following projects:
   > involving π<sup><i>n</i></sup> depend on the parity of _n_ is another
   > clue in this regard.
 
+  <sub>Photo: Ivonne Vetter / Mathematisches Forschungsinstitut Oberwolfach, [CC BY-SA 2.0 de](https://creativecommons.org/licenses/by-sa/2.0/de/deed.en), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Terence_C._Tao_Oberwolfach_2012.jpg).</sub>
+
   <br clear="right"/>
 
 - <img src="pictures/conway.jpg" align="right" width="200px"/>
 
   [John Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) (2008, from
   [Constant
-  Failure](https://www.math.utah.edu/~palais/ConstantFailure-32679.html) by
+  Failure](https://physicsworld.com/a/constant-failure/), Physics World, by
   Robert P Crease):
 
   > [...]
@@ -1033,6 +1035,8 @@ following projects:
   > correct constant!” he told me immediately — although he also told me of
   > arguments, which he did not find persuasive, for a third option, π/2.
   > [...]
+
+  <sub>Photo: Thane Plambeck, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_H_Conway_2005_(cropped)_(2).jpg).</sub>
 
   <br clear="right"/>
 
@@ -1047,6 +1051,8 @@ following projects:
   > order to use tau, but maybe in mathematics there is enough of a will to do such
   > a thing. I’ve seen books now that proudly claim “tau certified”.
 
+  <sub>Photo: AllenS, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Arthur_Benjamin_Washington_2009.jpg).</sub>
+
   <br clear="right"/>
 
 - <img src="pictures/baez.jpg" align="right" width="200px"/>
@@ -1058,7 +1064,57 @@ following projects:
   > Using τ makes every formula clearer and more logical than using π. Our
   > focus on π rather than 2π is a historical accident.
 
+  <sub>Photo: John Baez, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Baez,_physicist_(2009).jpg).</sub>
+
   <br clear="right"/>
+
+- <img src="pictures/khan.jpg" align="right" width="200px"/>
+
+  [Sal Khan](https://en.wikipedia.org/wiki/Sal_Khan) (2011, in the Khan
+  Academy video [_Tau versus pi_](https://youtu.be/1jDDfkKKgmc)):
+
+  > If someone tells you that they have an angle of 10 tau radians, you'd go
+  > around exactly 10 times. It would be much more intuitive. You wouldn't
+  > have to do this little mental math, converting, saying, do I multiply or
+  > divide by 2 when I convert to radians in terms of pi? No, when you do it
+  > in terms of tau radians, it's just natural.
+
+  and, after deriving e<sup>iτ</sup> = 1:
+
+  > I'll leave it up to you to decide which one seems to be more aesthetically
+  > profound.
+
+  <sub>Photo: Steve Jurvetson, [CC BY
+  2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia
+  Commons](https://commons.wikimedia.org/wiki/File:Salman_Khan_TED_2011.jpg).</sub>
+
+  <br clear="right"/>
+
+- [Kevin Houston](https://www.kevinhouston.net/) (University of Leeds, 2011,
+  to [Live Science](https://www.livescience.com/14836-pi-wrong-tau.html)):
+
+  > There are 2pi radians in a circle. This means one quarter of a circle
+  > corresponds to half of pi. That is, one quarter corresponds to a half.
+  > That's crazy. Similarly, three quarters of a circle is three halves of
+  > pi. Three quarters corresponds to three halves!
+
+  > There is no need for pi to be eradicated. You might say I'm not anti-pi,
+  > I'm pro-tau.
+
+- [Stephen Abbott](https://www.middlebury.edu/college/people/stephen-abbott)
+  (Middlebury College, 2012, in [_Aftermath: My Conversion to
+  Tauism_](https://doi.org/10.4169/mathhorizons.19.4.34), Math Horizons):
+
+  > I was standing at the chalkboard giving a calculus lecture and came
+  > across cos(τ/2) in the midst of some larger calculation. "The cosine is
+  > the x-coordinate of the point on the unit circle," I said to my trusting
+  > students, "and we are 1/2 of the way around the circle, so cos(τ/2) =
+  > −1." A long pause followed as I listened to my words echo around the
+  > room. Thank heaven I have tenure, I thought to myself.
+
+  > Although π has been the subject of books, feature films, biblical
+  > debates, and pages upon pages of mathematical lore, it is, in the end,
+  > only half the story.
 
 ## In pop culture
 
@@ -1078,10 +1134,10 @@ following projects:
 - [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day)
 - [Mike Keith, _Pieces of Centaurs: A 768-digit mnemonic for τ = 2π_, 2011](https://www.cadaeic.net/centaurs.htm)
 - [Vitalik Buterin, _I'm boycotting pi day because tau day is better_, Twitter, 2020](https://x.com/vitalikbuterin/status/1238971048948830210)
-- [Elon Musk, _tau > pi_, Twitter, 2022](https://x.com/elonmusk/status/1496066844284928003)
-  <div align="center">
-    <img src="pictures/musk.png" width="50%"/>
-  </div>
+- [Elon Musk, Twitter, 2022](https://x.com/elonmusk/status/1496066844284928003),
+  replying to his own tweet "ℏ":
+
+  > tau > pi
 
 ## Scientific articles and essays
 
@@ -1259,12 +1315,12 @@ Articles _against_ τ:
 
 - 2022:
 
+  - [Live Science, _12 numbers that are cooler than pi_, 2022](https://www.livescience.com/64987-numbers-as-cool-as-pi.html)
   <!-- - [Andrea Zhao, The Varsity, _Tau versus pi: the unresolved battle_, 2022](https://thevarsity.ca/2022/06/28/tau-day-two-pi-mathematics/) -->
   - [Mary Bilyeu, _Double both pi and pie on Tau Day_, 2022](https://www.toledoblade.com/a-e/food/2022/06/26/june-28-tau-pie-day/stories/20220626002)
 
 - 2023:
 
-  - [Live Science, _12 numbers that are cooler than pi_, 2023](https://www.livescience.com/64987-numbers-as-cool-as-pi.html)
   - [Mathnasium, _Tau: A better constant than Pi?_, 2023](https://www.mathnasium.com/blog/tau-constant-better-pi)
   - [Andrew Griffin, _Pi Day: Why some mathematicians refuse to celebrate 14 March and won't observe it_, 2023](https://www.aol.com/news/pi-day-why-mathematicians-refuse-150701047.html)
 
