@@ -572,33 +572,33 @@ variance 1/_N_:
   = \frac{\textcolor{orange}{\tau}}{\operatorname{crd}(\textcolor{orange}{\tau} z)}
   ```
 
-  <br clear="right"/>
+<br clear="right"/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="plots/chord.svg">
-    <img src="plots/chord-light.svg" align="right" width="30%">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="plots/chord.svg">
+  <img src="plots/chord-light.svg" align="right" width="30%">
+</picture>
 
-  Here crd(_θ_) = 2 sin(_θ_/2) is the length of the
-  [chord](https://en.wikipedia.org/wiki/Chord_(geometry)) spanning an arc of
-  angle _θ_ on the unit circle, i.e., the distance between 1 and
-  $`e^{i\theta}`$. Walk a fraction _z_ of a full turn around the circle;
-  Γ(_z_)Γ(1−_z_) is τ divided by the straight-line distance between start and
-  end point. The "half turn" π in sin(π*z*) is the half-angle that always
-  appears in a chord (bisect the isosceles triangle). The chord picture also
-  shows the two defining features of the formula: the symmetry _z_ ↔ 1−_z_
-  (the complementary arc has the same chord), and the poles at the integers
-  (after whole turns, the chord has length 0).
+Here crd(_θ_) = 2 sin(_θ_/2) is the length of the
+[chord](https://en.wikipedia.org/wiki/Chord_(geometry)) spanning an arc of
+angle _θ_ on the unit circle, i.e., the distance between 1 and
+$`e^{i\theta}`$. Walk a fraction _z_ of a full turn around the circle;
+Γ(_z_)Γ(1 − *z*) is τ divided by the straight-line distance between start and
+end point. The "half turn" π in sin(π*z*) is the half-angle that always
+appears in a chord (bisect the isosceles triangle). The chord picture also
+shows the two defining features of the formula: the symmetry _z_ ↔ 1 − *z*
+(the complementary arc has the same chord), and the poles at the integers
+(after whole turns, the chord has length 0).
 
-  Analytically, the chord comes from evaluating
-  $`\Gamma(z)\Gamma(1-z) = \int_0^\infty t^{z-1}/(1+t)\,dt`$ with a keyhole
-  contour: going once around the branch cut multiplies the integrand by
-  $`e^{i\textcolor{orange}{\tau} z}`$, which gives the chord vector
-  $`e^{i\textcolor{orange}{\tau} z} - 1`$, and the only pole sits at
-  $`-1 = e^{i\textcolor{orange}{\tau}/2}`$, exactly half a turn from the
-  cut.
+Analytically, the chord comes from evaluating
+$`\Gamma(z)\Gamma(1-z) = \int_0^\infty t^{z-1}/(1+t)\,dt`$ with a keyhole
+contour: going once around the branch cut multiplies the integrand by
+$`e^{i\textcolor{orange}{\tau} z}`$, which gives the chord vector
+$`e^{i\textcolor{orange}{\tau} z} - 1`$, and the only pole sits at
+$`-1 = e^{i\textcolor{orange}{\tau}/2}`$, exactly half a turn from the
+cut.
 
-  <br clear="right"/>
+<br clear="right"/>
 
 #### [Riemann zeta function](https://en.wikipedia.org/wiki/Riemann_zeta_function)
 
