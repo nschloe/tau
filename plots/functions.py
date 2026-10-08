@@ -139,3 +139,12 @@ with plt.style.context(matplotx.styles.dracula):
     # plt.savefig("zeta.svg")
     # # plt.show()
     # plt.close()
+
+    # wigner semicircle
+    x = np.linspace(-2.0, 2.0, 201)
+    y = np.sqrt(4.0 - x**2) / tau
+    plt.plot(x, y)
+    plt.fill_between(x, y)
+    plt.title(r"$\sqrt{4 - x^2} / \tau$")
+    plt.savefig("semicircle.svg")
+    plt.close()

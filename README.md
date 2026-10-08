@@ -405,6 +405,72 @@ GitHub doesn't understand inline and block math in one list item
 
 <br clear="right"/>
 
+#### Arc length, sector area, polygons
+
+An angle _θ_ (in radians) cuts an arc of length _rθ_ and a sector of area
+½ _r_²_θ_ out of a circle of radius _r_. For the full turn _θ_ = τ, this
+gives circumference and area of the circle:
+
+```math
+C = \textcolor{orange}{\tau} r,\qquad
+A = \tfrac{1}{2} \textcolor{orange}{\tau} r^2
+```
+
+The ½ in the area is the same ½ as in ½ _mv_², ½ _kx_², ½ _gt_²: it comes
+from integrating a linear function, $`\int_0^r \textcolor{orange}{\tau} s\,ds`$. Writing π*r*²
+hides it.
+
+A regular _n_-gon with circumradius _r_ consists of _n_ isosceles triangles
+with apex angle τ/_n_, so
+
+```math
+A_n = \frac{n}{2} r^2 \sin\left(\frac{\textcolor{orange}{\tau}}{n}\right)
+\quad\to\quad \tfrac{1}{2} \textcolor{orange}{\tau} r^2 \quad (n\to\infty).
+```
+
+Its interior angles are $`(\tfrac{1}{2} - \tfrac{1}{n})\textcolor{orange}{\tau}`$. Walking
+once around _any_ simple polygon, you turn by exactly one full revolution,
+so the exterior angles always sum to
+
+```math
+\sum_k \varepsilon_k = \textcolor{orange}{\tau}.
+```
+
+#### [Total curvature](https://en.wikipedia.org/wiki/Total_curvature) of a closed plane curve
+
+The smooth version of the exterior angle sum (Hopf's _Umlaufsatz_): for a
+closed curve _γ_ with turning number _k_ (1 for a simple curve),
+
+```math
+\oint_\gamma \kappa\,ds = k\,\textcolor{orange}{\tau}.
+```
+
+#### [Gauss–Bonnet theorem](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem)
+
+For a compact surface _M_ with Gaussian curvature _K_, geodesic boundary
+curvature $`k_g`$ and Euler characteristic _χ_,
+
+```math
+\int_M K\,dA + \int_{\partial M} k_g\,ds = \textcolor{orange}{\tau}\,\chi(M).
+```
+
+Its discrete version is Descartes' theorem: the angular defects at the
+vertices of a convex polyhedron sum to τ _χ_ = 2τ. Similarly, for the sphere
+(_K_ = 1, _χ_ = 2) one gets its surface area 2τ, see below.
+
+#### Torus
+
+By [Pappus's centroid theorem](https://en.wikipedia.org/wiki/Pappus%27s_centroid_theorem),
+sweeping a circle of radius _r_ (circumference τ*r*, area ½τ*r*²) along a
+circle of radius _R_ (length τ*R*) gives
+
+```math
+A = \textcolor{orange}{\tau} r \cdot \textcolor{orange}{\tau} R = \textcolor{orange}{\tau}^2 R r,\qquad
+V = \tfrac{1}{2} \textcolor{orange}{\tau} r^2 \cdot \textcolor{orange}{\tau} R = \tfrac{1}{2} \textcolor{orange}{\tau}^2 R r^2
+```
+
+(compare 4π²*Rr* and 2π²*Rr*²).
+
 #### Surface area of the _n_-dimensional unit sphere
 
 ```math
@@ -588,6 +654,53 @@ distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
 <br clear="right"/>
 
+#### [Fresnel integral](https://en.wikipedia.org/wiki/Fresnel_integral)
+
+The Gaussian integral with an imaginary exponent:
+
+```math
+\int_{-\infty}^{\infty} \exp(i x^2 / 2)\,dx = \sqrt{\textcolor{orange}{\tau}}\,\exp(i\textcolor{orange}{\tau}/8),
+```
+
+that is, $`\sqrt{\textcolor{orange}{\tau}}`$ rotated by one eighth of a turn.
+
+#### [Multivariate normal distribution](https://en.wikipedia.org/wiki/Multivariate_normal_distribution)
+
+In _n_ dimensions,
+
+```math
+\int_{\mathbb{R}^n} \exp\left(-\tfrac{1}{2}\|x\|^2\right)dx = \textcolor{orange}{\tau}^{n/2},
+```
+
+so the density with mean _μ_ and covariance _Σ_ is
+
+```math
+f(x) = \frac{1}{\sqrt{\det(\textcolor{orange}{\tau}\Sigma)}}
+\exp\left(-\tfrac{1}{2}(x-\mu)^T\Sigma^{-1}(x-\mu)\right).
+```
+
+Its [differential entropy](https://en.wikipedia.org/wiki/Differential_entropy)
+is
+
+```math
+h(X) = \tfrac{1}{2}\ln\det(\textcolor{orange}{\tau} e \Sigma),
+```
+
+in one dimension $`h(X) = \tfrac{1}{2}\ln(\textcolor{orange}{\tau} e \sigma^2)`$.
+
+#### [Wigner semicircle law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution)
+
+<img src="plots/semicircle.svg" align="right" width="30%"/>
+
+The eigenvalue density of large random symmetric matrices with entry
+variance 1/_N_:
+
+```math
+\rho(x) = \frac{1}{\textcolor{orange}{\tau}}\sqrt{4 - x^2},\qquad -2\le x\le 2
+```
+
+<br clear="right"/>
+
 #### [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
 
 Let $`U`$ be an open subset of the complex plane $`\mathbb{C}`$, and suppose the closed
@@ -620,6 +733,50 @@ $`\gamma`$ winds around the point:
 \oint_\gamma f(z)\,\mathrm{d}z = \textcolor{orange}{\tau} i \sum_{k=1}^n I(\gamma,a_k) \mathrm{Res}(f,a_k)
 ```
 
+#### [Winding number](https://en.wikipedia.org/wiki/Winding_number) and the [argument principle](https://en.wikipedia.org/wiki/Argument_principle)
+
+The number of times a closed curve _γ_ winds around a point _a_:
+
+```math
+I(\gamma, a)
+= \frac{1}{\textcolor{orange}{\tau}} \oint_\gamma d\theta
+= \frac{1}{\textcolor{orange}{\tau} i} \oint_\gamma \frac{dz}{z - a}
+```
+
+For a meromorphic _f_ with _Z_ zeros and _P_ poles inside _γ_ (counted with
+multiplicity),
+
+```math
+\frac{1}{\textcolor{orange}{\tau} i} \oint_\gamma \frac{f'(z)}{f(z)}\,dz = Z - P.
+```
+
+#### [Harmonic functions](https://en.wikipedia.org/wiki/Harmonic_function) in the plane
+
+Mean value property: the value at the center is the average over any
+circle around it,
+
+```math
+u(x_0)
+= \frac{1}{\textcolor{orange}{\tau} r} \oint_{|x - x_0| = r} u\,ds
+= \frac{1}{\textcolor{orange}{\tau}} \int_0^{\textcolor{orange}{\tau}} u(x_0 + r e^{i\theta})\,d\theta.
+```
+
+The [Poisson kernel](https://en.wikipedia.org/wiki/Poisson_kernel) of the
+unit disk,
+
+```math
+P_r(\theta) = \frac{1}{\textcolor{orange}{\tau}} \frac{1 - r^2}{1 - 2r\cos\theta + r^2},
+```
+
+and the fundamental solution of the Laplacian,
+
+```math
+\Delta \left(\frac{1}{\textcolor{orange}{\tau}} \ln|x|\right) = \delta.
+```
+
+(In _n_ dimensions, the constant is the surface area of the unit sphere
+$`|U_n|`$ from above, e.g., $`-1/(2\textcolor{orange}{\tau}|x|)`$ for _n_ = 3.)
+
 #### [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 
 ```math
@@ -627,6 +784,40 @@ $`\gamma`$ winds around the point:
 \hat{f}(\xi) &= \int_{-\infty}^{\infty} f(x) \exp(-i\textcolor{orange}{\tau} x\xi)\,dx,\\
 f(x)         &= \int_{-\infty}^{\infty} \hat{f}(\xi) \exp(i\textcolor{orange}{\tau} x\xi)\,d\xi
 \end{align*}
+```
+
+With angular frequency _ω_ = τ*ξ* instead, a constant does appear, once,
+and it is τ:
+
+```math
+f(x) = \frac{1}{\textcolor{orange}{\tau}} \int_{-\infty}^{\infty} \hat{f}(\omega) \exp(i\omega x)\,d\omega
+```
+
+(or $`1/\sqrt{\textcolor{orange}{\tau}}`$ in front of both transforms in the unitary
+convention).
+
+#### [Fourier series](https://en.wikipedia.org/wiki/Fourier_series) and the [discrete Fourier transform](https://en.wikipedia.org/wiki/Discrete_Fourier_transform)
+
+For a function with period _L_,
+
+```math
+f(x) = \sum_{n=-\infty}^{\infty} c_n \exp(i\textcolor{orange}{\tau} n x / L),\qquad
+c_n = \frac{1}{L} \int_0^L f(x) \exp(-i\textcolor{orange}{\tau} n x / L)\,dx.
+```
+
+For a sequence of length _N_,
+
+```math
+X_k = \sum_{n=0}^{N-1} x_n \exp(-i\textcolor{orange}{\tau} kn / N),\qquad
+x_n = \frac{1}{N} \sum_{k=0}^{N-1} X_k \exp(i\textcolor{orange}{\tau} kn / N).
+```
+
+In both cases, the argument of exp is _i_ times a fraction of a full turn.
+
+#### [Dirac delta](https://en.wikipedia.org/wiki/Dirac_delta_function#Fourier_transform)
+
+```math
+\delta(x) = \frac{1}{\textcolor{orange}{\tau}} \int_{-\infty}^{\infty} \exp(ikx)\,dk
 ```
 
 #### [*n*th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
@@ -641,6 +832,16 @@ z^n = 1 \quad\Rightarrow\quad z = \exp(i\textcolor{orange}{\tau} k / n) \quad\fo
 \exp(i \textcolor{teal}{\pi}) + 1  = 0,\quad
 \exp(i \textcolor{orange}{\tau}) - 1 = 0
 ```
+
+#### Periodicity of the [complex exponential](https://en.wikipedia.org/wiki/Exponential_function#Complex_plane)
+
+```math
+\exp(z + i\textcolor{orange}{\tau}) = \exp(z) \quad\forall z\in\mathbb{C},\qquad
+\log z = \ln|z| + i(\arg z + k\textcolor{orange}{\tau}) \quad\forall k\in\mathbb{Z}
+```
+
+The map $`t \mapsto \exp(i\textcolor{orange}{\tau} t)`$ wraps the unit interval exactly once
+around the unit circle; the circle group is $`\mathbb{R}/\textcolor{orange}{\tau}\mathbb{Z}`$.
 
 #### [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
 
@@ -723,6 +924,13 @@ A reflection formula:
 \frac{\zeta(1-z)}{\zeta(z)} = 2 \frac{\Gamma(z)}{\textcolor{orange}{\tau}^z} \cos\left(\frac{\textcolor{orange}{\tau} z}{4}\right)
 ```
 
+The number of nontrivial zeros with imaginary part between 0 and _T_
+([Riemann–von Mangoldt formula](https://en.wikipedia.org/wiki/Riemann%E2%80%93von_Mangoldt_formula)):
+
+```math
+N(T) = \frac{T}{\textcolor{orange}{\tau}} \ln\frac{T}{\textcolor{orange}{\tau} e} + \frac{7}{8} + O(\ln T)
+```
+
 #### [Weyl law](https://en.wikipedia.org/wiki/Weyl_law)
 
 ```math
@@ -751,6 +959,12 @@ with standard deviation 1 is fulfilled by
 ```
 
 <br clear="right"/>
+
+#### [Bessel's integral](https://en.wikipedia.org/wiki/Bessel_function#Bessel's_integrals)
+
+```math
+J_n(x) = \frac{1}{\textcolor{orange}{\tau}} \int_0^{\textcolor{orange}{\tau}} \exp\bigl(i(n\theta - x\sin\theta)\bigr)\,d\theta
+```
 
 #### The [sinc function](https://en.wikipedia.org/wiki/Sinc_function) and its power integrals
 
@@ -804,6 +1018,22 @@ with some rational $`C_n`$ (see [here](https://en.wikipedia.org/wiki/Borwein_int
   F = \frac{|q_1 q_2|}{2\textcolor{orange}{\tau} \varepsilon_0 r^2}
   ```
 
+- Electric field of an infinite line charge:
+  ```math
+  E = \frac{\lambda}{\textcolor{orange}{\tau} \varepsilon_0 r}
+  ```
+- Magnetic field of an infinite straight wire:
+  ```math
+  B = \frac{\mu_0 I}{\textcolor{orange}{\tau} r}
+  ```
+- Force per length between two parallel wires:
+  ```math
+  \frac{F}{L} = \frac{\mu_0 I_1 I_2}{\textcolor{orange}{\tau} d}
+  ```
+- Cyclotron frequency of a charge in a magnetic field:
+  ```math
+  f = \frac{qB}{\textcolor{orange}{\tau} m}
+  ```
 - Magnetic permeability of free space:
   ```math
   \mu_0 \approx 2\textcolor{orange}{\tau} \times 10^{-7} N/A^2
@@ -821,6 +1051,27 @@ with some rational $`C_n`$ (see [here](https://en.wikipedia.org/wiki/Borwein_int
   (agm is the [arithmetic-geometric
   mean](https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean).)
 
+- Period of a mass on a spring:
+  ```math
+  T = \textcolor{orange}{\tau} \sqrt{\frac{m}{k}}
+  ```
+- Resonance frequency of an LC circuit:
+  ```math
+  f = \frac{1}{\textcolor{orange}{\tau}\sqrt{LC}}
+  ```
+- Angular frequency and wavenumber:
+  ```math
+  \omega = \textcolor{orange}{\tau} f = \frac{\textcolor{orange}{\tau}}{T},\qquad k = \frac{\textcolor{orange}{\tau}}{\lambda}
+  ```
+- Centripetal acceleration in uniform circular motion:
+  ```math
+  a = \frac{\textcolor{orange}{\tau}^2 r}{T^2}
+  ```
+- Bohr's quantization condition: an integer number of de Broglie
+  wavelengths fit on the orbit,
+  ```math
+  n \lambda = \textcolor{orange}{\tau} r \quad\Leftrightarrow\quad L = n \frac{h}{\textcolor{orange}{\tau}} = n\hbar
+  ```
 - Kepler's third law of planetary motion:
   ```math
   \frac{R^3}{T^2} = \frac{GM}{\textcolor{orange}{\tau}^2}
@@ -840,6 +1091,15 @@ with some rational $`C_n`$ (see [here](https://en.wikipedia.org/wiki/Borwein_int
 - Susceptance of a capacitor:
   ```math
   \textcolor{orange}{\tau} fC
+  ```
+- Velocity around a point vortex of circulation Γ:
+  ```math
+  v = \frac{\Gamma}{\textcolor{orange}{\tau} r}
+  ```
+- Lift coefficient of a thin airfoil at angle of attack α (thin airfoil
+  theory):
+  ```math
+  C_L = \textcolor{orange}{\tau} \alpha
   ```
 
 ### Quotes
