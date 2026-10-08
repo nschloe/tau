@@ -148,3 +148,61 @@ with plt.style.context(matplotx.styles.dracula):
     plt.title(r"$\sqrt{4 - x^2} / \tau$")
     plt.savefig("semicircle.svg")
     plt.close()
+
+    # chord / Euler reflection formula
+    z = 0.3
+    theta = tau * z
+    fig, ax = plt.subplots(figsize=(5, 5))
+    colors = plt.rcParams["axes.prop_cycle"].by_key()["color"]
+    c0, c1, c2 = colors[0], colors[1], colors[2]
+
+    t = np.linspace(0, tau, 400)
+    ax.plot(np.cos(t), np.sin(t), color="gray", lw=1, alpha=0.6)
+
+    A = np.array([1.0, 0.0])
+    B = np.array([np.cos(theta), np.sin(theta)])
+
+    # arc tau*z
+    ta = np.linspace(0, theta, 100)
+    ax.plot(1.08 * np.cos(ta), 1.08 * np.sin(ta), color=c1, lw=2)
+    ax.text(1.2 * np.cos(theta / 2), 1.2 * np.sin(theta / 2),
+            r"$\tau z$", color=c1, ha="center", va="center", fontsize=14)
+    # complementary arc tau*(1-z)
+    tb = np.linspace(theta, tau, 200)
+    ax.plot(1.08 * np.cos(tb), 1.08 * np.sin(tb), color=c1, lw=2, alpha=0.35)
+    ax.text(1.22 * np.cos((theta + tau) / 2), 1.22 * np.sin((theta + tau) / 2),
+            r"$\tau (1-z)$", color=c1, alpha=0.6, ha="center", va="center", fontsize=14)
+
+    # radii
+    ax.plot([0, A[0]], [0, A[1]], color="gray", lw=1, ls="--")
+    ax.plot([0, B[0]], [0, B[1]], color="gray", lw=1, ls="--")
+    # half-angle bisector to chord midpoint
+    M = (A + B) / 2
+    ax.plot([0, M[0]], [0, M[1]], color="gray", lw=1, ls=":")
+    th = np.linspace(0, theta / 2, 50)
+    ax.plot(0.25 * np.cos(th), 0.25 * np.sin(th), color="gray", lw=1)
+    ax.text(0.36 * np.cos(theta / 4), 0.36 * np.sin(theta / 4),
+            r"$\tau z/2$", color="gray", ha="center", va="center", fontsize=11)
+
+    # chord
+    ax.plot([A[0], B[0]], [A[1], B[1]], color=c0, lw=3)
+    n = np.array([-(B - A)[1], (B - A)[0]])
+    n /= np.linalg.norm(n)
+    L = M - 0.16 * n
+    ax.text(L[0], L[1], r"$\mathrm{crd}(\tau z) = 2\sin(\tau z/2)$",
+            color=c0, ha="center", va="center", fontsize=12,
+            rotation=(np.degrees(np.arctan2(*(B - A)[::-1])) + 90) % 180 - 90)
+
+    ax.plot(*A, "o", color=c2)
+    ax.plot(*B, "o", color=c2)
+    ax.text(A[0] + 0.06, A[1] - 0.1, r"$1$", color=c2, fontsize=13)
+    ax.text(B[0] - 0.08, B[1] + 0.08, r"$e^{i\tau z}$", color=c2, fontsize=13,
+            ha="right")
+
+    ax.set_aspect("equal")
+    ax.set_xlim(-1.45, 1.45)
+    ax.set_ylim(-1.45, 1.45)
+    ax.axis("off")
+    ax.set_title(r"$\Gamma(z)\,\Gamma(1-z) = \tau \,/\, \mathrm{crd}(\tau z)$", fontsize=14)
+    fig.savefig("chord.svg", bbox_inches="tight")
+    plt.close()
