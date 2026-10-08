@@ -23,361 +23,9 @@ should be used instead of π. Some found his arguments convincing, including
 Tau Manifesto](https://www.tauday.com/tau-manifesto), and the τ movement was born.
 <br clear="right"/>
 
-### Scientific articles and essays
+## Some equations
 
-- [Bob Palais, _π is wrong!_, 2001](https://doi.org/10.1007%2FBF03026846), The Mathematical Intelligencer, volume 23, pages 7–8
-- [Bob Palais' web page](https://www.math.utah.edu/~palais/pi.html)
-- [Michael Hartl, _The Tau Manifesto_, 2010](https://www.tauday.com/tau-manifesto).
-  As paperback [on
-  Amazon](https://www.amazon.de/-/en/Michael-Hartl/dp/B096CXMQ3W)
-- [Joseph Lindenberg, _Tau Before It Was Cool_, 2011](https://sites.google.com/site/taubeforeitwascool/)
-- [Stephen Abbott, _Aftermath: My Conversion to Tauism_, 2012](https://doi.org/10.4169%2Fmathhorizons.19.4.34), Math Horizons, 19(4), p. 34
-- [Peter Harremoës, _Al-Kāshī’s constant_, 2018](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.pdf)
-
-Articles _against_ τ:
-
-- [The Pi Manifesto](https://archive.ph/VnJ2x)
-- [The Proper π Manifesto](http://proper-pi-manifesto.com/)
-- [Marc B. Reynolds, _Tau and the art of Windmill jousting_, 2020](https://marc-b-reynolds.github.io/math/2020/01/06/Tau.html)
-
-### News articles and blog posts
-
-<details>
-<summary>Click to expand</summary>
-
-- 2007:
-
-  - [Bill Gasarch, _Is Pi defined in the best way?_, 2007](https://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html)
-
-- 2008:
-
-  - [Robert P. Crease, Physics World, _Constant failure_, 2008](https://physicsworld.com/a/constant-failure/)
-
-- 2010:
-
-  - [_Dozenal tau unit circle_, 2010](https://hexnet.org/content/dozenal-tau-unit-circle)
-  - [MathBlog, _Forget Pi, here comes Tau_, 2010](https://mathblog.com/forget-pi-here-comes-tau/)
-
-- 2011:
-
-  - [Jason Palmer, BBC News, _'Tau day' marked by opponents of maths constant pi_, 2011](https://www.bbc.com/news/science-environment-13906169)
-  <!-- - [Daily Mail, _Your number's up: Why mathematicians are campaigning for pi to be replaced with alternate value tau_, 2011](https://www.dailymail.co.uk/sciencetech/article-2008963/Why-mathematicians-campaigning-pi-replaced-alternate-value-tau.html) -->
-  - [Duncan Geere, Wired, _Happy Pi day! Let's kill it_, 2011](https://www.wired.com/story/pi-winning/)
-  - [Natalie Wolchover, Live Science, _Mathematicians Want to Say Goodbye to Pi_, 2011](https://www.livescience.com/14836-pi-wrong-tau.html)
-  - [Drew Grant, Salon, _Pi Day threatened by tau protestors_, 2011](https://www.salon.com/2011/03/14/national_pi_day_viral_videos/)
-  <!-- - [Murray Bourne, Interactive Mathematics, _Let’s drop pi_, 2011](https://www.intmath.com/blog/mathematics/lets-drop-pi-5665) -->
-  - [Debra Black, Toronto Star, _Down with ugly pi, long live elegant Tau, physicist urges_, 2011](https://www.thestar.com/news/world/down-with-ugly-pi-long-live-elegant-tau-physicist-urges/article_e78ae806-7cb6-5ce3-abc8-207053fbdd4d.html)
-  - [The Times of India, _Life of pi over? 'Tau' may set calculations aright_, 2011](https://timesofindia.indiatimes.com/home/science/Life-of-pi-over-Tau-may-set-calculations-aright/articleshow/9034053.cms)
-  - [Alessondra Springmann, PCWorld, _Tau Day: An Even More Fundamental Holiday Than Pi Day_, 2011](https://www.pcworld.com/article/485803/tau_day.html)
-  <!-- - [Evann Gastaldo, Newser, _Forget Pi, Here Comes Tau_, 2011](https://www.newser.com/story/122114/forget-pi-here-comes-tau.html) -->
-  - [Daniel Tovrov, International Business Times, _Happy Tau Day!_, 2011](https://www.ibtimes.com/happy-tau-day-294421)
-  - [Nancy Haught, The Oregonian, _Tau Day today: Mathematicians show their work_, 2011](https://www.oregonlive.com/living/2011/06/post_14.html)
-  - [Nance Haxton, ABC Australia, _Push to roll Pi_, 2011](https://www.abc.net.au/listen/programs/pm/push-to-roll-pi/2775348)
-  - [The McGill Daily, _Pi is wrong_, 2011](https://www.mcgilldaily.com/2011/10/pi-is-wrong/)
-  - [Anqi Shen, phys.org, _Math wars: Debate sparks anti-pi day_, 2011](https://phys.org/news/2011-06-math-wars-debate-anti-pi-day.html)
-  - [The Telegraph Online, _Life of pi in no danger - Experts cold-shoulder campaign to replace with tau_, 2011](https://www.telegraphindia.com/india/life-of-pi-in-no-danger-experts-cold-shoulder-campaign-to-replace-with-tau/cid/380029)
-  - [Simon Wood, Little Storping-in-the-Swuff, _War on Tau_, 2011](https://littlestorping.co.uk/2011/06/28/war-on-tau/)
-  - [Dan Amira, Intelligencer, _Pi Is Very Slowly and Nerdily Going Out of
-    Style_,
-    2011](https://nymag.com/intelligencer/2011/03/pi_is_very_slowly_and_nerdily.html)
-  <!--
-  - [Sebastian Anthony, Extreme Tech, _Down with pi! Today is Tau Day_, 2011](https://www.extremetech.com/extreme/88298-down-with-pi-today-is-tau-day)
-  -->
-  - [Jacob Aron, New Scientist, _Pi's nemesis: Mathematics is better with tau_,
-    2011](https://www.newscientist.com/article/1956216-pis-nemesis-mathematics-is-better-with-tau/)
-    (Interview with M. Hartl, subscription required)
-  - [Alasdair Wilkins, _Why we have to get rid of pi for the sake of good math_,
-    2011](https://gizmodo.com/why-we-have-to-get-rid-of-pi-for-the-sake-of-good-math-5750275)
-    (interview with M. Hartl)
-  - [Eric Raymond, _Tau versus Pi_, 2011](http://esr.ibiblio.org/?p=3481)
-  - [Qiaochu Yuan, _Pi is still wrong_, 2011](https://qchu.wordpress.com/2011/03/14/pi-is-still-wrong/)
-  - [Dmitry Brant, _Pi is wrong! Long live Tau!_, 2011](https://dmitrybrant.com/2011/10/16/pi-is-wrong-long-live-tau)
-  - [Ulrich Pontes, Der Spiegel, _Physiker will Pi abschaffen_, 2011](https://www.spiegel.de/wissenschaft/mensch/revolution-gegen-die-kreiszahl-physiker-will-pi-abschaffen-a-771007.html)
-  <!--
-  Same as the Daily Mail article:
-  - [_Bye to Pi -- Mathematicians want pi out tau in_, 2011](https://www.sundaytimes.lk/110703/Timestwo/t2_09.html)
-    -->
-
-- 2012:
-
-  - [Jonathan Chang, Science Line, _The tyranny of π_, 2012](https://scienceline.org/2012/06/the-tyranny-of-%CF%80-2/)
-  - [Kevin Houston, _Why I'm not celebrating tau day_, 2012](https://www.kevinhouston.net/blog/2012/06/why-im-not-celebrating-tau-day/)
-
-- 2013:
-
-  - [Ethan Brown, _Pi vs Tau: Pi's Rebuttal_, 2013](https://coolmathstuff123.blogspot.com/2013/02/pi-vs-tau-pis-rebuttal_9.html)
-  - [Rachel, Plus Magazine, _Happy Tau Day!!_, 2013](https://plus.maths.org/happy-tau-day)
-  - [PBS, _Geeking Out on Pi Day: For the Love of Pi and the Tao of Tau_, 2013](https://www.pbs.org/newshour/science/for-the-love-of-pi-and-the-tao-of-tau)
-
-- 2014:
-
-  - [Randyn Charles Bartholomew, Scientific American, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
-  - [Jolie Lee, _Happy Pi Day! Unless you are a Tauist_, 2014](https://eu.usatoday.com/story/news/nation-now/2014/03/14/pi-day-tau-math/6410959/)
-  - [_Pi VERSUS Tau?!?_, 2014](https://headinside.blogspot.com/2014/06/pi-versus-tau.html)
-
-- 2015:
-
-  - [Giorgia Fortuna, Wolfram, _2 Pi or Not 2 Pi?_, 2015](https://blog.wolfram.com/2015/06/28/2-pi-or-not-2-pi/)
-  - [Fox News, _On National Tau Day, Pi Under Attack_, 2015](https://www.foxnews.com/science/on-national-tau-day-pi-under-attack)
-  - [Kurt Cagle, _The Tao of Tau_, 2015](https://medium.com/metaphorical-web/the-tao-of-tau-c0a703283075)
-
-- 2016:
-
-  - [Greg Uyeno, Science Line, _The Circle Constant, Or what's the matter with π_, 2016](https://scienceline.org/2016/06/the-circle-constant/)
-  - [Tia Ghose, Live Science, _Tau Day: Should Pi Be Downgraded?_, 2016](https://www.livescience.com/55209-tau-is-better-than-pi.html)
-  - [Nsikan Akpan, _3 reasons Pi Day is a sham_, 2016](https://www.pbs.org/newshour/science/3-reasons-pi-day-is-a-sham)
-
-- 2017:
-
-  - [Elizabeth Landau, Scientific American, _The Tao of Tau_, 2017](https://blogs.scientificamerican.com/observations/the-tao-of-tau/)
-  - [_Pi vs Tau – The Great Debate_, 2017](https://maffsisphun.wordpress.com/2017/12/09/pi-vs-tau-the-great-debate/)
-
-- 2018:
-
-  - [Chaim Gartenberg, The Verge, _Tau Day is here: celebrate tau, not pi, as the true circle constant_, 2018](https://www.theverge.com/tldr/2018/3/14/17119388/pi-day-pie-math-tau-circle-constant-mathematics-circumference-diameter-radius-holiday-truth)
-  - [Emily Conover, Science News, _Forget Pi Day. We should be celebrating Tau Day_, 2018](https://www.sciencenews.org/blog/science-the-public/forget-pi-day-we-should-be-celebrating-tau-day)
-
-- 2020:
-
-  - [Robert McMillan, The Wall Street Journal, _For Math Fans, Nothing Can Spoil Pi Day—Except Maybe Tau Day_, 2020](https://www.wsj.com/articles/for-math-fans-nothing-can-spoil-pi-dayexcept-maybe-tau-day-11584123031)
-  - [Abinash Das, Cosmic Conundrum, _Tau vs Pi: The Quest to Become the Ultimate Constant._, 2020](https://cosmicconundrum.org/the-struggle-for-being-the-ultimate-constant-tau-vs-pi/)
-
-- 2021:
-
-  - [Paolo A., _in honor of tau_, 2021](https://mitadmissions.org/blogs/entry/in-honor-of-tau/)
-  - [Susanne M. Hoffmann, _Wer pi nicht mag, kann heute tau feiern_, 2021](https://scilogs.spektrum.de/uhura-uraniae/wer-pi-nicht-mag-kann-heute-tau-feiern/)
-
-- 2022:
-
-  <!-- - [Andrea Zhao, The Varsity, _Tau versus pi: the unresolved battle_, 2022](https://thevarsity.ca/2022/06/28/tau-day-two-pi-mathematics/) -->
-  - [Mary Bilyeu, _Double both pi and pie on Tau Day_, 2022](https://www.toledoblade.com/a-e/food/2022/06/26/june-28-tau-pie-day/stories/20220626002)
-
-- 2023:
-
-  - [Live Science, _12 numbers that are cooler than pi_, 2023](https://www.livescience.com/64987-numbers-as-cool-as-pi.html)
-  - [Mathnasium, _Tau: A better constant than Pi?_, 2023](https://www.mathnasium.com/blog/tau-constant-better-pi)
-  - [Andrew Griffin, _Pi Day: Why some mathematicians refuse to celebrate 14 March and won't observe it_, 2023](https://www.aol.com/news/pi-day-why-mathematicians-refuse-150701047.html)
-
-- 2026:
-  - [Scientific American, _Why some mathematicians think we should abandon pi_, 2026](https://www.scientificamerican.com/article/why-some-mathematicians-think-we-should-abandon-pi/)
-
-</details>
-
-### Other articles
-
-- [Stanley M. Max, _Radian Measurement: What It Is, and How to Calculate It More Easily Using τ Instead of π_, 2011](https://www.yumpu.com/en/document/view/32767957/radian-measurement-metric-philatelist)
-- [Peter Luschny, _The Bernoulli Manifesto_, 2013](https://luschny.de/math/zeta/The-Bernoulli-Manifesto.html)
-- [O.V. Vijimon, _A circle without "π"_, 2017](https://osf.io/stwxf/)
-- [Lulzim Gjyrgjialli, _Circle constant is a turn_, 2018](https://www.itisaturn.com/assets/docs/itisaturn.pdf)
-- <a
-  href="https://en.wikipedia.org/wiki/Turn_(angle)#Proposals_for_a_single_letter_to_represent_2%CF%80">Wikipedia,
-  <em>Proposals for a single letter to represent 2π</em></a>
-
-- [Mathematics Educators StackExchange: _Pi or Tau? How should the circle
-  constant be taught?_, 2014](https://matheducators.stackexchange.com/q/530/20645)
-
-- [Theorem of the Day](https://www.theoremoftheday.org/), e.g.,
-  [Euler’s Identity](https://www.theoremoftheday.org/GeometryAndTrigonometry/EulerIdentity/TotDEulerIdentity.pdf) or
-  [Stirling’s Approximation](https://www.theoremoftheday.org/Binomial/Stirling/TotDStirling.pdf);
-  see also its [note on the Tau Manifesto](https://theoremoftheday.org/Annex/taumanifesto.html)
-
-### Videos
-
-- [Vihart, _Pi Is (still) Wrong_, 2011](https://youtu.be/jG7vhMMXagQ)
-- [Michael Blake, _What Tau Sounds Like_, 2011](https://youtu.be/3174T-3-59Q)
-- [Kevin Houston, _Pi is wrong! Here comes Tau Day_, 2011](https://youtu.be/IF1zcRoOVN0)
-- [Matheatre1, _6.283..._, 2011](https://youtu.be/uAFU-K4M9Ck)
-- [David Butler, _Pi may be wrong, but so is Tau!_, 2011](https://www.youtube.com/watch?v=1qpVdwizdvI)
-- [Michael Hartl, _No, really, pi is wrong: The Tau Manifesto_, 2012](https://youtu.be/H69YH5TnNXI)
-- [Numberphile, _Tau replaces Pi_, 2012](https://youtu.be/83ofi_L6eAo)
-- [Numberphile, _Tau vs Pi Smackdown_, 2012](https://youtu.be/ZPv1UV0rD8U)
-- [DerkCopyleft, _Tau (6,28...=2Pi) in Pascal's Triangle - Tau en el Triángulo de Pascal_, 2014](https://youtu.be/ITP_IHfmXlU)
-- [Seeker, _Is Tau Better Than Pi?_, 2014](https://youtu.be/kmnogV9S7b8)
-- [Michael Hartl, _The Tau Manifesto talk (short version)_, 2015](https://youtu.be/2hhjsSN-AiU)
-- [DerkCopyleft, _Tau=6,28... and has Perfect Numbers - Tau tiene Números Perfectos_, 2015](https://youtu.be/n1yshPWUlJw)
-- [Sen Zen, _Pi vs Tau_, 2016](https://youtu.be/ZEbTMbX9Qpo)
-- [Michael Hartl, _The Tau Manifesto | Talks at Google_, 2017](https://youtu.be/k7MuXCOlE6M)
-- [QuantumOverlord, _Refuting the Pi manifesto on Tau day_, 2017](https://youtu.be/k73uQF4iB_g)
-- [Vihart, _Pi Rant 2018: Alternative Pi_, 2018](https://youtu.be/6acbBrLoi14?t=273)
-- [3Blue1Brown, _How pi was almost 6.283185..._, 2018](https://youtu.be/bcPTiiiYDs8)
-- [HDSQ, _Tau the Song with 6.28318 Million Notes_, 2019](https://youtu.be/b0gyQMJHQ78)
-- [BriTheMathGuy, _It's Tau Day (but should you care?)_, 2020](https://youtu.be/qifarbO4yX8)
-- [Mathstreet Boys, _Larger Than Pi (Tau Day Parody) | Larger Than Life_, 2020](https://www.youtube.com/watch?v=bUmiWUfMrvk)
-- [Khan Academy, _Tau versus pi_, 2021](https://youtu.be/1jDDfkKKgmc)
-- [EasyMemory, _Writing 1,000 decimals of Tau (2x Pi) from memory_, 2021](https://youtu.be/x41_CRWpgLc)
-- [sudgylacmoe, _The Tau Manifesto - With Michael Hartl_, 2023](https://youtu.be/kMtgV18Iew8)
-
-### Textbooks
-
-- [Phil A. Smith, _Trigonometry With Tau as Circle Constant_, 2015](https://taufortrig.org/docs/trigbook.pdf)
-- [Phil A. Smith, _College Trigonometry With Extensive Use of the Tau Transcendental_, 2015](https://taufortrig.org/docs/AlgTrigBookprint.pdf)
-- [Michael Hartl, _Learn enough Python to be dangerous_, 2023](https://www.learnenough.com/python)
-
-### In pop culture
-
-- [xkcd, _Pi vs. Tau_](https://xkcd.com/1292/)
-  <div align="center">
-    <img src="pictures/pi_vs_tau.png" width="50%"/>
-  </div>
-- [xkcd, _Symbols_](https://xkcd.com/2520/)
-- [SMBC, _Proposed Number Improvements_](https://www.smbc-comics.com/comic/numbers-3)
-- [SMBC, _Pi-Tau conversion constant_](https://www.smbc-comics.com/comic/2013-10-04)
-- [SMBC, _Social_](https://www.smbc-comics.com/comic/social)
-- [SMBC, _Better than pi_](https://www.smbc-comics.com/comic/better-than-pi)
-  <div align="center">
-    <img src="pictures/megapi.png" width="50%"/>
-  </div>
-- [Crooked Stave Artisan Beer Project, _Key Lime Tau (2π)_](https://untappd.com/b/crooked-stave-brewing-co-key-lime-tau-2p/1343706)
-- [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day)
-- [Mike Keith, _Pieces of Centaurs: A 768-digit mnemonic for τ = 2π_, 2011](https://www.cadaeic.net/centaurs.htm)
-- [Vitalik Buterin, _I'm boycotting pi day because tau day is better_, Twitter, 2020](https://x.com/vitalikbuterin/status/1238971048948830210)
-- [Elon Musk, _tau > pi_, Twitter, 2022](https://x.com/elonmusk/status/1496066844284928003)
-  <div align="center">
-    <img src="pictures/musk.png" width="50%"/>
-  </div>
-
-### Historical uses
-
-#### Al-Kashi (1424)
-
-<img src="pictures/al-kashi-stamp.jpg" align="right" width="200px"/>
-
-(All quotes are translated from the German translation by P. Luckey, 1950.)
-
-While Archimedes was able to bound the ratio of a circle circumference and
-diameter between 223/71 (≈ 3.1408) and 22/7 (≈ 3.1428), [Jamshid al-Kashi
-](https://en.wikipedia.org/wiki/Jamshid_al-Kashi) wanted to determine it to a
-much higher precision. In his 1424 _Treatise on the circumference of the
-circle_, it was his goal that
-
-> in a circle whose diameter is 600,000 times the diameter of the earth, the
-> difference between it [the calculated circumference] and the true
-> circumference is less than a single hair, which is one sixth of the width
-> of an average barley grain, such that it [the difference] in a [circle]
-> which is smaller than that doesn't matter.
-
-This translates to approximately 14 decimal digits.
-
-His calculations are performed in sexagesimal (base 60) digits. In section 8,
-_Transformation of the value of the circumference into the Indian digits
-under the condition that half of the diameter be one_, he gives the result in
-decimal digits:
-
-> We put the digits from left to right onto a half-verse, to get a verse:
->
-> > wa baḥǧā ḥahǧi ṣaz a za ṭah ḥawahu
-> >
-> > muḥīṭun li-quṭrin huwa ’ṯnāni minhu
->
-> 6 2 8 3 1 8 5 3 0 7 1 7 9 5 8 6 5
->
-> is the circumference for a diameter which is two thereof.
-
-Further reading:
-
-- [P. Luckey, _Der Lehrbrief über den Kreisumfang_ von _Ǧamšīd b. Mas‛ūd
-  Al-Kāšī_,
-  1950](https://github.com/nschloe/tau/blob/gh-pages/kashi-luckey.pdf)
-- [Peter Harremoës, _Al-Kāshī’s constant_,
-  2018](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.pdf)
-
-#### π in the times of Euler
-
-The section _Adoption of the symbol π_ of the excellent Wikipedia article
-[Pi](https://en.wikipedia.org/wiki/Pi#Adoption_of_the_symbol_%CF%80) says:
-
-> <img src="pictures/david-gregory.png" align="right" width="200px"/>
->
-> In the earliest usages, the Greek letter π was used to denote the
-> semiperimeter (_semiperipheria_ in Latin) of a circle and was combined in
-> ratios with δ (for diameter or semidiameter) or ρ (for radius) to form
-> circle constants. (Before then, mathematicians sometimes used letters such
-> as c or p instead.) The first recorded use is Oughtred's "δ.π", to express
-> the ratio of periphery and diameter in the 1647 and later editions of
-> _Clavis Mathematicae_. Barrow likewise used "$`\frac{\pi}{\delta}`$" to
-> represent the constant 3.14..., **while Gregory instead used
-> "$`\frac{\pi}{\rho}`$" to represent 6.28...**
->
-> The earliest known use of the Greek letter π alone to represent the ratio
-> of a circle's circumference to its diameter was by Welsh mathematician
-> William Jones in his 1706 work _Synopsis Palmariorum Matheseos_; or, _a New
-> Introduction to the Mathematics_. The Greek letter first appears there in
-> the phrase "1/2 Periphery (π)" in the discussion of a circle with radius
-> one. However, he writes that his equations for π are from the "ready pen of
-> the truly ingenious Mr. John Machin", leading to speculation that Machin
-> may have employed the Greek letter before Jones. Jones' notation was not
-> immediately adopted by other mathematicians, with the fraction notation
-> still being used as late as 1767.
->
-> <img src="pictures/euler.jpg" align="right" width="200px"/>
->
-> Euler started using the single-letter form beginning with his 1727 Essay
-> _Explaining the Properties of Air_, **though he used π = 6.28..., the ratio
-> of periphery to radius, in this and some later writing.** Euler first used
-> π = 3.14... in his 1736 work Mechanica, and continued in his widely-read
-> 1748 work _Introductio in analysin infinitorum_ (he wrote: "for the sake of
-> brevity we will write this number as π; thus π is equal to half the
-> circumference of a circle of radius 1"). Because Euler corresponded heavily
-> with other mathematicians in Europe, the use of the Greek letter spread
-> rapidly, and the practice was universally adopted thereafter in the Western
-> world, **though the definition still varied between 3.14... and 6.28... as
-> late as 1761.**
-> <br clear="right"/>
-
-### In programming
-
-- [Processing, since 2.0 (2013)](https://processing.org/reference/TAU.html) `TAU`
-- [p5.js, since 0.1 (2013)](https://p5js.org/reference/p5/constants/TAU/) `TAU`
-- [Raku (aka Perl 6), since 2015](https://docs.raku.org/language/terms#term_tau) `tau`
-- [Nim, since 0.14.0 (2016)](https://github.com/nim-lang/Nim/pull/3976) `TAU`
-- [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/) `math.tau`
-- [Unreal Engine, since 4.12 (2016)](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Math/Trig/GetTAU) `TAU`
-- [CSS (2018)](https://www.w3.org/TR/2018/WD-css-values-4-20180814/#angles) `turn`
-- [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703) `tau`
-- [Odin (2019)](https://github.com/odin-lang/Odin/commit/8ee41c20a) `math.TAU`, also `math.τ`
-- [Zig, since 0.6.0 (2019)](https://github.com/ziglang/zig/pull/3716) `tau`
-- [Manim, since 0.1.0 (2020)](https://github.com/3b1b/manim/commit/42b11d284c26d25a27db1c41c61f13234f571176) `TAU`
-- [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html) `std::f64::consts::TAU`
-  (after a [rejected attempt in 2014](https://github.com/rust-lang/rust/pull/15248))
-- [.NET, C#, since 5.0 (2020)](https://github.com/dotnet/runtime/pull/37517) `Tau`
-  <!--https://learn.microsoft.com/en-us/dotnet/api/system.math.tau?view=net-7.0 -->
-- [Boost, since 1.77.0 (2021)](https://github.com/boostorg/math/pull/566) `tau`
-- [Wren, since 0.4.0 (2021)](https://github.com/wren-lang/wren/commit/89c5e224) `Num.tau`
-- [Godot game engine/GDScript, since 3.3.3 (2021)](https://github.com/godotengine/godot/pull/48837) `TAU`
-- [Crystal, since 0.36.0 (2021)](https://github.com/crystal-lang/crystal/pull/10179) `Math::TAU`
-- [Java, OpenJDK, since 19 (2022)](https://github.com/openjdk/jdk/pull/7813) `Math.TAU`
-- [JSCAD, since 2.6.3 (2022)](https://github.com/jscad/OpenJSCAD.org/pull/1128) `TAU`
-- [Erlang/OTP, since 26.0 (2023)](https://github.com/erlang/otp/pull/6536) `math:tau()`
-- [Unity.Mathematics, since 1.3.1 (2023)](https://docs.unity3d.com/Packages/com.unity.mathematics@1.3/api/Unity.Mathematics.math.TAU.html) `math.TAU`
-- [Garry's Mod (2023)](https://github.com/Facepunch/garrysmod/pull/2030) `math.tau`
-- [Hare, since 0.24.2 (2024)](https://docs.harelang.org/math) `math::TAU`
-- [Mojo (2024)](https://github.com/modular/modular/commit/939b7e5e00446977ce7c9a3f58e129eaa08a4961) `math.tau`
-- [Luau, since release 711 (2026)](https://rfcs.luau.org/math-constants.html) `math.tau`
-  (after a [rejection in 2022](https://github.com/luau-lang/luau/issues/278))
-- [Elm](https://package.elm-lang.org/packages/elm/core/latest/Basics#turns) `turns`
-- [OpenFOAM](https://api.openfoam.com/2512/namespaceFoam_1_1constant_1_1mathematical.html) `twoPi`
-- [Perl, `Math::Trig`](https://perldoc.perl.org/Math::Trig#PI) `pi2`
-- [Extreme Numerics.NET](https://numerics.net/documentation/reference/extreme.mathematics.constants.twopi) `Constants.TwoPi`
-- [Fastly VCL](https://www.fastly.com/documentation/reference/vcl/variables/math-constants-limits/math-tau/) `math.TAU`
-- [KCL (Zoo)](https://docs.zoo.dev/docs/kcl-std/consts/std-math-TAU) `TAU`
-- [Liberty Eiffel, upcoming (202x)](<https://wiki.liberty-eiffel.org/index.php/Versions_history#Curtiss_(2024.dev,_to_be_named_after_Glenn_Curtiss)>) `Tau`
-
-Inclusion of a constant `tau` was _rejected_ (or at least not adopted) by the
-following projects:
-
-- [Dart (2011)](https://github.com/dart-lang/sdk/issues/14)
-- [D (2011)](https://forum.dlang.org/post/iv04g9$pjd$1@digitalmars.com)
-- [glibc (2013)](https://sourceware.org/ml/libc-alpha/2013-01/msg00943.html)
-- [Julia (2013)](https://github.com/JuliaLang/julia/pull/4864)
-- [JavaScript (2014)](https://esdiscuss.org/topic/math-tau)
-- [Ruby (2016, ](https://bugs.ruby-lang.org/issues/4897)[2017, ](https://bugs.ruby-lang.org/issues/13694)[2024)](https://bugs.ruby-lang.org/issues/20404)
-- [Swift (2016)](https://forums.swift.org/t/extend-floatingpoint-with-tau/3188)
-- [NumPy (2017)](https://github.com/numpy/numpy/pull/9696)
-- [Go (2020)](https://github.com/golang/go/issues/40663)
-- [Kotlin (2020)](https://discuss.kotlinlang.org/t/adding-kotlin-math-tau/17967)
-- [C++ (2022, ](https://lists.isocpp.org/std-proposals/2022/03/3646.php)[2024)](https://lists.isocpp.org/std-proposals/2024/08/10890.php)
-
-### Some equations
+### The circle
 
 #### Trigonometry
 
@@ -417,6 +65,46 @@ GitHub doesn't understand inline and block math in one list item
   value: −0.95105651629...)
 
 <br clear="right"/>
+
+#### [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
+
+<img src="plots/euler_identity.svg" align="right" width="30%"/>
+
+```math
+\exp(i \textcolor{teal}{\pi}) + 1  = 0,\quad
+\exp(i \textcolor{orange}{\tau}/2) + 1 = 0
+```
+
+As _t_ runs from 0 to 1, $`\exp(i\textcolor{orange}{\tau} t)`$ runs once
+around the unit circle and comes back to where it started: a full turn is
+the identity, $`\exp(i\textcolor{orange}{\tau}) = 1`$. The famous
+$`\exp(i\textcolor{teal}{\pi}) = -1`$ is the half-way point.
+
+<br clear="right"/>
+
+#### Periodicity of the [complex exponential](https://en.wikipedia.org/wiki/Exponential_function#Complex_plane)
+
+```math
+\exp(z + i\textcolor{orange}{\tau}) = \exp(z) \quad\forall z\in\mathbb{C},\qquad
+\log z = \ln|z| + i(\arg z + k\textcolor{orange}{\tau}) \quad\forall k\in\mathbb{Z}
+```
+
+The map $`t \mapsto \exp(i\textcolor{orange}{\tau} t)`$ wraps the unit interval exactly once
+around the unit circle; the circle group is $`\mathbb{R}/\textcolor{orange}{\tau}\mathbb{Z}`$.
+
+#### [*n*th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
+
+<img src="plots/roots.svg" align="right" width="30%"/>
+
+```math
+z^n = 1 \quad\Rightarrow\quad z = \exp(i\textcolor{orange}{\tau} k / n) \quad\forall k=0,\dots,n-1
+```
+
+The roots sit at the fractions _k_/_n_ of a full turn.
+
+<br clear="right"/>
+
+### Geometry
 
 #### Arc length, sector area, polygons
 
@@ -662,80 +350,7 @@ and _λ_ = 1,
 
 <br clear="right"/>
 
-#### [The Gaussian integral](https://en.wikipedia.org/wiki/Gaussian_integral)
-
-<img src="plots/gaussian.svg" align="right" width="30%"/>
-
-Compare
-
-```math
-\int_{-\infty}^{\infty} \exp(-x^2)\,dx = \sqrt{\textcolor{teal}{\pi}},\qquad
-\int_{-\infty}^{\infty} \exp(-x^2 / 2)\,dx = \sqrt{\textcolor{orange}{\tau}}
-```
-
-One could argue that the latter is more "canonical" since it has variance and
-standard deviation of 1, not ½ and √½. Compare with the [Normal
-distribution](https://en.wikipedia.org/wiki/Normal_distribution)
-
-```math
-\int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\textcolor{orange}{\tau}}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) \,dx= 1
-```
-
-<br clear="right"/>
-
-#### [Fresnel integral](https://en.wikipedia.org/wiki/Fresnel_integral)
-
-<img src="plots/fresnel.svg" align="right" width="30%"/>
-
-The Gaussian integral with an imaginary exponent:
-
-```math
-\int_{-\infty}^{\infty} \exp(i x^2 / 2)\,dx = \sqrt{\textcolor{orange}{\tau}}\,\exp(i\textcolor{orange}{\tau}/8),
-```
-
-that is, $`\sqrt{\textcolor{orange}{\tau}}`$ rotated by one eighth of a turn.
-Plotted as a path in the complex plane, the partial integrals trace the
-[Euler spiral](https://en.wikipedia.org/wiki/Euler_spiral); the vector
-between its two eyes is the value of the integral.
-
-<br clear="right"/>
-
-#### [Multivariate normal distribution](https://en.wikipedia.org/wiki/Multivariate_normal_distribution)
-
-In _n_ dimensions,
-
-```math
-\int_{\mathbb{R}^n} \exp\left(-\tfrac{1}{2}\|x\|^2\right)dx = \textcolor{orange}{\tau}^{n/2},
-```
-
-so the density with mean _μ_ and covariance _Σ_ is
-
-```math
-f(x) = \frac{1}{\sqrt{\det(\textcolor{orange}{\tau}\Sigma)}}
-\exp\left(-\tfrac{1}{2}(x-\mu)^T\Sigma^{-1}(x-\mu)\right).
-```
-
-Its [differential entropy](https://en.wikipedia.org/wiki/Differential_entropy)
-is
-
-```math
-h(X) = \tfrac{1}{2}\ln\det(\textcolor{orange}{\tau} e \Sigma),
-```
-
-in one dimension $`h(X) = \tfrac{1}{2}\ln(\textcolor{orange}{\tau} e \sigma^2)`$.
-
-#### [Wigner semicircle law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution)
-
-<img src="plots/semicircle.svg" align="right" width="30%"/>
-
-The eigenvalue density of large random symmetric matrices with entry
-variance 1/_N_:
-
-```math
-\rho(x) = \frac{1}{\textcolor{orange}{\tau}}\sqrt{4 - x^2},\qquad -2\le x\le 2
-```
-
-<br clear="right"/>
+### Complex analysis
 
 #### [Cauchy's integral formula](https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula)
 
@@ -813,6 +428,8 @@ and the fundamental solution of the Laplacian,
 (In _n_ dimensions, the constant is the surface area of the unit sphere
 $`|U_n|`$ from above, e.g., $`-1/(2\textcolor{orange}{\tau}|x|)`$ for _n_ = 3.)
 
+### Fourier analysis
+
 #### [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 
 ```math
@@ -856,43 +473,129 @@ In both cases, the argument of exp is _i_ times a fraction of a full turn.
 \delta(x) = \frac{1}{\textcolor{orange}{\tau}} \int_{-\infty}^{\infty} \exp(ikx)\,dk
 ```
 
-#### [*n*th roots of unity](https://en.wikipedia.org/wiki/Root_of_unity)
-
-<img src="plots/roots.svg" align="right" width="30%"/>
+#### [Bessel's integral](https://en.wikipedia.org/wiki/Bessel_function#Bessel's_integrals)
 
 ```math
-z^n = 1 \quad\Rightarrow\quad z = \exp(i\textcolor{orange}{\tau} k / n) \quad\forall k=0,\dots,n-1
+J_n(x) = \frac{1}{\textcolor{orange}{\tau}} \int_0^{\textcolor{orange}{\tau}} \exp\bigl(i(n\theta - x\sin\theta)\bigr)\,d\theta
 ```
 
-The roots sit at the fractions _k_/_n_ of a full turn.
+#### The [sinc function](https://en.wikipedia.org/wiki/Sinc_function) and its power integrals
+
+<img src="plots/sinc.svg" align="right" width="30%"/>
+
+```math
+\int_{-\infty}^{\infty} \frac{\sin^n(x)}{x^n}\,dx
+= \frac{n \textcolor{orange}{\tau}}{2^n}\sum_{k=0}^{\lfloor n/2 \rfloor} \frac{(-1)^k (n-2k)^{n-1}}{k!(n-k)!}
+```
+
+for all $`n\in\mathbb{N}`$. Specifically,
+
+```math
+\int_{-\infty}^{\infty} \frac{\sin(x)}{x}\,dx
+= \int_{-\infty}^{\infty} \frac{\sin^2(x)}{x^2}\,dx
+= \frac{\textcolor{orange}{\tau}}{2} = \textcolor{teal}{\pi}.
+```
 
 <br clear="right"/>
 
-#### [Euler's identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
+#### The [Borwein integral](https://en.wikipedia.org/wiki/Borwein_integral)
 
-<img src="plots/euler_identity.svg" align="right" width="30%"/>
+<img src="plots/borwein.svg" align="right" width="30%"/>
 
 ```math
-\exp(i \textcolor{teal}{\pi}) + 1  = 0,\quad
-\exp(i \textcolor{orange}{\tau}/2) + 1 = 0
+\int_{-\infty}^{\infty} \prod_{k=0}^n \frac{\sin(a_k x)}{a_k x}\,dx
+= \textcolor{teal}{\pi} C_n
 ```
 
-As _t_ runs from 0 to 1, $`\exp(i\textcolor{orange}{\tau} t)`$ runs once
-around the unit circle and comes back to where it started: a full turn is
-the identity, $`\exp(i\textcolor{orange}{\tau}) = 1`$. The famous
-$`\exp(i\textcolor{teal}{\pi}) = -1`$ is the half-way point.
+with some rational $`C_n`$ (see [here](https://en.wikipedia.org/wiki/Borwein_integral#General_formula)).
 
 <br clear="right"/>
 
-#### Periodicity of the [complex exponential](https://en.wikipedia.org/wiki/Exponential_function#Complex_plane)
+### Probability and statistics
+
+#### [The Gaussian integral](https://en.wikipedia.org/wiki/Gaussian_integral)
+
+<img src="plots/gaussian.svg" align="right" width="30%"/>
+
+Compare
 
 ```math
-\exp(z + i\textcolor{orange}{\tau}) = \exp(z) \quad\forall z\in\mathbb{C},\qquad
-\log z = \ln|z| + i(\arg z + k\textcolor{orange}{\tau}) \quad\forall k\in\mathbb{Z}
+\int_{-\infty}^{\infty} \exp(-x^2)\,dx = \sqrt{\textcolor{teal}{\pi}},\qquad
+\int_{-\infty}^{\infty} \exp(-x^2 / 2)\,dx = \sqrt{\textcolor{orange}{\tau}}
 ```
 
-The map $`t \mapsto \exp(i\textcolor{orange}{\tau} t)`$ wraps the unit interval exactly once
-around the unit circle; the circle group is $`\mathbb{R}/\textcolor{orange}{\tau}\mathbb{Z}`$.
+One could argue that the latter is more "canonical" since it has variance and
+standard deviation of 1, not ½ and √½. Compare with the [Normal
+distribution](https://en.wikipedia.org/wiki/Normal_distribution)
+
+```math
+\int_{-\infty}^{\infty} \frac{1}{\sigma \sqrt{\textcolor{orange}{\tau}}} \exp\left(-\frac{(x-\mu)^2}{2 \sigma^2}\right) \,dx= 1
+```
+
+<br clear="right"/>
+
+#### [Error function](https://en.wikipedia.org/wiki/Error_function)
+
+<img src="plots/erf.svg" align="right" width="30%"/>
+
+```math
+\mathrm{erf}(z) = \frac{2}{\sqrt{\textcolor{teal}{\pi}}} \int_0^z \exp(-t^2)\, dt.
+```
+
+In statistics, for non-negative values of _x_, the error function has the
+following interpretation: For a random variable _Y_ that is normally
+distributed with mean 0 and standard deviation $`1/\sqrt{2}`$, erf(_x_) is the
+probability that _Y_ falls in the range [−<i>x</i>, _x_]. The same property
+with standard deviation 1 is fulfilled by
+
+```math
+\mathrm{erf}_1(z)
+= \mathrm{erf}(z / \sqrt{2})
+= \frac{2}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\, dt.
+```
+
+<br clear="right"/>
+
+#### [Multivariate normal distribution](https://en.wikipedia.org/wiki/Multivariate_normal_distribution)
+
+In _n_ dimensions,
+
+```math
+\int_{\mathbb{R}^n} \exp\left(-\tfrac{1}{2}\|x\|^2\right)dx = \textcolor{orange}{\tau}^{n/2},
+```
+
+so the density with mean _μ_ and covariance _Σ_ is
+
+```math
+f(x) = \frac{1}{\sqrt{\det(\textcolor{orange}{\tau}\Sigma)}}
+\exp\left(-\tfrac{1}{2}(x-\mu)^T\Sigma^{-1}(x-\mu)\right).
+```
+
+Its [differential entropy](https://en.wikipedia.org/wiki/Differential_entropy)
+is
+
+```math
+h(X) = \tfrac{1}{2}\ln\det(\textcolor{orange}{\tau} e \Sigma),
+```
+
+in one dimension $`h(X) = \tfrac{1}{2}\ln(\textcolor{orange}{\tau} e \sigma^2)`$.
+
+#### [Fresnel integral](https://en.wikipedia.org/wiki/Fresnel_integral)
+
+<img src="plots/fresnel.svg" align="right" width="30%"/>
+
+The Gaussian integral with an imaginary exponent:
+
+```math
+\int_{-\infty}^{\infty} \exp(i x^2 / 2)\,dx = \sqrt{\textcolor{orange}{\tau}}\,\exp(i\textcolor{orange}{\tau}/8),
+```
+
+that is, $`\sqrt{\textcolor{orange}{\tau}}`$ rotated by one eighth of a turn.
+Plotted as a path in the complex plane, the partial integrals trace the
+[Euler spiral](https://en.wikipedia.org/wiki/Euler_spiral); the vector
+between its two eyes is the value of the integral.
+
+<br clear="right"/>
 
 #### [Stirling's approximation](https://en.wikipedia.org/wiki/Stirling%27s_approximation)
 
@@ -903,6 +606,21 @@ n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
 ```
 
 <br clear="right"/>
+
+#### [Wigner semicircle law](https://en.wikipedia.org/wiki/Wigner_semicircle_distribution)
+
+<img src="plots/semicircle.svg" align="right" width="30%"/>
+
+The eigenvalue density of large random symmetric matrices with entry
+variance 1/_N_:
+
+```math
+\rho(x) = \frac{1}{\textcolor{orange}{\tau}}\sqrt{4 - x^2},\qquad -2\le x\le 2
+```
+
+<br clear="right"/>
+
+### Special functions and number theory
 
 #### [Particular values of the Gamma function](https://en.wikipedia.org/wiki/Particular_values_of_the_gamma_function)
 
@@ -1013,105 +731,17 @@ N(T) = \frac{T}{\textcolor{orange}{\tau}} \ln\frac{T}{\textcolor{orange}{\tau} e
 = \textcolor{orange}{\tau}^{-d}\omega_d \mathrm{vol}(\Omega)
 ```
 
-#### [Error function](https://en.wikipedia.org/wiki/Error_function)
+### Physics
 
-<img src="plots/erf.svg" align="right" width="30%"/>
+**Mechanics**
 
-```math
-\mathrm{erf}(z) = \frac{2}{\sqrt{\textcolor{teal}{\pi}}} \int_0^z \exp(-t^2)\, dt.
-```
-
-In statistics, for non-negative values of _x_, the error function has the
-following interpretation: For a random variable _Y_ that is normally
-distributed with mean 0 and standard deviation $`1/\sqrt{2}`$, erf(_x_) is the
-probability that _Y_ falls in the range [−<i>x</i>, _x_]. The same property
-with standard deviation 1 is fulfilled by
-
-```math
-\mathrm{erf}_1(z)
-= \mathrm{erf}(z / \sqrt{2})
-= \frac{2}{\sqrt{\textcolor{orange}{\tau}}} \int_0^z \exp(-t^2 / 2)\, dt.
-```
-
-<br clear="right"/>
-
-#### [Bessel's integral](https://en.wikipedia.org/wiki/Bessel_function#Bessel's_integrals)
-
-```math
-J_n(x) = \frac{1}{\textcolor{orange}{\tau}} \int_0^{\textcolor{orange}{\tau}} \exp\bigl(i(n\theta - x\sin\theta)\bigr)\,d\theta
-```
-
-#### The [sinc function](https://en.wikipedia.org/wiki/Sinc_function) and its power integrals
-
-<img src="plots/sinc.svg" align="right" width="30%"/>
-
-```math
-\int_{-\infty}^{\infty} \frac{\sin^n(x)}{x^n}\,dx
-= \frac{n \textcolor{orange}{\tau}}{2^n}\sum_{k=0}^{\lfloor n/2 \rfloor} \frac{(-1)^k (n-2k)^{n-1}}{k!(n-k)!}
-```
-
-for all $`n\in\mathbb{N}`$. Specifically,
-
-```math
-\int_{-\infty}^{\infty} \frac{\sin(x)}{x}\,dx
-= \int_{-\infty}^{\infty} \frac{\sin^2(x)}{x^2}\,dx
-= \frac{\textcolor{orange}{\tau}}{2} = \textcolor{teal}{\pi}.
-```
-
-<br clear="right"/>
-
-#### The [Borwein integral](https://en.wikipedia.org/wiki/Borwein_integral)
-
-<img src="plots/borwein.svg" align="right" width="30%"/>
-
-```math
-\int_{-\infty}^{\infty} \prod_{k=0}^n \frac{\sin(a_k x)}{a_k x}\,dx
-= \textcolor{teal}{\pi} C_n
-```
-
-with some rational $`C_n`$ (see [here](https://en.wikipedia.org/wiki/Borwein_integral#General_formula)).
-
-<br clear="right"/>
-
-#### Physics
-
-- Cosmological constant:
+- Centripetal acceleration in uniform circular motion:
   ```math
-  \Lambda = \frac{4\textcolor{orange}{\tau} G}{3c^2} \rho
+  a = \frac{\textcolor{orange}{\tau}^2 r}{T^2}
   ```
-- Heisenberg's uncertainty principle:
+- Kepler's third law of planetary motion:
   ```math
-  \Delta x \Delta p \ge \frac{h}{2 \textcolor{orange}{\tau}}
-  ```
-- Einstein's field equation of general relativity:
-  ```math
-  R_{\mu\nu} = \frac{4\textcolor{orange}{\tau} G}{c^4} T_{\mu\nu}
-  ```
-- Coulomb's law for the electric force in vacuum:
-
-  ```math
-  F = \frac{|q_1 q_2|}{2\textcolor{orange}{\tau} \varepsilon_0 r^2}
-  ```
-
-- Electric field of an infinite line charge:
-  ```math
-  E = \frac{\lambda}{\textcolor{orange}{\tau} \varepsilon_0 r}
-  ```
-- Magnetic field of an infinite straight wire:
-  ```math
-  B = \frac{\mu_0 I}{\textcolor{orange}{\tau} r}
-  ```
-- Force per length between two parallel wires:
-  ```math
-  \frac{F}{L} = \frac{\mu_0 I_1 I_2}{\textcolor{orange}{\tau} d}
-  ```
-- Cyclotron frequency of a charge in a magnetic field:
-  ```math
-  f = \frac{qB}{\textcolor{orange}{\tau} m}
-  ```
-- Magnetic permeability of free space:
-  ```math
-  \mu_0 \approx 2\textcolor{orange}{\tau} \times 10^{-7} N/A^2
+  \frac{R^3}{T^2} = \frac{GM}{\textcolor{orange}{\tau}^2}
   ```
 - Approximate period of a simple pendulum with small amplitude:
   ```math
@@ -1125,39 +755,24 @@ with some rational $`C_n`$ (see [here](https://en.wikipedia.org/wiki/Borwein_int
 
   (agm is the [arithmetic-geometric
   mean](https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean).)
-
 - Period of a mass on a spring:
   ```math
   T = \textcolor{orange}{\tau} \sqrt{\frac{m}{k}}
-  ```
-- Resonance frequency of an LC circuit:
-  ```math
-  f = \frac{1}{\textcolor{orange}{\tau}\sqrt{LC}}
-  ```
-- Angular frequency and wavenumber:
-  ```math
-  \omega = \textcolor{orange}{\tau} f = \frac{\textcolor{orange}{\tau}}{T},\qquad k = \frac{\textcolor{orange}{\tau}}{\lambda}
-  ```
-- Centripetal acceleration in uniform circular motion:
-  ```math
-  a = \frac{\textcolor{orange}{\tau}^2 r}{T^2}
-  ```
-- Bohr's quantization condition: an integer number of de Broglie
-  wavelengths fit on the orbit,
-  ```math
-  n \lambda = \textcolor{orange}{\tau} r \quad\Leftrightarrow\quad L = n \frac{h}{\textcolor{orange}{\tau}} = n\hbar
-  ```
-- Kepler's third law of planetary motion:
-  ```math
-  \frac{R^3}{T^2} = \frac{GM}{\textcolor{orange}{\tau}^2}
   ```
 - The buckling formula:
   ```math
   F = \frac{\textcolor{orange}{\tau}^2 EI}{4L^2}
   ```
-- Reduced Planck constant:
+
+**Waves and circuits**
+
+- Angular frequency and wavenumber:
   ```math
-  \hbar = \frac{h}{\textcolor{orange}{\tau}}
+  \omega = \textcolor{orange}{\tau} f = \frac{\textcolor{orange}{\tau}}{T},\qquad k = \frac{\textcolor{orange}{\tau}}{\lambda}
+  ```
+- Resonance frequency of an LC circuit:
+  ```math
+  f = \frac{1}{\textcolor{orange}{\tau}\sqrt{LC}}
   ```
 - Reactance of an inductor:
   ```math
@@ -1167,6 +782,64 @@ with some rational $`C_n`$ (see [here](https://en.wikipedia.org/wiki/Borwein_int
   ```math
   \textcolor{orange}{\tau} fC
   ```
+
+**Electromagnetism**
+
+- Coulomb's law for the electric force in vacuum:
+
+  ```math
+  F = \frac{|q_1 q_2|}{2\textcolor{orange}{\tau} \varepsilon_0 r^2}
+  ```
+- Electric field of an infinite line charge:
+  ```math
+  E = \frac{\lambda}{\textcolor{orange}{\tau} \varepsilon_0 r}
+  ```
+- Magnetic field of an infinite straight wire:
+  ```math
+  B = \frac{\mu_0 I}{\textcolor{orange}{\tau} r}
+  ```
+- Force per length between two parallel wires:
+  ```math
+  \frac{F}{L} = \frac{\mu_0 I_1 I_2}{\textcolor{orange}{\tau} d}
+  ```
+- Magnetic permeability of free space:
+  ```math
+  \mu_0 \approx 2\textcolor{orange}{\tau} \times 10^{-7} N/A^2
+  ```
+- Cyclotron frequency of a charge in a magnetic field:
+  ```math
+  f = \frac{qB}{\textcolor{orange}{\tau} m}
+  ```
+
+**Quantum mechanics**
+
+- Reduced Planck constant:
+  ```math
+  \hbar = \frac{h}{\textcolor{orange}{\tau}}
+  ```
+- Heisenberg's uncertainty principle:
+  ```math
+  \Delta x \Delta p \ge \frac{h}{2 \textcolor{orange}{\tau}}
+  ```
+- Bohr's quantization condition: an integer number of de Broglie
+  wavelengths fit on the orbit,
+  ```math
+  n \lambda = \textcolor{orange}{\tau} r \quad\Leftrightarrow\quad L = n \frac{h}{\textcolor{orange}{\tau}} = n\hbar
+  ```
+
+**Gravitation**
+
+- Einstein's field equation of general relativity:
+  ```math
+  R_{\mu\nu} = \frac{4\textcolor{orange}{\tau} G}{c^4} T_{\mu\nu}
+  ```
+- Cosmological constant:
+  ```math
+  \Lambda = \frac{4\textcolor{orange}{\tau} G}{3c^2} \rho
+  ```
+
+**Fluid dynamics**
+
 - Velocity around a point vortex of circulation Γ:
   ```math
   v = \frac{\Gamma}{\textcolor{orange}{\tau} r}
@@ -1177,7 +850,162 @@ with some rational $`C_n`$ (see [here](https://en.wikipedia.org/wiki/Borwein_int
   C_L = \textcolor{orange}{\tau} \alpha
   ```
 
-### Quotes
+## Historical uses
+
+### Al-Kashi (1424)
+
+<img src="pictures/al-kashi-stamp.jpg" align="right" width="200px"/>
+
+(All quotes are translated from the German translation by P. Luckey, 1950.)
+
+While Archimedes was able to bound the ratio of a circle circumference and
+diameter between 223/71 (≈ 3.1408) and 22/7 (≈ 3.1428), [Jamshid al-Kashi
+](https://en.wikipedia.org/wiki/Jamshid_al-Kashi) wanted to determine it to a
+much higher precision. In his 1424 _Treatise on the circumference of the
+circle_, it was his goal that
+
+> in a circle whose diameter is 600,000 times the diameter of the earth, the
+> difference between it [the calculated circumference] and the true
+> circumference is less than a single hair, which is one sixth of the width
+> of an average barley grain, such that it [the difference] in a [circle]
+> which is smaller than that doesn't matter.
+
+This translates to approximately 14 decimal digits.
+
+His calculations are performed in sexagesimal (base 60) digits. In section 8,
+_Transformation of the value of the circumference into the Indian digits
+under the condition that half of the diameter be one_, he gives the result in
+decimal digits:
+
+> We put the digits from left to right onto a half-verse, to get a verse:
+>
+> > wa baḥǧā ḥahǧi ṣaz a za ṭah ḥawahu
+> >
+> > muḥīṭun li-quṭrin huwa ’ṯnāni minhu
+>
+> 6 2 8 3 1 8 5 3 0 7 1 7 9 5 8 6 5
+>
+> is the circumference for a diameter which is two thereof.
+
+That is, al-Kashi chose the radius as his unit and computed the
+circumference for it, i.e., τ. His value
+
+```math
+6.2831853071795865
+```
+
+is τ = 6.283185307179586476… correctly rounded to 16 decimal places, as is
+his original sexagesimal result 6;16,59,28,01,34,51,46,14,50 (nine
+sexagesimal places, also for a radius of 1). This remained the most precise
+determination of the circle constant for about 180 years, until [Ludolph
+van Ceulen](https://en.wikipedia.org/wiki/Ludolph_van_Ceulen) surpassed it
+in 1596. The constant he computed was τ, not π.
+
+Further reading:
+
+- [P. Luckey, _Der Lehrbrief über den Kreisumfang_ von _Ǧamšīd b. Mas‛ūd
+  Al-Kāšī_,
+  1950](https://github.com/nschloe/tau/blob/gh-pages/kashi-luckey.pdf)
+- [Peter Harremoës, _Al-Kāshī’s constant_,
+  2018](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.pdf)
+
+### π in the times of Euler
+
+The section _Adoption of the symbol π_ of the excellent Wikipedia article
+[Pi](https://en.wikipedia.org/wiki/Pi#Adoption_of_the_symbol_%CF%80) says:
+
+> <img src="pictures/david-gregory.png" align="right" width="200px"/>
+>
+> In the earliest usages, the Greek letter π was used to denote the
+> semiperimeter (_semiperipheria_ in Latin) of a circle and was combined in
+> ratios with δ (for diameter or semidiameter) or ρ (for radius) to form
+> circle constants. (Before then, mathematicians sometimes used letters such
+> as c or p instead.) The first recorded use is Oughtred's "δ.π", to express
+> the ratio of periphery and diameter in the 1647 and later editions of
+> _Clavis Mathematicae_. Barrow likewise used "$`\frac{\pi}{\delta}`$" to
+> represent the constant 3.14..., **while Gregory instead used
+> "$`\frac{\pi}{\rho}`$" to represent 6.28...**
+>
+> The earliest known use of the Greek letter π alone to represent the ratio
+> of a circle's circumference to its diameter was by Welsh mathematician
+> William Jones in his 1706 work _Synopsis Palmariorum Matheseos_; or, _a New
+> Introduction to the Mathematics_. The Greek letter first appears there in
+> the phrase "1/2 Periphery (π)" in the discussion of a circle with radius
+> one. However, he writes that his equations for π are from the "ready pen of
+> the truly ingenious Mr. John Machin", leading to speculation that Machin
+> may have employed the Greek letter before Jones. Jones' notation was not
+> immediately adopted by other mathematicians, with the fraction notation
+> still being used as late as 1767.
+>
+> <img src="pictures/euler.jpg" align="right" width="200px"/>
+>
+> Euler started using the single-letter form beginning with his 1727 Essay
+> _Explaining the Properties of Air_, **though he used π = 6.28..., the ratio
+> of periphery to radius, in this and some later writing.** Euler first used
+> π = 3.14... in his 1736 work Mechanica, and continued in his widely-read
+> 1748 work _Introductio in analysin infinitorum_ (he wrote: "for the sake of
+> brevity we will write this number as π; thus π is equal to half the
+> circumference of a circle of radius 1"). Because Euler corresponded heavily
+> with other mathematicians in Europe, the use of the Greek letter spread
+> rapidly, and the practice was universally adopted thereafter in the Western
+> world, **though the definition still varied between 3.14... and 6.28... as
+> late as 1761.**
+> <br clear="right"/>
+
+## In programming
+
+- [Processing, since 2.0 (2013)](https://processing.org/reference/TAU.html) `TAU`
+- [p5.js, since 0.1 (2013)](https://p5js.org/reference/p5/constants/TAU/) `TAU`
+- [Raku (aka Perl 6), since 2015](https://docs.raku.org/language/terms#term_tau) `tau`
+- [Nim, since 0.14.0 (2016)](https://github.com/nim-lang/Nim/pull/3976) `TAU`
+- [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/) `math.tau`
+- [Unreal Engine, since 4.12 (2016)](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Math/Trig/GetTAU) `TAU`
+- [CSS (2018)](https://www.w3.org/TR/2018/WD-css-values-4-20180814/#angles) `turn`
+- [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703) `tau`
+- [Odin (2019)](https://github.com/odin-lang/Odin/commit/8ee41c20a) `math.TAU`, also `math.τ`
+- [Zig, since 0.6.0 (2019)](https://github.com/ziglang/zig/pull/3716) `tau`
+- [Manim, since 0.1.0 (2020)](https://github.com/3b1b/manim/commit/42b11d284c26d25a27db1c41c61f13234f571176) `TAU`
+- [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html) `std::f64::consts::TAU`
+  (after a [rejected attempt in 2014](https://github.com/rust-lang/rust/pull/15248))
+- [.NET, C#, since 5.0 (2020)](https://github.com/dotnet/runtime/pull/37517) `Tau`
+  <!--https://learn.microsoft.com/en-us/dotnet/api/system.math.tau?view=net-7.0 -->
+- [Boost, since 1.77.0 (2021)](https://github.com/boostorg/math/pull/566) `tau`
+- [Wren, since 0.4.0 (2021)](https://github.com/wren-lang/wren/commit/89c5e224) `Num.tau`
+- [Godot game engine/GDScript, since 3.3.3 (2021)](https://github.com/godotengine/godot/pull/48837) `TAU`
+- [Crystal, since 0.36.0 (2021)](https://github.com/crystal-lang/crystal/pull/10179) `Math::TAU`
+- [Java, OpenJDK, since 19 (2022)](https://github.com/openjdk/jdk/pull/7813) `Math.TAU`
+- [JSCAD, since 2.6.3 (2022)](https://github.com/jscad/OpenJSCAD.org/pull/1128) `TAU`
+- [Erlang/OTP, since 26.0 (2023)](https://github.com/erlang/otp/pull/6536) `math:tau()`
+- [Unity.Mathematics, since 1.3.1 (2023)](https://docs.unity3d.com/Packages/com.unity.mathematics@1.3/api/Unity.Mathematics.math.TAU.html) `math.TAU`
+- [Garry's Mod (2023)](https://github.com/Facepunch/garrysmod/pull/2030) `math.tau`
+- [Hare, since 0.24.2 (2024)](https://docs.harelang.org/math) `math::TAU`
+- [Mojo (2024)](https://github.com/modular/modular/commit/939b7e5e00446977ce7c9a3f58e129eaa08a4961) `math.tau`
+- [Luau, since release 711 (2026)](https://rfcs.luau.org/math-constants.html) `math.tau`
+  (after a [rejection in 2022](https://github.com/luau-lang/luau/issues/278))
+- [Elm](https://package.elm-lang.org/packages/elm/core/latest/Basics#turns) `turns`
+- [OpenFOAM](https://api.openfoam.com/2512/namespaceFoam_1_1constant_1_1mathematical.html) `twoPi`
+- [Perl, `Math::Trig`](https://perldoc.perl.org/Math::Trig#PI) `pi2`
+- [Extreme Numerics.NET](https://numerics.net/documentation/reference/extreme.mathematics.constants.twopi) `Constants.TwoPi`
+- [Fastly VCL](https://www.fastly.com/documentation/reference/vcl/variables/math-constants-limits/math-tau/) `math.TAU`
+- [KCL (Zoo)](https://docs.zoo.dev/docs/kcl-std/consts/std-math-TAU) `TAU`
+- [Liberty Eiffel, upcoming (202x)](<https://wiki.liberty-eiffel.org/index.php/Versions_history#Curtiss_(2024.dev,_to_be_named_after_Glenn_Curtiss)>) `Tau`
+
+Inclusion of a constant `tau` was _rejected_ (or at least not adopted) by the
+following projects:
+
+- [Dart (2011)](https://github.com/dart-lang/sdk/issues/14)
+- [D (2011)](https://forum.dlang.org/post/iv04g9$pjd$1@digitalmars.com)
+- [glibc (2013)](https://sourceware.org/ml/libc-alpha/2013-01/msg00943.html)
+- [Julia (2013)](https://github.com/JuliaLang/julia/pull/4864)
+- [JavaScript (2014)](https://esdiscuss.org/topic/math-tau)
+- [Ruby (2016, ](https://bugs.ruby-lang.org/issues/4897)[2017, ](https://bugs.ruby-lang.org/issues/13694)[2024)](https://bugs.ruby-lang.org/issues/20404)
+- [Swift (2016)](https://forums.swift.org/t/extend-floatingpoint-with-tau/3188)
+- [NumPy (2017)](https://github.com/numpy/numpy/pull/9696)
+- [Go (2020)](https://github.com/golang/go/issues/40663)
+- [Kotlin (2020)](https://discuss.kotlinlang.org/t/adding-kotlin-math-tau/17967)
+- [C++ (2022, ](https://lists.isocpp.org/std-proposals/2022/03/3646.php)[2024)](https://lists.isocpp.org/std-proposals/2024/08/10890.php)
+
+## Quotes
 
 - <img src="pictures/tao.jpg" align="right" width="200px"/>
 
@@ -1231,3 +1059,216 @@ with some rational $`C_n`$ (see [here](https://en.wikipedia.org/wiki/Borwein_int
   > focus on π rather than 2π is a historical accident.
 
   <br clear="right"/>
+
+## In pop culture
+
+- [xkcd, _Pi vs. Tau_](https://xkcd.com/1292/)
+  <div align="center">
+    <img src="pictures/pi_vs_tau.png" width="50%"/>
+  </div>
+- [xkcd, _Symbols_](https://xkcd.com/2520/)
+- [SMBC, _Proposed Number Improvements_](https://www.smbc-comics.com/comic/numbers-3)
+- [SMBC, _Pi-Tau conversion constant_](https://www.smbc-comics.com/comic/2013-10-04)
+- [SMBC, _Social_](https://www.smbc-comics.com/comic/social)
+- [SMBC, _Better than pi_](https://www.smbc-comics.com/comic/better-than-pi)
+  <div align="center">
+    <img src="pictures/megapi.png" width="50%"/>
+  </div>
+- [Crooked Stave Artisan Beer Project, _Key Lime Tau (2π)_](https://untappd.com/b/crooked-stave-brewing-co-key-lime-tau-2p/1343706)
+- [Tau Day, June 28, 6/28](https://www.google.com/search?q=tau+day)
+- [Mike Keith, _Pieces of Centaurs: A 768-digit mnemonic for τ = 2π_, 2011](https://www.cadaeic.net/centaurs.htm)
+- [Vitalik Buterin, _I'm boycotting pi day because tau day is better_, Twitter, 2020](https://x.com/vitalikbuterin/status/1238971048948830210)
+- [Elon Musk, _tau > pi_, Twitter, 2022](https://x.com/elonmusk/status/1496066844284928003)
+  <div align="center">
+    <img src="pictures/musk.png" width="50%"/>
+  </div>
+
+## Scientific articles and essays
+
+- [Bob Palais, _π is wrong!_, 2001](https://doi.org/10.1007%2FBF03026846), The Mathematical Intelligencer, volume 23, pages 7–8
+- [Bob Palais' web page](https://www.math.utah.edu/~palais/pi.html)
+- [Michael Hartl, _The Tau Manifesto_, 2010](https://www.tauday.com/tau-manifesto).
+  As paperback [on
+  Amazon](https://www.amazon.de/-/en/Michael-Hartl/dp/B096CXMQ3W)
+- [Joseph Lindenberg, _Tau Before It Was Cool_, 2011](https://sites.google.com/site/taubeforeitwascool/)
+- [Stephen Abbott, _Aftermath: My Conversion to Tauism_, 2012](https://doi.org/10.4169%2Fmathhorizons.19.4.34), Math Horizons, 19(4), p. 34
+- [Peter Harremoës, _Al-Kāshī’s constant_, 2018](http://www.harremoes.dk/Peter/Undervis/Turnpage/Turnpage1.pdf)
+
+Articles _against_ τ:
+
+- [The Pi Manifesto](https://archive.ph/VnJ2x)
+- [The Proper π Manifesto](http://proper-pi-manifesto.com/)
+- [Marc B. Reynolds, _Tau and the art of Windmill jousting_, 2020](https://marc-b-reynolds.github.io/math/2020/01/06/Tau.html)
+
+## Other articles
+
+- [Stanley M. Max, _Radian Measurement: What It Is, and How to Calculate It More Easily Using τ Instead of π_, 2011](https://www.yumpu.com/en/document/view/32767957/radian-measurement-metric-philatelist)
+- [Peter Luschny, _The Bernoulli Manifesto_, 2013](https://luschny.de/math/zeta/The-Bernoulli-Manifesto.html)
+- [O.V. Vijimon, _A circle without "π"_, 2017](https://osf.io/stwxf/)
+- [Lulzim Gjyrgjialli, _Circle constant is a turn_, 2018](https://www.itisaturn.com/assets/docs/itisaturn.pdf)
+- <a
+  href="https://en.wikipedia.org/wiki/Turn_(angle)#Proposals_for_a_single_letter_to_represent_2%CF%80">Wikipedia,
+  <em>Proposals for a single letter to represent 2π</em></a>
+
+- [Mathematics Educators StackExchange: _Pi or Tau? How should the circle
+  constant be taught?_, 2014](https://matheducators.stackexchange.com/q/530/20645)
+
+- [Theorem of the Day](https://www.theoremoftheday.org/), e.g.,
+  [Euler’s Identity](https://www.theoremoftheday.org/GeometryAndTrigonometry/EulerIdentity/TotDEulerIdentity.pdf) or
+  [Stirling’s Approximation](https://www.theoremoftheday.org/Binomial/Stirling/TotDStirling.pdf);
+  see also its [note on the Tau Manifesto](https://theoremoftheday.org/Annex/taumanifesto.html)
+
+## Textbooks
+
+- [Phil A. Smith, _Trigonometry With Tau as Circle Constant_, 2015](https://taufortrig.org/docs/trigbook.pdf)
+- [Phil A. Smith, _College Trigonometry With Extensive Use of the Tau Transcendental_, 2015](https://taufortrig.org/docs/AlgTrigBookprint.pdf)
+- [Michael Hartl, _Learn enough Python to be dangerous_, 2023](https://www.learnenough.com/python)
+
+## Videos
+
+- [Vihart, _Pi Is (still) Wrong_, 2011](https://youtu.be/jG7vhMMXagQ)
+- [Michael Blake, _What Tau Sounds Like_, 2011](https://youtu.be/3174T-3-59Q)
+- [Kevin Houston, _Pi is wrong! Here comes Tau Day_, 2011](https://youtu.be/IF1zcRoOVN0)
+- [Matheatre1, _6.283..._, 2011](https://youtu.be/uAFU-K4M9Ck)
+- [David Butler, _Pi may be wrong, but so is Tau!_, 2011](https://www.youtube.com/watch?v=1qpVdwizdvI)
+- [Michael Hartl, _No, really, pi is wrong: The Tau Manifesto_, 2012](https://youtu.be/H69YH5TnNXI)
+- [Numberphile, _Tau replaces Pi_, 2012](https://youtu.be/83ofi_L6eAo)
+- [Numberphile, _Tau vs Pi Smackdown_, 2012](https://youtu.be/ZPv1UV0rD8U)
+- [DerkCopyleft, _Tau (6,28...=2Pi) in Pascal's Triangle - Tau en el Triángulo de Pascal_, 2014](https://youtu.be/ITP_IHfmXlU)
+- [Seeker, _Is Tau Better Than Pi?_, 2014](https://youtu.be/kmnogV9S7b8)
+- [Michael Hartl, _The Tau Manifesto talk (short version)_, 2015](https://youtu.be/2hhjsSN-AiU)
+- [DerkCopyleft, _Tau=6,28... and has Perfect Numbers - Tau tiene Números Perfectos_, 2015](https://youtu.be/n1yshPWUlJw)
+- [Sen Zen, _Pi vs Tau_, 2016](https://youtu.be/ZEbTMbX9Qpo)
+- [Michael Hartl, _The Tau Manifesto | Talks at Google_, 2017](https://youtu.be/k7MuXCOlE6M)
+- [QuantumOverlord, _Refuting the Pi manifesto on Tau day_, 2017](https://youtu.be/k73uQF4iB_g)
+- [Vihart, _Pi Rant 2018: Alternative Pi_, 2018](https://youtu.be/6acbBrLoi14?t=273)
+- [3Blue1Brown, _How pi was almost 6.283185..._, 2018](https://youtu.be/bcPTiiiYDs8)
+- [HDSQ, _Tau the Song with 6.28318 Million Notes_, 2019](https://youtu.be/b0gyQMJHQ78)
+- [BriTheMathGuy, _It's Tau Day (but should you care?)_, 2020](https://youtu.be/qifarbO4yX8)
+- [Mathstreet Boys, _Larger Than Pi (Tau Day Parody) | Larger Than Life_, 2020](https://www.youtube.com/watch?v=bUmiWUfMrvk)
+- [Khan Academy, _Tau versus pi_, 2021](https://youtu.be/1jDDfkKKgmc)
+- [EasyMemory, _Writing 1,000 decimals of Tau (2x Pi) from memory_, 2021](https://youtu.be/x41_CRWpgLc)
+- [sudgylacmoe, _The Tau Manifesto - With Michael Hartl_, 2023](https://youtu.be/kMtgV18Iew8)
+
+## News articles and blog posts
+
+<details>
+<summary>Click to expand</summary>
+
+- 2007:
+
+  - [Bill Gasarch, _Is Pi defined in the best way?_, 2007](https://blog.computationalcomplexity.org/2007/08/is-pi-defined-in-best-way.html)
+
+- 2008:
+
+  - [Robert P. Crease, Physics World, _Constant failure_, 2008](https://physicsworld.com/a/constant-failure/)
+
+- 2010:
+
+  - [_Dozenal tau unit circle_, 2010](https://hexnet.org/content/dozenal-tau-unit-circle)
+  - [MathBlog, _Forget Pi, here comes Tau_, 2010](https://mathblog.com/forget-pi-here-comes-tau/)
+
+- 2011:
+
+  - [Jason Palmer, BBC News, _'Tau day' marked by opponents of maths constant pi_, 2011](https://www.bbc.com/news/science-environment-13906169)
+  <!-- - [Daily Mail, _Your number's up: Why mathematicians are campaigning for pi to be replaced with alternate value tau_, 2011](https://www.dailymail.co.uk/sciencetech/article-2008963/Why-mathematicians-campaigning-pi-replaced-alternate-value-tau.html) -->
+  - [Duncan Geere, Wired, _Happy Pi day! Let's kill it_, 2011](https://www.wired.com/story/pi-winning/)
+  - [Natalie Wolchover, Live Science, _Mathematicians Want to Say Goodbye to Pi_, 2011](https://www.livescience.com/14836-pi-wrong-tau.html)
+  - [Drew Grant, Salon, _Pi Day threatened by tau protestors_, 2011](https://www.salon.com/2011/03/14/national_pi_day_viral_videos/)
+  <!-- - [Murray Bourne, Interactive Mathematics, _Let’s drop pi_, 2011](https://www.intmath.com/blog/mathematics/lets-drop-pi-5665) -->
+  - [Debra Black, Toronto Star, _Down with ugly pi, long live elegant Tau, physicist urges_, 2011](https://www.thestar.com/news/world/down-with-ugly-pi-long-live-elegant-tau-physicist-urges/article_e78ae806-7cb6-5ce3-abc8-207053fbdd4d.html)
+  - [The Times of India, _Life of pi over? 'Tau' may set calculations aright_, 2011](https://timesofindia.indiatimes.com/home/science/Life-of-pi-over-Tau-may-set-calculations-aright/articleshow/9034053.cms)
+  - [Alessondra Springmann, PCWorld, _Tau Day: An Even More Fundamental Holiday Than Pi Day_, 2011](https://www.pcworld.com/article/485803/tau_day.html)
+  <!-- - [Evann Gastaldo, Newser, _Forget Pi, Here Comes Tau_, 2011](https://www.newser.com/story/122114/forget-pi-here-comes-tau.html) -->
+  - [Daniel Tovrov, International Business Times, _Happy Tau Day!_, 2011](https://www.ibtimes.com/happy-tau-day-294421)
+  - [Nancy Haught, The Oregonian, _Tau Day today: Mathematicians show their work_, 2011](https://www.oregonlive.com/living/2011/06/post_14.html)
+  - [Nance Haxton, ABC Australia, _Push to roll Pi_, 2011](https://www.abc.net.au/listen/programs/pm/push-to-roll-pi/2775348)
+  - [The McGill Daily, _Pi is wrong_, 2011](https://www.mcgilldaily.com/2011/10/pi-is-wrong/)
+  - [Anqi Shen, phys.org, _Math wars: Debate sparks anti-pi day_, 2011](https://phys.org/news/2011-06-math-wars-debate-anti-pi-day.html)
+  - [The Telegraph Online, _Life of pi in no danger - Experts cold-shoulder campaign to replace with tau_, 2011](https://www.telegraphindia.com/india/life-of-pi-in-no-danger-experts-cold-shoulder-campaign-to-replace-with-tau/cid/380029)
+  - [Simon Wood, Little Storping-in-the-Swuff, _War on Tau_, 2011](https://littlestorping.co.uk/2011/06/28/war-on-tau/)
+  - [Dan Amira, Intelligencer, _Pi Is Very Slowly and Nerdily Going Out of
+    Style_,
+    2011](https://nymag.com/intelligencer/2011/03/pi_is_very_slowly_and_nerdily.html)
+  <!--
+  - [Sebastian Anthony, Extreme Tech, _Down with pi! Today is Tau Day_, 2011](https://www.extremetech.com/extreme/88298-down-with-pi-today-is-tau-day)
+  -->
+  - [Jacob Aron, New Scientist, _Pi's nemesis: Mathematics is better with tau_,
+    2011](https://www.newscientist.com/article/1956216-pis-nemesis-mathematics-is-better-with-tau/)
+    (Interview with M. Hartl, subscription required)
+  - [Alasdair Wilkins, _Why we have to get rid of pi for the sake of good math_,
+    2011](https://gizmodo.com/why-we-have-to-get-rid-of-pi-for-the-sake-of-good-math-5750275)
+    (interview with M. Hartl)
+  - [Eric Raymond, _Tau versus Pi_, 2011](http://esr.ibiblio.org/?p=3481)
+  - [Qiaochu Yuan, _Pi is still wrong_, 2011](https://qchu.wordpress.com/2011/03/14/pi-is-still-wrong/)
+  - [Dmitry Brant, _Pi is wrong! Long live Tau!_, 2011](https://dmitrybrant.com/2011/10/16/pi-is-wrong-long-live-tau)
+  - [Ulrich Pontes, Der Spiegel, _Physiker will Pi abschaffen_, 2011](https://www.spiegel.de/wissenschaft/mensch/revolution-gegen-die-kreiszahl-physiker-will-pi-abschaffen-a-771007.html)
+  <!--
+  Same as the Daily Mail article:
+  - [_Bye to Pi -- Mathematicians want pi out tau in_, 2011](https://www.sundaytimes.lk/110703/Timestwo/t2_09.html)
+    -->
+
+- 2012:
+
+  - [Jonathan Chang, Science Line, _The tyranny of π_, 2012](https://scienceline.org/2012/06/the-tyranny-of-%CF%80-2/)
+  - [Kevin Houston, _Why I'm not celebrating tau day_, 2012](https://www.kevinhouston.net/blog/2012/06/why-im-not-celebrating-tau-day/)
+
+- 2013:
+
+  - [Ethan Brown, _Pi vs Tau: Pi's Rebuttal_, 2013](https://coolmathstuff123.blogspot.com/2013/02/pi-vs-tau-pis-rebuttal_9.html)
+  - [Rachel, Plus Magazine, _Happy Tau Day!!_, 2013](https://plus.maths.org/happy-tau-day)
+  - [PBS, _Geeking Out on Pi Day: For the Love of Pi and the Tao of Tau_, 2013](https://www.pbs.org/newshour/science/for-the-love-of-pi-and-the-tao-of-tau)
+
+- 2014:
+
+  - [Randyn Charles Bartholomew, Scientific American, _Let's Use Tau--It's Easier Than Pi_, 2014](https://www.scientificamerican.com/article/let-s-use-tau-it-s-easier-than-pi/)
+  - [Jolie Lee, _Happy Pi Day! Unless you are a Tauist_, 2014](https://eu.usatoday.com/story/news/nation-now/2014/03/14/pi-day-tau-math/6410959/)
+  - [_Pi VERSUS Tau?!?_, 2014](https://headinside.blogspot.com/2014/06/pi-versus-tau.html)
+
+- 2015:
+
+  - [Giorgia Fortuna, Wolfram, _2 Pi or Not 2 Pi?_, 2015](https://blog.wolfram.com/2015/06/28/2-pi-or-not-2-pi/)
+  - [Fox News, _On National Tau Day, Pi Under Attack_, 2015](https://www.foxnews.com/science/on-national-tau-day-pi-under-attack)
+  - [Kurt Cagle, _The Tao of Tau_, 2015](https://medium.com/metaphorical-web/the-tao-of-tau-c0a703283075)
+
+- 2016:
+
+  - [Greg Uyeno, Science Line, _The Circle Constant, Or what's the matter with π_, 2016](https://scienceline.org/2016/06/the-circle-constant/)
+  - [Tia Ghose, Live Science, _Tau Day: Should Pi Be Downgraded?_, 2016](https://www.livescience.com/55209-tau-is-better-than-pi.html)
+  - [Nsikan Akpan, _3 reasons Pi Day is a sham_, 2016](https://www.pbs.org/newshour/science/3-reasons-pi-day-is-a-sham)
+
+- 2017:
+
+  - [Elizabeth Landau, Scientific American, _The Tao of Tau_, 2017](https://blogs.scientificamerican.com/observations/the-tao-of-tau/)
+  - [_Pi vs Tau – The Great Debate_, 2017](https://maffsisphun.wordpress.com/2017/12/09/pi-vs-tau-the-great-debate/)
+
+- 2018:
+
+  - [Chaim Gartenberg, The Verge, _Tau Day is here: celebrate tau, not pi, as the true circle constant_, 2018](https://www.theverge.com/tldr/2018/3/14/17119388/pi-day-pie-math-tau-circle-constant-mathematics-circumference-diameter-radius-holiday-truth)
+  - [Emily Conover, Science News, _Forget Pi Day. We should be celebrating Tau Day_, 2018](https://www.sciencenews.org/blog/science-the-public/forget-pi-day-we-should-be-celebrating-tau-day)
+
+- 2020:
+
+  - [Robert McMillan, The Wall Street Journal, _For Math Fans, Nothing Can Spoil Pi Day—Except Maybe Tau Day_, 2020](https://www.wsj.com/articles/for-math-fans-nothing-can-spoil-pi-dayexcept-maybe-tau-day-11584123031)
+  - [Abinash Das, Cosmic Conundrum, _Tau vs Pi: The Quest to Become the Ultimate Constant._, 2020](https://cosmicconundrum.org/the-struggle-for-being-the-ultimate-constant-tau-vs-pi/)
+
+- 2021:
+
+  - [Paolo A., _in honor of tau_, 2021](https://mitadmissions.org/blogs/entry/in-honor-of-tau/)
+  - [Susanne M. Hoffmann, _Wer pi nicht mag, kann heute tau feiern_, 2021](https://scilogs.spektrum.de/uhura-uraniae/wer-pi-nicht-mag-kann-heute-tau-feiern/)
+
+- 2022:
+
+  <!-- - [Andrea Zhao, The Varsity, _Tau versus pi: the unresolved battle_, 2022](https://thevarsity.ca/2022/06/28/tau-day-two-pi-mathematics/) -->
+  - [Mary Bilyeu, _Double both pi and pie on Tau Day_, 2022](https://www.toledoblade.com/a-e/food/2022/06/26/june-28-tau-pie-day/stories/20220626002)
+
+- 2023:
+
+  - [Live Science, _12 numbers that are cooler than pi_, 2023](https://www.livescience.com/64987-numbers-as-cool-as-pi.html)
+  - [Mathnasium, _Tau: A better constant than Pi?_, 2023](https://www.mathnasium.com/blog/tau-constant-better-pi)
+  - [Andrew Griffin, _Pi Day: Why some mathematicians refuse to celebrate 14 March and won't observe it_, 2023](https://www.aol.com/news/pi-day-why-mathematicians-refuse-150701047.html)
+
+- 2026:
+  - [Scientific American, _Why some mathematicians think we should abandon pi_, 2026](https://www.scientificamerican.com/article/why-some-mathematicians-think-we-should-abandon-pi/)
+
+</details>
