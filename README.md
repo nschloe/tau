@@ -333,36 +333,55 @@ The section _Adoption of the symbol π_ of the excellent Wikipedia article
 ### In programming
 
 - [Processing, since 2.0 (2013)](https://processing.org/reference/TAU.html) `TAU`
+- [p5.js, since 0.1 (2013)](https://p5js.org/reference/p5/constants/TAU/) `TAU`
 - [Raku (aka Perl 6), since 2015](https://docs.raku.org/language/terms#term_tau) `tau`
 - [Nim, since 0.14.0 (2016)](https://github.com/nim-lang/Nim/pull/3976) `TAU`
 - [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/) `math.tau`
 - [Unreal Engine, since 4.12 (2016)](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Math/Trig/GetTAU) `TAU`
 - [CSS (2018)](https://www.w3.org/TR/2018/WD-css-values-4-20180814/#angles) `turn`
-- [OpenFOAM](https://www.openfoam.com/documentation/guides/latest/api/namespaceFoam_1_1constant_1_1mathematical.html#ad9e5ddf5862462196c9159f5d761e93a) `twoPi`
+- [Elm](https://package.elm-lang.org/packages/elm/core/latest/Basics#turns) `turns`
+- [OpenFOAM](https://api.openfoam.com/2512/namespaceFoam_1_1constant_1_1mathematical.html) `twoPi`
+- [Perl, `Math::Trig`](https://perldoc.perl.org/Math::Trig#PI) `pi2`
 - [Extreme Numerics.NET](https://numerics.net/documentation/reference/extreme.mathematics.constants.twopi) `Constants.TwoPi`
 - [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703) `tau`
+- [Odin (2019)](https://github.com/odin-lang/Odin/commit/8ee41c20a) `math.TAU`, also `math.τ`
 - [Zig, since 0.6.0 (2019)](https://github.com/ziglang/zig/pull/3716) `tau`
 - [Manim, since 0.1.0 (2020)](https://github.com/3b1b/manim/commit/42b11d284c26d25a27db1c41c61f13234f571176) `TAU`
 - [Rust, since 1.47 (2020)](https://doc.rust-lang.org/std/f64/consts/constant.TAU.html) `std::f64::consts::TAU`
+  (after a [rejected attempt in 2014](https://github.com/rust-lang/rust/pull/15248))
 - [.NET, C#, since 5.0 (2020)](https://github.com/dotnet/runtime/pull/37517) `Tau`
   <!--https://learn.microsoft.com/en-us/dotnet/api/system.math.tau?view=net-7.0 -->
 - [Boost, since 1.77.0 (2021)](https://github.com/boostorg/math/pull/566) `tau`
+- [Wren, since 0.4.0 (2021)](https://github.com/wren-lang/wren/commit/89c5e224) `Num.tau`
 - [Godot game engine/GDScript, since 3.3.3 (2021)](https://github.com/godotengine/godot/pull/48837) `TAU`
 - [Crystal, since 0.36.0 (2021)](https://github.com/crystal-lang/crystal/pull/10179) `Math::TAU`
 - [Java, OpenJDK, since 19 (2022)](https://github.com/openjdk/jdk/pull/7813) `Math.TAU`
 - [JSCAD, since 2.6.3 (2022)](https://github.com/jscad/OpenJSCAD.org/pull/1128) `TAU`
-- [Liberty Eiffel, upcoming (202x)](<https://wiki.liberty-eiffel.org/index.php/Versions_history#Curtiss_(2022.dev,_to_be_named_after_Glenn_Curtiss)>) `Tau`
+- [Erlang/OTP, since 26.0 (2023)](https://github.com/erlang/otp/pull/6536) `math:tau()`
+- [Unity.Mathematics, since 1.3.1 (2023)](https://docs.unity3d.com/Packages/com.unity.mathematics@1.3/api/Unity.Mathematics.math.TAU.html) `math.TAU`
+- [Garry's Mod (2023)](https://github.com/Facepunch/garrysmod/pull/2030) `math.tau`
+- [Hare, since 0.24.2 (2024)](https://docs.harelang.org/math) `math::TAU`
+- [Mojo (2024)](https://github.com/modular/modular/commit/939b7e5e00446977ce7c9a3f58e129eaa08a4961) `math.tau`
+- [Luau, since release 711 (2026)](https://rfcs.luau.org/math-constants.html) `math.tau`
+  (after a [rejection in 2022](https://github.com/luau-lang/luau/issues/278))
+- [Fastly VCL](https://www.fastly.com/documentation/reference/vcl/variables/math-constants-limits/math-tau/) `math.TAU`
+- [KCL (Zoo)](https://docs.zoo.dev/docs/kcl-std/consts/std-math-TAU) `TAU`
+- [Liberty Eiffel, upcoming (202x)](<https://wiki.liberty-eiffel.org/index.php/Versions_history#Curtiss_(2024.dev,_to_be_named_after_Glenn_Curtiss)>) `Tau`
 
-Inclusion of a constant `tau` was _rejected_ by the following projects:
+Inclusion of a constant `tau` was _rejected_ (or at least not adopted) by the
+following projects:
 
 - [Dart (2011)](https://github.com/dart-lang/sdk/issues/14)
+- [D (2011)](https://forum.dlang.org/post/iv04g9$pjd$1@digitalmars.com)
+- [glibc (2013)](https://sourceware.org/ml/libc-alpha/2013-01/msg00943.html)
 - [Julia (2013)](https://github.com/JuliaLang/julia/pull/4864)
 - [JavaScript (2014)](https://esdiscuss.org/topic/math-tau)
-- [Ruby (2016)](https://bugs.ruby-lang.org/issues/4897)
+- [Ruby (2016, ](https://bugs.ruby-lang.org/issues/4897)[2017, ](https://bugs.ruby-lang.org/issues/13694)[2024)](https://bugs.ruby-lang.org/issues/20404)
+- [Swift (2016)](https://forums.swift.org/t/extend-floatingpoint-with-tau/3188)
 - [NumPy (2017)](https://github.com/numpy/numpy/pull/9696)
 - [Go (2020)](https://github.com/golang/go/issues/40663)
-- [Luau (2022)](https://github.com/luau-lang/luau/issues/278)
-- [C++ (2022)](https://lists.isocpp.org/std-proposals/2022/03/3646.php)
+- [Kotlin (2020)](https://discuss.kotlinlang.org/t/adding-kotlin-math-tau/17967)
+- [C++ (2022, ](https://lists.isocpp.org/std-proposals/2022/03/3646.php)[2024)](https://lists.isocpp.org/std-proposals/2024/08/10890.php)
 
 ### Some equations
 
