@@ -468,7 +468,7 @@ for style, suffix in [(dark, ""), (light, "-light")]:
     ax.plot([x, x], [0, y], color=c0, lw=3)
     ax.plot([0, x], [0, 0], color=c2, lw=3)
     ax.plot(x, y, "o", color=c3, ms=8)
-    ax.text(x + 0.06, y / 2, r"$\sin$", color=c0, ha="left", va="center", fontsize=14)
+    ax.text(x - 0.06, y / 2, r"$\sin$", color=c0, ha="right", va="center", fontsize=14)
     ax.text(x / 2, 0.08, r"$\cos$", color=c2, ha="center", va="bottom", fontsize=14)
     ax.set_aspect("equal")
     ax.set_xlim(-1.45, 1.45)
