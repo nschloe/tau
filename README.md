@@ -8,7 +8,11 @@
 >
 > —[G.H. Hardy](https://en.wikipedia.org/wiki/G._H._Hardy)
 
-<img src="pictures/hartl-palais.jpg" align="right" width="200px"/>
+<table align="right" width="220px">
+<tr><td><img src="pictures/hartl-palais.jpg" width="200px"/></td></tr>
+<tr><td><sub>Michael Hartl (left) and Bob Palais (right) on Tau Day 2017
+(<a href="https://x.com/tauday/status/880612180822851586">source</a>).</sub></td></tr>
+</table>
 
 In 2001, [Bob Palais](https://dna-utah.org/math/) wrote the article [_π
 is wrong!_](https://doi.org/10.1007/BF03026846), remarking on the fact that
@@ -19,17 +23,7 @@ should be used instead of π. Some found his arguments convincing, including
 Tau Manifesto](https://www.tauday.com/tau-manifesto), and the τ movement was born.
 <br clear="right"/>
 
-### Scientific articles and blog posts
-
-<!--table style="width:220px" align="right">
-<tr>
-<td><img src="https://nschloe.github.io/tau/hartl-palais.jpg" width="200px" align="right"/></td>
-</tr>
-<tr><td>
-Michael Hartl (left) and Bob Palais (right) on Tau Day 2017 (Source:
-<a href="https://x.com/tauday/status/880612180822851586">Twitter</a>).
-</td></tr>
-</table-->
+### Scientific articles and essays
 
 - [Bob Palais, _π is wrong!_, 2001](https://doi.org/10.1007%2FBF03026846), The Mathematical Intelligencer, volume 23, pages 7–8
 - [Bob Palais' web page](https://www.math.utah.edu/~palais/pi.html)
@@ -97,6 +91,7 @@ Articles _against_ τ:
     (interview with M. Hartl)
   - [Eric Raymond, _Tau versus Pi_, 2011](http://esr.ibiblio.org/?p=3481)
   - [Qiaochu Yuan, _Pi is still wrong_, 2011](https://qchu.wordpress.com/2011/03/14/pi-is-still-wrong/)
+  - [Dmitry Brant, _Pi is wrong! Long live Tau!_, 2011](https://dmitrybrant.com/2011/10/16/pi-is-wrong-long-live-tau)
   - [Ulrich Pontes, Der Spiegel, _Physiker will Pi abschaffen_, 2011](https://www.spiegel.de/wissenschaft/mensch/revolution-gegen-die-kreiszahl-physiker-will-pi-abschaffen-a-771007.html)
   <!--
   Same as the Daily Mail article:
@@ -112,7 +107,6 @@ Articles _against_ τ:
 
   - [Ethan Brown, _Pi vs Tau: Pi's Rebuttal_, 2013](https://coolmathstuff123.blogspot.com/2013/02/pi-vs-tau-pis-rebuttal_9.html)
   - [Rachel, Plus Magazine, _Happy Tau Day!!_, 2013](https://plus.maths.org/happy-tau-day)
-  - [Dmitry Brant, _Pi is wrong! Long live Tau!_, 2013](https://dmitrybrant.com/2011/10/16/pi-is-wrong-long-live-tau)
   - [PBS, _Geeking Out on Pi Day: For the Love of Pi and the Tao of Tau_, 2013](https://www.pbs.org/newshour/science/for-the-love-of-pi-and-the-tao-of-tau)
 
 - 2014:
@@ -125,7 +119,7 @@ Articles _against_ τ:
 
   - [Giorgia Fortuna, Wolfram, _2 Pi or Not 2 Pi?_, 2015](https://blog.wolfram.com/2015/06/28/2-pi-or-not-2-pi/)
   - [Fox News, _On National Tau Day, Pi Under Attack_, 2015](https://www.foxnews.com/science/on-national-tau-day-pi-under-attack)
-  - [Kury Cagle, _The Tao of Tau_, 2015](https://medium.com/metaphorical-web/the-tao-of-tau-c0a703283075)
+  - [Kurt Cagle, _The Tao of Tau_, 2015](https://medium.com/metaphorical-web/the-tao-of-tau-c0a703283075)
 
 - 2016:
 
@@ -146,7 +140,7 @@ Articles _against_ τ:
 - 2020:
 
   - [Robert McMillan, The Wall Street Journal, _For Math Fans, Nothing Can Spoil Pi Day—Except Maybe Tau Day_, 2020](https://www.wsj.com/articles/for-math-fans-nothing-can-spoil-pi-dayexcept-maybe-tau-day-11584123031)
-  - [Abinash Das, cosmisconundrum, _Tau vs Pi: The Quest to Become the Ultimate Constant._, 2020](https://cosmicconundrum.org/the-struggle-for-being-the-ultimate-constant-tau-vs-pi/)
+  - [Abinash Das, Cosmic Conundrum, _Tau vs Pi: The Quest to Become the Ultimate Constant._, 2020](https://cosmicconundrum.org/the-struggle-for-being-the-ultimate-constant-tau-vs-pi/)
 
 - 2021:
 
@@ -165,7 +159,7 @@ Articles _against_ τ:
   - [Andrew Griffin, _Pi Day: Why some mathematicians refuse to celebrate 14 March and won't observe it_, 2023](https://www.aol.com/news/pi-day-why-mathematicians-refuse-150701047.html)
 
 - 2026:
-  - [Scientific America, _Why some mathematicians think we should abandon pi_, 2026](https://www.scientificamerican.com/article/why-some-mathematicians-think-we-should-abandon-pi/)
+  - [Scientific American, _Why some mathematicians think we should abandon pi_, 2026](https://www.scientificamerican.com/article/why-some-mathematicians-think-we-should-abandon-pi/)
 
 </details>
 
@@ -177,15 +171,15 @@ Articles _against_ τ:
 - [Lulzim Gjyrgjialli, _Circle constant is a turn_, 2018](https://www.itisaturn.com/assets/docs/itisaturn.pdf)
 - <a
   href="https://en.wikipedia.org/wiki/Turn_(angle)#Proposals_for_a_single_letter_to_represent_2%CF%80">Wikipedia,
-  <emph>Proposals for a single letter to represent 2π</emph></a>
+  <em>Proposals for a single letter to represent 2π</em></a>
 
 - [Mathematics Educators StackExchange: _Pi or Tau? How should the circle
   constant be taught?_, 2014](https://matheducators.stackexchange.com/q/530/20645)
 
 - [Theorem of the Day](https://www.theoremoftheday.org/), e.g.,
   [Euler’s Identity](https://www.theoremoftheday.org/GeometryAndTrigonometry/EulerIdentity/TotDEulerIdentity.pdf) or
-  [Stirling’s Approximation](https://www.theoremoftheday.org/Binomial/Stirling/TotDStirling.pdf)
-  https://theoremoftheday.org/Annex/taumanifesto.html
+  [Stirling’s Approximation](https://www.theoremoftheday.org/Binomial/Stirling/TotDStirling.pdf);
+  see also its [note on the Tau Manifesto](https://theoremoftheday.org/Annex/taumanifesto.html)
 
 ### Videos
 
@@ -193,7 +187,7 @@ Articles _against_ τ:
 - [Michael Blake, _What Tau Sounds Like_, 2011](https://youtu.be/3174T-3-59Q)
 - [Kevin Houston, _Pi is wrong! Here comes Tau Day_, 2011](https://youtu.be/IF1zcRoOVN0)
 - [Matheatre1, _6.283..._, 2011](https://youtu.be/uAFU-K4M9Ck)
-- [David Butler, _Pi may be wrong, but so is Tau!_, 2011](https://www.youtube.com/watch?v=1qpVdwizdvI) (video)
+- [David Butler, _Pi may be wrong, but so is Tau!_, 2011](https://www.youtube.com/watch?v=1qpVdwizdvI)
 - [Michael Hartl, _No, really, pi is wrong: The Tau Manifesto_, 2012](https://youtu.be/H69YH5TnNXI)
 - [Numberphile, _Tau replaces Pi_, 2012](https://youtu.be/83ofi_L6eAo)
 - [Numberphile, _Tau vs Pi Smackdown_, 2012](https://youtu.be/ZPv1UV0rD8U)
@@ -204,7 +198,7 @@ Articles _against_ τ:
 - [Sen Zen, _Pi vs Tau_, 2016](https://youtu.be/ZEbTMbX9Qpo)
 - [Michael Hartl, _The Tau Manifesto | Talks at Google_, 2017](https://youtu.be/k7MuXCOlE6M)
 - [QuantumOverlord, _Refuting the Pi manifesto on Tau day_, 2017](https://youtu.be/k73uQF4iB_g)
-- [Vihart, _Pi Rant 2018: Alternative Pi_](https://youtu.be/6acbBrLoi14?t=273)
+- [Vihart, _Pi Rant 2018: Alternative Pi_, 2018](https://youtu.be/6acbBrLoi14?t=273)
 - [3Blue1Brown, _How pi was almost 6.283185..._, 2018](https://youtu.be/bcPTiiiYDs8)
 - [HDSQ, _Tau the Song with 6.28318 Million Notes_, 2019](https://youtu.be/b0gyQMJHQ78)
 - [BriTheMathGuy, _It's Tau Day (but should you care?)_, 2020](https://youtu.be/qifarbO4yX8)
@@ -339,10 +333,6 @@ The section _Adoption of the symbol π_ of the excellent Wikipedia article
 - [Python, since 3.6 (2016)](https://www.python.org/dev/peps/pep-0628/) `math.tau`
 - [Unreal Engine, since 4.12 (2016)](https://dev.epicgames.com/documentation/en-us/unreal-engine/BlueprintAPI/Math/Trig/GetTAU) `TAU`
 - [CSS (2018)](https://www.w3.org/TR/2018/WD-css-values-4-20180814/#angles) `turn`
-- [Elm](https://package.elm-lang.org/packages/elm/core/latest/Basics#turns) `turns`
-- [OpenFOAM](https://api.openfoam.com/2512/namespaceFoam_1_1constant_1_1mathematical.html) `twoPi`
-- [Perl, `Math::Trig`](https://perldoc.perl.org/Math::Trig#PI) `pi2`
-- [Extreme Numerics.NET](https://numerics.net/documentation/reference/extreme.mathematics.constants.twopi) `Constants.TwoPi`
 - [V, since 0.1.7 (2019)](https://github.com/vlang/v/pull/703) `tau`
 - [Odin (2019)](https://github.com/odin-lang/Odin/commit/8ee41c20a) `math.TAU`, also `math.τ`
 - [Zig, since 0.6.0 (2019)](https://github.com/ziglang/zig/pull/3716) `tau`
@@ -364,6 +354,10 @@ The section _Adoption of the symbol π_ of the excellent Wikipedia article
 - [Mojo (2024)](https://github.com/modular/modular/commit/939b7e5e00446977ce7c9a3f58e129eaa08a4961) `math.tau`
 - [Luau, since release 711 (2026)](https://rfcs.luau.org/math-constants.html) `math.tau`
   (after a [rejection in 2022](https://github.com/luau-lang/luau/issues/278))
+- [Elm](https://package.elm-lang.org/packages/elm/core/latest/Basics#turns) `turns`
+- [OpenFOAM](https://api.openfoam.com/2512/namespaceFoam_1_1constant_1_1mathematical.html) `twoPi`
+- [Perl, `Math::Trig`](https://perldoc.perl.org/Math::Trig#PI) `pi2`
+- [Extreme Numerics.NET](https://numerics.net/documentation/reference/extreme.mathematics.constants.twopi) `Constants.TwoPi`
 - [Fastly VCL](https://www.fastly.com/documentation/reference/vcl/variables/math-constants-limits/math-tau/) `math.TAU`
 - [KCL (Zoo)](https://docs.zoo.dev/docs/kcl-std/consts/std-math-TAU) `TAU`
 - [Liberty Eiffel, upcoming (202x)](<https://wiki.liberty-eiffel.org/index.php/Versions_history#Curtiss_(2024.dev,_to_be_named_after_Glenn_Curtiss)>) `Tau`
@@ -953,7 +947,7 @@ n! \sim \sqrt{\textcolor{orange}{\tau} n} \left(\frac{n}{e}\right)^n
   \Gamma(z)\Gamma(z+\tfrac{1}{2}) = 2^{1-2z}\sqrt{\textcolor{teal}{\pi}}\Gamma(2z).
   ```
 
-- [Euler’s reflection formula](https://en.wikipedia.org/wiki/Reflection_formula):
+- [Euler's reflection formula](https://en.wikipedia.org/wiki/Reflection_formula):
   ```math
   \Gamma(z)\Gamma(1-z)
   = \frac{\textcolor{teal}{\pi}}{\sin(\textcolor{teal}{\pi} z)}
